@@ -1,0 +1,195 @@
+/* $Id: project_issue.css,v 1.20 2008/01/26 06:41:51 dww Exp $ */
+/* $Name: DRUPAL-5--2-2 $ */
+
+/* Summary content */
+#project-issue-summary-table {
+  float: left;
+}
+#project-issue-summary-links {
+  float: right;
+}
+#project-issue-summary-links li {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+/* Viewing issue nodes */
+.project-issue .header {
+  font-weight: bold;
+  padding-top: 0.5em;
+}
+.project-issue .summary table {
+  border-collapse: collapse;
+  width: auto;
+  border: 1px;
+  border-style: solid;
+  border-color: #eee;
+}
+.project-issue .summary table td {
+  color: #333;
+  background-color: transparent;
+  font-size: 90%;
+  padding: 0em 1em;
+  border: 0;
+}
+.project-issue tbody {
+  border: 0;
+}
+.project-issue .summary table tr {
+  border: 0;
+}
+
+/* Issue node and comment followup form UI */
+.project-issue .node-form div.inline-options .form-item {
+  float: left;
+  padding-right: 0.8em;
+  margin: 0.05em 0.1em;
+}
+.project-issue .node-form div.inline-options {
+  overflow: hidden;  /* Gets rid of ugly scrollbars on comments */
+}
+.project-issue .node-form div.inline-options:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+.project-issue .node-form fieldset {
+  display: inline-block;  /* Fixes fieldset display problems in Safari 2 */
+  width: 97%;
+}
+.project-issue .node-form #edit-pid,
+.project-issue .node-form #edit-project-info-pid {
+  width: 225px;
+}
+
+/* "My Projects" table UI */
+table.projects {
+  width: 100%;
+}
+table.projects .project-name {
+  width: 24%;
+}
+table.projects .project-issue-updated {
+  width: 15%;
+}
+table.projects .project-issues {
+  width: 11%;
+  text-align: center;
+}
+table.projects .project-issue-links {
+  width: 28%;
+  padding-left: 0.4em;
+  padding-right: 0.4em;
+  text-align: center;
+
+}
+table.projects .project-project-links {
+  width: 22%;
+  text-align: center;
+}
+table.projects .project-project-links a {
+  white-space:nowrap;
+}
+
+/* Issue query bar UI */
+.project-issue .quick-search #edit-projects,
+.project-issue .quick-search #edit-states {
+  width: 150px;
+}
+.project-issue .quick-search tr td .form-item,
+.project-issue .quick-search tr td input {
+  margin: 0;
+  padding: 0;
+}
+.project-issue .quick-search tr td {
+  vertical-align: bottom;
+}
+
+/* Issue query results (row coloring based on issue status) */
+.project-issue tr.state-1 {
+  background-color: #fff;
+}
+.project-issue tr.state-1 td.active {
+  background-color: #e1e7eb;
+}
+.project-issue tr.state-2 {
+  background-color: #c0ffc0;
+}
+.project-issue tr.state-2 td.active {
+  background-color: #cec;
+}
+.project-issue tr.state-3, .project-issue tr.state-4, .project-issue tr.state-5, .project-issue tr.state-6 {
+  background-color: #ddf;
+}
+.project-issue tr.state-3 td.active, .project-issue tr.state-4 td.active, .project-issue tr.state-5 td.active, .project-issue tr.state-6 td.active {
+  background-color: #cce;
+}
+.project-issue tr.state-7 {
+  background-color: #ffc9c9;
+}
+.project-issue tr.state-7 td.active {
+  background-color: #eeb9b9;
+}
+.project-issue tr.state-8 {
+  background-color: #ffd;
+}
+.project-issue tr.state-8 td.active {
+  background-color: #eed;
+}
+.project-issue tr.state-13 {
+  background-color: #ffe7dd;
+}
+.project-issue tr.state-13 td.active {
+  background-color: #eed7cc;
+}
+.project-issue tr.state-14 {
+  background-color: #e7ffdd;
+}
+.project-issue tr.state-14 td.active {
+  background-color: #d7eecc;
+}
+
+/* Issue statistics page */
+.project-issue-numeric {
+  text-align: center;
+}
+.project-issue-numeric-light {
+  text-align: center;
+  color: #999;
+}
+.project-issue-statistics-overview-table {
+  overflow: auto;
+}
+
+/* Automatic issue links */
+.project-issue-status-2,
+.project-issue-status-3,
+.project-issue-status-5,
+.project-issue-status-6,
+.project-issue-status-7 {
+  text-decoration: line-through;
+}
+
+/*
+     FILE ARCHIVED ON 09:51:33 Sep 27, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:10:39 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 103.423
+  exclusion.robots: 0.075
+  exclusion.robots.policy: 0.067
+  cdx.remote: 0.055
+  esindex: 0.008
+  LoadShardBlock: 70.427 (3)
+  PetaboxLoader3.datanode: 48.33 (4)
+  load_resource: 201.692
+  PetaboxLoader3.resolve: 196.527
+*/

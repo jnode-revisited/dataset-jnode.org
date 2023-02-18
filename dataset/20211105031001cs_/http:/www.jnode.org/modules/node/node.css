@@ -1,0 +1,62 @@
+/* $Id: node.css,v 1.2.2.1 2007/07/24 18:38:58 drumm Exp $ */
+
+.node-unpublished {
+  background-color: #fff4f4;
+}
+.preview .node {
+  background-color: #ffffea;
+}
+#node-admin-filter ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+#node-admin-buttons {
+  float: left;
+  margin-left: 0.5em;
+  clear: right;
+}
+td.revision-current {
+  background: #ffc;
+}
+.node-form .form-text {
+  display: block;
+  width: 95%;
+}
+.node-form .container-inline .form-text {
+  display: inline;
+  width: auto;
+}
+.node-form .standard {
+  clear: both;
+}
+.node-form textarea {
+  display: block;
+  width: 95%;
+}
+.node-form .attachments fieldset {
+  float: none;
+  display: block;
+}
+
+/*
+     FILE ARCHIVED ON 15:59:10 Nov 02, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:14:23 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 114.592
+  exclusion.robots: 0.07
+  exclusion.robots.policy: 0.062
+  RedisCDXSource: 0.812
+  esindex: 0.008
+  LoadShardBlock: 96.425 (3)
+  PetaboxLoader3.datanode: 146.154 (5)
+  load_resource: 151.883 (2)
+  PetaboxLoader3.resolve: 65.73 (2)
+*/

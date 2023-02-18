@@ -1,0 +1,425 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script type="text/javascript" src="/_static/js/bundle-playback.js?v=4R5OHjEN" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.jnode.org/node/126","20210121165551","https://web.archive.org/","web","/_static/",
+	      "1611248151");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <title>Draft 0.2 plan | JNode.org</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="prev" href="/web/20210121165551/http://www.jnode.org/node/645"/>
+
+<link rel="up" href="/node/125"/>
+
+<link rel="next" href="/web/20210121165551/http://www.jnode.org/node/636"/>
+
+<link rel="shortcut icon" href="/web/20210121165551im_/http://www.jnode.org/misc/favicon.ico" type="image/x-icon"/>
+  <style type="text/css" media="all">@import "/web/20210121165551cs_/http://www.jnode.org/modules/book/book.css";</style>
+<style type="text/css" media="all">@import "/web/20210121165551cs_/http://www.jnode.org/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "/web/20210121165551cs_/http://www.jnode.org/modules/poll/poll.css";</style>
+<style type="text/css" media="all">@import "/web/20210121165551cs_/http://www.jnode.org/modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "/web/20210121165551cs_/http://www.jnode.org/modules/system/system.css";</style>
+<style type="text/css" media="all">@import "/web/20210121165551cs_/http://www.jnode.org/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/web/20210121165551cs_/http://www.jnode.org/modules/project/project.css";</style>
+<style type="text/css" media="all">@import "/web/20210121165551cs_/http://www.jnode.org/modules/project_issue/project_issue.css";</style>
+<style type="text/css" media="all">@import "/web/20210121165551cs_/http://www.jnode.org/modules/devel/devel.css";</style>
+<style type="text/css" media="all">@import "/web/20210121165551cs_/http://www.jnode.org/modules/comment/comment.css";</style>
+<style type="text/css" media="all">@import "/web/20210121165551cs_/http://www.jnode.org/themes/newsflash/style.css";</style>
+<style type="text/css" media="all">@import "/web/20210121165551cs_/http://www.jnode.org/themes/newsflash/css/jnode.css";</style>
+  <script type="text/javascript" src="/web/20210121165551js_/http://www.jnode.org/misc/jquery.js"></script>
+<script type="text/javascript" src="/web/20210121165551js_/http://www.jnode.org/misc/drupal.js"></script>
+<script type="text/javascript" src="/web/20210121165551js_/http://www.jnode.org/modules/devel/devel.js"></script>
+  <script type="text/javascript"> </script>
+      <style type="text/css">
+    #page {
+      width : 100%px;
+    }
+    </style>
+        <style type="text/css">
+    body.sidebar-left #main {
+      margin-left: -210px;
+    }
+    body.sidebars #main {
+      margin-left: -210px;
+    }
+    body.sidebar-left #squeeze {
+      margin-left: 210px;
+    }
+    body.sidebars #squeeze {
+      margin-left: 210px;
+    }
+    #sidebar-left {
+      width: 210px;
+    }
+    </style>
+        <style type="text/css">
+    body.sidebar-right #main {
+      margin-right: -210px;
+    }
+    body.sidebars #main {
+      margin-right: -210px;
+    }
+    body.sidebar-right #squeeze {
+      margin-right: 210px;
+    }
+    body.sidebars #squeeze {
+      margin-right: 210px;
+    }
+    #sidebar-right {
+      width: 210px;
+    }
+    </style>
+        <style type="text/css">
+    body {
+      font-family : Arial, Verdana, sans-serif;
+    }
+    </style>
+        <!--[if IE]>
+<style type="text/css" media="all">@import "/themes/newsflash/css/ie.css";</style>
+<![endif]-->
+    <script type="text/javascript" src="https://web.archive.org/web/20210121165551js_/http://www.jnode.org/themes/newsflash/js/pickstyle.js"></script>
+</head>
+<body class="sidebars">
+  <div id="page">
+    <div id="header" class="clear-block">
+      <div id="logo-title">
+                              <a href="/web/20210121165551/http://www.jnode.org/" title="Home"> <img src="/web/20210121165551im_/http://www.jnode.org/themes/newsflash/logo.png" alt="Home" id="logo"/> </a>
+                        </div><!-- /logo-title -->
+      <div id="name-and-slogan">
+              </div><!-- /name-and-slogan -->
+                	<div id="primarymenu">
+                  <ul class="links primary-links"><li class="first menu-1-1-99"><a href="/web/20210121165551/http://www.jnode.org/node/view/25" class="menu-1-1-99">Start here!</a></li>
+<li class="menu-1-2-99"><a href="/web/20210121165551/http://www.jnode.org/docs" class="menu-1-2-99">Documentation</a></li>
+<li class="menu-1-3-99"><a href="/web/20210121165551/http://www.jnode.org/download_latest" class="menu-1-3-99">Download</a></li>
+<li class="menu-1-4-99"><a href="/web/20210121165551/http://www.jnode.org/node/view/455" class="menu-1-4-99">Contribute</a></li>
+<li class="menu-1-5-99"><a href="/web/20210121165551/http://www.jnode.org/status" class="menu-1-5-99">Status</a></li>
+<li class="menu-1-6-99"><a href="/web/20210121165551/http://www.jnode.org/node/view/132" class="menu-1-6-99">Screenshots</a></li>
+<li class="menu-1-7-99"><a href="/web/20210121165551/http://www.jnode.org/forum" class="menu-1-7-99">Forums</a></li>
+<li class="last menu-1-8-99"><a href="/web/20210121165551/http://www.jnode.org/contact" class="menu-1-8-99">Contact</a></li>
+</ul>                           
+                </div>
+                    <div class="site-slogan"> :: ~  JNode.free(yourMind); ~ :: </div>
+            <form action="/web/20210121165551/http://www.jnode.org/search/node" accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline"><div class="form-item">
+ <input type="text" maxlength="128" name="search_theme_form_keys" id="edit-search-theme-form-keys" size="15" value="" title="Enter the terms you wish to search for." class="form-text"/>
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search" class="form-submit"/>
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"/>
+</div>
+</div></form>
+          </div><!-- /header -->
+            <div id="middlecontainer">
+              <div id="sidebar-left"><div class="block block-book" id="block-book-0">
+  <h2 class="title">JNode handbook</h2>  <div class="content"><ul class="menu"><li class="leaf"><a href="/web/20210121165551/http://www.jnode.org/node/5">Goals</a></li><li class="collapsed"><a href="/web/20210121165551/http://www.jnode.org/node/42">User guide</a></li><li class="leaf"><a href="/web/20210121165551/http://www.jnode.org/node/13800">Classlib developers guide</a></li><li class="collapsed"><a href="/web/20210121165551/http://www.jnode.org/node/3">Developer guide</a></li><li class="collapsed"><a href="/web/20210121165551/http://www.jnode.org/node/567">Tester guide</a></li><li class="leaf"><a href="/web/20210121165551/http://www.jnode.org/node/512">Porting guide</a></li><li class="leaf"><a href="/web/20210121165551/http://www.jnode.org/node/2680">Blogs</a></li><li class="expanded"><a href="/web/20210121165551/http://www.jnode.org/node/125">Project development</a><ul class="menu"><li class="collapsed"><a href="/web/20210121165551/http://www.jnode.org/node/46">Project organization</a></li><li class="leaf"><a href="/web/20210121165551/http://www.jnode.org/node/126" class="active">Draft 0.2 plan</a></li><li class="leaf"><a href="/web/20210121165551/http://www.jnode.org/node/636">Draft 0.3 plan</a></li><li class="collapsed"><a href="/web/20210121165551/http://www.jnode.org/node/906">TODO list</a></li><li class="leaf"><a href="/web/20210121165551/http://www.jnode.org/contact">Contact</a></li><li class="leaf"><a href="/web/20210121165551/http://www.jnode.org/node/127">Release procedure</a></li></ul></li><li class="leaf"><a href="/web/20210121165551/http://www.jnode.org/node/2936">Glossary</a></li><li class="collapsed"><a href="/web/20210121165551/http://www.jnode.org/node/163">Proposals</a></li><li class="collapsed"><a href="/web/20210121165551/http://www.jnode.org/node/43">FAQ</a></li><li class="leaf"><a href="/web/20210121165551/http://www.jnode.org/node/681">Papers &amp; presentations</a></li><li class="collapsed"><a href="/web/20210121165551/http://www.jnode.org/node/92">References</a></li><li class="leaf"><a href="/web/20210121165551/http://www.jnode.org/node/682">Research</a></li></ul></div></div>
+<div class="block block-forum" id="block-forum-0">
+  <h2 class="title">Active forum topics</h2>  <div class="content"><div class="item-list"><ul><li><a href="/web/20210121165551/http://www.jnode.org/node/13797" title="1 comment">Observations on a first time build</a></li><li><a href="/web/20210121165551/http://www.jnode.org/node/13796">Creation of a Device I/O API in OpenJDK</a></li><li><a href="/web/20210121165551/http://www.jnode.org/node/13795" title="1 comment">How to convert a real mode address to a protected mode address in JNode ?</a></li></ul></div><div class="more-link"><a href="/web/20210121165551/http://www.jnode.org/forum" title="Read the latest forum topics.">more</a></div></div></div>
+<div class="block block-blog" id="block-blog-0">
+  <h2 class="title">Recent blog posts</h2>  <div class="content"><div class="item-list"><ul><li><a href="/web/20210121165551/http://www.jnode.org/node/13799">OSGi</a></li><li><a href="/web/20210121165551/http://www.jnode.org/node/13798">Thoughts on Documentation</a></li><li><a href="/web/20210121165551/http://www.jnode.org/node/13788">Hyper-V</a></li><li><a href="/web/20210121165551/http://www.jnode.org/node/5656">A new, natural, simple way to perceive files. (With JNode planned as foundation)</a></li><li><a href="/web/20210121165551/http://www.jnode.org/node/3985">Contribution</a></li><li><a href="/web/20210121165551/http://www.jnode.org/node/3872">My goals for 2012 with JNode</a></li><li><a href="/web/20210121165551/http://www.jnode.org/node/3369">About Email Response</a></li><li><a href="/web/20210121165551/http://www.jnode.org/node/3316">Nice to have found this!</a></li><li><a href="/web/20210121165551/http://www.jnode.org/node/3294">Me 3</a></li><li><a href="/web/20210121165551/http://www.jnode.org/node/3293">Me again</a></li></ul></div><div class="more-link"><a href="/web/20210121165551/http://www.jnode.org/blog" title="Read the latest blog entries.">more</a></div></div></div>
+<div class="block block-block" id="block-block-11">
+    <div class="content"><p><a class="twitter-timeline" href="https://web.archive.org/web/20210121165551/https://twitter.com/search?q=%23jnode" data-widget-id="405250609260920832">Tweets about "#jnode"</a></p>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//web.archive.org/web/20210121165551/http://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46091383-1', 'jnode.org');
+  ga('send', 'pageview');
+
+</script></div></div>
+ </div>
+            <div id="main">
+        <div id="squeeze">
+                              <div id="squeeze-content">
+            <div id="inner-content">
+                           <h1 class="title">Draft 0.2 plan</h1>
+              <div class="tabs"></div>
+                                          <div class="node">
+  
+  
+  
+  <div class="node-content"><p>The document lays out the feature set for the next major release of JNode designated release 0.2.</p>
+<p>
+This plan is intended to guide the development towards our first major release. It is not a fixed plan that cannot be deviated from. Suggestions &amp; remarks are always welcome and will be considered.</p>
+<p><b>Release target</b><br><br/>
+We want this release to be the first usable version of JNode where we can run real world Java programs on.<br/>
+This means that we need a working filesystem, a stable virtual machine, a class library mostly compatible with JDK 1.1, a working TCP/IP implementation and way to install it on a PC. It is not expected to have a fully working GUI yet.</p>
+<p><b>Additional features</b><br><br/>
+To achieve the target outlined above, each team will have to add/complement a number of features. These features are listed below. The percentages specify finised work, so 100% means completed.</p>
+<p>JNode-Core</p>
+<ul>
+<li>100%  - Dynamically (re)loadable plugins</li>
+<li>10%  - Plugin install, upgrade &amp; uninstall framework</li>
+<li>50%  - Second level native code compiler target as good (native) code quality</li>
+<li>100% - Security system</li>
+<li>0%   - Setup utility</li>
+<li>80%  - Implementation of java.lang package</li>
+<li>80%  - Implementation of java.math package</li>
+<li>60%  - Implementation of java.security package</li>
+<li>90%  - Implementation of java.util package</li>
+<li>80%  - Implementation of java.util.jar package</li>
+<li>80%  - Implementation of java.util.zip package</li>
+</ul>
+<p>JNode-FS</p>
+<ul>
+<li>80%  - Virtual filesystem (in progress)</li>
+<li>60%  - Implementation of java.io package</li>
+<li>90%  - R/w ext2 implementation</li>
+<li>20%  - R/w fdisk services</li>
+<li>?    - Format services for ext2</li>
+<li>95%  - ATAPI driver</li>
+<li>95%  - CDROM (ISO9660) filesystem</li>
+</ul>
+<p>JNode-GUI</p>
+<ul>
+<li>0%   - Textmode userinterface for use in installer</li>
+</ul>
+<p>JNode-Net</p>
+<ul>
+<li>25%  - TCP/IP stack, client &amp; server</li>
+<li>75%  - Implementation of java.net package</li>
+</ul>
+<p>JNode-Shell</p>
+<ul>
+<li>100% - Commands to modify the classpath</li>
+<li>100% - Commands to run java code, both .class and .jar files from any location</li>
+</ul>
+<p><b>Release milestones</b><br><br/>
+Right now no date is set for this release. There will be intermediate releases reflecting the state of development on the 0.1.x series until the target is reached.</p>
+<p><b>Looking towards the future; 0.3</b><br><br/>
+The next major release after 0.2 should bring a graphical user interface, we should really consider using J2SDK 1.5 features like generic types and add numerous drivers for CDROMs, USB, Video cards.</p>
+<p><div class="book-navigation"><div class="page-links clear-block"><a href="/web/20210121165551/http://www.jnode.org/node/645" class="page-previous" title="Go to previous page">‹ How to join the development team</a><a href="/web/20210121165551/http://www.jnode.org/node/125" class="page-up" title="Go to parent page">up</a><a href="/web/20210121165551/http://www.jnode.org/node/636" class="page-next" title="Go to next page">Draft 0.3 plan ›</a></div></div></div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="first book_printer"><a href="/web/20210121165551/http://www.jnode.org/book/export/html/126" title="Show a printer-friendly version of this book page and its sub-pages." class="book_printer">Printer-friendly version</a></li>
+<li class="last comment_forbidden"><span class="comment_forbidden"><a href="/web/20210121165551/http://www.jnode.org/user/login?destination=comment/reply/126%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+  
+</div>
+<div id="comments"><a id="comment-129"></a>
+<div class="comment clear-block">
+  
+
+  <h3><a href="/web/20210121165551/http://www.jnode.org/node/126#comment-129" class="active">Additions</a></h3>
+
+  <div class="submitted">
+    Submitted by lsantha on Mon, 03/08/2004 - 17:42.  </div>
+
+  <div class="content">
+    <p>I'm glad to see the targets set so clearly above. However I think there are at least two notable features missing from the list.</p>
+<p>1. R/W vfat, fat32 filesystem support. This is the most used filesystem type on current desktops. It would be really important to be supported as soon as possible. Maybe we should post a TODO item for this.</p>
+<p>2. While I was making charva work on JNode I found a big problem. At the moment only one charva instance can be run in Jnode at once or only one charva based application. It is so because charva relys on static variables and singletons while dealing with a console, and background threads. It is also hard to exit a charva application. I I tried a workaround but since this problem should be addressed on the kernel and VM level it doesn't make much sense further hacking it. This is only one little example of a complex problem.</p>
+<p>JNode needs isolates. Most of the Java applications assume that they are alone in the JVM and they are written like that. Further when you call System.exit() the aplication should exit (all related threads die) and when you don't call system exit the JVM exits when the last non-demon thread terminates by itself. </p>
+<p>The java shell command would need to start a seprate isolate where the static data in the classes is held separately per isolate and System.in, System.out, System.err, System.exit() and so on have a meaning similar to that in a JVM instance.</p>
+<p>In case of JNode as an OS this is much more important than in the case of a JVM running as a separate OS process. So much that the lack of it makes development harder already.</p>
+<p>WHEN will these issues be addressed? What are the current plans for it?</p>
+<p>Levente</p>
+  </div>
+
+  <ul class="links"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/web/20210121165551/http://www.jnode.org/user/login?destination=comment/reply/126%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+<div class="indented"><a id="comment-132"></a>
+<div class="comment clear-block">
+  
+
+  <h3><a href="/web/20210121165551/http://www.jnode.org/node/126#comment-132" class="active">Agree but</a></h3>
+
+  <div class="submitted">
+    Submitted by admin on Mon, 03/08/2004 - 19:43.  </div>
+
+  <div class="content">
+    <p>I agree that both topics are really needed, but i don't think their are essential for 0.2, however if we can find people to do it, (especially) fat32, it would be great to include it.<br/>
+Isolates are a real wish, but due to the VM consequences I would propose to delay that till 0.3.</p>
+  </div>
+
+  <ul class="links"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/web/20210121165551/http://www.jnode.org/user/login?destination=comment/reply/126%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+<div class="indented"><a id="comment-1084"></a>
+<div class="comment clear-block">
+  
+
+  <h3><a href="/web/20210121165551/http://www.jnode.org/node/126#comment-1084" class="active">fat32 read only</a></h3>
+
+  <div class="submitted">
+    Submitted by tberthel on Wed, 11/10/2004 - 06:16.  </div>
+
+  <div class="content">
+    <p>Without MS permission I think fat32 would need to be read only.</p>
+  </div>
+
+  <ul class="links"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/web/20210121165551/http://www.jnode.org/user/login?destination=comment/reply/126%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+</div></div><a id="comment-94"></a>
+<div class="comment clear-block">
+  
+
+  <h3><a href="/web/20210121165551/http://www.jnode.org/node/126#comment-94" class="active">ServiceManager</a></h3>
+
+  <div class="submitted">
+    Submitted by jalynch on Wed, 03/03/2004 - 14:35.  </div>
+
+  <div class="content">
+    <p>The ServiceManager is nearing an initial release.<br/>
+The SM handles install and removal of services at runtime.  Removal is synchronous an very clean. The ServiceManager also handles the issue of service versions.</p>
+<p>Security was a design isue for the SM from the begining, so before I wrote it I took the liberty of designing a user security model.  The primary classes in the model are User and UserManger.</p>
+<p>UserManger acts something like a certificate athority.  You give it a username and password and it gives you a <i>certified</i> User object.<br/>
+User is final and not serializable.  Any client that recieves a User object as credentials need not wory about verifying that such a User exists, because the UserManager has already verified it.  </p>
+<p>User contians name/id pairs for the user, primary group, and alternate groups.</p>
+<p>This user model does not have any connections to java.security.</p>
+<p>It may be that my user system is insufficient for use in Jnode, but it has several ineresting benifits that I think should be considered.</p>
+  </div>
+
+  <ul class="links"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/web/20210121165551/http://www.jnode.org/user/login?destination=comment/reply/126%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+<a id="comment-89"></a>
+<div class="comment clear-block">
+  
+
+  <h3><a href="/web/20210121165551/http://www.jnode.org/node/126#comment-89" class="active">multiuser and more.</a></h3>
+
+  <div class="submitted">
+    Submitted by donpdonp on Wed, 03/03/2004 - 05:46.  </div>
+
+  <div class="content">
+    <p>its a strange world to be starting an OS from scratch again.</p>
+<p>What are the plans for multiuser support? How multitasking is it?</p>
+<p>I think JNode is a chance to do much more than to reinvent linux in java. The Association for Computing Machinery (ACM.org) has a couple decades of some very good papers of Operating System topics that havent seen the light of day.</p>
+<p>Id like to see JNode grow with a distributed operating system frame of mind. I would define that as datastructures and processes that can easily migrate from JVM to JVM and machine to machine. Java, I feel, leads the way in this area with is serializability and virtual machine.</p>
+<p>Also a graphical environment that tries something new would make JNode stand out. Something completely different than the tired paradigm of simulating pieces of paper in a 1970's office (drawers, a desktop, etc).</p>
+  </div>
+
+  <ul class="links"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/web/20210121165551/http://www.jnode.org/user/login?destination=comment/reply/126%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+<div class="indented"><a id="comment-96"></a>
+<div class="comment clear-block">
+  
+
+  <h3><a href="/web/20210121165551/http://www.jnode.org/node/126#comment-96" class="active">why don&#039;t you do it?</a></h3>
+
+  <div class="submitted">
+    Submitted by Valentin Chira on Wed, 03/03/2004 - 15:33.  </div>
+
+  <div class="content">
+    <p>If you have ideas pls come forward..start and implement them and we all will support you. We do this OS in free time that means noone has time to read milions of pages about OS design and stuff..we learn as we go..as everyone did.</p>
+  </div>
+
+  <ul class="links"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/web/20210121165551/http://www.jnode.org/user/login?destination=comment/reply/126%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+</div></div> 
+                                        </div><!-- /inner-content -->
+          </div><!-- /squeeze-content -->
+        </div><!-- /squeeze -->
+      </div><!-- /main -->
+              <div id="sidebar-right"><div class="block block-user" id="block-user-1">
+  <h2 class="title">Navigation</h2>  <div class="content">
+<ul class="menu">
+<li class="expanded"><a href="https://web.archive.org/web/20210121165551/https://github.com/jnode/jnode/issues" title="Bugs, features requests and other enhancement suggestions">Issues</a>
+<ul class="menu">
+<li class="leaf"><a href="/web/20210121165551/http://www.jnode.org/bugs" title="JNode issue tracker (bugs, features, tasks)">bugs &amp; feature requests (old)</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="/web/20210121165551/http://www.jnode.org/node/add">Create content</a></li>
+<li class="leaf"><a href="/web/20210121165551/http://www.jnode.org/reports" title="Nightly generated reports">Reports</a></li>
+<li class="leaf"><a href="/web/20210121165551/http://www.jnode.org/tracker">Recent posts</a></li>
+
+</ul>
+</div></div>
+<div class="block block-block" id="block-block-9">
+  <h2 class="title">JNode uses</h2>  <div class="content"><center>
+<a href="https://web.archive.org/web/20210121165551/http://www.openjdk.org/" target="_blank"> 
+   <img src="/web/20210121165551im_/http://www.jnode.org/images/openjdk.png" width="140" hight="50" alt="OpenJDK" title="Learn more about OpenJDK"/>
+</a>
+<br/>
+<br/>
+<a href="https://web.archive.org/web/20210121165551/https://www.gnu.org/software/classpath/" target="_blank"> 
+   <img src="/web/20210121165551im_/http://www.jnode.org/images/GNU_Classpath_132x46.png" alt="GNU Classpath" title="Learn more about GNU Classpath"/>
+</a>
+<br/>
+<br/>
+</center></div></div>
+<div class="block block-block" id="block-block-5">
+    <div class="content"><center>
+<a href="/web/20210121165551/http://www.jnode.org/node/831">
+<img src="/web/20210121165551im_/http://www.jnode.org/buttons/jnode_link_3.png" alt="I like JNode!" title="I like JNode!">
+</a>
+<!-- inactive site
+<br/><br/>
+<a href="http://www.java.net" target="_blank" >
+  <img border="0" src="http://today.java.net/images/javanet_button_90.gif">
+</a>
+-->
+<br/><br/>
+<a href="https://web.archive.org/web/20210121165551/https://github.com/jnode/" target="_blank">
+  <img border="0" src="https://web.archive.org/web/20210121165551im_/https://raw.github.com/github/media/master/octocats/blacktocat-32.png">
+</a>
+<br/><br/>
+<a href="https://web.archive.org/web/20210121165551/https://sourceforge.net/projects/jnode/" target="_blank">
+  <img border="0" src="https://web.archive.org/web/20210121165551im_/https://sourceforge.net/sflogo.php?group_id=80882">
+</a>
+<br/><br/>
+<a href="https://web.archive.org/web/20210121165551/https://www.ohloh.net/projects/4111?ref=sample" target="_blank">
+  <img width="100" height="16" src="https://web.archive.org/web/20210121165551im_/http://www.jnode.org/images/ohloh-project-report.gif" alt="Ohloh project report for JNode"/></a>
+<br/><br/>
+<center>
+<a href="/web/20210121165551/http://www.jnode.org/node/691">Donations</a>
+</center>
+<br/></div></div>
+<div class="block block-user" id="block-user-0">
+  <h2 class="title">User login</h2>  <div class="content"><form action="/web/20210121165551/http://www.jnode.org/node/126?destination=node%2F126" accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required"/>
+</div>
+<div class="form-item">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass" maxlength="60" size="15" class="form-text required"/>
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in" class="form-submit"/>
+<div class="item-list"><ul><li><a href="/web/20210121165551/http://www.jnode.org/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"/>
+
+</div></form>
+</div></div>
+ </div>
+          </div><!-- /middle-container -->
+    <div style="clear:both"></div>
+            <div id="footer">
+                    <div id="footer-message"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+  <td valign="top" align="left">Copyright (c) JNode.org 2013</td>
+  <td valign="top" align="right">This page is optimized for Mozilla Firefox</td>
+</tr>
+</table>
+</div>
+            <br/>
+          </div><!-- /footer -->
+  <div style="clear:both"></div>
+    </div> <!-- /page -->
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 16:55:51 Jan 21, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:24:42 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 87.036
+  exclusion.robots: 0.068
+  exclusion.robots.policy: 0.059
+  RedisCDXSource: 0.921
+  esindex: 0.007
+  LoadShardBlock: 65.34 (3)
+  PetaboxLoader3.datanode: 74.286 (4)
+  load_resource: 51.086
+  PetaboxLoader3.resolve: 24.177
+-->

@@ -1,0 +1,1007 @@
+<!DOCTYPE html>
+<html>
+<head><script type="text/javascript" src="/_static/js/bundle-playback.js?v=4R5OHjEN" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://www.openhub.net/p/4111?ref=sample","20221218052400","https://web.archive.org/","web","/_static/",
+	      "1671341040");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+<title>The JNode Open Source Project on Open Hub</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta name="description">
+<meta name="keywords">
+<meta content="jKkWeVQ0tB1bffJYg7xXAtcIM-nrjjVxhP3ohb8UH2A" name="google-site-verification">
+<link href="/web/20221218052400im_/http://www.openhub.net/apple-touch-icon.png?v=yyQ28aBKjx" rel="apple-touch-icon" sizes="180x180">
+<link href="/web/20221218052400im_/http://www.openhub.net/favicon-32x32.png?v=yyQ28aBKjx" rel="icon" sizes="32x32" type="image/png">
+<link href="/web/20221218052400im_/http://www.openhub.net/favicon-16x16.png?v=yyQ28aBKjx" rel="icon" sizes="16x16" type="image/png">
+<link href="/web/20221218052400/http://www.openhub.net/site.webmanifest?v=yyQ28aBKjx" rel="manifest">
+<link color="#5a2a82" href="/web/20221218052400im_/http://www.openhub.net/safari-pinned-tab.svg?v=yyQ28aBKjx" rel="mask-icon">
+<link href="/web/20221218052400im_/http://www.openhub.net/favicon.ico?v=yyQ28aBKjx" rel="shortcut icon">
+<link href="https://web.archive.org/web/20221218052400cs_/https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet">
+<meta content="#5a2a82" name="msapplication-TileColor">
+<meta content="#ffffff" name="theme-color">
+
+
+<link rel="stylesheet" media="all" href="/web/20221218052400cs_/http://www.openhub.net/assets/application-1976e32883eda2adbc16d7d966b620dd09f86b90091dfbd9ed4aa3218e37cc35.css"/>
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="5rQkryC97PGkzCRt/U2LnB85puDlMBFE2d7XxnukpjFvVO3GPEd1dxojlUuR5hxIig5LU99ajSaed3Lk4cql2Q=="/>
+</head>
+<body zoom="1">
+
+<div class="container-fluid" id="project_container">
+<header><div class="navbar">
+<span itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="hidden" itemprop="author">openhub.net</span>
+<span class="hidden" itemprop="publisher">Black Duck Software, Inc.</span>
+<span>
+<div class="logo-div">
+<a class="logo_link" href="https://web.archive.org/web/20221218052400/https://www.synopsys.com/">
+<img alt="Open Hub" class="logo_img" itemprop="image" src="/web/20221218052400im_/http://www.openhub.net/assets/logo/synopsys_logo-d5c035eae0e61a5e1b85f50fbffc06fd19e0881ebeb5101672d318a92adf6dcd.png">
+</a>
+</div>
+<div class="spacing-div"></div>
+<div class="separator-div"></div>
+<div class="spacing-div"></div>
+<div class="company-div">
+<a href="/web/20221218052400/http://www.openhub.net/">
+<span class="navbar_large_text">
+Black Duck Open Hub
+</span>
+</a>
+</div>
+<div class="actions-div">
+<ul id="top_nav_actions">
+<li class="twitter_follow">
+<a class="btn follow_btn" href="https://web.archive.org/web/20221218052400/https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.openhub.net%2Fp%2F4111%3Fref%3Dsample&amp;region=follow_link&amp;screen_name=bdopenhub&amp;source=followbutton&amp;variant=2.0" target="_blank">
+<i class="icon-twitter"></i>
+<p class="follow">Follow&nbsp;@</p>
+<p class="twitter-text">&nbsp;OH&nbsp;</p>
+</a>
+</li>
+<li>
+<a class="btn btn-mini btn-primary btn-header" href="/web/20221218052400/http://www.openhub.net/sessions/new">Sign In</a>
+</li>
+<li>
+<a class="btn btn-mini btn-success btn-header" href="/web/20221218052400/http://www.openhub.net/accounts/new">Join Now</a>
+</li>
+</ul>
+</div>
+</span>
+</span>
+</div>
+
+<div id="navbar-inner">
+<div id="nav-top-bar">
+<ul class="new_main_menu select_projects">
+<li class="menu_item projects">
+<a class="" href="/web/20221218052400/http://www.openhub.net/explore/projects">Projects</a>
+</li>
+<li class="menu_item people">
+<a class="" href="/web/20221218052400/http://www.openhub.net/people">People</a>
+</li>
+<li class="menu_item organizations">
+<a class="" href="/web/20221218052400/http://www.openhub.net/explore/orgs">Organizations</a>
+</li>
+<li class="menu_item tools">
+<a class="" href="/web/20221218052400/http://www.openhub.net/tools">Tools</a>
+</li>
+<li class="menu_item blog">
+<a href="https://web.archive.org/web/20221218052400/https://community.synopsys.com/s/black-duck-open-hub?tabset-c30ff=d9d77" target="_blank">Blog</a>
+</li>
+<form action="/web/20221218052400/http://www.openhub.net/p" class="pull-right" id="quicksearch">
+<div class="dropdown">
+<div class="btn-group ux-dropdown">
+<a class="btn btn-small dropdown-toggle" data-toggle="dropdown">
+<span class="selection">Projects</span>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu">
+<li>
+<a val="people">People</a>
+</li>
+<li>
+<a class="default" val="p">Projects</a>
+</li>
+<li>
+<a val="orgs">Organizations</a>
+</li>
+<li>
+<a val="posts">Forums</a>
+</li>
+</ul>
+<input autocomplete="off" class="search text global_top_search" name="query" placeholder="Search..." type="text">
+<input class="search hidden" id="search_type" name="search_type" type="hidden" value="projects">
+<button class="submit no_padding" type="submit">
+<div class="icon-search global_top_search_icon"></div>
+</button>
+</div>
+</div>
+</form>
+
+</ul>
+</div>
+</div>
+
+
+
+</header>
+<div class="row" id="page-contents">
+<div class="col-xs-12 col-sm-12 col-md-12" id="projects_show_page">
+<div id="project_masthead">
+<div class="col-md-1 no_padding" id="project_icon">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode" itemprop="url">
+<img style="width:64px; height:64px; border:0 none;" itemprop="image" alt="img avatar" src="https://web.archive.org/web/20221218052400im_/https://s3.amazonaws.com/cloud.ohloh.net/attachments/76151/jnode_med.png"/>
+</a>
+</div>
+<div class="col-md-11" id="project_header">
+<div class="pull-left project_title">
+<h1 class="float_left" itemprop="name">
+<a style="color: black" itemprop="url" href="/web/20221218052400/http://www.openhub.net/p/jnode">JNode</a>
+</h1>
+<small class="pull-left clear_both">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/settings"><i class="icon-cogs">&nbsp;</i>Settings</a>
+|
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/duplicates/new"><i class="icon-flag">&nbsp;</i>Report Duplicate</a>
+</small>
+</div>
+<div class="pull-right no_padding" id="widgets">
+<div class="pull-left">
+<div data-analytics-id="UA-20399350-1" id="add_this">
+<p>
+<div class="addthis_custom_sharing addthis">
+<script src="//web.archive.org/web/20221218052400js_/http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-500da8c658f6dda7"></script>
+</div>
+</p>
+</div>
+</div>
+<div class="pull-right" itemprop="interactionCount" itemtype="CreativeWork">
+<div id="i_use_this_container">
+<div class="use_count">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/users">10</a>
+</div>
+</div>
+<div class="btn btn-mini i_use_this_btn" data-target="#LoginModal" data-toggle="modal">I Use This!</div>
+<div aria-hidden="true" aria-labelledby="LoginModalLabel" class="modal fade" id="LoginModal" role="dialog">
+<div class="modal-dialog modal-sm">
+<div class="modal-content" style="width: 398px">
+<div class="modal-header">
+<button aria-label="Close" class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">&times;</span>
+</button>
+<h4 class="modal-title" id="LoginModalLabel">Login Required</h4>
+</div>
+<div class="model-body">
+<form class="well form-horizontal" id="new_login" action="/web/20221218052400/http://www.openhub.net/sessions" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"/><input type="hidden" name="authenticity_token" value="3jCycGg/aQ0eHLY14tkOqxetwTiCjzwoMCwPqNoN5nRNX4FJ9WAg6yU9wq7xQ9assVZLIJmO7k0E6QBGWqrcYQ=="/><fieldset>
+<legend>Log in to Open Hub</legend>
+<div class="control-group">
+<div class="input-prepend">
+<span class="add-on">
+<i class="icon-user"></i>
+</span>
+<input class="input-xlarge" placeholder="Login or Email" type="text" name="login[login]" id="login_login"/>
+</div>
+</div>
+<div class="control-group input-prepend">
+<span class="add-on">
+<i class="icon-key"></i>
+</span>
+<input class="input-xlarge" placeholder="Password" type="password" name="login[password]" id="login_password"/>
+</div>
+<div class="control-group">
+<label class="checkbox" style="padding-left: -1px;">
+<input name="login[remember_me]" type="hidden" value="0"/><input type="checkbox" value="1" name="login[remember_me]" id="login_remember_me"/>
+Remember Me
+</label>
+</div>
+<div class="actions">
+<input class="btn btn-primary" type="submit" value="Log In">
+</div>
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="project_header_activity_indicator">
+<a class="thirtyfive_project_activity_level_inactive" href="https://web.archive.org/web/20221218052400/https://community.synopsys.com/s/article/Black-Duck-Open-Hub-About-Project-Activity-Icons" target="_blank" title="Inactive"></a>
+<div class="thirtyfive_project_activity_text">Inactive</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="row mezzo"></div>
+
+
+
+<div id="projects_show_page" itemscope="" itemtype="http://schema.org/ItemPage">
+<div class="col-sm-12 col-md-12">
+<div id="page_contents"><div class="separator-div">
+<div class="pull-right soft" id="analysis_timestamp">
+<i>
+<i class="icon-time"></i>
+Analyzed
+<abbr title="Saturday, December 17, 2022 @ 12:43:58PM UTC">
+about 17 hours
+</abbr>
+ago.
+based on code collected
+<abbr title="Saturday, December 17, 2022 @ 11:35:27AM UTC">
+about 18 hours
+</abbr>
+ago.
+</i>
+</div>
+
+</div>
+<div class="clear"></div>
+
+<div class="row row-eq-height margin_top_two project_row">
+<div class="col-md-4 project_summary_container">
+<div class="well">
+<h4 class="text-left">Project Summary</h4>
+<section id="project_summary" itemprop="description">
+<p>JNode is a simple to use &amp; install Java operating system for personal use.</p>
+
+<p>It runs on modern devices.</p>
+
+<p>Any java application will run on it, fast &amp; secure!</p>
+
+<p>JNode is open source and uses the LGPL license.</p>
+</section>
+<section id="project_tags" itemscope="" itemtype="http://schema.org/CreativeWork">
+<h4 class="title">Tags</h4>
+<p class="tags">
+<span></span>
+<a class="tag" itemprop="keywords" href="/web/20221218052400/http://www.openhub.net/tags?names=desktop">desktop</a> <a class="tag" itemprop="keywords" href="/web/20221218052400/http://www.openhub.net/tags?names=development">development</a> <a class="tag" itemprop="keywords" href="/web/20221218052400/http://www.openhub.net/tags?names=gui">gui</a> <a class="tag" itemprop="keywords" href="/web/20221218052400/http://www.openhub.net/tags?names=java">java</a> <a class="tag" itemprop="keywords" href="/web/20221218052400/http://www.openhub.net/tags?names=operating_system">operating_system</a> <a class="tag" itemprop="keywords" href="/web/20221218052400/http://www.openhub.net/tags?names=operating_system_kernels">operating_system_kernels</a> <a class="tag" itemprop="keywords" href="/web/20221218052400/http://www.openhub.net/tags?names=os">os</a> <a class="tag" itemprop="keywords" href="/web/20221218052400/http://www.openhub.net/tags?names=server">server</a> <a class="tag" itemprop="keywords" href="/web/20221218052400/http://www.openhub.net/tags?names=storage">storage</a> <a class="tag" itemprop="keywords" href="/web/20221218052400/http://www.openhub.net/tags?names=web">web</a>
+</p>
+</section>
+<section id="project_badges">
+<h4 class="title"><a href="/web/20221218052400/http://www.openhub.net/p/jnode/project_badges">Badges</a></h4>
+<div class="badges"><img src="https://web.archive.org/web/20221218052400im_/https://api.travis-ci.org/jnode/jnode.svg?branch=master"></img></div>
+
+</section>
+</div>
+</div>
+<div class="col-md-4 nutshell_container">
+<div class="well">
+<h4 class="nutshell_heading">In a Nutshell, JNode...</h4>
+<ul class="unstyled nutshell" id="factoids">
+<li>
+...
+<div class="indent">
+has had
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/commits/summary">6,290 commits</a>
+made by
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/contributors/summary">30 contributors</a>
+<br>
+representing
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/analyses/latest/languages_summary">2,330,293 lines of code</a>
+</div>
+</li>
+<li>
+...
+<div class="indent">
+is
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/analyses/latest/languages_summary">mostly written in Java</a>
+<br>
+with
+<span class="good">
+  <a href="/web/20221218052400/http://www.openhub.net/p/jnode/factoids#FactoidCommentsHigh">
+a well-commented source code  </a>
+</span>
+</div>
+</li>
+<li>
+...
+<div class="indent">
+has
+<span class="good">
+  <a href="/web/20221218052400/http://www.openhub.net/p/jnode/factoids#FactoidAgeVeryOld">
+a well established, mature codebase  </a>
+</span>
+<br>
+maintained by
+<span class="bad">
+  <a href="/web/20221218052400/http://www.openhub.net/p/jnode/factoids#FactoidTeamSizeZero">
+nobody  </a>
+</span>
+<br>
+with
+<span class="info">
+  <a href="/web/20221218052400/http://www.openhub.net/p/jnode/factoids#FactoidActivityStable">
+stable Y-O-Y commits  </a>
+</span>
+</div>
+</li>
+<li>
+...
+<div class="indent">
+took an estimated
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/estimated_cost">683 years of effort</a>
+(COCOMO model)
+<br>
+starting with its
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/commits?sort=oldest">first commit in May, 2003</a>
+<br>
+ending with its
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/commits">most recent commit almost 6 years</a>
+ago
+</div>
+</li>
+</ul>
+
+</div>
+</div>
+<div class="col-md-4 quick_reference_container">
+<div class="well">
+<h4 class="quick_reference_heading">Quick Reference</h4>
+<div class="col-xs-12">
+<div class="clearfix"></div>
+<div class="col-xs-5 text-right text-right">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/links">Project Links:</a>
+</div>
+<div class="col-xs-7" style="margin-bottom: .5em;">
+<a itemprop="url" href="https://web.archive.org/web/20221218052400/http://www.jnode.org/"><i class="icon-external-link"></i>
+Homepage
+</a><br>
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/links">Documentation
+<i>( 2 Links )</i>
+</a><br>
+<a href="https://web.archive.org/web/20221218052400/http://www.jnode.org/download_latest"><i class="icon-external-link"></i>
+Download
+</a><br>
+<a href="https://web.archive.org/web/20221218052400/http://www.jnode.org/forum"><i class="icon-external-link"></i>
+Forums
+</a><br>
+<a href="https://web.archive.org/web/20221218052400/https://github.com/jnode/jnode/issues"><i class="icon-external-link"></i>
+Issue Trackers
+</a><br>
+<a href="https://web.archive.org/web/20221218052400/https://github.com/jnode"><i class="icon-external-link"></i>
+Other
+</a><br>
+</div>
+<div class="clearfix"></div>
+<div class="col-xs-5 text-right">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/enlistments">Code Locations:</a>
+</div>
+<div class="col-xs-7" style="margin-bottom: .5em;">
+<i><a href="/web/20221218052400/http://www.openhub.net/p/jnode/enlistments">(2 Locations)</a></i>
+<br>
+</div>
+<div class="clearfix"></div>
+<div class="col-xs-5 text-right">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/similar">Similar Projects:</a>
+</div>
+<div class="col-xs-7" style="margin-bottom: .5em;">
+<div data-project-id="jnode" id="similar_projects"></div>
+<div class="hidden" id="related_spinner"><img src="/web/20221218052400im_/http://www.openhub.net/assets/spinner-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif"/></div>
+</div>
+<div class="clearfix"></div>
+<div class="col-xs-5 text-right">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/managers">Managers:</a>
+</div>
+<div class="col-xs-7" style="margin-bottom: .5em;">
+<a href="/web/20221218052400/http://www.openhub.net/accounts/lsantha">Levente Sántha</a>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div class="row mezzo"></div>
+<div class="row mezzo"></div>
+<div class="project_licenses">
+<div class="row project_row">
+<div class="col-md-12 license_title_container">
+<h4 class="license_panel_title">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/licenses">Licenses</a>
+</h4>
+</div>
+<div class="clearfix"></div>
+<div class="col-md-2"></div>
+<div class="col-md-8" id="license_details">
+<div class="well"><div class="license_details">
+<h5 class="license_title"><a href="https://web.archive.org/web/20221218052400/https://www.openhub.net/licenses/lgpl">MIT</a></h5>
+<div class="row">
+<div class="col-md-4" id="permitted">
+<div class="well right_border">
+<h5>Permitted</h5>
+<p>
+<span data-tipso="PERMITTED License permits or expressly restricts this software and/or derivatives  to be used for commercial purposes.">Commercial Use</span>
+<i aria-hidden="true" class="fa float_right fa-briefcase" data-tipso="Commercial Use"></i>
+</p>
+<p>
+<span data-tipso="PERMITTED You are allowed to modify the software and make derivative bodies of work.">Modify</span>
+<i aria-hidden="true" class="fa float_right fa-pencil-square-o" data-tipso="Modify"></i>
+</p>
+<p>
+<span data-tipso="PERMITTED This software may be distributed in original form or modified works.">Distribute</span>
+<i aria-hidden="true" class="fa float_right fa-share-square-o" data-tipso="Distribute"></i>
+</p>
+<p>
+<span data-tipso="PERMITTED You are allowed to place a warranty on the code or deriviatives of the code, though you may need to limit the liability of the original software owners and contributors.">Place Warranty</span>
+<i aria-hidden="true" class="fa float_right fa-shield" data-tipso="Place Warranty"></i>
+</p>
+<p>
+<span data-tipso="PERMITTED You may use the relevant patents held by the software contributors in your use of this code.">Use Patent Claims</span>
+<i aria-hidden="true" class="fa float_right fa-gavel" data-tipso="Use Patent Claims"></i>
+</p>
+</div>
+</div>
+<div class="col-md-4" id="forbidden">
+<div class="well right_border">
+<h5>Forbidden</h5>
+<p>
+<span data-tipso="FORBIDDEN License states whether the code or derivatives may be licensed under the provided license or if a different license maybe chosen.">Sub-License</span>
+<i aria-hidden="true" class="fa float_right fa-balance-scale" data-tipso="Sub-License"></i>
+</p>
+<p>
+<span data-tipso="FORBIDDEN A disclaimer of warranty prevents you from holding  the orignal owner and/or contributors liable for any damages due to the use of this software.">Hold Liable</span>
+<i aria-hidden="true" class="fa float_right fa-exclamation-triangle" data-tipso="Hold Liable"></i>
+</p>
+</div>
+</div>
+<div class="col-md-4" id="required">
+<div class="well">
+<h5>Required</h5>
+<p>
+<span data-tipso="RESTRICTED Upon distribution, you will need to provide either the original software source code, a link to the original software or provide a written offer to receive the software.">Distribute Original</span>
+<i aria-hidden="true" class="fa float_right fa-clone" data-tipso="Distribute Original"></i>
+</p>
+<p>
+<span data-tipso="RESTRICTED Software source code must be made available if a distribution is made.">Disclose Source</span>
+<i aria-hidden="true" class="fa float_right fa-files-o" data-tipso="Disclose Source"></i>
+</p>
+<p>
+<span data-tipso="RESTRICTED You are required to include copyright notices of the original owners and contributors for the work with the software you distribute.">Include Copyright</span>
+<i aria-hidden="true" class="fa float_right fa-copyright" data-tipso="Include Copyright"></i>
+</p>
+<p>
+<span data-tipso="RESTRICTED Any changes you make to the code must be documented and distributed along with the code.">State Changes</span>
+<i aria-hidden="true" class="fa float_right fa-pencil-square-o" data-tipso="State Changes"></i>
+</p>
+<p>
+<span data-tipso="RESTRICTED You are required to include the software's full license text in any distributions you make.">Include License</span>
+<i aria-hidden="true" class="fa float_right fa-balance-scale" data-tipso="Include License"></i>
+</p>
+<p>
+<span data-tipso="RESTRICTED If the software is distributed, you must include installation information and tools to modify and reinstall the software.">Include Install Instructions</span>
+<i aria-hidden="true" class="fa float_right fa-book" data-tipso="Include Install Instructions"></i>
+</p>
+</div>
+</div>
+</div>
+<div class="row">
+<p class="text-muted small center">These details are provided for information only. No information here is legal advice and should not be used as such.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-2"></div>
+<div class="all-license-div">
+<h4 class="float-right">
+<a target="_blank" class="license_link" href="/web/20221218052400/http://www.openhub.net/licenses">All Licenses</a>
+</h4>
+</div>
+</div>
+</div>
+
+<div class="row mezzo"></div>
+<div class="project_security">
+<div class="row project_row">
+<div class="col-md-12 security_title_container">
+<h4 class="security-panel-title">Project Security</h4>
+</div>
+<div class="clearfix"></div>
+<div class="row-eq-height">
+<div class="col-md-4" id="vulnerability_per_version">
+<h4 class="title">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/security">Vulnerabilities per Version</a>
+<span>( last 10 releases )</span>
+</h4>
+<p class="text-center">There are no reported vulnerabilities</p>
+
+</div>
+<div class="col-md-4" id="vulnerability-report">
+<div class="well"><h4><a href="/web/20221218052400/http://www.openhub.net/p/jnode/security">Project Vulnerability Report</a></h4>
+<div class="row score-card">
+<h4 class="center">Security Confidence Index</h4>
+<div class="col-md-3 range-poor">
+Poor security track-record
+</div>
+<div class="col-md-6 indicator">
+<div id="pss_bg">
+<div class="tipso top tipso_style pointer" data-tipso-title="Security Confidence Index" data-tipso="100%" style="float: right; margin-right: 0.00%"></div>
+</div>
+</div>
+<div class="col-md-3 range-good">
+Favorable security track-record
+</div>
+</div>
+<div class="row">
+<div id="report-divider"></div>
+</div>
+<div class="row score-card">
+<h4 class="center">Vulnerability Exposure Index</h4>
+<div class="col-md-3 range-poor">
+Many reported vulnerabilities
+</div>
+<div class="col-md-6 indicator">
+<div id="pvs_bg">
+<div class="tipso_pss bottom tipso_style pointer" data-tipso-title="Vulnerability Exposure Index" data-tipso="Score: 0.0 <br/> Percentage: 0.00000% <br/> Rank: 1st of 3340" style="float: left; margin-left: 100.00%"></div>
+</div>
+</div>
+<div class="col-md-3 range-good">
+Few reported vulnerabilities
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<a class="pvr_link left" target="_blank" href="https://web.archive.org/web/20221218052400/https://community.synopsys.com/s/article/Black-Duck-Open-Hub-About-the-Project-Vulnerability-Report">About Project Vulnerability Report</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4" id="did_you_know">
+<div class="well">
+<h4>Did You Know...</h4>
+<ul class="unstyled">
+<li>
+...
+<div class="indent">
+nearly 1 in 3 companies have no process for identifying, tracking,
+         or remediating known open source vulnerabilities
+</div>
+</li>
+<li>
+...
+<div class="indent">
+anyone with an Open Hub account can update a project's tags
+</div>
+</li>
+<li>
+...
+<div class="indent">
+55% of companies leverage OSS for production infrastructure
+</div>
+</li>
+<li>
+...
+<div class="indent">
+you can embed <a href="/web/20221218052400/http://www.openhub.net/p/jnode/widgets" target="_self">statistics from Open Hub</a> on your site
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+</div>
+<a class="security_blog_link" target="_blank" href="https://web.archive.org/web/20221218052400/https://community.synopsys.com/s/article/Black-Duck-Open-Hub-Project-Security">About Project Security</a>
+</div>
+
+</div>
+<div class="row mezzo"></div>
+<div class="row project_row row-eq-height">
+<div class="col-md-4 right_border top_section" itemscope="" itemtype="http://schema.org/Language">
+<h2 class="center">Code</h2>
+<div class="col-md-12 manage_padding chart_container">
+<h4><a href="/web/20221218052400/http://www.openhub.net/p/jnode/analyses/latest/languages_summary">Lines of Code</a></h4>
+<div class="col-md-12 manage_padding chart-holder">
+<div class="chart watermark440" datasrc="https://www.openhub.net/p/jnode/analyses/latest/lines_of_code" id="loc_chart" style="width: 100%; height: 200px;"></div>
+</div>
+</div>
+
+</div>
+<div class="col-md-4 right_border top_section">
+<h2 class="center">Activity</h2>
+<div class="col-md-12 manage_padding chart_container">
+<h4><a href="/web/20221218052400/http://www.openhub.net/p/jnode/commits/summary">Commits per Month</a></h4>
+<div class="col-md-12 manage_padding">
+<div class="chart watermark440" datasrc="https://www.openhub.net/p/jnode/analyses/latest/commits_history" id="activity_chart" style="width: 100%; min-height: 210px"></div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="col-md-4 community_container top_section">
+<h2 class="center">Community</h2>
+<div class="col-md-12 manage_padding chart_container">
+<div style="width: 100%;"><h4><a href="/web/20221218052400/http://www.openhub.net/p/jnode/contributors/summary">Contributors per Month</a></h4>
+<div class="col-md-12 manage_padding">
+<div class="chart watermark440" datasrc="https://www.openhub.net/p/jnode/analyses/latest/committer_history" id="community_chart" style="width: 100%; height: 200px"></div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="row project_row row-eq-height">
+<div class="col-md-4 right_border bottom_section languages_container">
+<div class="col-md-12 manage_padding language_table_container">
+<h4><a href="/web/20221218052400/http://www.openhub.net/p/jnode/analyses/latest/languages_summary">Languages</a></h4>
+<div class="pull-left language_pie_image" style="padding-right: 0.5rem;">
+<img src="https://web.archive.org/web/20221218052400im_/https://www.openhub.net/p/jnode/analyses/latest/languages?height=75&amp;width=75"/>
+</div>
+<table class="table table-striped unstyled pull-left language_table">
+<tr class="pull-left language_stat_box">
+<td class="language_legends">
+<div class="pull-left" style="width:5px;height:12px;margin-top:5px;margin-right:10px;background-color:#9A63AD"></div>
+<a itemprop="name" href="/web/20221218052400/http://www.openhub.net/languages/5">Java</a>
+</td>
+<td class="language_percentage_indicator">
+<span itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+<span itemprop="ratingValue">98%</span>
+</span>
+</td>
+</tr>
+<tr class="pull-left language_stat_box">
+<td class="language_legends">
+<div class="pull-left" style="width:5px;height:12px;margin-top:5px;margin-right:10px;background-color:#000000"></div>
+13 Other
+</td>
+<td class="language_percentage_indicator">
+<span itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+<span itemprop="ratingValue">2%</span>
+</span>
+</td>
+</tr>
+</table>
+</div>
+
+</div>
+<div class="col-md-4 right_border bottom_section">
+<div class="col-xs-12 resize_well">
+<div class="well activity_well">
+<table class="unstyled" id="activity_table" width="auto">
+<tbody>
+<tr>
+<td class="col-xs-5 no_padding_left" valign="top">
+<h4 class="section_header thirty_day">30 Day Summary</h4>
+<small class="summary_timespan thirty_day">
+Nov 17 2022
+&mdash;
+Dec 17 2022
+</small>
+<div class="clearfix"></div>
+<ul class="unstyled" id="thirty_day_summary">
+<li>
+<big>0</big>
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/commits?time_span=30+days">Commits</a>
+</li>
+<li>
+<big>0</big>
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/contributors?sort=latest_commit&amp;time_span=30+days">Contributors</a>
+</li>
+</ul>
+
+</td>
+<td class="col-xs-5 col-xs-offset-1 no_padding_right" valign="top">
+<h4 class="section_header twelve_month">12 Month Summary</h4>
+<small class="summary_timespan">
+Dec 17 2021
+&mdash;
+Dec 17 2022
+</small>
+<div class="clearfix"></div>
+<ul class="unstyled nutshell">
+<li>
+<big>0</big>
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/commits?time_span=12+months">Commits</a>
+<div class="small" style="padding-left: 22px;">
+
+</div>
+</li>
+<li>
+<big>0</big>
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/contributors?sort=latest_commit&amp;time_span=12+months">Contributors</a>
+<div class="small" style="padding-left: 22px;">
+
+</div>
+</li>
+</ul>
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="col-md-4 community_container bottom_section">
+<div class="col-xs-12 resize_well">
+<div class="well community_well">
+<div class="row">
+<div class="col-xs-12">
+<h4><a href="/web/20221218052400/http://www.openhub.net/p/jnode/contributors?sort=latest_commit">Most Recent Contributors</a></h4>
+<table id="recent_committers_table">
+<tr height="40px;">
+<td width="1%"><img style="width: 24px; height: 24px;" class="avatar" src="https://web.archive.org/web/20221218052400im_/https://gravatar.com/avatar/f5cd36688210dcf12bec06a7cfb4eaa5?&amp;s=24&amp;rating=PG&amp;d=https%3a%2f%2fopenhub.net%2fanon32.gif"/></td>
+<td class="recent_committers" title="Fabien DUMINY" width="49%">
+<a href="/web/20221218052400/http://www.openhub.net/p/4111/contributors/17656610561833">Fabien DUMINY</a>
+</td>
+<td width="1%"><img style="width: 24px; height: 24px;" class="avatar" src="https://web.archive.org/web/20221218052400im_/https://gravatar.com/avatar/676f7da47970f7e1df5501a4b6098816?&amp;s=24&amp;rating=PG&amp;d=https%3a%2f%2fopenhub.net%2fanon32.gif"/></td>
+<td class="recent_committers" title="Levente Sántha" width="49%">
+<a href="/web/20221218052400/http://www.openhub.net/p/4111/contributors/17656610568611">Levente Sántha</a>
+</td>
+</tr>
+<tr height="40px;">
+<td width="1%"><img style="width: 24px; height: 24px;" class="avatar" src="/web/20221218052400im_/http://www.openhub.net/assets/anon/anon32-d162f11b5a8d7c07fc6367be1e4b74a3bd74913fd4bf523b196f2996d02a1cc0.gif"/></td>
+<td class="recent_committers" title="Trejkaz (pen name)" width="49%">
+<a href="/web/20221218052400/http://www.openhub.net/p/4111/contributors/17658758396531">...kaz (pen name)</a>
+</td>
+<td width="1%"><img style="width: 24px; height: 24px;" class="avatar" src="/web/20221218052400im_/http://www.openhub.net/assets/anon/anon32-d162f11b5a8d7c07fc6367be1e4b74a3bd74913fd4bf523b196f2996d02a1cc0.gif"/></td>
+<td class="recent_committers" title="Luke Quinane" width="49%">
+<a href="/web/20221218052400/http://www.openhub.net/p/4111/contributors/17658758495162">Luke Quinane</a>
+</td>
+</tr>
+<tr height="40px;">
+<td width="1%"><img style="width: 24px; height: 24px;" class="avatar" src="/web/20221218052400im_/http://www.openhub.net/assets/anon/anon32-d162f11b5a8d7c07fc6367be1e4b74a3bd74913fd4bf523b196f2996d02a1cc0.gif"/></td>
+<td class="recent_committers" title="Fabien Lesire" width="49%">
+<a href="/web/20221218052400/http://www.openhub.net/p/4111/contributors/17658758764341">Fabien Lesire</a>
+</td>
+<td width="1%"><img style="width: 24px; height: 24px;" class="avatar" src="/web/20221218052400im_/http://www.openhub.net/assets/anon/anon32-d162f11b5a8d7c07fc6367be1e4b74a3bd74913fd4bf523b196f2996d02a1cc0.gif"/></td>
+<td class="recent_committers" title="kamcio96" width="49%">
+<a href="/web/20221218052400/http://www.openhub.net/p/4111/contributors/17658758790032">kamcio96</a>
+</td>
+</tr>
+</table>
+
+</div>
+</div>
+<div class="row proj_community_ratings" id="proj_rating">
+<div class="clear"></div>
+<div class="col-xs-12 no_padding" id="community_rating">
+<div class="col-xs-6">
+<h4 class="community_rating_header"><a href="/web/20221218052400/http://www.openhub.net/p/jnode/reviews/summary">Ratings</a></h4>
+<div class="col-md-12">
+2 users rate this project:
+</div>
+<div class="clear">
+<div class="col-md-12">
+<div class="pull-left">
+<span id="average_rating_stars">           <div style="display:none;" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+      <span style="display:none;" itemprop="ratingValue">5.0</span>
+    </div>
+ <span style="font-size: 1px; float: left; display: inline; height: 23px; width: 112px;                    background: url(/web/20221218052400im_/http://www.openhub.net/assets/rating_stars/stars_sprite-49c8a6171057d846fc1232d08703da7f9b2987069cc8f64690bd3d30d2ea0e7a.png) left bottom">       &nbsp;     </span>     </span>
+<div class="rating_stars_value">
+5.0/5.0
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-6 add_rating_container">
+<div class="col-xs-12 no_padding">
+Click to add your rating
+</div>
+<div class="clear">
+<div class="jrating pull-left needs_login" data-show="projects/show/community_rating" id="jnode" score="0" star_style="big" style="margin-left: 9px; margin-bottom: 5px;"></div>
+<span class="pull-left" id="rating_spinner">
+&nbsp;&nbsp;
+<img src="/web/20221218052400im_/http://www.openhub.net/assets/spinner-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif"/>
+</span>
+</div>
+<span style="margin-left: 5px;">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/reviews/new">Review this Project!</a>
+</span>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div class="row manage_padding">
+<div class="col-md-12">&nbsp;</div>
+</div>
+<div class="row manage_padding">
+<div class="col-md-6" id="stackoverflow_recent_questions"></div>
+<div class="col-md-6" id="stackoverflow_popular_questions"></div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="clearfix"></div>
+<div class="row fluid mezzo">
+<div class="footer-navigation fluid col-xs-12">
+<div class="row">
+<div class="col-md-12">
+<div class="mezzo margin_bottom_5"></div>
+</div>
+<div class="clearfix"></div>
+<div class="col-xs-10 col-xs-offset-1">
+<div class="actions margin_top_20 margin_bottom_40 col-md-3 col-xs-3 no_padding">
+<ul class="nav nav-stacked nav-pills">
+<h4 class="selected linked">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode">
+<i class="icon project_summary"></i>
+Project Summary
+</a>
+</h4>
+<li class="footer-nav">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/rss_articles">News</a>
+</li>
+<li class="footer-nav">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/settings">Settings</a>
+</li>
+<li class="footer-nav">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/widgets">Sharing Widgets</a>
+</li>
+<li class="footer-nav">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/similar">Related Projects</a>
+</li>
+</ul>
+</div>
+<div class="actions margin_top_20 margin_bottom_40 col-md-3 col-xs-3 no_padding">
+<ul class="nav nav-stacked nav-pills">
+<h4>
+<i class="icon code_data"></i>
+Code Data
+</h4>
+<li class="footer-nav">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/analyses/latest/languages_summary">Languages</a>
+</li>
+<li class="footer-nav">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/estimated_cost">Cost Estimates</a>
+</li>
+<li class="footer-nav">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/security">Security</a>
+</li>
+</ul>
+</div>
+<div class="actions margin_top_20 margin_bottom_40 col-md-3 col-xs-3 no_padding">
+<ul class="nav nav-stacked nav-pills">
+<h4>
+<i class="icon scm_data"></i>
+SCM Data
+</h4>
+<li class="footer-nav">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/commits/summary">Commits</a>
+</li>
+<li class="footer-nav">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/contributors/summary">Contributors</a>
+</li>
+</ul>
+</div>
+<div class="actions margin_top_20 margin_bottom_40 col-md-3 col-xs-3 no_padding">
+<ul class="nav nav-stacked nav-pills">
+<h4>
+<i class="icon user_data"></i>
+Community Data
+</h4>
+<li class="footer-nav">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/users">Users</a>
+</li>
+<li class="footer-nav">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/reviews/summary">Ratings &amp; Reviews</a>
+</li>
+<li class="footer-nav">
+<a href="/web/20221218052400/http://www.openhub.net/p/jnode/map">User &amp; Contributor Locations</a>
+</li>
+</ul>
+</div>
+<div aria-hidden="true" class="modal pmd-modal fade" id="sbom-details" style="display: none;" tabindex="-1">
+<div class="modal-dialog modal-md">
+<div class="modal-content"></div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="clear"></div>
+<footer class="fluid_footer"><div class="col-md-12 text-center">
+<div class="footer_content" style="margin-left: 27%">
+<div class="footer-left">
+<a class="logo_link" href="/web/20221218052400/http://www.openhub.net/">
+<img alt="Open Hub" class="logo_img" itemprop="image" src="/web/20221218052400im_/http://www.openhub.net/assets/logo/synopsys_logo-d5c035eae0e61a5e1b85f50fbffc06fd19e0881ebeb5101672d318a92adf6dcd.png">
+</a>
+</div>
+<div class="footer-mid">
+ABOUT SYNOPSYS
+<p></p>
+<p>
+<a href="https://web.archive.org/web/20221218052400/https://www.synopsys.com/software-integrity/security-testing.html">Application Security Testing</a>
+</p>
+<p>
+<a href="https://web.archive.org/web/20221218052400/https://www.synopsys.com/software-integrity/software-security-services.html">Software Security Services</a>
+</p>
+<p>
+<a href="https://web.archive.org/web/20221218052400/https://www.synopsys.com/software-integrity/software-security-strategy.html">Program Development</a>
+</p>
+<p>
+<a href="https://web.archive.org/web/20221218052400/https://github.com/blackducksoftware/ohloh-ui" target="_blank">Training</a>
+</p>
+</div>
+<div class="footer-right">
+ABOUT OPEN HUB
+<p></p>
+<p>
+<a href="https://web.archive.org/web/20221218052400/https://community.synopsys.com/s/black-duck-open-hub">Forums</a>
+</p>
+<p>
+<a href="https://web.archive.org/web/20221218052400/https://community.synopsys.com/s/article/Black-Duck-Open-Hub-Terms-of-Use">Terms</a>
+</p>
+<p>
+<a href="https://web.archive.org/web/20221218052400/https://community.synopsys.com/s/article/Black-Duck-Open-Hub-Open-Hub-Privacy-Policy">Privacy</a>
+</p>
+<p>
+<a href="https://web.archive.org/web/20221218052400/https://github.com/blackducksoftware/ohloh-ui" target="_blank">Open Hub UI Source Code</a>
+</p>
+<p>
+<a href="https://web.archive.org/web/20221218052400/mailto:&amp;#105;&amp;#110;&amp;#102;&amp;#111;&amp;#064;&amp;#111;&amp;#112;&amp;#101;&amp;#110;&amp;#104;&amp;#117;&amp;#098;&amp;#046;&amp;#110;&amp;#101;&amp;#116;">Contact Us</a>
+</p>
+</div>
+<div class="footer-bottom">
+<sup>&copy;</sup>
+2022
+<span itemscope="" itemtype="http://schema.org/CreativeWork">
+<span itemprop="publisher">
+<a href="https://web.archive.org/web/20221218052400/http://www.synopsys.com/" target="_blank">Synopsys, Inc.</a>
+All Rights Reserved.
+</span>
+</span>
+</div>
+</div>
+</div>
+</footer>
+<div class="navbar navbar-fixed-bottom" id="cookies-bar">
+<div class="container-fluid">
+<div class="cc_message float_left">
+This site uses cookies to give you the best possible experience.
+By using the site, you consent to our use of cookies.
+For more information, please see our
+<a target="_blank" class="cc_message" href="https://web.archive.org/web/20221218052400/https://community.synopsys.com/s/article/Black-Duck-Open-Hub-Open-Hub-Privacy-Policy">Privacy Policy</a>
+</div>
+<div class="right-part float_right">
+<a class="btn btn-default cc_accept" href="javascript: void();">Agree</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<script src="https://web.archive.org/web/20221218052400js_/https://cdn.firebase.com/libs/firebaseui/3.4.0/firebaseui.js"></script>
+<script async="" defer="" src="https://web.archive.org/web/20221218052400js_/https://www.google.com/recaptcha/api.js"></script>
+<script src="/web/20221218052400js_/http://www.openhub.net/assets/application-f292ace1cc52a9a32cb59100289397dc4be559f17a7e97af787eca88d46b9dd4.js" cache="cached_js_files" async="async"></script>
+<script src="https://web.archive.org/web/20221218052400js_/https://www.gstatic.com/firebasejs/5.4.1/firebase-app.js" cache="cached_js_files" async="async"></script>
+<script src="https://web.archive.org/web/20221218052400js_/https://www.gstatic.com/firebasejs/5.4.1/firebase-auth.js" cache="cached_js_files" async="async"></script>
+
+<script async type="text/javascript" src="/web/20221218052400js_/http://www.openhub.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=1&amp;cb=1147673244"></script>
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 05:24:00 Dec 18, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:22:45 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 93.006
+  exclusion.robots: 0.102
+  exclusion.robots.policy: 0.091
+  cdx.remote: 0.071
+  esindex: 0.01
+  LoadShardBlock: 46.014 (3)
+  PetaboxLoader3.datanode: 119.991 (5)
+  load_resource: 1599.12 (2)
+  PetaboxLoader3.resolve: 1385.06 (2)
+-->

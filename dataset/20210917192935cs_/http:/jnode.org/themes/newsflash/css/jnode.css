@@ -1,0 +1,219 @@
+/*
+Color scheme
+*/
+/*@background: #79c3d2; 
+@contentbg: #d9eef2;
+@text: #143352;*/
+body {
+  margin-top: -0.2em;
+  margin-left: -0.2em;
+  padding: 0;
+  background-color: #6e6e6e;
+  color: #143352;
+  font-family: 'Georgia', serif !important;
+  font-size: 16px;
+}
+a,
+a:hover,
+a:visited {
+  color: #001130;
+}
+tr.odd {
+  background-color: #EEEEEE;
+}
+tr.even {
+  background-color: #EEEEEE;
+}
+.title,
+.title a,
+.title a:visited,
+h3 {
+  color: #143352 !important;
+}
+.submitted {
+  color: #999999;
+}
+#page {
+  width: 100%;
+  margin: 0 !important;
+  padding: 0 !important;
+  background-color: inherit;
+}
+#header {
+  background-color: #DE1E26;
+  height: 85px;
+}
+#node {
+  background-color: #ffffff;
+  border: 1px solid transparent;
+  border-radius: 0px;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+}
+#logo {
+  position: absolute;
+  margin: -0.7em;
+  z-index: 0;
+}
+#sidebar-left,
+#sidebar-right {
+  width: 250px !important;
+}
+#sidebar-left .block,
+#sidebar-right .block {
+  margin: 1em;
+  padding: 0.6em;
+  background-color: #ffffff;
+  border: solid 1px transparent;
+  border-radius: 0px;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0 5px 5px rgba(0, 0, 0, 0.4);
+  -webkit-box-shadow: 0 5px 5px rgba(0, 0, 0, 0.4);
+}
+#section1 {
+  margin: 1em;
+  margin-bottom: 0;
+  /*padding: 0.6em 0.6em 0em 0.6em;*/
+  background-color: #ffffff;
+  color: #143352;
+  border: solid 1px transparent;
+  border-radius: 0px;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0 5px 5px rgba(0, 0, 0, 0.4);
+  -webkit-box-shadow: 0 5px 5px rgba(0, 0, 0, 0.4);
+}
+#primarymenu {
+  margin-top: -0.3em;
+  position: absolute;
+  right: 0px;
+}
+#primarymenu li {
+  border: none;
+  padding: 0;
+  font-decoration: none;
+}
+#primarymenu a {
+  padding: 0.3em 0.5em 0.3em 0.5em;
+  font-weight: normal;
+  background-color: #143352;
+  border-radius: 0 0 4px 4px;
+  -moz-border-radius: 0 0 4px 4px;
+  -webkit-border-radius: 0 0 4px 4px;
+}
+#primarymenu a:hover {
+  background-color: #143352;
+  text-decoration: none;
+}
+#primarymenu .first a {
+  background-color: #ffffff;
+  color: #143352 !important;
+}
+#inner-conent .title,
+#inner-content .title a,
+#inner-content .title a:hover,
+#inner-content .title a:visited {
+  color: #143352;
+  font-weight: bold;
+  font-size: 125%;
+}
+#main {
+  margin: 0em;
+  padding: 0;
+  margin-left: -250px !important;
+  margin-right: -250px !important;
+}
+#squeeze {
+  margin: 0;
+  padding: 0;
+  margin-left: 250px !important;
+  margin-right: 250px !important;
+}
+#squeeze-content {
+  margin: 0;
+  padding: 1em;
+  background-color: #ffffff;
+  margin: 1em 0;
+  border: 1px solid transparent;
+  border-radius: 0px;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0 5px 5px rgba(0, 0, 0, 0.4);
+  -webkit-box-shadow: 0 5px 5px rgba(0, 0, 0, 0.4);
+}
+#inner-content {
+  padding: 0;
+}
+#footer {
+  color: #ffffff;
+  background-color: inherit;
+  border: none;
+  padding: 1em;
+}
+.node {
+  background-color: #ffffff;
+  margin: 1em 0;
+  border: 1px solid transparent;
+  border-bottom-color: silver;
+  padding-bottom: 1em;
+}
+.site-slogan {
+  position: absolute;
+  left: 50%;
+  top: 45px;
+}
+#search {
+  position: absolute;
+  right: 5px;
+  top: 43px;
+}
+#search input {
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+}
+ul.primary {
+  border-bottom-color: silver;
+}
+ul.primary li a {
+  background-color: #6e6e6e;
+  border: 1px solid transparent;
+}
+ul.primary li.active a,
+ul.primary li a:hover {
+  background-color: inherit;
+  border-color: silver;
+}
+ul.primary li.active a {
+  border-bottom-color: #ffffff;
+}
+#tracker td,
+#forum td {
+  white-space: normal !important;
+  word-break: break-all;
+}
+
+/*
+     FILE ARCHIVED ON 09:51:35 Sep 27, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:24:22 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 63.757
+  exclusion.robots: 0.079
+  exclusion.robots.policy: 0.071
+  RedisCDXSource: 0.623
+  esindex: 0.007
+  LoadShardBlock: 39.349 (3)
+  PetaboxLoader3.datanode: 48.739 (4)
+  load_resource: 518.499
+  PetaboxLoader3.resolve: 505.293
+*/

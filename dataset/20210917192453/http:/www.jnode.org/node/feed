@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.jnode.org" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>JNode.org - :: ~  JNode.free(yourMind); ~ ::</title>
+ <link>http://www.jnode.org</link>
+ <description>
+
+Welcome to JNode.org, the website of the Java New Operating System Design Effort.
+JNode is a simple to use &amp; install Java operating system for personal use.It runs on modern devices.Any java application will run on it, fast &amp; secure!
+JNode is open source and uses the LGPL license.
+
+
+
+
+
+  
+Latest release:
+  
+    JNode 0.2.6
+    
+
+    
+  
+  
+    Hardware requirements:
+  
+  
+    Pentium class CPU256Mb RAMsee details
+  
+
+
+
+
+</description>
+ <language>en</language>
+<item>
+ <title>Preparing for release 0.2.9</title>
+ <link>http://www.jnode.org/node/13793</link>
+ <description>&lt;p&gt;JNode has been very quiet for a long time.&lt;br /&gt;
+Now that we&#039;ve revived it a bit, I think it is time to stabilize what we have an prepare a new release.&lt;br /&gt;
+After that we can work on all kinds of new and exciting features.&lt;/p&gt;
+&lt;p&gt;We&#039;ve noticed several issues with the IDE drivers. We at least want to fix those.&lt;br /&gt;
+Please submit other issues that you think should be fixed shortly in our &lt;a href=&quot;https://github.com/jnode/jnode/issues&quot;&gt;GitHub issue tracker&lt;/a&gt;.&lt;/p&gt;
+</description>
+ <comments>http://www.jnode.org/node/13793#comments</comments>
+ <category domain="http://www.jnode.org/taxonomy/term/13">News and announcements</category>
+ <pubDate>Mon, 25 Nov 2013 14:04:57 +0200</pubDate>
+ <dc:creator>epr</dc:creator>
+ <guid isPermaLink="false">13793 at http://www.jnode.org</guid>
+</item>
+<item>
+ <title>Website update</title>
+ <link>http://www.jnode.org/node/13791</link>
+ <description>&lt;p&gt;As you can see, we&#039;ve updated the style of the website to make it a bit more modern.&lt;br /&gt;
+I hope this signals the beginning of a lot of revived activity for JNode.&lt;/p&gt;
+&lt;p&gt;Update: After 100K+ spam users managed to register on this site, we&#039;ve closed registration for this site and we&#039;re trying to cleanup.&lt;br /&gt;
+If you want to contribute, either reports issues on GitHub or contact me.&lt;/p&gt;
+</description>
+ <comments>http://www.jnode.org/node/13791#comments</comments>
+ <category domain="http://www.jnode.org/taxonomy/term/13">News and announcements</category>
+ <pubDate>Sat, 16 Nov 2013 18:19:11 +0200</pubDate>
+ <dc:creator>epr</dc:creator>
+ <guid isPermaLink="false">13791 at http://www.jnode.org</guid>
+</item>
+<item>
+ <title>Porting JNode to Raspberry Pi</title>
+ <link>http://www.jnode.org/node/6913</link>
+ <description>&lt;p&gt;Hi everybody !&lt;/p&gt;
+&lt;p&gt;I&#039;m planing to port JNode to the Raspberry Pi micro computer (&lt;a href=&quot;http://www.raspberrypi.org&quot; title=&quot;www.raspberrypi.org&quot;&gt;www.raspberrypi.org&lt;/a&gt;), it&#039;s a credit card size board with an ARM based CPU (ARMv7), a GPU, a network, 2 USB, AV IO, GPIO...&lt;/p&gt;
+&lt;p&gt;I think that it&#039;s a good idea to make a JNode clone for this wonderfull platform.&lt;/p&gt;
+&lt;p&gt;so can anybody give me an in depth detail on how JNode OS works, specially the Assempbly section, that is aimed for  Intel based CPUs, instead of ARM CPUs.&lt;/p&gt;
+&lt;p&gt;King regards&lt;/p&gt;
+</description>
+ <comments>http://www.jnode.org/node/6913#comments</comments>
+ <category domain="http://www.jnode.org/taxonomy/term/16">General discussions</category>
+ <category domain="http://www.jnode.org/taxonomy/term/40">driver</category>
+ <category domain="http://www.jnode.org/taxonomy/term/1">News</category>
+ <pubDate>Sat, 26 Jan 2013 18:25:35 +0200</pubDate>
+ <dc:creator>arafat877</dc:creator>
+ <guid isPermaLink="false">6913 at http://www.jnode.org</guid>
+</item>
+<item>
+ <title>Patch for review and commit</title>
+ <link>http://www.jnode.org/node/3417</link>
+ <description>&lt;p&gt;Hi&lt;/p&gt;
+&lt;p&gt;I have built from the trunk (.29).&lt;br /&gt;
+There were some things that did not work correctly. &lt;img src=&quot;/modules/smileys/packs/example/smile.png&quot; title=&quot;Smiling&quot; alt=&quot;Smiling&quot; /&gt;&lt;br /&gt;
+I have fixed them and would like someone to review and hopefully commit the patch.&lt;/p&gt;
+&lt;p&gt;The patch implements:&lt;br /&gt;
+  48 bit ide lba addresses. 28 bit lba addresses were implemented but 48 bit was not and it is required for larger disks (&amp;gt; 137G) .&lt;br /&gt;
+  Extended partition tables were mostly there and just needed fixing.&lt;br /&gt;
+  Fixed an exception that sometimes caused the cd to fail to load while booting from the cd. The cause was that read atapi commands did not deal with padding.&lt;/p&gt;
+&lt;p&gt;Thanks&lt;/p&gt;
+</description>
+ <comments>http://www.jnode.org/node/3417#comments</comments>
+ <category domain="http://www.jnode.org/taxonomy/term/8">JNode-FS</category>
+ <enclosure url="http://www.jnode.org/uploads/Partition.patch" length="20333" type="application/octet-stream" />
+ <pubDate>Thu, 21 Jul 2011 05:03:04 +0300</pubDate>
+ <dc:creator>griff</dc:creator>
+ <guid isPermaLink="false">3417 at http://www.jnode.org</guid>
+</item>
+<item>
+ <title>how to get started for developing for JNode?</title>
+ <link>http://www.jnode.org/node/3393</link>
+ <description>&lt;p&gt;Hello &amp;amp; thanks for the good job in JNode project.&lt;br /&gt;
+I&#039;m a java developer searching for a good java OS project to contribute to. I just wanted to know what skills does JNode project needs to be able to develop and contribute to it. what CS topics i should be skilled in? Operating systems? or just only the java programming language?&lt;br /&gt;
+ I just wanted to ask what level of complexity is JNode code before downloading src code and trying it.&lt;br /&gt;
+ can you please give me guidelines on how to prepare myself and write my first contribution to JNode project?&lt;/p&gt;
+&lt;p&gt;thanks&lt;br /&gt;
+othman&lt;/p&gt;
+</description>
+ <comments>http://www.jnode.org/node/3393#comments</comments>
+ <category domain="http://www.jnode.org/taxonomy/term/14">Wanted</category>
+ <pubDate>Wed, 01 Jun 2011 04:42:11 +0300</pubDate>
+ <dc:creator>othmanelmoulat</dc:creator>
+ <guid isPermaLink="false">3393 at http://www.jnode.org</guid>
+</item>
+<item>
+ <title>Jnode Progress</title>
+ <link>http://www.jnode.org/node/3390</link>
+ <description>&lt;p&gt;Jnode has not had a release since 0.2.8&lt;/p&gt;
+&lt;p&gt;Has the development stopped?&lt;/p&gt;
+&lt;p&gt;If not then when will a 0.2.9 or 0.3 will be released?&lt;/p&gt;
+</description>
+ <comments>http://www.jnode.org/node/3390#comments</comments>
+ <category domain="http://www.jnode.org/taxonomy/term/7">JNode-Core</category>
+ <pubDate>Tue, 24 May 2011 22:37:14 +0300</pubDate>
+ <dc:creator>sagsaw</dc:creator>
+ <guid isPermaLink="false">3390 at http://www.jnode.org</guid>
+</item>
+<item>
+ <title>jGL and general OpenGL integration in JNode</title>
+ <link>http://www.jnode.org/node/3387</link>
+ <description>&lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;I have noticed that there is no OpenGL support in JNode as present.  There is a software OGL implementation for Java, jGL:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://nis-lab.is.s.u-tokyo.ac.jp/~robin/jGL/&quot; title=&quot;http://nis-lab.is.s.u-tokyo.ac.jp/~robin/jGL/&quot;&gt;http://nis-lab.is.s.u-tokyo.ac.jp/~robin/jGL/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;...which might be a nice thing to provide with a JNode build.  I guess JNode supports Java3D, but frankly Java3D is weird and nonstandard as far as 3D graphics APIs go, and OpenGL is _the_ standard.  jGL comes with a GLU port as well (high-level parametric curves/surfaces support), and also comes with a port of GLUT, which is an auxiliary library which wraps a basic GL context with some standard management and input device handling functions.  I&#039;ve never been that fond of GLUT as a general-purpose API for app development, and its input and event handling should obviously rather be done using the standard Java/JNode APIs, but it might be important for legacy support.&lt;/p&gt;
+&lt;p&gt;What would be even nicer would be to extend the internal abstraction system of jGL to support a device driver interface to 3D graphics hardware, which JNode also does not appear to currently have.  A look at the internals of Mesa3D:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mesa3d.org&quot; title=&quot;http://mesa3d.org&quot;&gt;http://mesa3d.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;...would be useful here, as that is the current open-source reference standard insofar as extension and abstraction of 3D graphics hardware interfaces and capabilities is concerned.  Integration of such a driver API with the existing 2D driver API would be a challenge, as would smooth integration of AWT/Swing and OpenGL, but doing those sorts of things would provide an impetus to develop, debug and extend a much more powerful and capable graphics device driver API in JNode.  Those are not easy to design, and I have written several in C so I know firsthand.  Architecting one properly in Java would be an interesting challenge.&lt;/p&gt;
+&lt;p&gt;Any interest in this?  Has anyone already looked at it?&lt;/p&gt;
+&lt;p&gt;Jon&lt;/p&gt;
+</description>
+ <comments>http://www.jnode.org/node/3387#comments</comments>
+ <category domain="http://www.jnode.org/taxonomy/term/16">General discussions</category>
+ <pubDate>Fri, 20 May 2011 02:31:30 +0300</pubDate>
+ <dc:creator>Dosadi</dc:creator>
+ <guid isPermaLink="false">3387 at http://www.jnode.org</guid>
+</item>
+<item>
+ <title>Best Configuration for VBox and Running VMPlayer ?</title>
+ <link>http://www.jnode.org/node/3371</link>
+ <description>&lt;p&gt;Hi. I just downloaded JNode to give it a test. What is the best settings for VBox ? Should I choose Other OSes or how should I properly set it up. I used the Other OSes settings and it started up and using the All-plugins setting, managed to go to the console by upon running the &#039;startawt&#039;, a blank black screen was up for a long time and I had to kill the VBox.&lt;/p&gt;
+&lt;p&gt;For the VMPlayer VMX (jnode-x86-0.2.8.iso.vmx) file available for installation, I used my VMPlayer to open it but it gave the error of not being able to file the image file and kept trying to boot via network which failed.&lt;/p&gt;
+&lt;p&gt;How should I get them to boot ?&lt;/p&gt;
+</description>
+ <comments>http://www.jnode.org/node/3371#comments</comments>
+ <category domain="http://www.jnode.org/taxonomy/term/16">General discussions</category>
+ <pubDate>Tue, 15 Mar 2011 04:22:50 +0200</pubDate>
+ <dc:creator>thotheolh</dc:creator>
+ <guid isPermaLink="false">3371 at http://www.jnode.org</guid>
+</item>
+<item>
+ <title>JNode in the 10 best alternative OS</title>
+ <link>http://www.jnode.org/node/3370</link>
+ <description>&lt;p&gt;I found following article &lt;a href=&quot;http://www.techradar.com/news/software/operating-systems/10-best-alternative-operating-systems-934484&quot; title=&quot;http://www.techradar.com/news/software/operating-systems/10-best-alternative-operating-systems-934484&quot;&gt;http://www.techradar.com/news/software/operating-systems/10-best-alterna...&lt;/a&gt; and suprise, jnode is at the ninth position ^_^.&lt;/p&gt;
+</description>
+ <comments>http://www.jnode.org/node/3370#comments</comments>
+ <category domain="http://www.jnode.org/taxonomy/term/16">General discussions</category>
+ <pubDate>Tue, 15 Mar 2011 00:53:43 +0200</pubDate>
+ <dc:creator>galatnm</dc:creator>
+ <guid isPermaLink="false">3370 at http://www.jnode.org</guid>
+</item>
+<item>
+ <title>IP6</title>
+ <link>http://www.jnode.org/node/3363</link>
+ <description>&lt;p&gt;I think it&#039;s time for starting looking at the IP6 layer... If nobody else has started on this matter, I&#039;ll slowly start and see how to implement it...&lt;/p&gt;
+</description>
+ <comments>http://www.jnode.org/node/3363#comments</comments>
+ <category domain="http://www.jnode.org/taxonomy/term/10">JNode-Net</category>
+ <pubDate>Tue, 08 Feb 2011 10:15:14 +0200</pubDate>
+ <dc:creator>hagar</dc:creator>
+ <guid isPermaLink="false">3363 at http://www.jnode.org</guid>
+</item>
+</channel>
+</rss>

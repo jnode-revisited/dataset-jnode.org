@@ -1,0 +1,50 @@
+/* $Id: forum.css,v 1.2 2006/11/14 06:30:10 drumm Exp $ */
+
+#forum .description {
+  font-size: 0.9em;
+  margin: 0.5em;
+}
+#forum td.created, #forum td.posts, #forum td.topics, #forum td.last-reply, #forum td.replies, #forum td.pager {
+  white-space: nowrap;
+}
+#forum td.posts, #forum td.topics, #forum td.replies, #forum td.pager {
+  text-align: center;
+}
+.forum-topic-navigation {
+  padding: 1em 0 0 3em;
+  border-top: 1px solid #888;
+  border-bottom: 1px solid #888;
+  text-align: center;
+  padding: 0.5em;
+}
+.forum-topic-navigation .topic-previous {
+  text-align: right;
+  float: left;
+  width: 46%;
+}
+.forum-topic-navigation .topic-next {
+  text-align: left;
+  float: right;
+  width: 46%;
+}
+
+/*
+     FILE ARCHIVED ON 16:00:02 Nov 02, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:23:02 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 194.185
+  exclusion.robots: 0.079
+  exclusion.robots.policy: 0.07
+  cdx.remote: 0.057
+  esindex: 0.013
+  LoadShardBlock: 161.292 (3)
+  PetaboxLoader3.datanode: 682.842 (5)
+  load_resource: 703.239 (2)
+  PetaboxLoader3.resolve: 151.016 (2)
+*/

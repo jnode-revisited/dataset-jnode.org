@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head profile="http://www.w3.org/1999/xhtml/vocab"><script type="text/javascript" src="/_static/js/bundle-playback.js?v=4R5OHjEN" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://opensource.org/about","20210916105954","https://web.archive.org/","web","/_static/",
+	      "1631789994");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)"/>
+<link rel="canonical" href="/web/20210916105954/https://opensource.org/about"/>
+<link rel="shortlink" href="/web/20210916105954/https://opensource.org/node/23"/>
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="shortcut icon" href="https://web.archive.org/web/20210916105954im_/https://opensource.org/files/osi_favicon.png" type="image/png"/>
+  <title>About the Open Source Initiative | Open Source Initiative</title>
+  <link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210916105954cs_/https://opensource.org/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210916105954cs_/https://opensource.org/files/css/css_gh8wMJiOGewsPCJRDYXmqv3eEGGGSn0O_fqsi_9a-LY.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210916105954cs_/https://opensource.org/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="//web.archive.org/web/20210916105954cs_/https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210916105954cs_/https://opensource.org/files/css/css_KGZcOm3i1wmtbgZsjo-3V9FM4wZ-5UDcpJ7Vfzmt45E.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210916105954cs_/https://opensource.org/files/css/css_ulIzRpfhtuifCQvQJ8NpvGx_J9mvqUlZZLik4d4ZG-s.css" media="all"/>
+
+<!--[if (lt IE 9)]>
+<link type="text/css" rel="stylesheet" href="https://opensource.org/sites/all/themes/bootstrap-business/css/ie8.css?qyvib8" media="all" />
+<![endif]-->
+
+    
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//web.archive.org/web/20210916105954js_/https://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20210916105954js_/https://opensource.org/files/js/js_38VWQ3jjQx0wRFj7gkntZr077GgJoGn5nv3v05IeLLo.js"></script>
+<script type="text/javascript" src="//web.archive.org/web/20210916105954js_/https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+		$(window).scroll(function() {
+			if($(this).scrollTop() != 0) {
+				$("#toTop").fadeIn();	
+			} else {
+				$("#toTop").fadeOut();
+			}
+		});
+		
+		$("#toTop").click(function() {
+			$("body,html").animate({scrollTop:0},800);
+		});	
+		
+		});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20210916105954js_/https://opensource.org/files/js/js_ruOYJN6FkJU2O5L1dAKVnDloSn5R6LjnLW88zFxS1Uw.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20210916105954js_/https://opensource.org/files/js/js_JQHTvV_SkyFlN3f2BnQwnusF-eI6tkX8wrKAk2siiZU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap_business","theme_token":"CTWgVBpbUYwoVBj8pqm489cRU1_ta7NtlsU1uLM-Ugo","js":{"\/\/web.archive.org\/web\/20210916105954\/https:\/\/code.jquery.com\/jquery-1.10.2.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/web.archive.org\/web\/20210916105954\/https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/js\/bootstrap.min.js":1,"1":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/bootstrap-business\/js\/jquery.browser.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/web.archive.org\/web\/20210916105954\/https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/css\/bootstrap.min.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/bootstrap-business\/css\/style.css":1,"sites\/all\/themes\/bootstrap-business\/color\/colors.css":1,"sites\/all\/themes\/bootstrap-business\/css\/local.css":1,"sites\/all\/themes\/bootstrap-business\/css\/ie8.css":1}},"urlIsAjaxTrusted":{"\/about":true},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":true,"disableHI":false},"plugins":{"touchscreen":{"mode":"window_width"},"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Navigation"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-23 node-type-page">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="toTop"><span class="glyphicon glyphicon-chevron-up"></span></div>
+
+
+
+<!-- #header-top -->
+<div id="header-top" class="clearfix">
+    <div class="container">
+
+        <!-- #header-top-inside -->
+        <div id="header-top-inside" class="clearfix">
+            <div class="row">
+            
+                        <div class="col-md-8">
+                <!-- #header-top-left -->
+                <div id="header-top-left" class="clearfix">
+                      <div class="region region-header-top-left">
+    <div id="block-menu-secondary-menu" class="block block-menu clearfix">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/web/20210916105954/https://opensource.org/" title="">Home</a></li>
+<li class="leaf"><a href="/web/20210916105954/https://opensource.org/blog" title="">From the Board</a></li>
+<li class="leaf"><a href="/web/20210916105954/https://opensource.org/contact" title="">Contact</a></li>
+<li class="leaf"><a href="/web/20210916105954/https://opensource.org/civicrm/contribute/transact?reset=1&amp;id=2" title="">Donate</a></li>
+<li class="last leaf"><a href="/web/20210916105954/https://opensource.org/user/login" title="">Login</a></li>
+</ul>  </div>
+</div>
+  </div>
+                </div>
+                <!-- EOF:#header-top-left -->
+            </div>
+                        
+                        <div class="col-md-4">
+                <!-- #header-top-right -->
+                <div id="header-top-right" class="clearfix">
+                      <div class="region region-header-top-right">
+    <div id="block-search-form" class="block block-search clearfix">
+
+    
+  <div class="content">
+    <form action="/web/20210916105954/https://opensource.org/about" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == '') {this.value = 'Search this website...';}" onfocus="if (this.value == 'Search this website...') {this.value = '';}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search this website..." size="15" maxlength="128" class="form-text"/>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input value="" type="submit" id="edit-submit" name="op" class="form-submit"/></div><input type="hidden" name="form_build_id" value="form-1RRlCWTaZOM3n9iTaYxj0TEq70WncXe_49CYDKSE3XM"/>
+<input type="hidden" name="form_id" value="search_block_form"/>
+</div>
+</div></form>  </div>
+</div>
+  </div>
+                </div>
+                <!-- EOF:#header-top-right -->
+            </div>
+                        
+            </div>
+        </div>
+        <!-- EOF: #header-top-inside -->
+
+    </div>
+</div>
+<!-- EOF: #header-top -->    
+
+<!-- header -->
+<header id="header" role="banner" class="clearfix">
+    <div class="container">
+
+        <!-- #header-inside -->
+        <div id="header-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-8">
+
+                                <div id="logo">
+                <a href="/web/20210916105954/https://opensource.org/" title="Home" rel="home"> <img src="https://web.archive.org/web/20210916105954im_/https://opensource.org/files/osi_keyhole_300X300_90ppi_0.png" alt="Home"/> </a>
+                </div>
+                
+                                <div id="site-name">
+                <a href="/web/20210916105954/https://opensource.org/" title="Home">Open Source Initiative</a>
+                </div>
+                                
+                                <div id="site-slogan">
+                Guaranteeing the 'our' in source...                </div>
+                                
+                </div>
+                
+                <div class="col-md-4">
+                
+                
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #header-inside -->
+
+    </div>
+</header>
+<!-- EOF: #header --> 
+
+<!-- #main-navigation --> 
+<div id="main-navigation" class="clearfix">
+    <div class="container">
+
+        <!-- #main-navigation-inside -->
+        <div id="main-navigation-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav role="navigation">
+                                                  <div class="region region-navigation">
+    <div id="block-superfish-1" class="block block-superfish clearfix">
+
+    
+  <div class="content">
+    <ul id="superfish-1" class="menu sf-menu sf-navigation sf-horizontal sf-style-none sf-total-items-6 sf-parent-items-6 sf-single-items-0"><li id="menu-37-1" class="active-trail first odd sf-item-1 sf-depth-1 sf-total-children-4 sf-parent-children-2 sf-single-children-2 menuparent"><a href="/web/20210916105954/https://opensource.org/about" title="About the Open Source Initiative" class="sf-depth-1 menuparent active">About</a><ul><li id="menu-75-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210916105954/https://opensource.org/history" title="History of the OSI" class="sf-depth-2">History</a></li><li id="menu-82-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><a href="/web/20210916105954/https://opensource.org/board" title="Board of Directors" class="sf-depth-2 menuparent">Board</a><ul><li id="menu-83-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/docs/board-annotated" title="OSI Board -- With Annotations" class="sf-depth-3">Board - Annotated</a></li><li id="menu-96-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/minutes" title="Public Minutes of Board Meetings" class="sf-depth-3">Minutes</a></li><li id="menu-185-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/organization" title="These portfolios represent the activities of the current OSI board." class="sf-depth-3">Organization &amp; Operations</a></li><li id="menu-95-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/articles-of-incorporation" title="OSI incorporation record" class="sf-depth-3">Articles of Incorporation</a></li><li id="menu-1475-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/elections" class="sf-depth-3">Board Elections</a></li><li id="menu-84-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/bylaws" title="Bylaws of the Open Source Initiative" class="sf-depth-3">Bylaws</a></li><li id="menu-1317-1" class="last odd sf-item-7 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/conflict_of_interest_policy" class="sf-depth-3">Conflict of Interest</a></li></ul></li><li id="menu-1843-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210916105954/https://opensource.org/trademark" title="" class="sf-depth-2 menuparent">Trademark &amp; Logo</a><ul><li id="menu-184-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/trademark-guidelines" title="OSI's Trademark Policy" class="sf-depth-3">Trademark Guidelines</a></li><li id="menu-183-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/logo-usage-guidelines" title="Guidelines for appearance and usage of OSI Logo" class="sf-depth-3">Logo Guidelines</a></li></ul></li><li id="menu-126-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210916105954/https://opensource.org/ToS" title="Rules for posting content on this site" class="sf-depth-2">Terms of Service</a></li></ul></li><li id="menu-65-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-5 sf-parent-children-2 sf-single-children-3 menuparent"><a href="/web/20210916105954/https://opensource.org/licenses" class="sf-depth-1 menuparent">Licenses</a><ul><li id="menu-61-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210916105954/https://opensource.org/osd" title="The actual OSD defining what constitutes an Open Source licence" class="sf-depth-2">Open Source Definition</a></li><li id="menu-77-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210916105954/https://opensource.org/licenses/category" title="Licenses by Category" class="sf-depth-2">Licenses by Category</a></li><li id="menu-72-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210916105954/https://opensource.org/licenses/alphabetical" title="Licenses that are approved by the OSI as conforming to the OSD" class="sf-depth-2">Licenses by Name</a></li><li id="menu-66-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210916105954/https://opensource.org/approval" title="Certifying licences as OSD-compliant" class="sf-depth-2 menuparent">License Review Process</a><ul><li id="menu-67-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/proliferation" title="Supporting choice while maintaining sanity" class="sf-depth-3">Licence Proliferation</a></li><li id="menu-69-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/proliferation-report" title="License Proliferation Committee's report to the OSI Board" class="sf-depth-3">LP report to the Board</a></li></ul></li><li id="menu-99-1" class="last odd sf-item-5 sf-depth-2 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/web/20210916105954/https://opensource.org/osr-intro" title="Open Standards Requirement for Software" class="sf-depth-2 menuparent">Open Standards</a><ul><li id="menu-101-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/osr" title="An &quot;open standard&quot; must not prohibit conforming implementations in open source software." class="sf-depth-3">The Open Standards Requirement</a></li><li id="menu-102-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/osr-compliance" class="sf-depth-3">Open Standards Requirement Compliance</a></li><li id="menu-100-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/osr-rationale" class="sf-depth-3">Open Standards Requirement Rationale</a></li><li id="menu-103-1" class="last even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/osr-faq" title="Frequently asked questions about the Open Standards Requirement" class="sf-depth-3">OSR Frequently Asked Questions</a></li></ul></li></ul></li><li id="menu-1842-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-3 sf-parent-children-2 sf-single-children-1 menuparent"><a href="/web/20210916105954/https://opensource.org/membership" title="Page for our various membership programs" class="sf-depth-1 menuparent">Membership</a><ul><li id="menu-914-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210916105954/https://opensource.org/members" class="sf-depth-2 menuparent">Individuals</a><ul><li id="menu-897-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/civicrm/contribute/transact?reset=1&amp;id=1" title="" class="sf-depth-3">Join</a></li><li id="menu-2265-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/benefits" class="sf-depth-3">Benefits</a></li></ul></li><li id="menu-675-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210916105954/https://opensource.org/osi-affiliate-membership" title="Home page for OSI's membership scheme for non-profits and not-for-profits" class="sf-depth-2 menuparent">Affiliates</a><ul><li id="menu-676-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/affiliates/about" class="sf-depth-3">Become an Affiliate</a></li><li id="menu-2071-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/AffiliateRequirements" class="sf-depth-3">Affiliate  Criteria</a></li></ul></li><li id="menu-1436-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210916105954/https://opensource.org/corporate-sponsors-support" title="" class="sf-depth-2">Sponsors &amp; Support</a></li></ul></li><li id="menu-1841-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-5 sf-parent-children-1 sf-single-children-4 menuparent"><a href="/web/20210916105954/https://opensource.org/community" title="Page for our various community members." class="sf-depth-1 menuparent">Community</a><ul><li id="menu-2271-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210916105954/https://opensource.org/associations" class="sf-depth-2">Associations</a></li><li id="menu-63-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/web/20210916105954/https://opensource.org/lists" title="The virtual committees where the OSI's work gets done" class="sf-depth-2 menuparent">Mailing lists</a><ul><li id="menu-1072-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/codeofconduct/licensing" class="sf-depth-3">Licensing Code of Conduct</a></li><li id="menu-78-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/codeofconduct" title="Guidelines for OSI Mailing Lists" class="sf-depth-3">General Code of Conduct</a></li><li id="menu-2272-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/node/960" title="Monthly reports summarizing the OSI's License-Discuss and License-Review mailing lists." class="sf-depth-3">Discussion List Reports</a></li><li id="menu-2111-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/public_forums_disclaimer" class="sf-depth-3">Disclaimer for OSI Public Forums</a></li><li id="menu-2110-1" class="last odd sf-item-5 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/public_archives_policy" class="sf-depth-3">Policy on Public Communications and Archives</a></li></ul></li><li id="menu-2032-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210916105954/https://opensource.org/volunteersandstaff" class="sf-depth-2">Volunteers &amp; Staff</a></li><li id="menu-2192-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210916105954/https://opensource.org/AdvocateCircle" class="sf-depth-2">Advocate Circle</a></li><li id="menu-1846-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="https://web.archive.org/web/20210916105954/http://wiki.opensource.org/" title="" class="sf-depth-2">Wiki</a></li></ul></li><li id="menu-1840-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-6 sf-parent-children-1 sf-single-children-5 menuparent"><a href="/web/20210916105954/https://opensource.org/resources" title="Page offering resources to OSI personas" class="sf-depth-1 menuparent">Resources</a><ul><li id="menu-342-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210916105954/https://opensource.org/faq" title="Frequently Asked Questions about open source and about the OSI." class="sf-depth-2">FAQ</a></li><li id="menu-45-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210916105954/https://opensource.org/help" title="Resources for questions and further exploration" class="sf-depth-2 menuparent">Getting Help</a><ul><li id="menu-76-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/links" title="Links and References to Open Source" class="sf-depth-3">Bibliography</a></li><li id="menu-125-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105954/https://opensource.org/advocacy/case_for_business.php" title="How to advocate Open Source to businesses" class="sf-depth-3">Open Source Case for Business</a></li></ul></li><li id="menu-1514-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210916105954/https://opensource.org/working_groups" class="sf-depth-2">Working Groups &amp; Incubator Projects</a></li><li id="menu-12-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210916105954/https://opensource.org/osi-open-source-education" title="OSI's Open Source Education Initiative and Activities" class="sf-depth-2">Open Source Education</a></li><li id="menu-3046-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/web/20210916105954/https://opensource.org/node/1012" class="sf-depth-2">Articles &amp; Books</a></li><li id="menu-2193-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/web/20210916105954/https://opensource.org/authority" class="sf-depth-2">International Authority &amp; Recognition</a></li></ul></li><li id="menu-1844-1" class="last even sf-item-6 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/web/20210916105954/https://opensource.org/news" title="Page dedicated to the latest news and events." class="sf-depth-1 menuparent">News &amp; Events</a><ul><li id="menu-1845-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210916105954/https://opensource.org/news" title="Index of newsletters" class="sf-depth-2">News</a></li><li id="menu-1999-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210916105954/https://opensource.org/events" class="sf-depth-2">Events</a></li><li id="menu-4709-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210916105954/https://opensource.org/newsletter/signup" title="" class="sf-depth-2">Newsletter Signup</a></li></ul></li></ul>  </div>
+</div>
+  </div>
+                                            </nav>
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #main-navigation-inside -->
+
+    </div>
+</div>
+<!-- EOF: #main-navigation -->
+
+<!-- #banner -->
+<div id="banner" class="clearfix">
+    <div class="container">
+        
+        <!-- #banner-inside -->
+        <div id="banner-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                  <div class="region region-banner">
+    <div id="block-block-23" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <div class="rtecenter" style="font-size:16px; font-weight: bold;"><a href="https://web.archive.org/web/20210916105954/https://eventyay.com/e/e7dfbfc4/" target="_blank">Practical Open Source Information</a> :: Online Event :: September 16 - 11:00 AM to 4:00 PM EDT</div>
+  </div>
+</div>
+  </div>
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #banner-inside -->        
+
+    </div>
+</div>
+<!-- EOF:#banner -->
+
+<!-- #page -->
+<div id="page" class="clearfix">
+    
+    
+    <!-- #main-content -->
+    <div id="main-content">
+        <div class="container">
+        
+            <!-- #messages-console -->
+                        <!-- EOF: #messages-console -->
+            
+            <div class="row">
+
+                
+
+                <section class="col-md-12">
+
+                    <!-- #main -->
+                    <div id="main" class="clearfix">
+                    
+                        
+                        
+                        <!-- EOF:#content-wrapper -->
+                        <div id="content-wrapper">
+
+                                                                                    <h1 class="page-title">About the Open Source Initiative</h1>
+                                                        
+                                                  
+                            <!-- #tabs -->
+                                                            <div class="tabs">
+                                                                </div>
+                                                        <!-- EOF: #tabs -->
+
+                            <!-- #action links -->
+                                                        <!-- EOF: #action links -->
+
+                              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <article id="node-23" class="node node-page clearfix">
+
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p style="color:#1E531D; margin-left:50px; font-size: 1.5em; font-style: italic;"><span class="author-a-z82zhz90z2gz84zbz83zz70zc1ahz84zy2">As steward of the </span><a href="/web/20210916105954/https://opensource.org/docs/osd">Open Source Definition</a>, <span class="author-a-z82zhz90z2gz84zbz83zz70zc1ahz84zy2">we set the foundation for the open source software ecosystem</span><span class="author-a-az65z3pz83zz72z6z84z0nz78zz89zwwz69zd">.</span></p>
+
+<p>The Open Source Initiative (OSI) is a California public benefit corporation, with 501(c)3 tax-exempt status, founded in 1998.</p>
+
+<p dir="ltr" id="docs-internal-guid-c0750a8d-7fff-815b-26d0-2ffa66bc3cd8" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size: 11pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">We are also actively involved in Open Source community-building, education, and public advocacy to promote awareness and the importance of non-proprietary software. OSI participates in Open Source conferences and events, to meet with open source developers and users, and to discuss with executives from the public and private sectors about how Open Source technologies, licenses, and models of development can provide economic and strategic advantages.</span></span></p>
+
+<h2>Vision</h2>
+
+<div>
+<p dir="ltr" style="line-height:1.656;margin-top:0pt;margin-bottom:0pt"><span style="font-family:arial,helvetica,sans-serif;"><span id="m_-6086358556205384863gmail-docs-internal-guid-bbc829f4-7fff-3001-44ee-88f2b5933261"><span style="font-size: 11pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">As the leading voice on the policies and principles of open source, </span><span style="font-size: 11pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">the</span><span style="font-size: 11pt; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> </span><span style="font-size: 11pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">OSI </span><span style="font-size: 11pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">helps build a world where the freedoms and opportunities of open source software can be enjoyed by all. The OSI supports institutions and individuals working together to create communities of practice in which the healthy open source ecosystem thrives.</span></span></span></p>
+</div>
+
+<h2>Mission</h2>
+
+<p>The Open Source Initiative (OSI) is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source and to build bridges among different constituencies in the open source community.</p>
+
+<p>Open source enables a development method for software that harnesses the power of distributed peer review and transparency of process. The promise of open source is higher quality, better reliability, greater flexibility, lower cost, and an end to predatory vendor lock-in.</p>
+
+<p>One of our most important activities is as a standards body, maintaining <a href="https://web.archive.org/web/20210916105954/http://www.opensource.org/docs/osd">the Open Source Definition</a> for the good of the community. The Open Source Initiative Approved License trademark and program creates a nexus of trust around which developers, users, corporations and governments can organize open source cooperation.</p>
+
+<h2> </h2>
+
+<h2>Contact</h2>
+
+<p>Please contact the OSI if you are interested in having us help you develop, arrange, or conduct educational conferences, programs, courses of instruction, and/or online educational seminars relating to Open Source (non-proprietary) software.</p>
+
+<p>Our website has <a href="/web/20210916105954/https://opensource.org/contact">a contact form that can be used to reach us over the internet</a>, or we can be contacted at our mailing address:</p>
+
+<blockquote>
+<p>Open Source Initiative<br/>
+8605 Santa Monica Blvd PMB 63639<br/>
+West Hollywood, CA  90069-4109<br/>
+United States</p>
+</blockquote>
+
+<p>The Open Source Initiative's IRS Tax ID Number (TIN) is 91-2037395.</p>
+
+<p>The Open Source Initiative's EU Transparency Register Number 672028337929-77</p>
+<!--break--></div></div></div>  </div>
+    
+     
+
+  <section id="comments" class="comment-wrapper">
+          <h2 class="title">Comments</h2>
+      
+  <a id="comment-221"></a>
+<article class="comment clearfix">
+
+  <header class="clearfix">
+    <p class="submitted">
+            Submitted by <span class="username">administrator</span> on Mon, 2007-07-23 08:58      <a href="/web/20210916105954/https://opensource.org/comment/221#comment-221" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+              <h3>
+        <a href="/web/20210916105954/https://opensource.org/comment/221#comment-221" class="permalink" rel="bookmark">Informacje o  Open Source Initiative (Polish translation)</a>              </h3>
+          </header>
+
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>This is a Polish translation of "About the Open Source Initiative".
+    Jest to polskie tłumaczenie dokumentu "About the Open Source Initiative".
+    Translated by / tłumaczenia wykonał: <a href="https://web.archive.org/web/20210916105954/http://www.t4tw.info/">T4TW</a> <a href="https://web.archive.org/web/20210916105954/http://www.t4tw.info/tlumaczenia/tlumaczenia.htm">tłumaczenia</a> team.</p>
+
+  <p> Open Source Initiative (OSI) jest założoną w 1998 roku w Kaliforni korporacją typu non-profit</p>
+  <p>Pracownicy OSI zarządzają  <a href="https://web.archive.org/web/20210916105954/http://www.opensource.org/docs/osd">Definicją Open Source (OSD)</a> i są uznanym przez społeczność organem zajmującym się rozpatrywaniem i zatwierdzaniem licencji zgodności z OSD.</p>
+  <p>OSI pozostaje aktywnie zaangażowana w budowę społeczności Open Source jak i edukację. Członkowie   <a href="https://web.archive.org/web/20210916105954/http://opensource.org/board">Zarządu OSI</a>
+często podróźują po świecie by móc uczestniczyć w wydarzeniach i konferencjach związanych z technologią Open Source, gdzie spotykają się z projektantami i użytkownikami open source. Prowadzą również dyskusje z kierownikami przedsiębiorstw sektora publicznego i prywatnego na temat tego jak technologie Open source, licencje oraz modele rozwoju mogą zapewnić im gospodarczą i strategiczną przewagę.</p></div></div></div>
+  
+  </article>
+<div class="indented"><a id="comment-888"></a>
+<article class="comment clearfix">
+
+  <header class="clearfix">
+    <p class="submitted">
+            Submitted by <span class="username">administrator</span> on Tue, 2009-02-10 01:16      <a href="/web/20210916105954/https://opensource.org/comment/888#comment-888" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+              <h3>
+        <a href="/web/20210916105954/https://opensource.org/comment/888#comment-888" class="permalink" rel="bookmark">Σχετικά με την Open Source Initiative (Greek translation)</a>              </h3>
+          </header>
+
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Σχετικά με το Open Source Initiative
+Η Πρωτοβουλία Ανοιχτού Κώδικα (OSI) είναι μια κοινωφελή εταιρία της Καλιφόρνιας , με 501 (γ) 3 κατάστασης μη κερδοσκοπικού χαρακτήρα, που ιδρύθηκε το 1998.
+Το OSI είναι οι διαχειριστές του Open Source Definition (OSD) και του αναγνωρισμένου εκ της κοινότητας οργάνου  για την εξέταση και την έγκριση των αδειών σαν OSD-conformant.
+Η OSI δραστηριοποιείται με την  ανάπτυξη Open Source κοινοτήτων  και την εκπαίδευση. Μέλη του συμβουλίου OSI κάνουν συχνά ταξίδια ανα τον κόσμο για να παρακολουθήσουν Open Source συνέδρια και εκδηλώσεις, να συναντηθούν με open source δημιουργούς και χρήστες, και για να συζητήσουν με στελέχη του δημοσίου και ιδιωτικού τομέα σχετικά με το πώς οι Open Source τεχνολογίες, οι άδειες, και τα μοντέλα ανάπτυξης μπορούν να παρέχουν οικονομικά  και στρατηγικά πλεονεκτήματα.</div></div></div>
+  
+  </article></div><a id="comment-233"></a>
+<article class="comment clearfix">
+
+  <header class="clearfix">
+    <p class="submitted">
+            Submitted by <span class="username">administrator</span> on Sun, 2007-07-29 04:58      <a href="/web/20210916105954/https://opensource.org/comment/233#comment-233" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+              <h3>
+        <a href="/web/20210916105954/https://opensource.org/comment/233#comment-233" class="permalink" rel="bookmark">Açık Kaynak İnisiyatifi Hakkında (Turkish Translation)</a>              </h3>
+          </header>
+
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">This is a Turkish Translation of "About the Open Source Initiative".
+
+Açık Kaynak İnisiyatifi (OSI) 1998'te kurulmuş bir Kaliforniya şirketidir.
+
+OSI Açık Kaynak Tanımı'nın (OSD) idarecileri ve lisansları gözden geçirmek ve OSD uyumlu olarak onaylayan topluluk içinde tanınmış bir oluşumdur.
+
+OSI açık kaynak topluluklarının oluşturulması ve eğitiminde aktif olarak rol almaktadır. OSI kurul üyeleri açık kaynak konferanslarına katılmak, açık kaynak geliştirici ve kullanıcılarıyla bir araya gelmek ve sektördeki yöneticilerle açık kaynak teknolojilerinin, lisanslarının ve geliştirme modellerinin sağlayacağı ekonomik ve stratejik avantajları tartışmak amacıyla sıkça dünyayı dolaşmaktadırlar.</div></div></div>
+  
+  </article><a id="comment-255"></a>
+<article class="comment clearfix">
+
+  <header class="clearfix">
+    <p class="submitted">
+            Submitted by <span class="username">administrator</span> on Tue, 2007-08-07 16:19      <a href="/web/20210916105954/https://opensource.org/comment/255#comment-255" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+              <h3>
+        <a href="/web/20210916105954/https://opensource.org/comment/255#comment-255" class="permalink" rel="bookmark">关于 Open Source Initiative (Chinese translation)</a>              </h3>
+          </header>
+
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">This is a Chinese Translation of "About the Open Source Initiative" for the Chinese open source community.
+这是一份 "About the Open Source Initiative" 的华语版本.
+Translated by / 翻译: Benedict of MoneyFanClub
+Open Source Initiative (OSI) 是一间创办于1998年的加利福尼亞501(c)3 公司.
+OSI 也是負責 Open Source Definition (OSD) 和被相关群体認同及可审查和发出合 OSD 标准執照的公司.
+OSI 在 Open Source 群体社区及教育方面都非常活跃. OSI 董事及委员经常都到世界各地去参加一些活动和会议, 而且还和 open source 软件的開發商和用户, 以及公共或私人机构的执行员一起讨论有关 Open Source 科技, 執照和开发模式可带来的决策及经济效应.</div></div></div>
+  
+  </article><a id="comment-324"></a>
+<article class="comment clearfix">
+
+  <header class="clearfix">
+    <p class="submitted">
+            Submitted by <span class="username">administrator</span> on Fri, 2007-09-14 00:42      <a href="/web/20210916105954/https://opensource.org/comment/324#comment-324" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+              <h3>
+        <a href="/web/20210916105954/https://opensource.org/comment/324#comment-324" class="permalink" rel="bookmark">In Turkish Translation of</a>              </h3>
+          </header>
+
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">In Turkish Translation of the article there are some problems.It would be like this.
+"This is a Turkish Translation of "About the Open Source Initiative". Açık Kaynak İnisiyatifi (OSI) 1998'te kurulmuş bir Kaliforniya kuruluşudur. OSI, Açık Kaynak Tanımı'nın (OSD) yöneticileridir ve lisansları gözden geçirmekle beraber OSD standartlarına uyumlu olarak bunları onaylayan topluluk içinde tanınmış bir oluşumdur. OSI açık kaynak topluluklarının oluşturulması ve eğitiminde aktif olarak rol almaktadır. OSI kurul üyeleri açık kaynak konferanslarına katılmak, açık kaynak geliştirici ve kullanıcılarıyla bir araya gelmek ve sektördeki yöneticilerle açık kaynak teknolojilerinin, lisanslarının ve geliştirme modellerinin sağlayacağı ekonomik ve stratejik avantajları tartışmak amacıyla sıkça dünyayı dolaşmaktadırlar."
+Turkish comment: Bu bağlamda ek olarak kredi kartları hakkında şunu söylemeden geçemeyeceğim.Kredi kartı bilinçli olarak kullanıldığı sürece sizin dostunuz haline gelicektir.Ancak bilinçsiz kullanılırsa, başınıza açacağı sorunlar sizin en büyük düşmanınız olur.Ne varki kredi kartı kullanımı giderek artıyor fakat bu artışla beraber bilinçsiz kullanım da artıyor. Bunun yaratıcağı toplumsal sorunların minumum seviyede olmasını temenni ediyorum.
+1st paragraph is true translation of article..
+Regards, <a href="https://web.archive.org/web/20210916105954/http://www.trkredi.com/" rel="nofollow">Kredi</a></div></div></div>
+  
+  </article><a id="comment-431"></a>
+<article class="comment clearfix">
+
+  <header class="clearfix">
+    <p class="submitted">
+            Submitted by <span class="username">administrator</span> on Wed, 2007-12-19 07:46      <a href="/web/20210916105954/https://opensource.org/comment/431#comment-431" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+              <h3>
+        <a href="/web/20210916105954/https://opensource.org/comment/431#comment-431" class="permalink" rel="bookmark">Информация об &quot;Open Source Initiative&quot; (Русский перевод)</a>              </h3>
+          </header>
+
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">This is a Russian translation of "About the Open Source Initiative".
+Translated by Petr Kirillov with support (<a href="https://web.archive.org/web/20210916105954/http://wintermp3.com/" rel="nofollow">mp3 downloads</a>).
+Open Source Initiative (OSI) это Калифорнийская публичная корпорация, основанная в 1998 году.
+OSI это компания, управляющая проектом <a href="https://web.archive.org/web/20210916105954/http://opensource.org/docs/osd" rel="nofollow">Open Source Definition (OSD)</a>, а также общественная организация, которая рецензирует и утверждает лицензии OSD.
+OSI активно участвует в посторении Open Source сообщества и обучении. Члены <a href="https://web.archive.org/web/20210916105954/http://opensource.org/comment/reply/board" rel="nofollow">OSI Board</a> часто путешествуют по миру чтобы посетить Open Source конференции и события, встретиться с Open Source разработчиками и пользователями, и чтобы обсудить с органами исполнительной власти публичные или приватные вопросы о том, как Open Source технологии, лицензии и модели разработки могут обеспечить экономические и стратегические преимущества.</div></div></div>
+  
+  </article><a id="comment-453"></a>
+<article class="comment clearfix">
+
+  <header class="clearfix">
+    <p class="submitted">
+            Submitted by <span class="username">administrator</span> on Mon, 2008-01-28 09:41      <a href="/web/20210916105954/https://opensource.org/comment/453#comment-453" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+              <h3>
+        <a href="/web/20210916105954/https://opensource.org/comment/453#comment-453" class="permalink" rel="bookmark">About the Open Source Initiative - (Dutch)Nederlandse vertaling </a>              </h3>
+          </header>
+
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">The Dutch translation is:
+
+Over de Open Source initiative
+De Open Source Initiatief (OSI) is een Calefornische Publieke Organisatie, met een 501(c)belasting vrijstelling status, gesticht in 1998.
+
+De OSI zijn de vertegenwoordigers van de Open Source Definition (OSD) en zijn het door het publiek erkende instantie voor het herzien en goedkeuren van licenties tot OSD-conform.
+
+De OSI is actief betrokken in het Open Source groepsopbouw en onderwijs. OSI raadsleden reizen vaak door de gehele wereld voor het bijwonen van Open source conferenties en events, voor het ontmoeten van Open Source ontwikkelaars en gebruikers en om te bespreken met leiders van publieke en private sectoren over hoe Open Source technology, licenties en modellen van ontwikkeling economische en strategische voordelen kan opleveren.
+
+Translated by
+LeerWiki</div></div></div>
+  
+  </article><a id="comment-593"></a>
+<article class="comment clearfix">
+
+  <header class="clearfix">
+    <p class="submitted">
+            Submitted by <span class="username">administrator</span> on Fri, 2008-06-27 02:58      <a href="/web/20210916105954/https://opensource.org/comment/593#comment-593" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+              <h3>
+        <a href="/web/20210916105954/https://opensource.org/comment/593#comment-593" class="permalink" rel="bookmark">Swahili translation</a>              </h3>
+          </header>
+
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">The Open Source Initiative (OSI) ni kikundi cha kijamii huko California kilichosamehewa kodi kwa kifungu no. 501(c) na kuanzishwa mwaka 1998.
+OSI inawajibika na Tafsiri ya Open Source (OSD) and kutambuliwa na jamii kama chombo cha kupitia na kupiticha leseni zinazoendana na OSD.
+OSI inajihusisha na  Open Source katika kutengeneza na kufundisha jamii. Wajumbe wa bodi ya OSI husafiri mara kwa mara duniani kote kuhudhuria mikutano na matukio, kuonana na wahandisi wa programu na watumiaji na pia kujadiliana na watendaji wa taasisi za jamii na binafsi kuhusu jisnsi gani technologia za Open Source, leseni, and mifumo ya utengenezaji vyaweza kuleta mafanikio katika uchumi na mipango.
+==
+Frank Tilugulilwa</div></div></div>
+  
+  </article><a id="comment-600"></a>
+<article class="comment clearfix">
+
+  <header class="clearfix">
+    <p class="submitted">
+            Submitted by <span class="username">administrator</span> on Wed, 2008-07-02 10:43      <a href="/web/20210916105954/https://opensource.org/comment/600#comment-600" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+              <h3>
+        <a href="/web/20210916105954/https://opensource.org/comment/600#comment-600" class="permalink" rel="bookmark">Acerca de la Iniciativa Codigo Abierto</a>              </h3>
+          </header>
+
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">(About OSI. Spanish translation)
+La Iniciativa Código Abierto (OSI por sus siglas en Ingles) es un corporativo de beneficencia publica, con un estado de excempción 501 (c) 3, fundada en 1998.
+OSI es el administrador de la definicion Código Abierto (OSD por sus siglas en Ingles) y el cuerpo reconocido por la comunidad para revisar y aprobar licencias conforme al estándar OSD.
+OSI esta activamente involucrada en la construcción de Comunidades de Código abierto y educación. Los miembros de la mesa directiva de OSI, viajan frecuentemente alrededor del mundo para asistir a conferencias y eventos acerca del Código Abierto, reunirse con desarrolladores y usuarios de código abierto, y para discutir con ejecutivos de los sectores público y privados acerca de como las tecnologías de Código Abierto, licencias, y modelos de desarrollo pueden proveer ventajas económicas y estrategicas.</div></div></div>
+  
+  </article><a id="comment-670"></a>
+<article class="comment clearfix">
+
+  <header class="clearfix">
+    <p class="submitted">
+            Submitted by <span class="username">administrator</span> on Wed, 2008-08-20 19:57      <a href="/web/20210916105954/https://opensource.org/comment/670#comment-670" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+              <h3>
+        <a href="/web/20210916105954/https://opensource.org/comment/670#comment-670" class="permalink" rel="bookmark">Arabic translation of the &quot;About the Open Source Initiative&quot;</a>              </h3>
+          </header>
+
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">This is the Arabic translation
+translated by: Mr. Mohamed Farag
+http://farag.org
+مبادرة المصدر المفتوح  (OSI) هي جمعية للنفع العام بكاليفورنيا، تتبع الفئة 501 (سي)3 المعفاة من الضرائب، وتأسست في 1998.
+إن القائمين على مبادرة المصدر المفتوح  هم المشرفون على كل ما يتعلق بمعيار المصدر المفتوح (OSD)، وهي الكيان المعتمد من المجتمع المعنيّ لفحص التراخيص، وإجازتها كتراخيص مطابقة لمعيار المصدر المفتوح .
+تشارك مبادرة المصدر المفتوح  بفعالية في بناء وتوعية مجتمع المصدر المفتوح .كثيراًً ما يجوب أعضاء مجلس إدارة مبادرة المصدر المفتوح العالم ليشهدوا مؤتمرات ومناسبات المصدر المفتوح، وليقابلوا مطوري ومستخدمي المصدر المفتوح ، وليتناقشوا مع المسؤولين من القطاعين العام والخاص حول الكيفية التي بها يمكن لتقنيات، وتراخيص، ونماذج تطوير المصدر المفتوح أن تقدم ميزات اقتصادية واستراتيجية.
+______________________________________
+N.B.: I tried to use HTML first to make the rtl working, but no hope. If you can, please do it.</div></div></div>
+  
+  </article><a id="comment-728"></a>
+<article class="comment clearfix">
+
+  <header class="clearfix">
+    <p class="submitted">
+            Submitted by <span class="username">administrator</span> on Tue, 2008-10-07 12:00      <a href="/web/20210916105954/https://opensource.org/comment/728#comment-728" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+              <h3>
+        <a href="/web/20210916105954/https://opensource.org/comment/728#comment-728" class="permalink" rel="bookmark">Re:</a>              </h3>
+          </header>
+
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">This is a Ukrainian translation of "About the Open Source Initiative"
+Translated by Witness with support (ТРК Украина).
+
+Open Source Initiative (OSI) це Каліфорнійська публічна корпорация, що зоснована у 1998 році.
+OSI це компанія, що керує проектом Open Source Definition (OSD), а також є громадською організацією, що рецензує і впроваджує ліцензії OSD.
+OSI приймає активну участь у побудові Open Source та навчанні. Члени OSI Board приймають участь у світових Open Source конференціях і подіях, зустрічаються з Open Source розробниками й користувачами, і щоб обговорити з органамі виконавчої влади публичні і приватні питання стосовно того, як Open Source технології, ліцензії і моделі розробки мають зобезпечити економічні і стратегічні переваги</div></div></div>
+  
+  </article><a id="comment-784"></a>
+<article class="comment clearfix">
+
+  <header class="clearfix">
+    <p class="submitted">
+            Submitted by <span class="username">administrator</span> on Fri, 2008-11-14 00:45      <a href="/web/20210916105954/https://opensource.org/comment/784#comment-784" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+              <h3>
+        <a href="/web/20210916105954/https://opensource.org/comment/784#comment-784" class="permalink" rel="bookmark">Despre Initiativa Open Source (OSI)</a>              </h3>
+          </header>
+
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Initiativa Open Source (OSI) este o corporatie californiana fondată în anul 1998 prin beneficiu public, avand statutul 501(c)3 pentru scutire de taxe.
+
+Membrii OSI sunt stewarzi ai Definitiei Open Source (OSD) si a comunitatii recunoscuta pentru revizuirea şi aprobarea licentelor ca fiind conforme cu statutul OSD.
+
+OSI este implicata activ în construirea si educarea comunitatii Open Source. Membrii consiliului de administraţie ai OSI participa în mod frecvent la conferinte si evenimente Open Source organizate in toata lumea, se intalnesc cu utilizatorii si dezvoltatorii tehnologiei Open Source si discuta cu directorii din sectoarele publice si private despre avantajele economice si strategice pe care tehnologia Open Source, licentele si modele de dezvoltare le pot aduce.</div></div></div>
+  
+  </article><a id="comment-872"></a>
+<article class="comment clearfix">
+
+  <header class="clearfix">
+    <p class="submitted">
+            Submitted by <span class="username">administrator</span> on Sat, 2009-01-31 16:53      <a href="/web/20210916105954/https://opensource.org/comment/872#comment-872" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+              <h3>
+        <a href="/web/20210916105954/https://opensource.org/comment/872#comment-872" class="permalink" rel="bookmark">Traducción al español Inciativa de Codigo Abierto</a>              </h3>
+          </header>
+
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">La Inciativa de Codigo Abierto (OSI) es una corporación de beneficio público de California, con 501 (c) 3 de exención de impuestos, fundada en 1998.
+La OSI son los administradores de la Definicion de codigo libre (Open source) y la comunidad reconocida para la revisión y aprobación de licencias OSD.
+La OSI está participando activamente en la comunidad Open Source y de fomento de la educación. Los miembros de la Junta OSI con frecuencia viajan por el mundo para asistir a conferencias y eventos de código abierto.
+Para reunirse con los desarrolladores de código abierto y los usuarios, y discutir con los ejecutivos de los sectores público y privado acerca de cómo las tecnologías de código abierto, licencias y modelos de desarrollo pueden ofrecer ventajas económicas y estratégicas.</div></div></div>
+  
+  </article><a id="comment-906"></a>
+<article class="comment clearfix">
+
+  <header class="clearfix">
+    <p class="submitted">
+            Submitted by <span class="username">administrator</span> on Mon, 2009-02-23 12:46      <a href="/web/20210916105954/https://opensource.org/comment/906#comment-906" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+              <h3>
+        <a href="/web/20210916105954/https://opensource.org/comment/906#comment-906" class="permalink" rel="bookmark">Italian translation</a>              </h3>
+          </header>
+
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">L'Open Source Initiative (OSI) è una società pubblica benefica californiana, fondata nel 1998, avente lo stato di esenzione fiscale 501(c)3.
+L'OSI è l'assistente della Open Source Definition (OSD) ed organismo riconosciuto dalla comunità per la revisione e l'approvazione delle licenze rispetto alla conformità OSD.
+L'OSI è attivamente coinvolta nella costruzione e la formazione della comunità Open Source. I membri del consiglio direttivo della OSI viaggiano per il mondo per partecipare alle conferenze ed agli eventi Open Source, per incontrare sviluppatori ed utenti dell'open source, e per discutere con i dirigenti dei settori pubblici e privati su come le tecnologie Open Source, le licenze ed i modelli di sviluppo possano portare vantaggi economici e strategici.</div></div></div>
+  
+  </article><a id="comment-1157"></a>
+<article class="comment clearfix">
+
+  <header class="clearfix">
+    <p class="submitted">
+            Submitted by <span class="username">tbm</span> on Thu, 2009-12-31 12:22      <a href="/web/20210916105954/https://opensource.org/comment/1157#comment-1157" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+              <h3>
+        <a href="/web/20210916105954/https://opensource.org/comment/1157#comment-1157" class="permalink" rel="bookmark">German translation</a>              </h3>
+          </header>
+
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>
+Die Open Source Initiative (OSI) ist ein gemeinnütziges Unternehmen, das im US-Bundesstaat Kalifornien ansäßig ist. Es wurde 1998 gegründet und ist nach Section 501(c)3 des Internal Revenue Codes steuerbefreit.
+</p>
+
+<p>
+Die OSI verwaltet die Open Source Definition (OSD). Sie ist das von der Gemeinschaft anerkannte Gremium, das Lizenzen auf OSD-Konformität überprüft und anerkennt.
+</p>
+
+<p>
+Die OSI ist beteiligt sich aktiv am Aufbau und der Ausbildung der Open-Source Gemeinschaft. Sie betreibt darüber hinaus Öffentlichkeitsarbeit um das Ansehen von nicht-proprietärer Software zu verbessern und das Bewusstsein dafür zu stärken. Vorstandsmitglieder der OSI besuchen häufig Open-Source Konferenzen und Veranstaltungen, treffen sich mit Open-Source-Entwicklern und Anwendern, und diskutieren mit Führungskräften aus dem öffentlichen und dem privaten Sektor darüber wie Open-Source-Technologien, Lizenzen und Modelle zur Entwicklung von wirtschaftlichen und strategischen Vorteile beitragen können.
+</p>
+
+<p>
+(Translation contributed by Bernhard Treutwein)
+</p></div></div></div>
+  
+  </article><a id="comment-1277"></a>
+<article class="comment clearfix">
+
+  <header class="clearfix">
+    <p class="submitted">
+            Submitted by <span class="username">administrator</span> on Thu, 2010-03-18 03:00      <a href="/web/20210916105954/https://opensource.org/comment/1277#comment-1277" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+              <h3>
+        <a href="/web/20210916105954/https://opensource.org/comment/1277#comment-1277" class="permalink" rel="bookmark">Опен Сорс*</a>              </h3>
+          </header>
+
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Опен Сорс* Инициатива (ОСИ) е стюард на Опен Сорс Дефиниция (ОСД) и е общество-признато тяло за преглеждане и одобряване на лицензии като ОСД- съответстващи.
+ ОСИ е активно заета в изграждането и обучението на Опен Сорс - общество, както и за широко-обществено застъпване към повишаване на общественото съзнание и важността на не-патентен софтуер. Членовете на Управителния Съвет на ОСИ , често пътуват по света, да присъстват на Опен Сорс конференции и събития, да се срещат с Опен Сорс разработчици и потребители, и да разискват с изпълнителни директори от обществения и частен сектори, как Опен Сорс технологии, лицензии и модели на разработка могат да обезпечат икономически и стратегически предимства.
+ Ако обичате, свържете се ОСИ ,ако сте заинтересувани в нашата помощ , за разработване, уреждане, или провеждане на образователни конференции, програми, инструктиращи курсове, и/или онлайн образователни семинари по отношение на Опен Сорсе (не-патентен) софтуер.
+ *опен сорс (open source) - отворен , достъпен , не-патентен компютърен код
+Опен Сорс Инициатива пощенски адрес:
+P.O. Box 410990, #256,
+San Francisco, CA 94114-0990
+United States
+Данъчен идентификационен номер (TIN) : 91-2037395</div></div></div>
+  
+  </article><a id="comment-1334"></a>
+<article class="comment clearfix">
+
+  <header class="clearfix">
+    <p class="submitted">
+            Submitted by <span class="username">administrator</span> on Sun, 2010-04-25 02:43      <a href="/web/20210916105954/https://opensource.org/comment/1334#comment-1334" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+              <h3>
+        <a href="/web/20210916105954/https://opensource.org/comment/1334#comment-1334" class="permalink" rel="bookmark">Turkish Translation - Açık Kaynak Kullanımı</a>              </h3>
+          </header>
+
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Bende  Open Source protokollerinin kullanım alanlarının genişlemesinden yanayım. Bu sayede birçok işlemin daha güvenli ve kolayca yapılabileceğine inanıyorum. Özellikle Türkiye de bu konuda birçok eksiklik bulunduğuna inanıyorum. Bende <a href="https://web.archive.org/web/20210916105954/http://www.etoplum.com/" rel="nofollow"> etoplum </a> sitesinde Open source Açık Kaynak Dizin kullanımı hakkında bilgiye yer vermek istiyorum. Bu gibi girişimlerle daha bilinçli internet kullanıcıları meydana gelebilir. Hepinize teşekkürler.
+Thanks.</div></div></div>
+  
+  </article>
+  </section>
+</article>  </div>
+</div>
+  </div>
+                            
+                        </div>
+                        <!-- EOF:#content-wrapper -->
+
+                    </div>
+                    <!-- EOF:#main -->
+
+                </section>
+
+                        
+            </div>
+
+        </div>
+    </div>
+    <!-- EOF:#main-content -->
+
+    
+</div>
+<!-- EOF:#page -->
+
+
+<footer id="subfooter" class="clearfix">
+    <div class="container">
+        
+        <!-- #subfooter-inside -->
+        <div id="subfooter-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- #subfooter-left -->
+                    <div class="subfooter-area">
+                                            
+
+                                          <div class="region region-footer">
+    <div id="block-block-11" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <div class="filler" style="vertical-align: middle; display: inline-block;">
+<p style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><a href="https://web.archive.org/web/20210916105954/https://twitter.com/OpenSourceOrg" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210916105954im_/https://opensource.org/files/twitterlogo.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210916105954/https://www.linkedin.com/company/open-source-initiative-osi-" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210916105954im_/https://opensource.org/files/linkedin.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210916105954/http://wiki.opensource.org/" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210916105954im_/https://opensource.org/files/xwikilogo.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210916105954/http://creativecommons.org/licenses/by/4.0/" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210916105954im_/https://opensource.org/files/ccby.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a></p>
+</div>
+
+<p> </p>
+
+<div class="license" style="vertical-align: middle; display: inline-block;">
+<p>Sign-up for our <a href="newsletter/signup">newsletter</a>!</p>
+
+<p>The content on this website, of which Opensource.org is the author, is licensed under a <a href="https://web.archive.org/web/20210916105954/http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.<br/>
+Opensource.org is not the author of any of the licenses reproduced on this site. Questions about the copyright in a license should be directed to the license steward.</p>
+
+<p>Hosting for Opensource.org is generously provided by <a href="https://web.archive.org/web/20210916105954/https://www.digitalocean.com/">DigitalOcean</a>. Please see <a href="/web/20210916105954/https://opensource.org/ToS">Terms of Service</a>.<br/><span style="font-size:10px;">For questions regarding the OSI website and contents pleasee <a href="https://web.archive.org/web/20210916105954/mailto:webmaster@lists.opensource.org?subject=OSI%20website%20comment">email our webmaster</a>.</span></p>
+</div>
+
+<p> </p>
+  </div>
+</div>
+<div id="block-block-7" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <script src="https://web.archive.org/web/20210916105954js_/https://www.google-analytics.com/urchin.js" type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+
+//--><!]]>
+</script><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+_uacct = "UA-3916956-1";
+urchinTracker();
+
+//--><!]]>
+</script>  </div>
+</div>
+  </div>
+                    
+                    </div>
+                    <!-- EOF: #subfooter-left -->
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #subfooter-inside -->
+    
+    </div>
+</footer>
+<!-- EOF:#subfooter -->
+  </body>
+</html><!--
+     FILE ARCHIVED ON 10:59:54 Sep 16, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:26:25 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 133.934
+  exclusion.robots: 0.064
+  exclusion.robots.policy: 0.056
+  cdx.remote: 0.054
+  esindex: 0.008
+  LoadShardBlock: 72.997 (3)
+  PetaboxLoader3.datanode: 74.171 (4)
+  load_resource: 412.265
+  PetaboxLoader3.resolve: 376.906
+-->

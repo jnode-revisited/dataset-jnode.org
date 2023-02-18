@@ -1,0 +1,598 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script type="text/javascript" src="/_static/js/bundle-playback.js?v=4R5OHjEN" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://jnode.org/devices","20210513033406","https://web.archive.org/","web","/_static/",
+	      "1620876846");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <title>Hardware support in JNode | JNode.org</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="shortcut icon" href="/web/20210513033406im_/http://jnode.org/misc/favicon.ico" type="image/x-icon"/>
+  <style type="text/css" media="all">@import "/web/20210513033406cs_/http://jnode.org/modules/book/book.css";</style>
+<style type="text/css" media="all">@import "/web/20210513033406cs_/http://jnode.org/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "/web/20210513033406cs_/http://jnode.org/modules/poll/poll.css";</style>
+<style type="text/css" media="all">@import "/web/20210513033406cs_/http://jnode.org/modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "/web/20210513033406cs_/http://jnode.org/modules/system/system.css";</style>
+<style type="text/css" media="all">@import "/web/20210513033406cs_/http://jnode.org/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/web/20210513033406cs_/http://jnode.org/modules/project/project.css";</style>
+<style type="text/css" media="all">@import "/web/20210513033406cs_/http://jnode.org/modules/project_issue/project_issue.css";</style>
+<style type="text/css" media="all">@import "/web/20210513033406cs_/http://jnode.org/modules/devel/devel.css";</style>
+<style type="text/css" media="all">@import "/web/20210513033406cs_/http://jnode.org/modules/comment/comment.css";</style>
+<style type="text/css" media="all">@import "/web/20210513033406cs_/http://jnode.org/themes/newsflash/style.css";</style>
+<style type="text/css" media="all">@import "/web/20210513033406cs_/http://jnode.org/themes/newsflash/css/jnode.css";</style>
+  <script type="text/javascript" src="/web/20210513033406js_/http://jnode.org/misc/jquery.js"></script>
+<script type="text/javascript" src="/web/20210513033406js_/http://jnode.org/misc/drupal.js"></script>
+<script type="text/javascript" src="/web/20210513033406js_/http://jnode.org/modules/devel/devel.js"></script>
+  <script type="text/javascript"> </script>
+      <style type="text/css">
+    #page {
+      width : 100%px;
+    }
+    </style>
+        <style type="text/css">
+    body.sidebar-left #main {
+      margin-left: -210px;
+    }
+    body.sidebars #main {
+      margin-left: -210px;
+    }
+    body.sidebar-left #squeeze {
+      margin-left: 210px;
+    }
+    body.sidebars #squeeze {
+      margin-left: 210px;
+    }
+    #sidebar-left {
+      width: 210px;
+    }
+    </style>
+        <style type="text/css">
+    body.sidebar-right #main {
+      margin-right: -210px;
+    }
+    body.sidebars #main {
+      margin-right: -210px;
+    }
+    body.sidebar-right #squeeze {
+      margin-right: 210px;
+    }
+    body.sidebars #squeeze {
+      margin-right: 210px;
+    }
+    #sidebar-right {
+      width: 210px;
+    }
+    </style>
+        <style type="text/css">
+    body {
+      font-family : Arial, Verdana, sans-serif;
+    }
+    </style>
+        <!--[if IE]>
+<style type="text/css" media="all">@import "/themes/newsflash/css/ie.css";</style>
+<![endif]-->
+    <script type="text/javascript" src="https://web.archive.org/web/20210513033406js_/http://www.jnode.org/themes/newsflash/js/pickstyle.js"></script>
+</head>
+<body class="sidebars">
+  <div id="page">
+    <div id="header" class="clear-block">
+      <div id="logo-title">
+                              <a href="/web/20210513033406/http://jnode.org/" title="Home"> <img src="/web/20210513033406im_/http://jnode.org/themes/newsflash/logo.png" alt="Home" id="logo"/> </a>
+                        </div><!-- /logo-title -->
+      <div id="name-and-slogan">
+              </div><!-- /name-and-slogan -->
+                	<div id="primarymenu">
+                  <ul class="links primary-links"><li class="first menu-1-1-99"><a href="/web/20210513033406/http://jnode.org/node/view/25" class="menu-1-1-99">Start here!</a></li>
+<li class="menu-1-2-99"><a href="/web/20210513033406/http://jnode.org/docs" class="menu-1-2-99">Documentation</a></li>
+<li class="menu-1-3-99"><a href="/web/20210513033406/http://jnode.org/download_latest" class="menu-1-3-99">Download</a></li>
+<li class="menu-1-4-99"><a href="/web/20210513033406/http://jnode.org/node/view/455" class="menu-1-4-99">Contribute</a></li>
+<li class="menu-1-5-99"><a href="/web/20210513033406/http://jnode.org/status" class="menu-1-5-99">Status</a></li>
+<li class="menu-1-6-99"><a href="/web/20210513033406/http://jnode.org/node/view/132" class="menu-1-6-99">Screenshots</a></li>
+<li class="menu-1-7-99"><a href="/web/20210513033406/http://jnode.org/forum" class="menu-1-7-99">Forums</a></li>
+<li class="last menu-1-8-99"><a href="/web/20210513033406/http://jnode.org/contact" class="menu-1-8-99">Contact</a></li>
+</ul>                           
+                </div>
+                    <div class="site-slogan"> :: ~  JNode.free(yourMind); ~ :: </div>
+            <form action="/web/20210513033406/http://jnode.org/search/node" accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline"><div class="form-item">
+ <input type="text" maxlength="128" name="search_theme_form_keys" id="edit-search-theme-form-keys" size="15" value="" title="Enter the terms you wish to search for." class="form-text"/>
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search" class="form-submit"/>
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"/>
+</div>
+</div></form>
+          </div><!-- /header -->
+            <div id="middlecontainer">
+              <div id="sidebar-left"><div class="block block-forum" id="block-forum-0">
+  <h2 class="title">Active forum topics</h2>  <div class="content"><div class="item-list"><ul><li><a href="/web/20210513033406/http://jnode.org/node/13797" title="1 comment">Observations on a first time build</a></li><li><a href="/web/20210513033406/http://jnode.org/node/13796">Creation of a Device I/O API in OpenJDK</a></li><li><a href="/web/20210513033406/http://jnode.org/node/13795" title="1 comment">How to convert a real mode address to a protected mode address in JNode ?</a></li></ul></div><div class="more-link"><a href="/web/20210513033406/http://jnode.org/forum" title="Read the latest forum topics.">more</a></div></div></div>
+<div class="block block-blog" id="block-blog-0">
+  <h2 class="title">Recent blog posts</h2>  <div class="content"><div class="item-list"><ul><li><a href="/web/20210513033406/http://jnode.org/node/13799">OSGi</a></li><li><a href="/web/20210513033406/http://jnode.org/node/13798">Thoughts on Documentation</a></li><li><a href="/web/20210513033406/http://jnode.org/node/13788">Hyper-V</a></li><li><a href="/web/20210513033406/http://jnode.org/node/5656">A new, natural, simple way to perceive files. (With JNode planned as foundation)</a></li><li><a href="/web/20210513033406/http://jnode.org/node/3985">Contribution</a></li><li><a href="/web/20210513033406/http://jnode.org/node/3872">My goals for 2012 with JNode</a></li><li><a href="/web/20210513033406/http://jnode.org/node/3369">About Email Response</a></li><li><a href="/web/20210513033406/http://jnode.org/node/3316">Nice to have found this!</a></li><li><a href="/web/20210513033406/http://jnode.org/node/3294">Me 3</a></li><li><a href="/web/20210513033406/http://jnode.org/node/3293">Me again</a></li></ul></div><div class="more-link"><a href="/web/20210513033406/http://jnode.org/blog" title="Read the latest blog entries.">more</a></div></div></div>
+<div class="block block-block" id="block-block-11">
+    <div class="content"><p><a class="twitter-timeline" href="https://web.archive.org/web/20210513033406/https://twitter.com/search?q=%23jnode" data-widget-id="405250609260920832">Tweets about "#jnode"</a></p>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//web.archive.org/web/20210513033406/http://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46091383-1', 'jnode.org');
+  ga('send', 'pageview');
+
+</script></div></div>
+ </div>
+            <div id="main">
+        <div id="squeeze">
+                              <div id="squeeze-content">
+            <div id="inner-content">
+                           <h1 class="title">Hardware support in JNode</h1>
+              <div class="tabs"></div>
+                                          <div class="node">
+  
+  
+  
+  <div class="node-content"><p>Devices</p>
+<p><b>Architecture</b></p>
+<table>
+<tr>
+<td>Manufacturer</td>
+<td>Device name</td>
+<td>Test</td>
+</tr>
+<tr>
+<td>(Many)</td>
+<td>Intel X86</td>
+<td>OK</td>
+</tr>
+<tr>
+<td>(Many)</td>
+<td>X86_64</td>
+<td>temporarly not working</td>
+</tr>
+</table>
+<p><b>Disk</b></p>
+<table>
+<tr>
+<td>Manufacturer</td>
+<td>Device name</td>
+<td>Test</td>
+<td></td>
+</tr>
+<tr>
+<td>(Standard)</td>
+<td>IDE LBA Disk</td>
+<td>OK</td>
+</tr>
+<tr>
+<td>(Standard)</td>
+<td>PCI IDE Controller</td>
+<td>OK</td>
+</tr>
+<tr>
+<td>(Standard)</td>
+<td>IDE CDROM/DVD</td>
+<td>OK</td>
+</tr>
+</table>
+<p><b>Graphics</b></p>
+<table>
+<tr>
+<td>Manufacturer</td>
+<td>Device name</td>
+<td>Test</td>
+</tr>
+<tr>
+<td>ATI</td>
+<td>Radeon</td>
+<td>OK</td>
+</tr>
+<tr>
+<td>ATI</td>
+<td>Mach64 In development</td>
+<td>Does not work</td>
+</tr>
+<tr>
+<td>NVidia</td>
+<td>RIVA TNT</td>
+<td>Should work</td>
+</tr>
+<tr>
+<td>NVidia</td>
+<td>RIVA TNT2/TNT2 Pro</td>
+<td>Should work</td>
+</tr>
+<tr>
+<td>NVidia</td>
+<td>RIVA TNT2 Ultra</td>
+<td>Should work</td>
+</tr>
+<tr>
+<td>NVidia</td>
+<td>Vanta/Vanta LT</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>NVidia</td>
+<td>RIVA TNT2 Model 64/Model 64 Pro</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>NVidia</td>
+<td>Aladdin TNT2</td>
+<td>Should work</td>
+</tr>
+<tr>
+<td>NVidia</td>
+<td>GeForce 256</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>NVidia</td>
+<td>GeForce DDR</td>
+<td>Should work</td>
+</tr>
+<tr>
+<td>NVidia</td>
+<td>GeForce2 MX 200 DDR</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>VMWare</td>
+<td>SVGA</td>
+<td>Ok</td>
+</tr>
+</table>
+<p><b>Keyboard</b></p>
+<table>
+<tr>
+<td>Manufacturer</td>
+<td>Device name</td>
+<td>Test</td>
+</tr>
+<tr>
+<td>(Standard)</td>
+<td>PS/2</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>(Standard)</td>
+<td>USB keyboard Not yet stable</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>Microsoft</td>
+<td>Natural Keyboard Pro PS/2+USB</td>
+<td>Ok</td>
+</tr>
+</table>
+<p><b>Network</b></p>
+<table>
+<tr>
+<td>Manufacturer</td>
+<td>Device name</td>
+<td>Test</td>
+</tr>
+<tr>
+<td>(Many)</td>
+<td>NE2000</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>(Standard)</td>
+<td>Loopback</td>
+<td>Should work</td>
+</tr>
+<tr>
+<td>3Com</td>
+<td>3C905C_TXM</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>3Com</td>
+<td>3C905B [Cyclone]</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>Broadcom</td>
+<td>BCM570x</td>
+<td>Does not work</td>
+</tr>
+<tr>
+<td>RealTek</td>
+<td>8029 PCI</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>RealTek</td>
+<td>8139 PCI</td>
+<td>Ok</td>
+</tr>
+</table>
+<p><b>Pointing device</b></p>
+<table>
+<tr>
+<td>Manufacturer</td>
+<td>Device name</td>
+<td>Test</td>
+</tr>
+<tr>
+<td>(Standard)</td>
+<td>USB mouse</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>Logitech</td>
+<td>WheelMouse PS/2 &amp; USB</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>Logitech</td>
+<td>Optical WheelMouse PS/2 &amp; USB</td>
+<td>Ok</td>
+</tr>
+</table>
+<p><b>Processor</b></p>
+<table>
+<tr>
+<td>Manufacturer</td>
+<td>Device name</td>
+<td>Test</td>
+</tr>
+<tr>
+<td>AMD</td>
+<td>Athlon</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>AMD</td>
+<td>Duron</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>AMD</td>
+<td>Athlon 64 Switch of MP detection (using mp=no)</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>Intel</td>
+<td>Pentium 4</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>Intel</td>
+<td>Pentium</td>
+<td>Should work</td>
+</tr>
+<tr>
+<td>Intel</td>
+<td>Pentium Pro</td>
+<td>Should work</td>
+</tr>
+<tr>
+<td>Intel</td>
+<td>Pentium II</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>Intel</td>
+<td>Pentium 3</td>
+<td>Ok</td>
+</tr>
+</table>
+<p><b>USB</b></p>
+<table>
+<tr>
+<td>Manufacturer</td>
+<td>Device name</td>
+<td>Test</td>
+</tr>
+<tr>
+<td>(Standard)</td>
+<td>USB mouse</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>(Standard)</td>
+<td>USB keyboard Not yet stable</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>(Standard)</td>
+<td>USB HUB</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>(Standard)</td>
+<td>UHCI host controller</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>Logitech</td>
+<td>WheelMouse PS/2 &amp; USB</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>Logitech</td>
+<td>Optical WheelMouse PS/2 &amp; USB</td>
+<td>Ok</td>
+</tr>
+<tr>
+<td>Microsoft</td>
+<td>Natural Keyboard Pro PS/2+USB</td>
+<td>Ok</td>
+</tr>
+</table>
+</div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/web/20210513033406/http://jnode.org/user/login?destination=comment/reply/2707%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+  
+</div>
+<div id="comments"><a id="comment-14536"></a>
+<div class="comment clear-block">
+  
+
+  <h3><a href="/web/20210513033406/http://jnode.org/devices#comment-14536" class="active">more platforms to support</a></h3>
+
+  <div class="submitted">
+    Submitted by douglas on Fri, 03/13/2009 - 11:58.  </div>
+
+  <div class="content">
+    <p>I always think Java is great especially due to its portablity.<br/>
+So why don't make java OS to run on MORE platforms than intel, intel, intel and compatibles with intel?<br/>
+What about PowerPC, SPARC, ARM, MIPS?</p>
+  </div>
+
+  <ul class="links"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/web/20210513033406/http://jnode.org/user/login?destination=comment/reply/2707%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+<div class="indented"><a id="comment-14539"></a>
+<div class="comment clear-block">
+  
+
+  <h3><a href="/web/20210513033406/http://jnode.org/devices#comment-14539" class="active">It is a matter of resourcing and priorities</a></h3>
+
+  <div class="submitted">
+    Submitted by Stephen Crawley on Fri, 03/13/2009 - 23:20.  </div>
+
+  <div class="content">
+    <p>As Levente points out, the process for porting JNode to a new hardware is "well understood".  The problem (of course) is that it is a lot of work, and would require someone with considerable skills in writing compilers, assembly language cores and so on.  And this is not just a one-time cost because the JNode port would then need to be maintained.</p>
+<p>We have to balance the effort/resources needed to create and maintain a JNode port against the effort/resources needed to do other tasks aimed at making JNode more usable on the x86 platform.  The current active developer group is concentrating on the latter.  IMO, this is the right thing to do.  It is better to have JNode run fast with lots of functionality on the x86 platform (that 95+% of people use) rather than have it run slowly with less functionality on a wide range of platforms.</p>
+<p>But, hey, if someone (or some company) with the right skills were to commit to creating and maintaining a JNode port to (say) PowerPC, I'm sure we'd be very supportive.</p>
+  </div>
+
+  <ul class="links"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/web/20210513033406/http://jnode.org/user/login?destination=comment/reply/2707%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+<a id="comment-14537"></a>
+<div class="comment clear-block">
+  
+
+  <h3><a href="/web/20210513033406/http://jnode.org/devices#comment-14537" class="active">I agree</a></h3>
+
+  <div class="submitted">
+    Submitted by lsantha on Fri, 03/13/2009 - 12:06.  </div>
+
+  <div class="content">
+    <p>The JNode architecture is suitable for supporting more platforms and we could provide technical support for developers interested in porting JNode to new platforms.</p>
+<p>Here is an abstract of what porting involves: <a href="https://web.archive.org/web/20210513033406/http://www.jnode.org/node/512" title="http://www.jnode.org/node/512">http://www.jnode.org/node/512</a></p>
+  </div>
+
+  <ul class="links"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/web/20210513033406/http://jnode.org/user/login?destination=comment/reply/2707%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+</div></div> 
+                                        </div><!-- /inner-content -->
+          </div><!-- /squeeze-content -->
+        </div><!-- /squeeze -->
+      </div><!-- /main -->
+              <div id="sidebar-right"><div class="block block-user" id="block-user-1">
+  <h2 class="title">Navigation</h2>  <div class="content">
+<ul class="menu">
+<li class="expanded"><a href="https://web.archive.org/web/20210513033406/https://github.com/jnode/jnode/issues" title="Bugs, features requests and other enhancement suggestions">Issues</a>
+<ul class="menu">
+<li class="leaf"><a href="/web/20210513033406/http://jnode.org/bugs" title="JNode issue tracker (bugs, features, tasks)">bugs &amp; feature requests (old)</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="/web/20210513033406/http://jnode.org/node/add">Create content</a></li>
+<li class="leaf"><a href="/web/20210513033406/http://jnode.org/reports" title="Nightly generated reports">Reports</a></li>
+<li class="leaf"><a href="/web/20210513033406/http://jnode.org/tracker">Recent posts</a></li>
+
+</ul>
+</div></div>
+<div class="block block-block" id="block-block-9">
+  <h2 class="title">JNode uses</h2>  <div class="content"><center>
+<a href="https://web.archive.org/web/20210513033406/http://www.openjdk.org/" target="_blank"> 
+   <img src="/web/20210513033406im_/http://jnode.org/images/openjdk.png" width="140" hight="50" alt="OpenJDK" title="Learn more about OpenJDK"/>
+</a>
+<br/>
+<br/>
+<a href="https://web.archive.org/web/20210513033406/http://www.gnu.org/software/classpath/" target="_blank"> 
+   <img src="/web/20210513033406im_/http://jnode.org/images/GNU_Classpath_132x46.png" alt="GNU Classpath" title="Learn more about GNU Classpath"/>
+</a>
+<br/>
+<br/>
+</center></div></div>
+<div class="block block-block" id="block-block-5">
+    <div class="content"><center>
+<a href="/web/20210513033406/http://jnode.org/node/831">
+<img src="/web/20210513033406im_/http://jnode.org/buttons/jnode_link_3.png" alt="I like JNode!" title="I like JNode!">
+</a>
+<!-- inactive site
+<br/><br/>
+<a href="http://www.java.net" target="_blank" >
+  <img border="0" src="http://today.java.net/images/javanet_button_90.gif">
+</a>
+-->
+<br/><br/>
+<a href="https://web.archive.org/web/20210513033406/https://github.com/jnode/" target="_blank">
+  <img border="0" src="https://web.archive.org/web/20210513033406im_/https://raw.github.com/github/media/master/octocats/blacktocat-32.png">
+</a>
+<br/><br/>
+<a href="https://web.archive.org/web/20210513033406/http://sourceforge.net/projects/jnode/" target="_blank">
+  <img border="0" src="https://web.archive.org/web/20210513033406im_/http://sourceforge.net/sflogo.php?group_id=80882">
+</a>
+<br/><br/>
+<a href="https://web.archive.org/web/20210513033406/http://www.ohloh.net/projects/4111?ref=sample" target="_blank">
+  <img width="100" height="16" src="https://web.archive.org/web/20210513033406im_/http://www.jnode.org/images/ohloh-project-report.gif" alt="Ohloh project report for JNode"/></a>
+<br/><br/>
+<center>
+<a href="/web/20210513033406/http://jnode.org/node/691">Donations</a>
+</center>
+<br/></div></div>
+<div class="block block-user" id="block-user-0">
+  <h2 class="title">User login</h2>  <div class="content"><form action="/web/20210513033406/http://jnode.org/devices?destination=node%2F2707" accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required"/>
+</div>
+<div class="form-item">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass" maxlength="60" size="15" class="form-text required"/>
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in" class="form-submit"/>
+<div class="item-list"><ul><li><a href="/web/20210513033406/http://jnode.org/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"/>
+
+</div></form>
+</div></div>
+ </div>
+          </div><!-- /middle-container -->
+    <div style="clear:both"></div>
+            <div id="footer">
+                    <div id="footer-message"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+  <td valign="top" align="left">Copyright (c) JNode.org 2013</td>
+  <td valign="top" align="right">This page is optimized for Mozilla Firefox</td>
+</tr>
+</table>
+</div>
+            <br/>
+          </div><!-- /footer -->
+  <div style="clear:both"></div>
+    </div> <!-- /page -->
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 03:34:06 May 13, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:18:44 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 97.544
+  exclusion.robots: 0.092
+  exclusion.robots.policy: 0.082
+  cdx.remote: 0.064
+  esindex: 0.009
+  LoadShardBlock: 61.68 (3)
+  PetaboxLoader3.datanode: 121.352 (4)
+  load_resource: 232.564
+  PetaboxLoader3.resolve: 134.486
+-->

@@ -1,0 +1,281 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><script type="text/javascript" src="/_static/js/bundle-playback.js?v=4R5OHjEN" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.jnode.org:80/book/export/html/25","20200119005358","https://web.archive.org/","web","/_static/",
+	      "1579395238");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+<title>Getting Started</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><base href="https://web.archive.org/web/20200119005358/http://www.jnode.org/"/>
+<style type="text/css">
+@import url(/web/20200119005358cs_/http://www.jnode.org/misc/print.css);
+</style>
+</head>
+<body>
+<div class="section-1">
+<div class="section-2">
+<div id="node-25" class="section-3">
+<h1 class="book-heading">Getting Started</h1>
+<p>To start using JNode you have two options:</p>
+<ol>
+<li><a href="/web/20200119005358/http://www.jnode.org/node/25#bin">Download the latest released CD-ROM image</a></li>
+<li><a href="/web/20200119005358/http://www.jnode.org/node/25#src">Download the latest sources and build them</a></li>
+</ol>
+<h2><a name="bin"></a>Getting the latest released CD-ROM image</h2>
+<ul>
+<li>Download the bootable CDROM image from <a href="/web/20200119005358/http://www.jnode.org/downloads">here</a>.
+<li>Unzip it</li>
+<li>Burn it to CD-ROM</li>
+<li>Boot a test PC from it or start in in VMWare</li>
+</ul>
+<h2><a name="src"></a>Getting the latest sources and building them</h2>
+<ul>
+<li>Checkout the jnode module from GitHub. See the <a href="https://web.archive.org/web/20200119005358/https://github.com/jnode/jnode">GitHub jnode repository page</a> for details.</li>
+<li>Build JNode using the build.bat (on windows) or build.sh (on unix) script.<br/>
+Without parameters, these scripts will give all build options. You probably want to use the cd-x86 option that builds the CD-ROM image.</li>
+<li>Boot a test PC from it or start in in VMWare</li>
+</ul>
+<h2><a name="src"></a>Getting nightly builds</h2>
+<ul>
+<li>Download the <a href="https://web.archive.org/web/20200119005358/http://www.jnode.org/releases/nightly-builds/">nightly-builds</a></li>
+<li>You can also get the sources and a ready-to-use vmx file for VMWare</li>
+</ul>
+<h2>Running JNode</h2>
+<p>Once JNode has booted, you will see a JNode &gt; command prompt. See the shell reference for available commands. </p>
+<div id="node-798" class="section-4">
+<h1 class="book-heading">The 20 minute guided tour.</h1>
+<p>This is a quick guide to get started with JNode. It will help you to  download a JNode boot image, and explain how to use it.  It also will give you get you started with exploring JNode's capabilities and give you some tips on how to use the JNode user interfaces.</p>
+<p>To start with, you need to download a JNode boot image.  Go to <a href="https://web.archive.org/web/20200119005358/http://www.jnode.org/taxonomy/term/2">this page</a> and click on the link for the latest version. This will take you to a page with the downloadable files for the version.  The page also has a link to a page listing the JNode hardware requirements.</p>
+<p>At this point, you have two choices. You can create a bootable CD ROM and then run JNode on real hardware by booting your PC from the CD ROM drive.  Alternatively, you can run JNode on virtual PC using VMWare.</p>
+<p>To run JNode on real hardware:</p>
+<ol>
+<li>Download the "gzip compressed ISO image" from the JNode download page.
+<li>Uncompress the ISO image using "gunzip".
+<li>Use your favorite CD burning software to burn the ISO image onto a blank CD ROM.
+<li>Shutdown your PC.
+<li>Put the JNode boot CD into the CD drive
+<li>Boot from the CD, following the PC manufacturer's instructions.
+</ol>
+<p>To run JNode from VMWare:</p>
+<ol>
+<li>Download a <i>free</i> copy of <a href="https://web.archive.org/web/20200119005358/https://www.vmware.com/download/player/">VMware-Player</a>.  (You can also use the <i>free</i> <a href="https://web.archive.org/web/20200119005358/https://www.vmware.com/download/server/">VMware-Server</a> which allows to modify the VM parameters and so on, or you buy one of the more advanced VMWare products.)
+<li>Install VMWare following the instructions provided.
+<li>Download the "gzip compressed ISO image" <i>and</i> the "vmx" file from the JNode download page.
+<li>Uncompress the ISO image using "gunzip", and make sure that the image is in the same directory as the "vmx" file.
+<li>Launch VMWare, browse to find the JNode "vmx" file, and launch it as described in the VMWare user guide.
+</ol>
+<p>When you start up JNode, the first thing you will see after the BIOS messages is the Grub bootloader menu allowing you to select between various JNode configurations.  If you have at 500MB or more of RAM (or 500MB assigned to the VM if you are using VMware), we recommend the "JNode (all plugins)" configuration.  This allows you to run the GUI.  Otherwise, we recommend the "JNode (default)" or "JNode (minimal shell)" configurations.  (For more information on the available JNode configurations, ...).</p>
+<p>Assuming that you choose one of the recommended configurations, JNode will go through the bootstrap sequence, and start up a text console running a command shell, allowing you to issue commands.  The initial command will look like this:</p>
+<p><i>JNode /&gt;</i></p>
+<p>Try a couple of commands to get you started:</p>
+<p><i>JNode /&gt;</i> <b>dir</b></p>
+<p>will list the JNode root directory,</p>
+<p><i>JNode /&gt;</i> <b>alias</b></p>
+<p>will list the commands available to you, and </p>
+<p><i>JNode /&gt;</i> <b>help &lt;command&gt;</b></p>
+<p>will show you a command's online help and usage informatiom.</p>
+<p>There are a few more useful things to see:</p>
+<ul>
+<li>Entering <b>ALT+F7</b> (press the ALT and F7 keys at the same time) will switch to the logger console.  Entering <b>ALT+F1</b> switches you back to the shell console.
+<li>Entering <b>SHIFT+UP-ARROW</b> and <b>SHIFT+DOWN-ARROW</b> scroll the current console backwards and forwards.
+<li>Entering <b>TAB</b> performs command name and argument completion.
+<li>Entering <b>UP-ARROW</b> and <b>DOWN-ARROW</b> allows you to choose commands from the command history.
+</ul>
+<p>The JNode completion mechanism is more sophisticated than the analogs in typical Linux and Windows shells.  In addition to performing command name and file name completion, it can do completion of command options and context sensitive argument completion.  For example, if you want to set up your network card using the "dhcp" command, you don't need to go hunting for the name of the JNode network device.  Instead, enter the following:</p>
+<p><i>JNode /&gt;</i> <b>dhcp eth&lt;TAB&gt;</b></p>
+<p>The completer will show a list of known ethernet devices allowing you to select the appropriate one.  In this case, there is typically one name only, so this will be added to the command string.</p>
+<p>For more information on using the shell, please refer to the <a href="/web/20200119005358/http://www.jnode.org/node/88">JNode Shell</a> page,</p>
+<p>I bet you are bored with text consoles by now, and you are eager to see the JNode GUI.  You can start it as follows:</p>
+<p><i>JNode /&gt;</i> <b>gc</b><br><i>JNode /&gt;</i> <b>startawt</b></p>
+<p>The GUI is intended to be intuitive, so give it a go.  It currently includes a "Text Console" app for entering commands, and a couple of games.  If you have problems with the GUI, <b>ALT+F12</b> should kill the GUI and drop you back to the text console.</p>
+<p>By the way, you can switch the font rendering method used by the GUI before you run "startawt", as follows: </p>
+<p><i>JNode /&gt;</i> <b>set jnode.font.renderer ttf|bdf</b></p>
+<p>If you have questions or you just want to talk to us, please consider joining our IRC channel (<a href="https://web.archive.org/web/20200119005358/irc://irc.oftc.net/JNode.org">#<span class="__cf_email__" data-cfemail="094347666d6c27667b6e49607b6a27666f7d6a27676c7d">[email&#160;protected]</span></a>). We're all very friendly and try to help everyone *g*</p>
+<p>If you find a bug, we would really appreciate you posting a bug report via our <a href="https://web.archive.org/web/20200119005358/http://www.jnode.org/bugs">bug tracker</a>.  You can also enter support and feature requests there.</p>
+<p>Feel free to continue trying out JNode.  If you have the time and the skills, please consider joining us to make it better.</p>
+</div>
+<div id="node-68" class="section-4">
+<h1 class="book-heading">Booting from the network</h1>
+<p>2 options are available here</p>
+<div id="node-103" class="section-5">
+<h1 class="book-heading">Network boot disk</h1>
+<p>If you do not have a bootable network card, you can create a network boot disk instead. See the GRUB manual for details, or use <a href="https://web.archive.org/web/20200119005358/http://rom-o-matic.net/">ROM-o-matic</a> or the <a href="https://web.archive.org/web/20200119005358/http://i30www.ira.uka.de/~ud3/mkgrubdisk/">GRUB network boot-disk creator</a>.</p>
+</div>
+<div id="node-69" class="section-5">
+<h1 class="book-heading">NIC-based network boot</h1>
+<p>To boot JNode from the network, you will need a bootable network card, a DHCP/BOOTP and TFTP server setup.</p>
+<ul>
+<li>Set the TFTP base directory to &lt;JNode dir&gt;/all/build/x86/netboot
+<li>Set the boot file to nbgrub-&lt;card&gt; where &lt;card&gt; is the card you are using
+<li>Set DHCP option 150 to (nd)/menu-nb.lst
+</ul>
+</div>
+</div>
+<div id="node-13790" class="section-4">
+<h1 class="book-heading">Booting from USB memory stick</h1>
+<p>This guide shows you how to boot JNode from an USB memory stick.<br/>
+You'll need a Windows machine to build on and a clean USB memory stick (it may be wiped!).</p>
+<p>Step 1: Build a JNode iso image (e.g. build cd-x86-lite)<br/>
+Step 2: Download <a href="https://web.archive.org/web/20200119005358/https://sites.google.com/site/shamurxboot/">XBoot</a>.<br/>
+Step 3: Run XBoot with Administrator rights<br/>
+Step 4: Open file: select the ISO created in step 1. Choose "Add grub4dos using iso emulation".<br/>
+Step 5: Click "Create USB"</p>
+<p>XBoot will now install a bootloader (choose the default) and prepare the USB memory stick.<br/>
+After then, eject the memory stick and give it a try.</p>
+<p>When it boots, you'll first have to choose JNode from the menu. Then the familiar JNode Grub boot menu appears.</p>
+</div>
+<div id="node-614" class="section-4">
+<h1 class="book-heading">Eclipse Howto</h1>
+<p>This chapter explains how to use the <a href="https://web.archive.org/web/20200119005358/https://www.eclipse.org/">Eclipse</a> 3.2 IDE with JNode.</p>
+<h2>Starting</h2>
+<p>JNode contains several Eclipse projects within a single SVN module. To checkout and import these projects into Eclipse, execute the following steps:</p>
+<ol>
+<li>Checkout the jnode module from SVN using any SVN tool you like.<br/>
+Look at the <a href="https://web.archive.org/web/20200119005358/https://sourceforge.net/svn/?group_id=80882">sourceforge SVN</a> page for more details.</li>
+<li>Start Eclipse</li>
+<li>Select File - Import. You wil get this screen.
+<p><img src="/web/20200119005358im_/http://www.jnode.org/toolguides/eclipse-import.png" title="" alt=""/></p>
+</li>
+<li>Select "Existing project into workspace". </li>
+<li>Enter the root directory of the imported jnode CVS module in this screen.
+<p><img src="/web/20200119005358im_/http://www.jnode.org/toolguides/eclipse-import-projects.png" title="" alt=""/></p>
+<p>The listed projects will appear when the root directory has been selected.
+</li>
+<li>Select Finish</li>
+<li>You will end up with all projects into your Eclipse workspace like this:
+<p><img src="/web/20200119005358im_/http://www.jnode.org/toolguides/eclipse-import-result.png" title="" alt=""/></p>
+</li>
+</ol>
+<h2>Building</h2>
+<p>You can build JNode within Eclipse by using the build.xml Ant file found in the JNode-All project. However, due to the memory requirements of the build process, it is better to run the build from the commandline using build.bat (on windows) or build.sh (on unix).</p>
+</div>
+<div id="node-27" class="section-4">
+<h1 class="book-heading">Running in Bochs</h1>
+<p>Running JNode in Bochs does not seem to work out of the box yet. It fails on setting CPU register CR4 into 4Mb paging mode.<br/>
+A compile setting that enables 4Mb pages is known to solve this problem. To enable this settings, running configure with the --enable-4meg-pages argument or add #define BX_SUPPORT_4MEG_PAGES 1 to config.h.</p>
+</div>
+<div id="node-2750" class="section-4">
+<h1 class="book-heading">Running in KVM</h1>
+<h3>Setup</h3>
+<p>If you have a CPU with hardware virtualization support you can run JNode in kvm wich is much faster than vmware-[player|server] (at least for me). You need a CPU that either supports Intel's IVT (aka Vanderpool) or AMD's AMD-V (aka Pacifica).</p>
+<p>With</p>
+<pre>egrep '^flags.*(vmx|svm)' /proc/cpuinfo"</pre><p>you can easily check if your CPU supports VT or not. If you receive output your CPU is supported, else it is not. If your CPU is supported also check that VT is enabled in your system bios.</p>
+<p>Load the kvm modules matching your CPU, either "modprobe kvm_intel" or "modprobe kvm_amd", install kvm user tools and setup permissions so users may run kvm (Have a look at a HOWTO for your distro for details: <a href="https://web.archive.org/web/20200119005358/https://help.ubuntu.com/community/KVM">Ubuntu</a>, <a href="https://web.archive.org/web/20200119005358/http://gentoo-wiki.com/HOWTO_KVM">Gentoo</a>).</p>
+<p>Once you have setup everything you can start kvm from the commandline (I think there are GUI frontends too, but I'm using the command line). You should be carefull though, acpi in JNode seems to kill kvm, so allways disable acpi. I also had to deactivate the kvm-irqchip as it trashed JNode. The command that works for me is:</p>
+<pre>kvm -m 768 -cdrom jnode-x86-lite.iso -no-acpi -no-kvm-irqchip -serial stdout -net none -std-vga
+</pre><p>
+The "-serial" switch is optional but I need it for kdb (kernel debugger). If you want to use the Vesa mode of JNode you should also use "-std-vga", overwise you will not have a vesa mode. Set the memory whatever you like (768MB is my default).</p>
+<h3>Things that still need to be tested:</h3>
+<li> "-drive/-hda/.." allow to supply harddisks, test if this works too
+<li> "-smp n" allows to give n cores to kvm (difficult as JNode is not SMP safe atm)
+<li> "-audio/soundhw" allows sound emulation
+<li> test "-usb/.."
+<li> Test network. Atm I'm missing some kernel modules so I deactivated network for the moment.
+<li> Test gdb with kvm. This should be more fun than using qemu <img src="/web/20200119005358im_/http://www.jnode.org/modules/smileys/packs/example/smile.png" title="Smiling" alt="Smiling"/>
+<li> Test other CPUs, especially the qemu64 (i.e. 64bit CPU) support once JNode's 64bit version works again<br/>
+</div>
+<div id="node-753" class="section-4">
+<h1 class="book-heading">Running in parallels</h1>
+<p>I found an only way to run JNode with <a href="https://web.archive.org/web/20200119005358/https://www.parallels.com/en/download/">parallels</a>.</p>
+<p>In <i>Options</i>-&gt;<i>Emulation flags</i>, there is a parameter called <i>Acceleration level</i> that takes 3 values :<br/>
+- <i>disabled</i> : JNode will work but that's very slow<br/>
+- <i>normal</i> : JNode won't boot (freeze at "Detected 1 processor")<br/>
+- <i>high</i> : JNode won't boot (freeze at "Detected 1 processor")</p>
+</div>
+<div id="node-2753" class="section-4">
+<h1 class="book-heading">Running in VBox</h1>
+<p>You can now run JNode on virtual box too. ACPI is not working but you'll get a prompt and can use JNode.</p>
+<p>TODO: Test network, usb,...</p>
+</div>
+<div id="node-684" class="section-4">
+<h1 class="book-heading">Running in Virtual PC</h1>
+<p>This page will discripe how to run JNode in Virtual PC</p>
+<p>At the current state JNode doesn't run in Virtual PC.</p>
+</div>
+<div id="node-28" class="section-4">
+<h1 class="book-heading">Running in VMWare</h1>
+<p><b><u>Basic Procedure</u></b></p>
+<p>The JNode build process creates a VMWare compatible ".vmx" file that allows you to run JNode using recent releases of VMWare Player.</p>
+<p>Assuming that you build JNode using the "cd-x86-lite" target, the build will create an ISO format CDROM image called "jnode-x86-lite.iso" in the "all/build/cdroms/" directory.  In the same directory, the build also generates a file called "jnode-x86-lite.iso.vmx" for use with VMWare.  To boot JNode from this ".iso" file, simply run the player as follows:</p>
+<p>&nbsp;&nbsp;$ <b>vmplayer all/build/cdroms/jnode-x86-lite.iso.vmx</b></p>
+<p><b><u>Altering the VMWare virtual machine configuration</u></b></p>
+<p>By default, the generated ".vmx" file configures a virtual machine with a virtual CDROM for the ISO, a bridged virtual ethernet and a virtual serial port that is connected to a "debugger.txt" file.  If you want to configure the VMWare virtual machine differently, the simplest option is to buy VMWare Workstation and use its graphical interfaces to configure and run JNode.  (Copy the generated ".vmx" file to a different location, and use that as the starting point.)</p>
+<p>If you don't want to pay for VMWare Workstation, you can achieve the same effect by changing the ".vmx" file by hand.  However, changes you make that way will be clobbered next time you run the "build" script.  The solution is to do the following:</p>
+<p><i>This procedure assumes some changes in a patch that is waiting to be committed.</i></p>
+<ol>
+<li>Create a file containing the VMX properties that you want to add or replace.  Put this file somewhere that won't be clobbered by "build clean".
+<li>Copy the "jnode.properties.dist" file to "jnode.properties".
+<li>Open the "jnode.properies" file in a text editor.
+<li>Find the line that starts "#vmware.vmx.overrides=".
+<li>Remove the "#" and replace the characters after the "=" with the override file's pathname.
+<li>Save the file.
+<li>Run "build cd-x86-lite" (or whatever you normally use to build a CDROM image).
+</ol>
+<p>This should create the "jnode-x86-lite.iso.vmx" file with the VMX settings from your file as overrides to the default settings.</p>
+<p>Unfortunately, VMWare have not released any documentation for the myriad VMX settings.  The best 3rd-party documentation that I can find is the <a href="https://web.archive.org/web/20200119005358/http://sanbarrow.com/vmx.html">sanbarrow.com</a> website.  There are also various "builder" applications around, but they don't look all that good.</p>
+<p><b><u>VMWare disks and Boot device order</u></b><br/>
+If you add a VMWare virtual (or real) disk drive, the VMWare virtual machine's BIOS will try to boot from that drive.  Unless you have set up the drive to be bootable, this won't work.  The easy way to fix this is to change VMWare's BIOS settings to alter the boot device order.</p>
+<ol>
+<li>Run vmplayer as above.
+<li>Quickly click the VMWare window to give it keyboard focus and hit [F2].  (You have small window to do this ... just a second or two!).
+<li>In the BIOS settings screen, select the "Booting" panel and move the "cdrom" to the top; i.e. the first device to be tried.
+<li>Save the BIOS settings to the virtual NVRAM and exit the BIOS settings editor to continue the boot.
+</ol>
+<p>By default the NVRAM settings are stored in the "JNode.nvram" file in "all/build/cdroms" directory, and will be clobbered when you run "build clean".  If this is a problem, create a VMX override (see above) with a "nvram" entry that uses a different location for the file.</p>
+</div>
+<div id="node-26" class="section-4">
+<h1 class="book-heading">Running on a PC</h1>
+<p>To run JNode on a PC using the bootable CDROM, your PC must comply with the following specifications: </p>
+<ul>
+<li>Pentium or above CPU<br/>
+128Mb RAM or more (i'm not sure what the minimum is) </li>
+<li>Bootable CDROM drive that supports El-Torito harddisk emulation </li>
+<li>VGA compatible video card </li>
+<li>Keyboard </li>
+</ul>
+</div>
+<div id="node-1499" class="section-4">
+<h1 class="book-heading">The GRUB Boot Menu</h1>
+<p>The first JNode related information you will see after booting from a JNode CDROM image is the GRUB bootloader page.  The GNU GRUB bootloader is responsible for selecting a JNode configuration from a menu, loading the corresponding kernel image and parameters into RAM and causing the JNode kernel to start executing.</p>
+<p>When GRUB starts, it displays the bootloader page and pauses for a few seconds.  If you do nothing, GRUB will automatically load and start the default configuration.  Pressing any key at this point will interrupt the automatic boot sequence and allow you to select a specific configuration.  You can use the <b>UP-ARROW</b> and <b>DOWN-ARROW</b> to choose a JNode configuration, then hit <b>ENTER</b> to boot it up.</p>
+<p>There are a number of JNode configurations in the menu:</p>
+<ul>
+<li>The configurations that include "MP" in the description enable JNode's multiprocessor support on a capable machine.  Since JNode's multiprocessor support is not fully functional, you should probably avoid these configurations for now.
+<li>The configurations the include "GUI" in the description will start up the JNode GUI.  Configurations without this tag will start up the JNode command shell on a text console.
+<li>The other difference between the configurations is in the sets of plugins that they load.  In general, loading more plugins will cause JNode to use more RAM.
+</ul>
+<p>It is currently not a good idea to boot JNode straight to the GUI.  If want to run the GUI, it is best to boot the one of the non-GUI configurations; typically "JNode (all plugins)".  Then from the text console, run the following commands:</p>
+<p><i>JNode /&gt;</i> <b>gc</b></p>
+<p><i>JNode /&gt;</i> <b>startawt</b></p>
+</div>
+</div>
+</div>
+</div>
+
+<script data-cfasync="false" src="/web/20200119005358js_/http://www.jnode.org/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
+<!--
+     FILE ARCHIVED ON 00:53:58 Jan 19, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:16:03 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 102.673
+  exclusion.robots: 5.038
+  exclusion.robots.policy: 5.03
+  cdx.remote: 0.062
+  esindex: 0.007
+  LoadShardBlock: 70.654 (3)
+  PetaboxLoader3.datanode: 74.046 (4)
+  load_resource: 512.999
+  PetaboxLoader3.resolve: 477.749
+-->

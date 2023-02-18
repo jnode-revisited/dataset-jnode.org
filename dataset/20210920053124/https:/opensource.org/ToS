@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head profile="http://www.w3.org/1999/xhtml/vocab"><script type="text/javascript" src="/_static/js/bundle-playback.js?v=4R5OHjEN" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://opensource.org/ToS","20210921035447","https://web.archive.org/","web","/_static/",
+	      "1632196487");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)"/>
+<link rel="canonical" href="/web/20210921035447/https://opensource.org/ToS"/>
+<link rel="shortlink" href="/web/20210921035447/https://opensource.org/node/126"/>
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="shortcut icon" href="https://web.archive.org/web/20210921035447im_/https://opensource.org/files/osi_favicon.png" type="image/png"/>
+  <title>Terms of Service | Open Source Initiative</title>
+  <link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210921035447cs_/https://opensource.org/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210921035447cs_/https://opensource.org/files/css/css_gh8wMJiOGewsPCJRDYXmqv3eEGGGSn0O_fqsi_9a-LY.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210921035447cs_/https://opensource.org/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="//web.archive.org/web/20210921035447cs_/https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210921035447cs_/https://opensource.org/files/css/css_KGZcOm3i1wmtbgZsjo-3V9FM4wZ-5UDcpJ7Vfzmt45E.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210921035447cs_/https://opensource.org/files/css/css_ulIzRpfhtuifCQvQJ8NpvGx_J9mvqUlZZLik4d4ZG-s.css" media="all"/>
+
+<!--[if (lt IE 9)]>
+<link type="text/css" rel="stylesheet" href="https://opensource.org/sites/all/themes/bootstrap-business/css/ie8.css?qyvib8" media="all" />
+<![endif]-->
+
+    
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//web.archive.org/web/20210921035447js_/https://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20210921035447js_/https://opensource.org/files/js/js_38VWQ3jjQx0wRFj7gkntZr077GgJoGn5nv3v05IeLLo.js"></script>
+<script type="text/javascript" src="//web.archive.org/web/20210921035447js_/https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+		$(window).scroll(function() {
+			if($(this).scrollTop() != 0) {
+				$("#toTop").fadeIn();	
+			} else {
+				$("#toTop").fadeOut();
+			}
+		});
+		
+		$("#toTop").click(function() {
+			$("body,html").animate({scrollTop:0},800);
+		});	
+		
+		});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20210921035447js_/https://opensource.org/files/js/js_ruOYJN6FkJU2O5L1dAKVnDloSn5R6LjnLW88zFxS1Uw.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20210921035447js_/https://opensource.org/files/js/js_JQHTvV_SkyFlN3f2BnQwnusF-eI6tkX8wrKAk2siiZU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap_business","theme_token":"zl8_r4G4k-JB86B5PpuSeSoVMQLiigdO3bkkygfaRrw","js":{"\/\/web.archive.org\/web\/20210921035447\/https:\/\/code.jquery.com\/jquery-1.10.2.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/web.archive.org\/web\/20210921035447\/https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/js\/bootstrap.min.js":1,"1":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/bootstrap-business\/js\/jquery.browser.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/web.archive.org\/web\/20210921035447\/https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/css\/bootstrap.min.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/bootstrap-business\/css\/style.css":1,"sites\/all\/themes\/bootstrap-business\/color\/colors.css":1,"sites\/all\/themes\/bootstrap-business\/css\/local.css":1,"sites\/all\/themes\/bootstrap-business\/css\/ie8.css":1}},"urlIsAjaxTrusted":{"\/ToS":true},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":true,"disableHI":false},"plugins":{"touchscreen":{"mode":"window_width"},"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Navigation"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-126 node-type-page">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="toTop"><span class="glyphicon glyphicon-chevron-up"></span></div>
+
+
+
+<!-- #header-top -->
+<div id="header-top" class="clearfix">
+    <div class="container">
+
+        <!-- #header-top-inside -->
+        <div id="header-top-inside" class="clearfix">
+            <div class="row">
+            
+                        <div class="col-md-8">
+                <!-- #header-top-left -->
+                <div id="header-top-left" class="clearfix">
+                      <div class="region region-header-top-left">
+    <div id="block-menu-secondary-menu" class="block block-menu clearfix">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/web/20210921035447/https://opensource.org/" title="">Home</a></li>
+<li class="leaf"><a href="/web/20210921035447/https://opensource.org/blog" title="">From the Board</a></li>
+<li class="leaf"><a href="/web/20210921035447/https://opensource.org/contact" title="">Contact</a></li>
+<li class="leaf"><a href="/web/20210921035447/https://opensource.org/civicrm/contribute/transact?reset=1&amp;id=2" title="">Donate</a></li>
+<li class="last leaf"><a href="/web/20210921035447/https://opensource.org/user/login" title="">Login</a></li>
+</ul>  </div>
+</div>
+  </div>
+                </div>
+                <!-- EOF:#header-top-left -->
+            </div>
+                        
+                        <div class="col-md-4">
+                <!-- #header-top-right -->
+                <div id="header-top-right" class="clearfix">
+                      <div class="region region-header-top-right">
+    <div id="block-search-form" class="block block-search clearfix">
+
+    
+  <div class="content">
+    <form action="/web/20210921035447/https://opensource.org/ToS" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == '') {this.value = 'Search this website...';}" onfocus="if (this.value == 'Search this website...') {this.value = '';}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search this website..." size="15" maxlength="128" class="form-text"/>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input value="" type="submit" id="edit-submit" name="op" class="form-submit"/></div><input type="hidden" name="form_build_id" value="form-8nfnve4fS9bC2sBURK1B96h_Nv-mvazT6p-WGAyQyEs"/>
+<input type="hidden" name="form_id" value="search_block_form"/>
+</div>
+</div></form>  </div>
+</div>
+  </div>
+                </div>
+                <!-- EOF:#header-top-right -->
+            </div>
+                        
+            </div>
+        </div>
+        <!-- EOF: #header-top-inside -->
+
+    </div>
+</div>
+<!-- EOF: #header-top -->    
+
+<!-- header -->
+<header id="header" role="banner" class="clearfix">
+    <div class="container">
+
+        <!-- #header-inside -->
+        <div id="header-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-8">
+
+                                <div id="logo">
+                <a href="/web/20210921035447/https://opensource.org/" title="Home" rel="home"> <img src="https://web.archive.org/web/20210921035447im_/https://opensource.org/files/osi_keyhole_300X300_90ppi_0.png" alt="Home"/> </a>
+                </div>
+                
+                                <div id="site-name">
+                <a href="/web/20210921035447/https://opensource.org/" title="Home">Open Source Initiative</a>
+                </div>
+                                
+                                <div id="site-slogan">
+                Guaranteeing the 'our' in source...                </div>
+                                
+                </div>
+                
+                <div class="col-md-4">
+                
+                
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #header-inside -->
+
+    </div>
+</header>
+<!-- EOF: #header --> 
+
+<!-- #main-navigation --> 
+<div id="main-navigation" class="clearfix">
+    <div class="container">
+
+        <!-- #main-navigation-inside -->
+        <div id="main-navigation-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav role="navigation">
+                                                  <div class="region region-navigation">
+    <div id="block-superfish-1" class="block block-superfish clearfix">
+
+    
+  <div class="content">
+    <ul id="superfish-1" class="menu sf-menu sf-navigation sf-horizontal sf-style-none sf-total-items-6 sf-parent-items-6 sf-single-items-0"><li id="menu-37-1" class="active-trail first odd sf-item-1 sf-depth-1 sf-total-children-4 sf-parent-children-2 sf-single-children-2 menuparent"><a href="/web/20210921035447/https://opensource.org/about" title="About the Open Source Initiative" class="sf-depth-1 menuparent">About</a><ul><li id="menu-75-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210921035447/https://opensource.org/history" title="History of the OSI" class="sf-depth-2">History</a></li><li id="menu-82-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><a href="/web/20210921035447/https://opensource.org/board" title="Board of Directors" class="sf-depth-2 menuparent">Board</a><ul><li id="menu-83-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/docs/board-annotated" title="OSI Board -- With Annotations" class="sf-depth-3">Board - Annotated</a></li><li id="menu-96-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/minutes" title="Public Minutes of Board Meetings" class="sf-depth-3">Minutes</a></li><li id="menu-185-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/organization" title="These portfolios represent the activities of the current OSI board." class="sf-depth-3">Organization &amp; Operations</a></li><li id="menu-95-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/articles-of-incorporation" title="OSI incorporation record" class="sf-depth-3">Articles of Incorporation</a></li><li id="menu-1475-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/elections" class="sf-depth-3">Board Elections</a></li><li id="menu-84-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/bylaws" title="Bylaws of the Open Source Initiative" class="sf-depth-3">Bylaws</a></li><li id="menu-1317-1" class="last odd sf-item-7 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/conflict_of_interest_policy" class="sf-depth-3">Conflict of Interest</a></li></ul></li><li id="menu-1843-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210921035447/https://opensource.org/trademark" title="" class="sf-depth-2 menuparent">Trademark &amp; Logo</a><ul><li id="menu-184-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/trademark-guidelines" title="OSI's Trademark Policy" class="sf-depth-3">Trademark Guidelines</a></li><li id="menu-183-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/logo-usage-guidelines" title="Guidelines for appearance and usage of OSI Logo" class="sf-depth-3">Logo Guidelines</a></li></ul></li><li id="menu-126-1" class="active-trail last even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210921035447/https://opensource.org/ToS" title="Rules for posting content on this site" class="sf-depth-2 active">Terms of Service</a></li></ul></li><li id="menu-65-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-5 sf-parent-children-2 sf-single-children-3 menuparent"><a href="/web/20210921035447/https://opensource.org/licenses" class="sf-depth-1 menuparent">Licenses</a><ul><li id="menu-61-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210921035447/https://opensource.org/osd" title="The actual OSD defining what constitutes an Open Source licence" class="sf-depth-2">Open Source Definition</a></li><li id="menu-77-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210921035447/https://opensource.org/licenses/category" title="Licenses by Category" class="sf-depth-2">Licenses by Category</a></li><li id="menu-72-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210921035447/https://opensource.org/licenses/alphabetical" title="Licenses that are approved by the OSI as conforming to the OSD" class="sf-depth-2">Licenses by Name</a></li><li id="menu-66-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210921035447/https://opensource.org/approval" title="Certifying licences as OSD-compliant" class="sf-depth-2 menuparent">License Review Process</a><ul><li id="menu-67-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/proliferation" title="Supporting choice while maintaining sanity" class="sf-depth-3">Licence Proliferation</a></li><li id="menu-69-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/proliferation-report" title="License Proliferation Committee's report to the OSI Board" class="sf-depth-3">LP report to the Board</a></li></ul></li><li id="menu-99-1" class="last odd sf-item-5 sf-depth-2 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/web/20210921035447/https://opensource.org/osr-intro" title="Open Standards Requirement for Software" class="sf-depth-2 menuparent">Open Standards</a><ul><li id="menu-101-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/osr" title="An &quot;open standard&quot; must not prohibit conforming implementations in open source software." class="sf-depth-3">The Open Standards Requirement</a></li><li id="menu-102-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/osr-compliance" class="sf-depth-3">Open Standards Requirement Compliance</a></li><li id="menu-100-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/osr-rationale" class="sf-depth-3">Open Standards Requirement Rationale</a></li><li id="menu-103-1" class="last even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/osr-faq" title="Frequently asked questions about the Open Standards Requirement" class="sf-depth-3">OSR Frequently Asked Questions</a></li></ul></li></ul></li><li id="menu-1842-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-3 sf-parent-children-2 sf-single-children-1 menuparent"><a href="/web/20210921035447/https://opensource.org/membership" title="Page for our various membership programs" class="sf-depth-1 menuparent">Membership</a><ul><li id="menu-914-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210921035447/https://opensource.org/members" class="sf-depth-2 menuparent">Individuals</a><ul><li id="menu-897-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/civicrm/contribute/transact?reset=1&amp;id=1" title="" class="sf-depth-3">Join</a></li><li id="menu-2265-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/benefits" class="sf-depth-3">Benefits</a></li></ul></li><li id="menu-675-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210921035447/https://opensource.org/osi-affiliate-membership" title="Home page for OSI's membership scheme for non-profits and not-for-profits" class="sf-depth-2 menuparent">Affiliates</a><ul><li id="menu-676-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/affiliates/about" class="sf-depth-3">Become an Affiliate</a></li><li id="menu-2071-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/AffiliateRequirements" class="sf-depth-3">Affiliate  Criteria</a></li></ul></li><li id="menu-1436-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210921035447/https://opensource.org/corporate-sponsors-support" title="" class="sf-depth-2">Sponsors &amp; Support</a></li></ul></li><li id="menu-1841-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-5 sf-parent-children-1 sf-single-children-4 menuparent"><a href="/web/20210921035447/https://opensource.org/community" title="Page for our various community members." class="sf-depth-1 menuparent">Community</a><ul><li id="menu-2271-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210921035447/https://opensource.org/associations" class="sf-depth-2">Associations</a></li><li id="menu-63-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/web/20210921035447/https://opensource.org/lists" title="The virtual committees where the OSI's work gets done" class="sf-depth-2 menuparent">Mailing lists</a><ul><li id="menu-1072-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/codeofconduct/licensing" class="sf-depth-3">Licensing Code of Conduct</a></li><li id="menu-78-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/codeofconduct" title="Guidelines for OSI Mailing Lists" class="sf-depth-3">General Code of Conduct</a></li><li id="menu-2272-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/node/960" title="Monthly reports summarizing the OSI's License-Discuss and License-Review mailing lists." class="sf-depth-3">Discussion List Reports</a></li><li id="menu-2111-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/public_forums_disclaimer" class="sf-depth-3">Disclaimer for OSI Public Forums</a></li><li id="menu-2110-1" class="last odd sf-item-5 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/public_archives_policy" class="sf-depth-3">Policy on Public Communications and Archives</a></li></ul></li><li id="menu-2032-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210921035447/https://opensource.org/volunteersandstaff" class="sf-depth-2">Volunteers &amp; Staff</a></li><li id="menu-2192-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210921035447/https://opensource.org/AdvocateCircle" class="sf-depth-2">Advocate Circle</a></li><li id="menu-1846-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="https://web.archive.org/web/20210921035447/http://wiki.opensource.org/" title="" class="sf-depth-2">Wiki</a></li></ul></li><li id="menu-1840-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-6 sf-parent-children-1 sf-single-children-5 menuparent"><a href="/web/20210921035447/https://opensource.org/resources" title="Page offering resources to OSI personas" class="sf-depth-1 menuparent">Resources</a><ul><li id="menu-342-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210921035447/https://opensource.org/faq" title="Frequently Asked Questions about open source and about the OSI." class="sf-depth-2">FAQ</a></li><li id="menu-45-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210921035447/https://opensource.org/help" title="Resources for questions and further exploration" class="sf-depth-2 menuparent">Getting Help</a><ul><li id="menu-76-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/links" title="Links and References to Open Source" class="sf-depth-3">Bibliography</a></li><li id="menu-125-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210921035447/https://opensource.org/advocacy/case_for_business.php" title="How to advocate Open Source to businesses" class="sf-depth-3">Open Source Case for Business</a></li></ul></li><li id="menu-1514-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210921035447/https://opensource.org/working_groups" class="sf-depth-2">Working Groups &amp; Incubator Projects</a></li><li id="menu-12-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210921035447/https://opensource.org/osi-open-source-education" title="OSI's Open Source Education Initiative and Activities" class="sf-depth-2">Open Source Education</a></li><li id="menu-3046-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/web/20210921035447/https://opensource.org/node/1012" class="sf-depth-2">Articles &amp; Books</a></li><li id="menu-2193-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/web/20210921035447/https://opensource.org/authority" class="sf-depth-2">International Authority &amp; Recognition</a></li></ul></li><li id="menu-1844-1" class="last even sf-item-6 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/web/20210921035447/https://opensource.org/news" title="Page dedicated to the latest news and events." class="sf-depth-1 menuparent">News &amp; Events</a><ul><li id="menu-1845-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210921035447/https://opensource.org/news" title="Index of newsletters" class="sf-depth-2">News</a></li><li id="menu-1999-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210921035447/https://opensource.org/events" class="sf-depth-2">Events</a></li><li id="menu-4709-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210921035447/https://opensource.org/newsletter/signup" title="" class="sf-depth-2">Newsletter Signup</a></li></ul></li></ul>  </div>
+</div>
+  </div>
+                                            </nav>
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #main-navigation-inside -->
+
+    </div>
+</div>
+<!-- EOF: #main-navigation -->
+
+<!-- #banner -->
+<div id="banner" class="clearfix">
+    <div class="container">
+        
+        <!-- #banner-inside -->
+        <div id="banner-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                  <div class="region region-banner">
+    <div id="block-block-23" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <div class="rtecenter" style="font-size:16px; font-weight: bold;"><a href="https://web.archive.org/web/20210921035447/https://eventyay.com/e/e7dfbfc4/" target="_blank">Practical Open Source Information</a> :: Online Event :: September 16 - 11:00 AM to 4:00 PM EDT</div>
+  </div>
+</div>
+  </div>
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #banner-inside -->        
+
+    </div>
+</div>
+<!-- EOF:#banner -->
+
+<!-- #page -->
+<div id="page" class="clearfix">
+    
+    
+    <!-- #main-content -->
+    <div id="main-content">
+        <div class="container">
+        
+            <!-- #messages-console -->
+                        <!-- EOF: #messages-console -->
+            
+            <div class="row">
+
+                
+
+                <section class="col-md-12">
+
+                    <!-- #main -->
+                    <div id="main" class="clearfix">
+                    
+                        
+                        
+                        <!-- EOF:#content-wrapper -->
+                        <div id="content-wrapper">
+
+                                                                                    <h1 class="page-title">Terms of Service</h1>
+                                                        
+                                                  
+                            <!-- #tabs -->
+                                                            <div class="tabs">
+                                                                </div>
+                                                        <!-- EOF: #tabs -->
+
+                            <!-- #action links -->
+                                                        <!-- EOF: #action links -->
+
+                              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <article id="node-126" class="node node-page clearfix">
+
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><ol><li>ACCEPTANCE OF TERMS<br/>
+The Open Source Initiative ("OSI") provides the information on this Web site as provided in these Terms of Service ("TOS"). OSI may update the TOS at any time and without prior notice by posting a new version at http://www.opensource.org. The information on this site and your use of it is subject to the most recent version of the TOS posted. </li>
+<br/><li>DESCRIPTION OF SERVICE<br/>
+OSI provides you with access to discussion lists, forums, licenses and a variety of other services. ("OSI Service"). Unless explicitly stated otherwise, any new features that augment or enhance the current OSI Service shall be subject to the TOS.</li>
+<br/><li>YOUR REGISTRATION OBLIGATIONS<br/>
+In consideration of your use of the OSI Service, you represent that you are of legal age to form a binding contract and are not a person barred from receiving services under the laws of the United States or other applicable jurisdiction. You also agree to:
+<ol type="a"><li> provide true, accurate, current and complete information about yourself as prompted by the OSI Service's registration form (the "Registration Data") and</li>
+<li> maintain and promptly update the Registration Data to keep it true, accurate, current and complete. If you provide any information that is untrue, inaccurate, not current or incomplete, or OSI has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, OSI has the right to suspend or terminate your account and refuse any and all current or future use of the OSI Services (or any portion thereof).</li>
+</ol><br/></li><li>OSI PRIVACY POLICY<br/>
+Registration Data and certain other information about you is subject to our Privacy Policy.</li>
+<br/><li>CONDUCT<br/>
+You understand that all information, data, text, software, graphics or other materials ("Content"), whether publicly posted or privately transmitted, are the sole responsibility of the person from whom such Content originated. This means that you, and not OSI, are entirely responsible for all Content that you upload, post, email, transmit or otherwise make available via the OSI Service. OSI does not control the Content posted via the OSI Service and, as such, does not guarantee the accuracy, integrity or quality of such Content. Under no circumstances will OSI be liable in any way for any Content, including, but not limited to, any errors or omissions in any Content, or any loss or damage of any kind incurred as a result of the use of any Content posted, emailed, transmitted or otherwise made available via the OSI Service. You agree to not use the OSI Service to:</li>
+<ol><li> upload, post, email, transmit or otherwise make available any Content that is unlawful, harmful, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable or harm minors;</li>
+<li> impersonate any person or entity or falsely state or otherwise misrepresent your affiliation with a person or entity;
+</li><li> forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through the OSI Service;</li>
+<li> upload, post, email, transmit or otherwise make available any Content that you do not have a right to make available under any law or under contractual or other relationships;</li>
+<li> upload, post, email, transmit or otherwise make available any Content that infringes any patent, trademark, trade secret, copyright or other proprietary rights of any party;</li>
+<li> upload, post, email, transmit or otherwise make available any unsolicited or unauthorized advertising, promotional materials, "junk mail," "spam," or any other form of solicitation;
+</li><li> upload, post, email, transmit or otherwise make available any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;</li>
+<li> disrupt the normal flow of dialogue, or otherwise act in a manner that negatively affects other users' ability to engage in discussions or exchanges;</li>
+<li> interfere with or disrupt the OSI Service or servers or networks connected to the OSI Service, or disobey any requirements, procedures, policies or regulations of networks connected to the OSI Service;</li>
+<li> intentionally or unintentionally violate any applicable local, state, national or international law,</li>
+<li> "stalk" or otherwise harass another; and/or</li>
+<li> collect or store personal data about other users in connection with the prohibited conduct and activities set forth in paragraphs above. You acknowledge that OSI may or may not pre-screen Content, but that OSI and its designees shall have the right (but not the obligation) in their sole discretion to pre-screen, refuse, move, or remove any Content that is available via the OSI Service and which violates the TOS. You agree that you must evaluate, and bear all risks associated with, the use of any Content, including any reliance on the accuracy, completeness, or usefulness of such Content. You acknowledge, consent and agree that OSI may access, preserve and disclose your account information and Content if required to do so by law or in a good faith belief that such access preservation or disclosure is reasonably necessary to:</li>
+<ol type="a"><li> comply with legal process;</li>
+<li> enforce the TOS;</li>
+<li> respond to claims that any Content violates the rights of third parties;</li>
+<li> respond to your requests for customer service; or (e) protect the rights, property or personal safety of OSI its users and the public.</li>
+</ol></ol><br/><li> CONTENT MADE AVAILABLE FOR INCLUSION ON THE OSI SERVICE<br/>
+OSI does not claim ownership of Content you submit or make available for inclusion via the OSI Service. However, with respect to Content you submit or make available for inclusion on the publicly available OSI Service, you irrevocably grant OSI the perpetual, worldwide, royalty-free and non-exclusive license, with the right to sublicense through multiple tiers of sublicensees, to use, distribute, reproduce, modify, adapt, publicly perform and publicly display such Content, in whole or in part, on the OSI Service or other publications by OSI in any media whether now existing or which come into the existence into the future and to provide that information under the license set forth on the initial page of the http://www.opensource.org/ Web site. And for Content you submit for private discussions, you grant OSI the worldwide, royalty-free and non-exclusive license to use, distribute, reproduce, modify, adapt, publicly perform and publicly display such Content on the associated private discussion group.<br/></li></ol><ul><li>Photo Credits</li>
+<li>Home Page</li>
+<ul><li>Businesses: "Berlin Startup Tour" CC-BY Heisenberg Media, 2013<br/>
+ https://www.flickr.com/photos/heisenbergmedia/8408215473</li>
+<li>Developers: "A Ladies Learning Code workshop in Toronto" CC-BY Jon Lim, 2011 <br/>
+https://commons.wikimedia.org/wiki/File:Ladies_Learning_Code_event,_November_26_2011.jpg</li>
+<li>Education: "OLPC Class - Mongolia Ulaanbaatar" CC-BY OLPC, 2008<br/>
+https://commons.wikimedia.org/wiki/File:OLPC_Class_-_Mongolia_Ulaanbaatar.JPG</li>
+<li>Government: "A participant representing a country in a simulation of the CTBTO Executive Council poses a question at the CTBT Diplomacy and Public Policy Course. CTBT Diplomacy &amp; Public Policy course - CTBTO Executive Council On-Site Inspection request simulation: 18-9 July 2013" CC-BY The Official CTBTO Photostream, 2013<br/> https://commons.wikimedia.org/wiki/File:CTBT_Diplomacy_%26_Public_Policy_course_-_July_2013_%289376130261%29.jpg</li>
+<li>Non-profit: "People cheer during AIESEC Sciences Po Local Committee presentation at AIESEC France's Spark 2013 congress" CC-BY Jakub Szypulka, 2013<br/>
+https://en.wikipedia.org/wiki/AIESEC#/media/File:Roll_call_at_AIESEC_France%27s_Spark_2013.jpg</li>
+<li>Users: CC0 <br/>
+http://www.pexels.com/photo/man-person-apple-iphone-162/</li>
+</ul></ul><br/><ol start="7"><li> INDEMNITY<br/>
+You agree to indemnify and hold OSI and its subsidiaries, affiliates, officers, agents, employees, partners and licensors harmless from any claim or demand, including but not limited to reasonable attorneys' fees, made by any third party due to or arising out of Content you submit, post, transmit or otherwise make available through the Service, your use of the OSI Service, your connection to the Service, your violation of the TOS, or your violation of any rights of another.</li>
+<br/><li> MODIFICATIONS TO OSI SERVICE You acknowledge that OSI may establish general practices and limits concerning use of the OSI Service, including without limitation the maximum number of days that email messages, message board postings or other uploaded Content will be retained by the OSI Service.. You further acknowledge that OSI reserves the right to modify these general practices and limits from time to time. OSI reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the OSI Service (or any part thereof) with or without notice. You agree that OSI shall not be liable to you or to any third party for any modification, suspension or discontinuance of the OSI Service.</li>
+<br/><li> TERMINATION<br/>
+You agree that OSI may terminate your access to the OSI Service for violations of the TOS and/or requests by authorized law enforcement or other government agencies.</li>
+<br/><li> LINKS<br/>
+The OSI Service may provide, or third parties may provide, links to other World Wide Web sites or resources. Because OSI has no control over such sites and resources, you acknowledge and agree that OSI is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any Content, advertising, products or other materials on or available from such sites or resources. You further acknowledge and agree that OSI shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such Content, goods or services available on or through any such site or resource.</li>
+<br/><li> DISCLAIMER OF WARRANTIES<br/>
+You expressly understand and agree that: Your use of the OSI service is at your sole risk. OSI service is provided on an "as is" and "as available" basis. OSI and its subsidiaries, affiliates, officers, employees and licensors expressly disclaim all warranties of any kind, whether express or implied, including, but not limited to the implied warranties of merchantability, fitness for a particular purpose and non-infringement. OSI and its subsidiaries, affiliates, officers, employees and licensors make no warranty that</li>
+<br/><ol><li> The OSI service will meet your requirements;</li>
+<li> The OSI service will be uninterrupted, timely, secure or error-free and</li>
+<li> The results that may be obtained from the use of the OSI service will be accurate or reliable. No advice or information, whether oral or written, obtained by you from OSI or through or from the service shall create any warranty not expressly stated in the TOS.</li>
+</ol><br/><li> LIMITATION OF LIABILITY<br/>
+You expressly understand and agree that OSI and its subsidiaries, affiliates, officers, employees, agents, partners and licensors shall not be liable to you for any direct, indirect, incidental, special, consequential or exemplary damages, including, but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if osi has been advised of the possibility of such damages), resulting from the use or the inability to use the OSI service.</li>
+<br/><li> NOTICE AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT<br/>
+OSI respects the copyright of others, and we ask our users to do the same. OSI may, in appropriate circumstances and at its discretion, disable and/or terminate the access of users who may be repeat infringers. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide OSI's Copyright Agent the following information: an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright; a description of the copyrighted work that you claim has been infringed; a description of where the material that you claim is infringing is located on the site; your address, telephone number, and email address; a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; a statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.<br/><br/>
+OSI's Agent for Notice of claims of copyright infringement can be reached as follows:<br/><br/>
+     By mail:<br/>
+     Mr. Mark Radcliffe<br/>
+     Copyright Agent<br/>
+     Open Source Initiative<br/>
+     c/o DLA Piper<br/>
+     2000 University Ave<br/>
+     East Palo Alto,<br/>
+     CA 94303<br/>
+     USA<br/><br/>
+     By fax: +1-650-833-2001<br/>
+     By email:  <a href="https://web.archive.org/web/20210921035447/mailto:copyright@opensource.org">copyright@opensource.org</a><br/></li>
+<br/><li> 14. GENERAL INFORMATION<br/>
+Entire Agreement. The TOS constitutes the entire agreement between you and OSI and governs your use of the OSI Service, superseding any prior agreements between you and OSI with respect to the OSI Service.. Choice of Law and Forum. The TOS and the relationship between you and OSI shall be governed by the laws of the State of California without regard to its conflict of law provisions. You and OSI agree to submit to the personal and exclusive jurisdiction of the courts located within the county of Santa Clara, California. Waiver and Severability of Terms. The failure of OSI to exercise or enforce any right or provision of the TOS shall not constitute a waiver of such right or provision. If any provision of the TOS is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of the TOS remain in full force and effect.<br/></li></ol></div></div></div>  </div>
+    
+     
+
+  
+</article>  </div>
+</div>
+  </div>
+                            
+                        </div>
+                        <!-- EOF:#content-wrapper -->
+
+                    </div>
+                    <!-- EOF:#main -->
+
+                </section>
+
+                        
+            </div>
+
+        </div>
+    </div>
+    <!-- EOF:#main-content -->
+
+    
+</div>
+<!-- EOF:#page -->
+
+
+<footer id="subfooter" class="clearfix">
+    <div class="container">
+        
+        <!-- #subfooter-inside -->
+        <div id="subfooter-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- #subfooter-left -->
+                    <div class="subfooter-area">
+                                            
+
+                                          <div class="region region-footer">
+    <div id="block-block-11" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <div class="filler" style="vertical-align: middle; display: inline-block;">
+<p style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><a href="https://web.archive.org/web/20210921035447/https://twitter.com/OpenSourceOrg" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210921035447im_/https://opensource.org/files/twitterlogo.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210921035447/https://www.linkedin.com/company/open-source-initiative-osi-" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210921035447im_/https://opensource.org/files/linkedin.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210921035447/http://wiki.opensource.org/" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210921035447im_/https://opensource.org/files/xwikilogo.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210921035447/http://creativecommons.org/licenses/by/4.0/" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210921035447im_/https://opensource.org/files/ccby.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a></p>
+</div>
+
+<p> </p>
+
+<div class="license" style="vertical-align: middle; display: inline-block;">
+<p>Sign-up for our <a href="newsletter/signup">newsletter</a>!</p>
+
+<p>The content on this website, of which Opensource.org is the author, is licensed under a <a href="https://web.archive.org/web/20210921035447/http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.<br/>
+Opensource.org is not the author of any of the licenses reproduced on this site. Questions about the copyright in a license should be directed to the license steward.</p>
+
+<p>Hosting for Opensource.org is generously provided by <a href="https://web.archive.org/web/20210921035447/https://www.digitalocean.com/">DigitalOcean</a>. Please see <a href="/web/20210921035447/https://opensource.org/ToS">Terms of Service</a>.<br/><span style="font-size:10px;">For questions regarding the OSI website and contents pleasee <a href="https://web.archive.org/web/20210921035447/mailto:webmaster@lists.opensource.org?subject=OSI%20website%20comment">email our webmaster</a>.</span></p>
+</div>
+
+<p> </p>
+  </div>
+</div>
+<div id="block-block-7" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <script src="https://web.archive.org/web/20210921035447js_/https://www.google-analytics.com/urchin.js" type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+
+//--><!]]>
+</script><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+_uacct = "UA-3916956-1";
+urchinTracker();
+
+//--><!]]>
+</script>  </div>
+</div>
+  </div>
+                    
+                    </div>
+                    <!-- EOF: #subfooter-left -->
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #subfooter-inside -->
+    
+    </div>
+</footer>
+<!-- EOF:#subfooter -->
+  </body>
+</html><!--
+     FILE ARCHIVED ON 03:54:47 Sep 21, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:26:39 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 189.156
+  exclusion.robots: 0.139
+  exclusion.robots.policy: 0.125
+  RedisCDXSource: 1.356
+  esindex: 0.011
+  LoadShardBlock: 150.415 (3)
+  PetaboxLoader3.datanode: 178.321 (4)
+  load_resource: 386.166
+  PetaboxLoader3.resolve: 338.922
+-->

@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head profile="http://www.w3.org/1999/xhtml/vocab"><script type="text/javascript" src="/_static/js/bundle-playback.js?v=4R5OHjEN" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://opensource.org/minutes","20210916105135","https://web.archive.org/","web","/_static/",
+	      "1631789495");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)"/>
+<link rel="canonical" href="/web/20210916105135/https://opensource.org/minutes"/>
+<link rel="shortlink" href="/web/20210916105135/https://opensource.org/node/101"/>
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="shortcut icon" href="https://web.archive.org/web/20210916105135im_/https://opensource.org/files/osi_favicon.png" type="image/png"/>
+  <title>List of OSI Board Meeting Minutes &amp; Portfolio Reports | Open Source Initiative</title>
+  <link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210916105135cs_/https://opensource.org/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210916105135cs_/https://opensource.org/files/css/css_gh8wMJiOGewsPCJRDYXmqv3eEGGGSn0O_fqsi_9a-LY.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210916105135cs_/https://opensource.org/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="//web.archive.org/web/20210916105135cs_/https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210916105135cs_/https://opensource.org/files/css/css_KGZcOm3i1wmtbgZsjo-3V9FM4wZ-5UDcpJ7Vfzmt45E.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210916105135cs_/https://opensource.org/files/css/css_ulIzRpfhtuifCQvQJ8NpvGx_J9mvqUlZZLik4d4ZG-s.css" media="all"/>
+
+<!--[if (lt IE 9)]>
+<link type="text/css" rel="stylesheet" href="https://opensource.org/sites/all/themes/bootstrap-business/css/ie8.css?qyvib8" media="all" />
+<![endif]-->
+
+    
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//web.archive.org/web/20210916105135js_/https://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20210916105135js_/https://opensource.org/files/js/js_38VWQ3jjQx0wRFj7gkntZr077GgJoGn5nv3v05IeLLo.js"></script>
+<script type="text/javascript" src="//web.archive.org/web/20210916105135js_/https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+		$(window).scroll(function() {
+			if($(this).scrollTop() != 0) {
+				$("#toTop").fadeIn();	
+			} else {
+				$("#toTop").fadeOut();
+			}
+		});
+		
+		$("#toTop").click(function() {
+			$("body,html").animate({scrollTop:0},800);
+		});	
+		
+		});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20210916105135js_/https://opensource.org/files/js/js_ruOYJN6FkJU2O5L1dAKVnDloSn5R6LjnLW88zFxS1Uw.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20210916105135js_/https://opensource.org/files/js/js_JQHTvV_SkyFlN3f2BnQwnusF-eI6tkX8wrKAk2siiZU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap_business","theme_token":"qhff6bSJ5NXknote11oGwOpyfSm-aRhd6BCYHmrKV9g","js":{"\/\/web.archive.org\/web\/20210916105135\/https:\/\/code.jquery.com\/jquery-1.10.2.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/web.archive.org\/web\/20210916105135\/https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/js\/bootstrap.min.js":1,"1":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/bootstrap-business\/js\/jquery.browser.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/web.archive.org\/web\/20210916105135\/https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/css\/bootstrap.min.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/bootstrap-business\/css\/style.css":1,"sites\/all\/themes\/bootstrap-business\/color\/colors.css":1,"sites\/all\/themes\/bootstrap-business\/css\/local.css":1,"sites\/all\/themes\/bootstrap-business\/css\/ie8.css":1}},"urlIsAjaxTrusted":{"\/minutes":true},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":true,"disableHI":false},"plugins":{"touchscreen":{"mode":"window_width"},"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Navigation"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-101 node-type-page">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="toTop"><span class="glyphicon glyphicon-chevron-up"></span></div>
+
+
+
+<!-- #header-top -->
+<div id="header-top" class="clearfix">
+    <div class="container">
+
+        <!-- #header-top-inside -->
+        <div id="header-top-inside" class="clearfix">
+            <div class="row">
+            
+                        <div class="col-md-8">
+                <!-- #header-top-left -->
+                <div id="header-top-left" class="clearfix">
+                      <div class="region region-header-top-left">
+    <div id="block-menu-secondary-menu" class="block block-menu clearfix">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/web/20210916105135/https://opensource.org/" title="">Home</a></li>
+<li class="leaf"><a href="/web/20210916105135/https://opensource.org/blog" title="">From the Board</a></li>
+<li class="leaf"><a href="/web/20210916105135/https://opensource.org/contact" title="">Contact</a></li>
+<li class="leaf"><a href="/web/20210916105135/https://opensource.org/civicrm/contribute/transact?reset=1&amp;id=2" title="">Donate</a></li>
+<li class="last leaf"><a href="/web/20210916105135/https://opensource.org/user/login" title="">Login</a></li>
+</ul>  </div>
+</div>
+  </div>
+                </div>
+                <!-- EOF:#header-top-left -->
+            </div>
+                        
+                        <div class="col-md-4">
+                <!-- #header-top-right -->
+                <div id="header-top-right" class="clearfix">
+                      <div class="region region-header-top-right">
+    <div id="block-search-form" class="block block-search clearfix">
+
+    
+  <div class="content">
+    <form action="/web/20210916105135/https://opensource.org/minutes" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == '') {this.value = 'Search this website...';}" onfocus="if (this.value == 'Search this website...') {this.value = '';}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search this website..." size="15" maxlength="128" class="form-text"/>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input value="" type="submit" id="edit-submit" name="op" class="form-submit"/></div><input type="hidden" name="form_build_id" value="form-bq6LVPQvddm3EuFPuMvPKj0WONdm803qfAWSVANTkP4"/>
+<input type="hidden" name="form_id" value="search_block_form"/>
+</div>
+</div></form>  </div>
+</div>
+  </div>
+                </div>
+                <!-- EOF:#header-top-right -->
+            </div>
+                        
+            </div>
+        </div>
+        <!-- EOF: #header-top-inside -->
+
+    </div>
+</div>
+<!-- EOF: #header-top -->    
+
+<!-- header -->
+<header id="header" role="banner" class="clearfix">
+    <div class="container">
+
+        <!-- #header-inside -->
+        <div id="header-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-8">
+
+                                <div id="logo">
+                <a href="/web/20210916105135/https://opensource.org/" title="Home" rel="home"> <img src="https://web.archive.org/web/20210916105135im_/https://opensource.org/files/osi_keyhole_300X300_90ppi_0.png" alt="Home"/> </a>
+                </div>
+                
+                                <div id="site-name">
+                <a href="/web/20210916105135/https://opensource.org/" title="Home">Open Source Initiative</a>
+                </div>
+                                
+                                <div id="site-slogan">
+                Guaranteeing the 'our' in source...                </div>
+                                
+                </div>
+                
+                <div class="col-md-4">
+                
+                
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #header-inside -->
+
+    </div>
+</header>
+<!-- EOF: #header --> 
+
+<!-- #main-navigation --> 
+<div id="main-navigation" class="clearfix">
+    <div class="container">
+
+        <!-- #main-navigation-inside -->
+        <div id="main-navigation-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav role="navigation">
+                                                  <div class="region region-navigation">
+    <div id="block-superfish-1" class="block block-superfish clearfix">
+
+    
+  <div class="content">
+    <ul id="superfish-1" class="menu sf-menu sf-navigation sf-horizontal sf-style-none sf-total-items-6 sf-parent-items-6 sf-single-items-0"><li id="menu-37-1" class="active-trail first odd sf-item-1 sf-depth-1 sf-total-children-4 sf-parent-children-2 sf-single-children-2 menuparent"><a href="/web/20210916105135/https://opensource.org/about" title="About the Open Source Initiative" class="sf-depth-1 menuparent">About</a><ul><li id="menu-75-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210916105135/https://opensource.org/history" title="History of the OSI" class="sf-depth-2">History</a></li><li id="menu-82-1" class="active-trail middle even sf-item-2 sf-depth-2 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><a href="/web/20210916105135/https://opensource.org/board" title="Board of Directors" class="sf-depth-2 menuparent">Board</a><ul><li id="menu-83-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/docs/board-annotated" title="OSI Board -- With Annotations" class="sf-depth-3">Board - Annotated</a></li><li id="menu-96-1" class="active-trail middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/minutes" title="Public Minutes of Board Meetings" class="sf-depth-3 active">Minutes</a></li><li id="menu-185-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/organization" title="These portfolios represent the activities of the current OSI board." class="sf-depth-3">Organization &amp; Operations</a></li><li id="menu-95-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/articles-of-incorporation" title="OSI incorporation record" class="sf-depth-3">Articles of Incorporation</a></li><li id="menu-1475-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/elections" class="sf-depth-3">Board Elections</a></li><li id="menu-84-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/bylaws" title="Bylaws of the Open Source Initiative" class="sf-depth-3">Bylaws</a></li><li id="menu-1317-1" class="last odd sf-item-7 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/conflict_of_interest_policy" class="sf-depth-3">Conflict of Interest</a></li></ul></li><li id="menu-1843-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210916105135/https://opensource.org/trademark" title="" class="sf-depth-2 menuparent">Trademark &amp; Logo</a><ul><li id="menu-184-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/trademark-guidelines" title="OSI's Trademark Policy" class="sf-depth-3">Trademark Guidelines</a></li><li id="menu-183-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/logo-usage-guidelines" title="Guidelines for appearance and usage of OSI Logo" class="sf-depth-3">Logo Guidelines</a></li></ul></li><li id="menu-126-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210916105135/https://opensource.org/ToS" title="Rules for posting content on this site" class="sf-depth-2">Terms of Service</a></li></ul></li><li id="menu-65-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-5 sf-parent-children-2 sf-single-children-3 menuparent"><a href="/web/20210916105135/https://opensource.org/licenses" class="sf-depth-1 menuparent">Licenses</a><ul><li id="menu-61-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210916105135/https://opensource.org/osd" title="The actual OSD defining what constitutes an Open Source licence" class="sf-depth-2">Open Source Definition</a></li><li id="menu-77-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210916105135/https://opensource.org/licenses/category" title="Licenses by Category" class="sf-depth-2">Licenses by Category</a></li><li id="menu-72-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210916105135/https://opensource.org/licenses/alphabetical" title="Licenses that are approved by the OSI as conforming to the OSD" class="sf-depth-2">Licenses by Name</a></li><li id="menu-66-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210916105135/https://opensource.org/approval" title="Certifying licences as OSD-compliant" class="sf-depth-2 menuparent">License Review Process</a><ul><li id="menu-67-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/proliferation" title="Supporting choice while maintaining sanity" class="sf-depth-3">Licence Proliferation</a></li><li id="menu-69-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/proliferation-report" title="License Proliferation Committee's report to the OSI Board" class="sf-depth-3">LP report to the Board</a></li></ul></li><li id="menu-99-1" class="last odd sf-item-5 sf-depth-2 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/web/20210916105135/https://opensource.org/osr-intro" title="Open Standards Requirement for Software" class="sf-depth-2 menuparent">Open Standards</a><ul><li id="menu-101-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/osr" title="An &quot;open standard&quot; must not prohibit conforming implementations in open source software." class="sf-depth-3">The Open Standards Requirement</a></li><li id="menu-102-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/osr-compliance" class="sf-depth-3">Open Standards Requirement Compliance</a></li><li id="menu-100-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/osr-rationale" class="sf-depth-3">Open Standards Requirement Rationale</a></li><li id="menu-103-1" class="last even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/osr-faq" title="Frequently asked questions about the Open Standards Requirement" class="sf-depth-3">OSR Frequently Asked Questions</a></li></ul></li></ul></li><li id="menu-1842-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-3 sf-parent-children-2 sf-single-children-1 menuparent"><a href="/web/20210916105135/https://opensource.org/membership" title="Page for our various membership programs" class="sf-depth-1 menuparent">Membership</a><ul><li id="menu-914-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210916105135/https://opensource.org/members" class="sf-depth-2 menuparent">Individuals</a><ul><li id="menu-897-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/civicrm/contribute/transact?reset=1&amp;id=1" title="" class="sf-depth-3">Join</a></li><li id="menu-2265-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/benefits" class="sf-depth-3">Benefits</a></li></ul></li><li id="menu-675-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210916105135/https://opensource.org/osi-affiliate-membership" title="Home page for OSI's membership scheme for non-profits and not-for-profits" class="sf-depth-2 menuparent">Affiliates</a><ul><li id="menu-676-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/affiliates/about" class="sf-depth-3">Become an Affiliate</a></li><li id="menu-2071-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/AffiliateRequirements" class="sf-depth-3">Affiliate  Criteria</a></li></ul></li><li id="menu-1436-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210916105135/https://opensource.org/corporate-sponsors-support" title="" class="sf-depth-2">Sponsors &amp; Support</a></li></ul></li><li id="menu-1841-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-5 sf-parent-children-1 sf-single-children-4 menuparent"><a href="/web/20210916105135/https://opensource.org/community" title="Page for our various community members." class="sf-depth-1 menuparent">Community</a><ul><li id="menu-2271-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210916105135/https://opensource.org/associations" class="sf-depth-2">Associations</a></li><li id="menu-63-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/web/20210916105135/https://opensource.org/lists" title="The virtual committees where the OSI's work gets done" class="sf-depth-2 menuparent">Mailing lists</a><ul><li id="menu-1072-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/codeofconduct/licensing" class="sf-depth-3">Licensing Code of Conduct</a></li><li id="menu-78-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/codeofconduct" title="Guidelines for OSI Mailing Lists" class="sf-depth-3">General Code of Conduct</a></li><li id="menu-2272-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/node/960" title="Monthly reports summarizing the OSI's License-Discuss and License-Review mailing lists." class="sf-depth-3">Discussion List Reports</a></li><li id="menu-2111-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/public_forums_disclaimer" class="sf-depth-3">Disclaimer for OSI Public Forums</a></li><li id="menu-2110-1" class="last odd sf-item-5 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/public_archives_policy" class="sf-depth-3">Policy on Public Communications and Archives</a></li></ul></li><li id="menu-2032-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210916105135/https://opensource.org/volunteersandstaff" class="sf-depth-2">Volunteers &amp; Staff</a></li><li id="menu-2192-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210916105135/https://opensource.org/AdvocateCircle" class="sf-depth-2">Advocate Circle</a></li><li id="menu-1846-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="https://web.archive.org/web/20210916105135/http://wiki.opensource.org/" title="" class="sf-depth-2">Wiki</a></li></ul></li><li id="menu-1840-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-6 sf-parent-children-1 sf-single-children-5 menuparent"><a href="/web/20210916105135/https://opensource.org/resources" title="Page offering resources to OSI personas" class="sf-depth-1 menuparent">Resources</a><ul><li id="menu-342-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210916105135/https://opensource.org/faq" title="Frequently Asked Questions about open source and about the OSI." class="sf-depth-2">FAQ</a></li><li id="menu-45-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210916105135/https://opensource.org/help" title="Resources for questions and further exploration" class="sf-depth-2 menuparent">Getting Help</a><ul><li id="menu-76-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/links" title="Links and References to Open Source" class="sf-depth-3">Bibliography</a></li><li id="menu-125-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105135/https://opensource.org/advocacy/case_for_business.php" title="How to advocate Open Source to businesses" class="sf-depth-3">Open Source Case for Business</a></li></ul></li><li id="menu-1514-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210916105135/https://opensource.org/working_groups" class="sf-depth-2">Working Groups &amp; Incubator Projects</a></li><li id="menu-12-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210916105135/https://opensource.org/osi-open-source-education" title="OSI's Open Source Education Initiative and Activities" class="sf-depth-2">Open Source Education</a></li><li id="menu-3046-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/web/20210916105135/https://opensource.org/node/1012" class="sf-depth-2">Articles &amp; Books</a></li><li id="menu-2193-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/web/20210916105135/https://opensource.org/authority" class="sf-depth-2">International Authority &amp; Recognition</a></li></ul></li><li id="menu-1844-1" class="last even sf-item-6 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/web/20210916105135/https://opensource.org/news" title="Page dedicated to the latest news and events." class="sf-depth-1 menuparent">News &amp; Events</a><ul><li id="menu-1845-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210916105135/https://opensource.org/news" title="Index of newsletters" class="sf-depth-2">News</a></li><li id="menu-1999-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210916105135/https://opensource.org/events" class="sf-depth-2">Events</a></li><li id="menu-4709-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210916105135/https://opensource.org/newsletter/signup" title="" class="sf-depth-2">Newsletter Signup</a></li></ul></li></ul>  </div>
+</div>
+  </div>
+                                            </nav>
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #main-navigation-inside -->
+
+    </div>
+</div>
+<!-- EOF: #main-navigation -->
+
+<!-- #banner -->
+<div id="banner" class="clearfix">
+    <div class="container">
+        
+        <!-- #banner-inside -->
+        <div id="banner-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                  <div class="region region-banner">
+    <div id="block-block-23" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <div class="rtecenter" style="font-size:16px; font-weight: bold;"><a href="https://web.archive.org/web/20210916105135/https://eventyay.com/e/e7dfbfc4/" target="_blank">Practical Open Source Information</a> :: Online Event :: September 16 - 11:00 AM to 4:00 PM EDT</div>
+  </div>
+</div>
+  </div>
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #banner-inside -->        
+
+    </div>
+</div>
+<!-- EOF:#banner -->
+
+<!-- #page -->
+<div id="page" class="clearfix">
+    
+    
+    <!-- #main-content -->
+    <div id="main-content">
+        <div class="container">
+        
+            <!-- #messages-console -->
+                        <!-- EOF: #messages-console -->
+            
+            <div class="row">
+
+                
+
+                <section class="col-md-12">
+
+                    <!-- #main -->
+                    <div id="main" class="clearfix">
+                    
+                        
+                        
+                        <!-- EOF:#content-wrapper -->
+                        <div id="content-wrapper">
+
+                                                                                    <h1 class="page-title">List of OSI Board Meeting Minutes &amp; Portfolio Reports</h1>
+                                                        
+                                                  
+                            <!-- #tabs -->
+                                                            <div class="tabs">
+                                                                </div>
+                                                        <!-- EOF: #tabs -->
+
+                            <!-- #action links -->
+                                                        <!-- EOF: #action links -->
+
+                              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <article id="node-101" class="node node-page clearfix">
+
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>2020</strong></p>
+
+<ul><li><a href="https://web.archive.org/web/20210916105135/https://opensource.org/files/OpenSourceInitiative_Form990Package_2019_FINAL-20201116.pdf">November 16, 2020, Return of Organization Exempt from Income Tax (2019 990)</a></li>
+	<li><a href="https://web.archive.org/web/20210916105135/https://opensource.org/minutes20200320">March 20, 2020</a></li>
+	<li><a href="https://web.archive.org/web/20210916105135/https://opensource.org/minutes20200313">March 13, 2020</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20200214">February 14, 2020 </a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20200119">January 19, 2020</a></li>
+</ul><p><strong>2019</strong></p>
+
+<ul><li><a href="minutes20191213">December 13, 2019</a></li>
+	<li><a href="https://web.archive.org/web/20210916105135/https://opensource.org/files/OpenSourceInitiative_Form990Package_2018_FINAL-20191114.pdf">November 14, 2019, Return of Organization Exempt from Income Tax (2018 990)</a></li>
+	<li><a href="https://web.archive.org/web/20210916105135/https://opensource.org/minutes2019FallF2F">November 12 &amp; 13</a>, 2019, Fall Face to Face Meeting,</li>
+	<li><a href="minutes20191011">October 11, 2019</a></li>
+	<li><a href="minutes20190920">September 20, 2019</a></li>
+	<li><a href="minutes20190816">August 16, 2019</a></li>
+	<li>July 12, 2019 - <em>postponed</em></li>
+	<li><a href="minutes20190614">June 14, 2019</a></li>
+	<li><a href="minutes2019SpringF2F">May 6 &amp; 7, 2019</a>, Spring Face to Face Meeting.</li>
+	<li><a href="minutes20190411">April 11, 2019</a></li>
+	<li><a href="minutes20190328">March 28, 2019</a></li>
+	<li><a href="minutes20190314">March 14, 2019</a></li>
+	<li><a href="minutes20190214">February 14, 2019</a></li>
+	<li><a href="minutes20190110">January 10, 2019</a></li>
+</ul><p><strong>2018</strong></p>
+
+<ul><li><a href="minutes20181213">December 13, 2018</a></li>
+	<li><a href="https://web.archive.org/web/20210916105135/https://opensource.org/files/OpenSourceInitiative_Form990Package_2017_FINAL_20181114.pdf">November 15, 2018, Return of Organization Exempt from Income Tax (2017 990)</a></li>
+	<li><a href="minutes2018FallF2F">Tuesday November 13 &amp; Wednesday November 14, 2018, Fall Face to Face Board Meeting</a></li>
+	<li><a href="minutes20181011">October 11, 2018</a></li>
+	<li><a href="minutes20180913">September 13, 2018</a></li>
+	<li>August 9, 2018 - <em>postponed</em></li>
+	<li><a href="minutes20180716">July 16, 2018</a></li>
+	<li><a href="minutes20180621">June 21, 2018</a></li>
+	<li><a href="minutes2018SpringF2F">Monday April 30 &amp; Tuesday May 1, 2018, Spring Face to Face Board Meeting</a></li>
+	<li><a href="minutes20180319">March 19, 2018</a></li>
+	<li><a href="minutes20180208">Thursday, February 8, 2018</a></li>
+	<li>Thursday, January 11, 2018 - <em>postponed</em></li>
+</ul><p><strong>2017</strong></p>
+
+<ul><li>Thursday, December 14, 2017 - <em>postponed</em></li>
+	<li><a href="minutes2017FallF2F">Tuesday, November 28 &amp; Wednesday, November 29, 2017</a></li>
+	<li>Thursday, October 12, 2017 - <em>postponed</em></li>
+	<li><a href="minutes20170914">Thursday, September 14, 2017</a></li>
+	<li><a href="minutes20170810">Thursday, August 10, 2017</a></li>
+	<li><a href="minutes20170713">Thursday, July 13, 2017</a></li>
+	<li>Thursday, June 8, 2017 - <em>postponed</em></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20170518">Thursday, May 18, 2017</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/files/2016990EZ.pdf ">Monday, May 15, 2017, 2016 Return of Organization Exempt from Income Tax (990-EZ)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes2017SpringF2F">Monday, April 3 &amp; Tuesday April 4, 2017 Spring Face to Face Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20170329">Wednesday, March 29, 2017</a></li>
+	<li>Wednesday, March 08, 2017 - <em>postponed</em></li>
+	<li>Wednesday, February 08 2017 - <em>postponed</em></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20170111">Wednesday, January 11, 2017</a></li>
+</ul><p><strong>2016</strong></p>
+
+<ul><li><a href="/web/20210916105135/https://opensource.org/minutes20161214">Wednesday, December 14, 2016 Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes2016FF2F">Monday, Nov. 14 &amp; Tuesday, Nov. 12, 2016 Fall Face to Face Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20161012">Wednesday, October 12, 2016 Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20160914">Wednesday, September 14, 2016 Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20160810">Wednesday, August 10, 2016 Board Meeting</a></li>
+	<li>Wednesday, July 13, 2016 Meeting - <em>postponed</em></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20160608">Wednesday, June 8, 2016 Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20160511">Wednesday, May 11, 2016, Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/files/2015990EZ.pdf">Wednesday, May 11, 2016, 2015 Return of Organization Exempt from Income Tax (990-EZ)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes2016SF2F">Thursday, April 21 &amp; Friday April 22, 2016 Spring Face to Face Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20160318">Wednesday, March 18, 2016, Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20160210">Wednesday, February 10, 2016, Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20160113">Wednesday, January 13, 2016, Board Meeting</a></li>
+</ul><p><strong>2015</strong></p>
+
+<ul><li><a href="/web/20210916105135/https://opensource.org/minutes20151209">Wednesday, December 9, 2015 Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes2015FallF2F">Nov. 10-11, 2015 Fall 2015 Face to Face Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20151014">Wednesday, October 14, 2015 Board Meeting </a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20150909">Wednesday, September 9, 2015 Board Meeting</a></li>
+	<li>Wednesday, August 12, 2015 Meeting - <em>postponed</em></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20150708">Wednesday July 8, 2015 Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20150610">Wednesday June 10, 2015 Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes2015051413">Wednesday May 13th &amp; Thursday 14th, 2015 (Face-to-Face Board Meeting, Paris France)</a></li>
+	<li>Wednesday, April 8, 2015 Board Meeting - <em>postponed</em></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20150318">Wednesday, March 18, 2015 Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/files/2014990EZ.pdf">Saturday, May 15, 2015, 2014 Return of Organization Exempt from Income Tax (990-EZ)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/files/2014990EZ.pdf">Wednesday, March 4, 2015 Board Meeting</a><br/><a href="https://web.archive.org/web/20210916105135/http://opensource.org/files/20150304PortfolioReport.pdf">March 2015 Portfolio Reports</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20150204">Wednesday, February 4, 2015 Board Meeting</a><br/><a href="https://web.archive.org/web/20210916105135/http://opensource.org/files/20150204PortfolioReport.pdf">February 2015 Portfolio Reports</a></li>
+	<li>Wednesday, January 7, 2015 Board Meeting - <em>postponed</em><br/><a href="https://web.archive.org/web/20210916105135/http://opensource.org/files/20150107_Portfolio_Notes.pdf">January 2015 Portfolio Reports</a></li>
+</ul><p><strong>2014</strong></p>
+
+<ul><li>Wednesday, December 3, 2014 Board Meeting - <em>postponed</em><br/><a href="/web/20210916105135/https://opensource.org/reports201412">December 2014 Portfolio Reports</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20141111">Wednesday, November 11th &amp; 12th, 2014 Minutes (Face-to-Face Board Meeting, San Francisco, CA)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20141008">Wednesday, October 8, 2014 Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20140910">Wednesday, September 10, 2014 Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20140806">Wednesday, August 6, 2014 Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20140709">Wednesday, July 9, 2014 Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20140604">Wednesday, June 4, 2014 Board Meeting</a></li>
+	<li>Wednesday, May 7, 2014 - <em>postponed</em></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20140430">Wednesday, April 30, 2014 (Face-to-Face Board Meeting, Boston, MA)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20140429">Tuesday, April 29, 2014 (Face-to-Face Board Meeting, Boston, MA)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20140402">Wednesday, April 2nd, 2014, Board Meeting</a>
+	<ul><li><a href="https://web.archive.org/web/20210916105135/http://opensource.org/files/2013_990ez.pdf">2013 990ez</a></li>
+		<li><a href="https://web.archive.org/web/20210916105135/http://opensource.org/files/2013_990ez_SchedA.pdf">2013 990ez Schedule A</a></li>
+		<li><a href="https://web.archive.org/web/20210916105135/http://opensource.org/files/2013_990ez_SchedB.pdf">2013 990ez Schedule B</a></li>
+		<li><a href="https://web.archive.org/web/20210916105135/http://opensource.org/files/2013_990ez_SchedO.pdf">2013 990ez Schedule O</a></li>
+	</ul></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20140305">Wednesday, March 5, 2014, Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20140205">Wednesday, February 5, 2014, Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20140108">Wednesday, January 8, 2014, Board Meeting</a></li>
+</ul><p><strong>2013</strong></p>
+
+<ul><li><a href="/web/20210916105135/https://opensource.org/minutes20131204">Wednesday, December 4, 2013, Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20131113">Wednesday, November 13th, 2013 (Face-to-Face Board Meeting, San Francisco, CA)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20131112">Tuesday, November 12th, 2013 (Face-to-Face Board Meeting, San Francisco, CA)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20131106">Wednesday, November 6, 2013, Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20131009">Wednesday, October 9, 2013, Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20131002">Wednesday, October 2, 2013, Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20130904">Wednesday, September 4, 2013, Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20130807">Wednesday, August 7, 2013, Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20130717">Wednesday, July 17, 2013, Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20130612">Wednesday, June 12, 2013, Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20130508">Wednesday, May 8, 2013 (Face-to-Face Board Meeting, Washington D.C.)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20130507">Tuesday, May 7, 2013 (Face-to-Face Board Meeting, Washington D.C.)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20130501">Wednesday, May 1, 2013, Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20130403">Wednesday, April 3, 2013, Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20130306">Wednesday, March 6, 2013, Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20130206">Wednesday, February 6, 2013, Board Meeting</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20130102">Wednesday, January 2, 2013, Board Meeting</a></li>
+</ul><p><strong>2012</strong></p>
+
+<ul><li><a href="/web/20210916105135/https://opensource.org/minutes20121205">Wednesday, December 5, 2012</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20121110">Sunday, November 10, 2012 (Face-to-Face meeting, San Francisco)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20121109">Saturday, November 9, 2012 (Face-to-Face meeting, San Francisco)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20121003">Wednesday, October 3, 2012</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20120905">Wednesday, September 5, 2012</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20120810">Friday, August 10, 2012</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20120801">Wednesday, August 1, 2012</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20120703">Tuesday, July 3, 2012</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20120606">Wednesday, June 6, 2012</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20120520">Sunday, May 20, 2012 (Face-to-Face meeting, Chicago)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20120519">Saturday, May 19, 2012 (Face-to-Face meeting, Chicago)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20120502">Wednesday, May 2, 2012</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20120404">Wednesday, April 4, 2012</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20120316">Friday, March 16, 2012 (Board Election)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20120307">Wednesday, March 7, 2012</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20120201">Wednesday, Feburary 1, 2012</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20120109">Monday, January 9, 2012</a></li>
+</ul><p><strong>2011</strong></p>
+
+<ul><li><a href="/web/20210916105135/https://opensource.org/minutes20111207">Wednesday, December 7, 2011</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20111113">Sunday, November 13, 2011 (Face-to-Face meeting, San Francisco)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20111112">Saturday, November 12, 2011 (Face-to-Face meeting, San Francisco)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20111102">Wednesday, November 2, 2011</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20111005">Wednesday, October 5, 2011</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20110914">Wednesday, September 14, 2011</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20110810">Wednesday, August 10, 2011</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20110713">Wednesday, July 13, 2011</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20110608">Wednesday, June 8, 2011</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20110504">Wednesday, May 4, 2011</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20110406">Wednesday, April 6, 2011</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20110313">Sunday, March 13, 2011 (Face-to-Face meeting, San Francisco)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20110312">Saturday, March 12, 2011 (Face-to-Face meeting, San Francisco)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20110209">Wednesday, February 9, 2011</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20110105">Wednesday, January 5, 2011</a></li>
+</ul><p><strong>2010</strong></p>
+
+<ul><li><a href="/web/20210916105135/https://opensource.org/minutes20101201">Wednesday, December 1, 2010</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20101103">Wednesday, November 3, 2010</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20101003">Sunday, October 3, 2010 (Face-to-Face meeting, Paris)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20101002">Saturday, October 2, 2010 (Face-to-Face meeting, Paris)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20100908">Wednesday, September 8, 2010</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20100811">Wednesday, August 11, 2010</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20100707">Wednesday, July 7, 2010</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20100602">Wednesday, June 2, 2010</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20100505">Wednesday, May 5, 2010 (Committee Chair Elections)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20100421">Wednesday, April 21, 2010 (Officer Elections)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20100307">Sunday, March 7, 2010 (Board Elections)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20100227">Saturday, February 27, 2010 (Face-to-Face meeting, Raleigh)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20100210">Wednesday, February 10, 2010</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20100113">Wednesday, January 13, 2010</a></li>
+</ul><p><strong>2009</strong></p>
+
+<ul><li><a href="/web/20210916105135/https://opensource.org/minutes20091202">Wednesday, December 2, 2009</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20091111">Wednesday, November 11, 2009</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20091014">Wednesday, October 14, 2009</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20090902">Wednesday, September 2, 2009</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20090805">Wednesday, August 5, 2009</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20090717">Friday, July 17, 2009 (Face-to-Face meeting, Palo Alto)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20090716">Thursday, July 16, 2009 (Face-to-Face meeting, Palo Alto)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20090701">Wednesday, July 1, 2009</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20090610">Wednesday, June 10, 2009</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20090506">Wednesday, May 6, 2009</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20090401">Wednesday, April 1, 2009</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20090304">Wednesday, March 4, 2009</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20090206">Friday, February 6, 2009 (Face-to-Face meeting, Brussels)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20090205">Thursday, February 5, 2009 (Face-to-Face meeting, Brussels)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20090107">Wednesday, January 7, 2009</a></li>
+</ul><p><strong>2008</strong></p>
+
+<ul><li><a href="/web/20210916105135/https://opensource.org/minutes20081210">Wednesday, December 10, 2008</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20081112">Wednesday, November 12, 2008</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20081001">Wednesday, October 1, 2008</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20080910">Wednesday, September 10, 2008</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20080813">Wednesday, August 13, 2008</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20080727">Sunday, July 27, 2008 (Face-to-Face meeting, Portland)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20080726">Saturday, July 26, 2008 (Face-to-Face meeting, Portland)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20080709">Wednesday, July 9, 2008</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20080604">Wednesday, June 4, 2008</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20080514">Wednesday, May 14, 2008</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20080402">Wednesday, April 2, 2008</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20080312">Wednesday, March 12, 2008</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20080303">Monday, March 3, 2008 (Face-to-Face meeting, Chicago)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20080302">Sunday, March 2, 2008 (Face-to-Face meeting, Chicago)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20080206">Wednesday, February 6, 2008</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20080111">Friday, January 11, 2008</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20080109">Wednesday, January 9, 2008</a></li>
+</ul><p><strong>2007</strong></p>
+
+<ul><li><a href="/web/20210916105135/https://opensource.org/minutes20071212">Wednesday, December 12, 2007</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20071107">Wednesday, November 7, 2007</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20071010">Wednesday, October 10, 2007</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20070905">Wednesday, September 5, 2007</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20070808">Wednesday, August 8, 2007</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20070711">Wednesday, July 11, 2007</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20070606">Wednesday, June 6, 2007</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20070516">Wednesday, May 16, 2007</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20070418">Wednesday, April 18, 2007</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20070411">Wednesday, April 11, 2007</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20070328">Wednesday, March 28, 2007</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20070310">Saturday, March 10, 2007 (Face-to-Face meeting, San Francisco)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20070309">Friday, March 9, 2007 (Face-to-Face meeting, San Francisco)</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20070207">Wednesday, February 7, 2007</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20070201">Thursday, February 1, 2007</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20070131">Wednesday, January 31, 2007</a></li>
+</ul><p><strong>2006</strong></p>
+
+<ul><li><a href="/web/20210916105135/https://opensource.org/minutes20061213">Wednesday, December 13, 2006</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20061110">Friday, November 10, 2006</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20061030">Monday, October 30, 2006</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20061020">Friday, October 20, 2006</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20061011">Wednesday, October 11, 2006</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20060809">Wednesday, August 9, 2006</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20060712">Wednesday, July 12, 2006</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20060707">Friday, July 7, 2006</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20060606">Tuesday, June 6, 2006</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20060510">Wednesday, May 10, 2006</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20060412">Wednesday, April 12, 2006</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20060308">Wednesday, March 8, 2006</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20060208">Wednesday, February 8, 2006</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20060106">Friday, January 6, 2006</a></li>
+</ul><p><strong>2005</strong></p>
+
+<ul><li><a href="/web/20210916105135/https://opensource.org/minutes20051109">Wednesday, November 9, 2005</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20051019">Wednesday, October 19, 2005</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20050912">Monday, September 12, 2005</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20050804">Thursday, August 4, 2005</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20050803">Wednesday, August 3, 2005</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20050715">Friday, July 15, 2005</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20050713">Wednesday, July 13, 2005</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20050712">Tuesday, July 12, 2005</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20050511">Wednesday, May 11, 2005</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20050411">Monday, April 11, 2005</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20050406">Wednesday, April 6, 2005</a></li>
+	<li><a href="/web/20210916105135/https://opensource.org/minutes20050307">Monday, March 7, 2005</a></li>
+</ul></div></div></div>  </div>
+    
+     
+
+  
+</article>  </div>
+</div>
+  </div>
+                            
+                        </div>
+                        <!-- EOF:#content-wrapper -->
+
+                    </div>
+                    <!-- EOF:#main -->
+
+                </section>
+
+                        
+            </div>
+
+        </div>
+    </div>
+    <!-- EOF:#main-content -->
+
+    
+</div>
+<!-- EOF:#page -->
+
+
+<footer id="subfooter" class="clearfix">
+    <div class="container">
+        
+        <!-- #subfooter-inside -->
+        <div id="subfooter-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- #subfooter-left -->
+                    <div class="subfooter-area">
+                                            
+
+                                          <div class="region region-footer">
+    <div id="block-block-11" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <div class="filler" style="vertical-align: middle; display: inline-block;">
+<p style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><a href="https://web.archive.org/web/20210916105135/https://twitter.com/OpenSourceOrg" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210916105135im_/https://opensource.org/files/twitterlogo.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210916105135/https://www.linkedin.com/company/open-source-initiative-osi-" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210916105135im_/https://opensource.org/files/linkedin.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210916105135/http://wiki.opensource.org/" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210916105135im_/https://opensource.org/files/xwikilogo.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210916105135/http://creativecommons.org/licenses/by/4.0/" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210916105135im_/https://opensource.org/files/ccby.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a></p>
+</div>
+
+<p> </p>
+
+<div class="license" style="vertical-align: middle; display: inline-block;">
+<p>Sign-up for our <a href="newsletter/signup">newsletter</a>!</p>
+
+<p>The content on this website, of which Opensource.org is the author, is licensed under a <a href="https://web.archive.org/web/20210916105135/http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.<br/>
+Opensource.org is not the author of any of the licenses reproduced on this site. Questions about the copyright in a license should be directed to the license steward.</p>
+
+<p>Hosting for Opensource.org is generously provided by <a href="https://web.archive.org/web/20210916105135/https://www.digitalocean.com/">DigitalOcean</a>. Please see <a href="/web/20210916105135/https://opensource.org/ToS">Terms of Service</a>.<br/><span style="font-size:10px;">For questions regarding the OSI website and contents pleasee <a href="https://web.archive.org/web/20210916105135/mailto:webmaster@lists.opensource.org?subject=OSI%20website%20comment">email our webmaster</a>.</span></p>
+</div>
+
+<p> </p>
+  </div>
+</div>
+<div id="block-block-7" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <script src="https://web.archive.org/web/20210916105135js_/https://www.google-analytics.com/urchin.js" type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+
+//--><!]]>
+</script><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+_uacct = "UA-3916956-1";
+urchinTracker();
+
+//--><!]]>
+</script>  </div>
+</div>
+  </div>
+                    
+                    </div>
+                    <!-- EOF: #subfooter-left -->
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #subfooter-inside -->
+    
+    </div>
+</footer>
+<!-- EOF:#subfooter -->
+  </body>
+</html><!--
+     FILE ARCHIVED ON 10:51:35 Sep 16, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:26:29 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 116.823
+  exclusion.robots: 0.077
+  exclusion.robots.policy: 0.067
+  cdx.remote: 0.058
+  esindex: 0.009
+  LoadShardBlock: 89.801 (3)
+  PetaboxLoader3.datanode: 78.349 (4)
+  load_resource: 91.574
+  PetaboxLoader3.resolve: 58.616
+-->

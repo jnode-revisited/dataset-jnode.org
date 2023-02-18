@@ -1,0 +1,393 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script type="text/javascript" src="/_static/js/bundle-playback.js?v=4R5OHjEN" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.jnode.org:80/node/88","20200222092039","https://web.archive.org/","web","/_static/",
+	      "1582363239");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <title>JNode Shell | JNode.org</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="prev" href="/web/20200222092039/http://www.jnode.org/node/936"/>
+
+<link rel="up" href="/node/42"/>
+
+<link rel="next" href="/web/20200222092039/http://www.jnode.org/node/721"/>
+
+<link rel="shortcut icon" href="/web/20200222092039im_/http://www.jnode.org/misc/favicon.ico" type="image/x-icon"/>
+  <style type="text/css" media="all">@import "/web/20200222092039cs_/http://www.jnode.org/modules/book/book.css";</style>
+<style type="text/css" media="all">@import "/web/20200222092039cs_/http://www.jnode.org/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "/web/20200222092039cs_/http://www.jnode.org/modules/poll/poll.css";</style>
+<style type="text/css" media="all">@import "/web/20200222092039cs_/http://www.jnode.org/modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "/web/20200222092039cs_/http://www.jnode.org/modules/system/system.css";</style>
+<style type="text/css" media="all">@import "/web/20200222092039cs_/http://www.jnode.org/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/web/20200222092039cs_/http://www.jnode.org/modules/project/project.css";</style>
+<style type="text/css" media="all">@import "/web/20200222092039cs_/http://www.jnode.org/modules/project_issue/project_issue.css";</style>
+<style type="text/css" media="all">@import "/web/20200222092039cs_/http://www.jnode.org/modules/devel/devel.css";</style>
+<style type="text/css" media="all">@import "/web/20200222092039cs_/http://www.jnode.org/modules/comment/comment.css";</style>
+<style type="text/css" media="all">@import "/web/20200222092039cs_/http://www.jnode.org/themes/newsflash/style.css";</style>
+<style type="text/css" media="all">@import "/web/20200222092039cs_/http://www.jnode.org/themes/newsflash/css/jnode.css";</style>
+  <script type="text/javascript" src="/web/20200222092039js_/http://www.jnode.org/misc/jquery.js"></script>
+<script type="text/javascript" src="/web/20200222092039js_/http://www.jnode.org/misc/drupal.js"></script>
+<script type="text/javascript" src="/web/20200222092039js_/http://www.jnode.org/modules/devel/devel.js"></script>
+  <script type="text/javascript"> </script>
+      <style type="text/css">
+    #page {
+      width : 100%px;
+    }
+    </style>
+        <style type="text/css">
+    body.sidebar-left #main {
+      margin-left: -210px;
+    }
+    body.sidebars #main {
+      margin-left: -210px;
+    }
+    body.sidebar-left #squeeze {
+      margin-left: 210px;
+    }
+    body.sidebars #squeeze {
+      margin-left: 210px;
+    }
+    #sidebar-left {
+      width: 210px;
+    }
+    </style>
+        <style type="text/css">
+    body.sidebar-right #main {
+      margin-right: -210px;
+    }
+    body.sidebars #main {
+      margin-right: -210px;
+    }
+    body.sidebar-right #squeeze {
+      margin-right: 210px;
+    }
+    body.sidebars #squeeze {
+      margin-right: 210px;
+    }
+    #sidebar-right {
+      width: 210px;
+    }
+    </style>
+        <style type="text/css">
+    body {
+      font-family : Arial, Verdana, sans-serif;
+    }
+    </style>
+        <!--[if IE]>
+<style type="text/css" media="all">@import "/themes/newsflash/css/ie.css";</style>
+<![endif]-->
+    <script type="text/javascript" src="https://web.archive.org/web/20200222092039js_/http://www.jnode.org/themes/newsflash/js/pickstyle.js"></script>
+</head>
+<body class="sidebars">
+  <div id="page">
+    <div id="header" class="clear-block">
+      <div id="logo-title">
+                              <a href="/web/20200222092039/http://www.jnode.org/" title="Home"> <img src="/web/20200222092039im_/http://www.jnode.org/themes/newsflash/logo.png" alt="Home" id="logo"/> </a>
+                        </div><!-- /logo-title -->
+      <div id="name-and-slogan">
+              </div><!-- /name-and-slogan -->
+                	<div id="primarymenu">
+                  <ul class="links primary-links"><li class="first menu-1-1-99"><a href="/web/20200222092039/http://www.jnode.org/node/view/25" class="menu-1-1-99">Start here!</a></li>
+<li class="menu-1-2-99"><a href="/web/20200222092039/http://www.jnode.org/docs" class="menu-1-2-99">Documentation</a></li>
+<li class="menu-1-3-99"><a href="/web/20200222092039/http://www.jnode.org/download_latest" class="menu-1-3-99">Download</a></li>
+<li class="menu-1-4-99"><a href="/web/20200222092039/http://www.jnode.org/node/view/455" class="menu-1-4-99">Contribute</a></li>
+<li class="menu-1-5-99"><a href="/web/20200222092039/http://www.jnode.org/status" class="menu-1-5-99">Status</a></li>
+<li class="menu-1-6-99"><a href="/web/20200222092039/http://www.jnode.org/node/view/132" class="menu-1-6-99">Screenshots</a></li>
+<li class="menu-1-7-99"><a href="/web/20200222092039/http://www.jnode.org/forum" class="menu-1-7-99">Forums</a></li>
+<li class="last menu-1-8-99"><a href="/web/20200222092039/http://www.jnode.org/contact" class="menu-1-8-99">Contact</a></li>
+</ul>                           
+                </div>
+                    <div class="site-slogan"> :: ~  JNode.free(yourMind); ~ :: </div>
+            <form action="/web/20200222092039/http://www.jnode.org/search/node" accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline"><div class="form-item">
+ <input type="text" maxlength="128" name="search_theme_form_keys" id="edit-search-theme-form-keys" size="15" value="" title="Enter the terms you wish to search for." class="form-text"/>
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search" class="form-submit"/>
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"/>
+</div>
+</div></form>
+          </div><!-- /header -->
+            <div id="middlecontainer">
+              <div id="sidebar-left"><div class="block block-book" id="block-book-0">
+  <h2 class="title">JNode handbook</h2>  <div class="content"><ul class="menu"><li class="leaf"><a href="/web/20200222092039/http://www.jnode.org/node/5">Goals</a></li><li class="expanded"><a href="/web/20200222092039/http://www.jnode.org/node/42">User guide</a><ul class="menu"><li class="leaf"><a href="/web/20200222092039/http://www.jnode.org/node/174">History</a></li><li class="collapsed"><a href="/web/20200222092039/http://www.jnode.org/node/2365">Application testing list</a></li><li class="collapsed"><a href="/web/20200222092039/http://www.jnode.org/node/25">Getting Started</a></li><li class="leaf"><a href="/web/20200222092039/http://www.jnode.org/node/91">Hardware Compatibility List</a></li><li class="leaf"><a href="/web/20200222092039/http://www.jnode.org/node/573">Hardware requirements</a></li><li class="collapsed"><a href="/web/20200222092039/http://www.jnode.org/node/2053">JNode Commands</a></li><li class="leaf"><a href="/web/20200222092039/http://www.jnode.org/node/936">JNode GUI</a></li><li class="expanded"><a href="/web/20200222092039/http://www.jnode.org/node/88" class="active">JNode Shell</a><ul class="menu"><li class="leaf"><a href="/web/20200222092039/http://www.jnode.org/node/721">Testing remote programs in shell</a></li></ul></li><li class="leaf"><a href="/web/20200222092039/http://www.jnode.org/node/51">Performance</a></li><li class="collapsed"><a href="/web/20200222092039/http://www.jnode.org/status">Status</a></li></ul></li><li class="leaf"><a href="/web/20200222092039/http://www.jnode.org/node/13800">Classlib developers guide</a></li><li class="collapsed"><a href="/web/20200222092039/http://www.jnode.org/node/3">Developer guide</a></li><li class="collapsed"><a href="/web/20200222092039/http://www.jnode.org/node/567">Tester guide</a></li><li class="leaf"><a href="/web/20200222092039/http://www.jnode.org/node/512">Porting guide</a></li><li class="leaf"><a href="/web/20200222092039/http://www.jnode.org/node/2680">Blogs</a></li><li class="collapsed"><a href="/web/20200222092039/http://www.jnode.org/node/125">Project development</a></li><li class="leaf"><a href="/web/20200222092039/http://www.jnode.org/node/2936">Glossary</a></li><li class="collapsed"><a href="/web/20200222092039/http://www.jnode.org/node/163">Proposals</a></li><li class="collapsed"><a href="/web/20200222092039/http://www.jnode.org/node/43">FAQ</a></li><li class="leaf"><a href="/web/20200222092039/http://www.jnode.org/node/681">Papers &amp; presentations</a></li><li class="collapsed"><a href="/web/20200222092039/http://www.jnode.org/node/92">References</a></li><li class="leaf"><a href="/web/20200222092039/http://www.jnode.org/node/682">Research</a></li></ul></div></div>
+<div class="block block-forum" id="block-forum-0">
+  <h2 class="title">Active forum topics</h2>  <div class="content"><div class="item-list"><ul><li><a href="/web/20200222092039/http://www.jnode.org/node/13797" title="1 comment">Observations on a first time build</a></li><li><a href="/web/20200222092039/http://www.jnode.org/node/13796">Creation of a Device I/O API in OpenJDK</a></li><li><a href="/web/20200222092039/http://www.jnode.org/node/13795" title="1 comment">How to convert a real mode address to a protected mode address in JNode ?</a></li></ul></div><div class="more-link"><a href="/web/20200222092039/http://www.jnode.org/forum" title="Read the latest forum topics.">more</a></div></div></div>
+<div class="block block-blog" id="block-blog-0">
+  <h2 class="title">Recent blog posts</h2>  <div class="content"><div class="item-list"><ul><li><a href="/web/20200222092039/http://www.jnode.org/node/13799">OSGi</a></li><li><a href="/web/20200222092039/http://www.jnode.org/node/13798">Thoughts on Documentation</a></li><li><a href="/web/20200222092039/http://www.jnode.org/node/13788">Hyper-V</a></li><li><a href="/web/20200222092039/http://www.jnode.org/node/5656">A new, natural, simple way to perceive files. (With JNode planned as foundation)</a></li><li><a href="/web/20200222092039/http://www.jnode.org/node/3985">Contribution</a></li><li><a href="/web/20200222092039/http://www.jnode.org/node/3872">My goals for 2012 with JNode</a></li><li><a href="/web/20200222092039/http://www.jnode.org/node/3369">About Email Response</a></li><li><a href="/web/20200222092039/http://www.jnode.org/node/3316">Nice to have found this!</a></li><li><a href="/web/20200222092039/http://www.jnode.org/node/3294">Me 3</a></li><li><a href="/web/20200222092039/http://www.jnode.org/node/3293">Me again</a></li></ul></div><div class="more-link"><a href="/web/20200222092039/http://www.jnode.org/blog" title="Read the latest blog entries.">more</a></div></div></div>
+<div class="block block-block" id="block-block-11">
+    <div class="content"><p><a class="twitter-timeline" href="https://web.archive.org/web/20200222092039/https://twitter.com/search?q=%23jnode" data-widget-id="405250609260920832">Tweets about "#jnode"</a></p>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//web.archive.org/web/20200222092039/http://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46091383-1', 'jnode.org');
+  ga('send', 'pageview');
+
+</script></div></div>
+ </div>
+            <div id="main">
+        <div id="squeeze">
+                              <div id="squeeze-content">
+            <div id="inner-content">
+                           <h1 class="title">JNode Shell</h1>
+              <div class="tabs"></div>
+                                          <div class="node">
+  
+  
+  
+  <div class="node-content"><p><u><b>Introduction</b></u></p>
+<p>The JNode command shell allows commands to be entered and run interactively from the JNode command prompt or run from command script files.  Input to entered at the command prompt (or read from a script file) is first split into command lines by a <i>command interpreter</i>; see below.  Each command line is split into command name (an <i>alias</i> in JNode parlance) and a sequence of arguments.  Finally, each command alias is mapped to a class name, and run by a  <i>command invoker</i>.</p>
+<p>The available aliases can be listed by typing</p>
+<p><i>JNode /&gt;</i> <b>alias&lt;ENTER&gt;</b></p>
+<p>and an aliases syntax and built-in help can be displayed by typing</p>
+<p><i>JNode /&gt;</i> <b>help <i>alias</i>&lt;ENTER&gt;</b></p>
+<p>More extensive documentation for most commands can be found in the <a>JNode Commands</a> index.</p>
+<p><u><b>Keyboard Bindings</b></u></p>
+<p>The command shell (or more accurately, the keyboard interpreter) implements the following keyboard events:</p>
+<table>
+<tr>
+<td><b>&lt;SHIFT&gt;+&lt;UP ARROW&gt;</b></td>
+<td>Scroll the console up a line</td>
+</tr>
+<tr>
+<td><b>&lt;SHIFT&gt;+&lt;DOWN-ARROW&gt;</b></td>
+<td>Scroll the console down a line</td>
+</tr>
+<tr>
+<td><b>&lt;SHIFT&gt;+&lt;PAGE-UP&gt;</b></td>
+<td>Scroll the console up a page</td>
+</tr>
+<tr>
+<td><b>&lt;SHIFT&gt;+&lt;PAGE-DOWN&gt;</b></td>
+<td>Scroll the console down a page</td>
+</tr>
+<tr>
+<td><b>&lt;ALT&gt;+&lt;F1&gt;</b></td>
+<td>Switch to the main command console</td>
+</tr>
+<tr>
+<td><b>&lt;ALT&gt;+&lt;F2&gt;</b></td>
+<td>Switch to the second command console</td>
+</tr>
+<tr>
+<td><b>&lt;ALT&gt;+&lt;F7&gt;</b></td>
+<td>Switch to the Log console (read only)</td>
+</tr>
+<tr>
+<td><b>&lt;ESC&gt;</b></td>
+<td>Show command usage message(s)</td>
+</tr>
+<tr>
+<td><b>&lt;TAB&gt;</b></td>
+<td>Command / input completion</td>
+</tr>
+<tr>
+<td><b>&lt;UP-ARROW&gt;</b></td>
+<td>Go to previous history entry </td>
+</tr>
+<tr>
+<td><b>&lt;DOWN-ARROW&gt;</b></td>
+<td>Go to next history entry</td>
+</tr>
+<tr>
+<td><b>&lt;LEFT-ARROW&gt;</b></td>
+<td>Move cursor left</td>
+</tr>
+<tr>
+<td><b>&lt;RIGHT-ARROW&gt;</b></td>
+<td>Move cursor right</td>
+</tr>
+<tr>
+<td><b>&lt;BACKSPACE&gt;</b></td>
+<td>Delete character to left of cursor</td>
+</tr>
+<tr>
+<td><b>&lt;DELETE&gt;</b></td>
+<td>Delete character to right of cursor</td>
+</tr>
+<tr>
+<td><b>&lt;CTRL&gt;+&lt;C&gt;</b></td>
+<td>Interrupt command (currently disabled)</td>
+</tr>
+<tr>
+<td><b>&lt;CTRL&gt;+&lt;D&gt;</b></td>
+<td>Soft EOF</td>
+</tr>
+<tr>
+<td><b>&lt;CTRL&gt;+&lt;Z&gt;</b></td>
+<td>Continue the current command in the background</td>
+</tr>
+<tr>
+<td><b>&lt;CTRL&gt;+&lt;L&gt;</b></td>
+<td>Clear the console and the input line buffer</td>
+</tr>
+</table>
+<p>Note: you can change the key bindings using the <a href="/web/20200222092039/http://www.jnode.org/node/3060">bindkeys</a> command.</p>
+<p><u><b>Command Completion and Incremental Help</b></u></p>
+<p>The JNode command shell has a sophisticated command completion mechanism that is tied into JNode's native command syntax mechanisms.  Completion is performed by typing the  &lt;TAB&gt; key.</p>
+<p>If you enter a partial command name as follows.</p>
+<p><i>JNode /&gt;</i> <b>if</b></p>
+<p>If you now enter &lt;TAB&gt; the shell will complete the command as follows:</p>
+<p><i>JNode /&gt;</i> <b>ifconfig </b></p>
+<p>with space after the "g" so that you can enter the first argument.  If you enter &lt;TAB&gt;<br/>
+again, JNode will list the possible completions for the first argument as follows:</p>
+<p><i>eth-pci(0,16,0)</i><br><br/>
+<i>loopback</i><br><br/>
+<i>JNode /&gt;</i> <b>ifconfig </b></p>
+<p>This is telling you that the possible values for the first argument are "eth-pci(0,16,0)" and "loopback"; i.e. the names of all network devices that are currently available.  If you now enter "l" followed by &lt;TAB&gt;, the shell will complete the first argument as follows:</p>
+<p><i>JNode /&gt;</i> <b>ifconfig loopback</b></p>
+<p>and so on.  Completion can be performed on aliases, option names and argument types such as file and directory paths and device and plugin names.</p>
+<p>While completion can be used to jolt your memory, it is often useful to be able to see the syntax description for the command you are entering.  If you are in the middle of entering a command, entering &lt;CTRL-?&gt; will parse what you have typed in so far against the aliases syntax, and then print the syntax description for the alternative(s) that match what you have entered.</p>
+<p><u><b>Command Interpreters</b></u><br/>
+<a name="CommandInterpreter"></a></p>
+<p>The JNode command shell uses a CommandInterpreter object to translate the characters typed at the command prompt into the names and arguments for commands to be executed.  There are currently 3 interpreters available:</p>
+<ul>
+<li>"default" - this bare-bones interpreter splits a line into a simple command name (alias) and arguments.  It understands argument quoting, but little else.
+<li>"redirecting" - this interpreter adds the ability to use "&lt;" and "&gt;" for redirecting standard input and standard output, and "|" for simple command pipelines.  This is the default interpreter.
+<li>"bjorne" - this interpreter is an implementation of the POSIX shell specification; i.e. it is like UNIX / GNU Linux shells such as "sh", "bash" and "ksh".  The bjorne interpreter is still under development.  Refer to the <a href="/web/20200222092039/http://www.jnode.org/node/2860">bjorne tracking issue</a> for a summary of implemented features and current limitations.
+</ul>
+<p>The JNode command shell currently consults the "jnode.interpreter" property to determine what interpreter to use.  You can change the current interpreter using the "propset -s" command; e.g.</p>
+<p><i>JNode /&gt;</i> <b>propset -s jnode.interpreter bjorne</b></p>
+<p>Note that this only affects the current console, and that the setting does not persist beyond the next JNode reboot. </p>
+<p><u><b>Command Invokers</b></u></p>
+<p><a name="CommandInvoker"></a></p>
+<p>The JNode command shell uses a CommandInvoker object to execute commands extracted from the command line by the interpreter.  This allows us to run commands in different ways.  There are currently 4 command invokers available:</p>
+<ul>
+<li>"default" - this invoker runs the command in the current Java Thread.
+<li>"thread" - this invoker runs the command in a new Java Thread.
+<li>"proclet" - this invoker runs the command in a new Proclet.  The proclet mechanism is a light-weight process mechanism that gives a degree of isolation, so that the command can have its own standard input, output and error streams.  The command can also see the "environment" variables of the parent interpreter.  This is the default invoker.
+<li>"isolate" - this invoker runs the command in a new Isolate.  The isolate mechanism gives the command its own statics, as if the command is executing in a new JVM.  Isolates and the IsolateInvoker are not fully implemented.
+</ul>
+<p>The JNode command shell currently consults the "jnode.invoker" property to determine what invoker to use.  You can change the current invoker using the "propset -s" command; e.g.</p>
+<p><i>JNode /&gt;</i> <b>propset -s jnode.invoker isolate</b></p>
+<p>Note that this only affects the current console, and that the setting does not persist beyond the next JNode reboot. </p>
+</table>
+<div class="book-navigation"><ul class="menu"><li class="leaf"><a href="/web/20200222092039/http://www.jnode.org/node/721">Testing remote programs in shell</a></li></ul><div class="page-links clear-block"><a href="/web/20200222092039/http://www.jnode.org/node/936" class="page-previous" title="Go to previous page">‹ JNode GUI</a><a href="/web/20200222092039/http://www.jnode.org/node/42" class="page-up" title="Go to parent page">up</a><a href="/web/20200222092039/http://www.jnode.org/node/721" class="page-next" title="Go to next page">Testing remote programs in shell ›</a></div></div></div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="first book_printer"><a href="/web/20200222092039/http://www.jnode.org/book/export/html/88" title="Show a printer-friendly version of this book page and its sub-pages." class="book_printer">Printer-friendly version</a></li>
+<li class="last comment_forbidden"><span class="comment_forbidden"><a href="/web/20200222092039/http://www.jnode.org/user/login?destination=comment/reply/88%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+  
+</div>
+<div id="comments"></div> 
+                                        </div><!-- /inner-content -->
+          </div><!-- /squeeze-content -->
+        </div><!-- /squeeze -->
+      </div><!-- /main -->
+              <div id="sidebar-right"><div class="block block-user" id="block-user-1">
+  <h2 class="title">Navigation</h2>  <div class="content">
+<ul class="menu">
+<li class="expanded"><a href="https://web.archive.org/web/20200222092039/https://github.com/jnode/jnode/issues" title="Bugs, features requests and other enhancement suggestions">Issues</a>
+<ul class="menu">
+<li class="leaf"><a href="/web/20200222092039/http://www.jnode.org/bugs" title="JNode issue tracker (bugs, features, tasks)">bugs &amp; feature requests (old)</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="/web/20200222092039/http://www.jnode.org/node/add">Create content</a></li>
+<li class="leaf"><a href="/web/20200222092039/http://www.jnode.org/reports" title="Nightly generated reports">Reports</a></li>
+<li class="leaf"><a href="/web/20200222092039/http://www.jnode.org/tracker">Recent posts</a></li>
+
+</ul>
+</div></div>
+<div class="block block-block" id="block-block-9">
+  <h2 class="title">JNode uses</h2>  <div class="content"><center>
+<a href="https://web.archive.org/web/20200222092039/http://www.openjdk.org/" target="_blank"> 
+   <img src="/web/20200222092039im_/http://www.jnode.org/images/openjdk.png" width="140" hight="50" alt="OpenJDK" title="Learn more about OpenJDK"/>
+</a>
+<br/>
+<br/>
+<a href="https://web.archive.org/web/20200222092039/https://www.gnu.org/software/classpath/" target="_blank"> 
+   <img src="/web/20200222092039im_/http://www.jnode.org/images/GNU_Classpath_132x46.png" alt="GNU Classpath" title="Learn more about GNU Classpath"/>
+</a>
+<br/>
+<br/>
+</center></div></div>
+<div class="block block-block" id="block-block-5">
+    <div class="content"><center>
+<a href="/web/20200222092039/http://www.jnode.org/node/831">
+<img src="/web/20200222092039im_/http://www.jnode.org/buttons/jnode_link_3.png" alt="I like JNode!" title="I like JNode!">
+</a>
+<!-- inactive site
+<br/><br/>
+<a href="http://www.java.net" target="_blank" >
+  <img border="0" src="http://today.java.net/images/javanet_button_90.gif">
+</a>
+-->
+<br/><br/>
+<a href="https://web.archive.org/web/20200222092039/https://github.com/jnode/" target="_blank">
+  <img border="0" src="https://web.archive.org/web/20200222092039im_/https://raw.github.com/github/media/master/octocats/blacktocat-32.png">
+</a>
+<br/><br/>
+<a href="https://web.archive.org/web/20200222092039/https://sourceforge.net/projects/jnode/" target="_blank">
+  <img border="0" src="https://web.archive.org/web/20200222092039im_/https://sourceforge.net/sflogo.php?group_id=80882">
+</a>
+<br/><br/>
+<a href="https://web.archive.org/web/20200222092039/https://www.ohloh.net/projects/4111?ref=sample" target="_blank">
+  <img width="100" height="16" src="https://web.archive.org/web/20200222092039im_/http://www.jnode.org/images/ohloh-project-report.gif" alt="Ohloh project report for JNode"/></a>
+<br/><br/>
+<center>
+<a href="/web/20200222092039/http://www.jnode.org/node/691">Donations</a>
+</center>
+<br/></div></div>
+<div class="block block-user" id="block-user-0">
+  <h2 class="title">User login</h2>  <div class="content"><form action="/web/20200222092039/http://www.jnode.org/node/88?destination=node%2F88" accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required"/>
+</div>
+<div class="form-item">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass" maxlength="60" size="15" class="form-text required"/>
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in" class="form-submit"/>
+<div class="item-list"><ul><li><a href="/web/20200222092039/http://www.jnode.org/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"/>
+
+</div></form>
+</div></div>
+ </div>
+          </div><!-- /middle-container -->
+    <div style="clear:both"></div>
+            <div id="footer">
+                    <div id="footer-message"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+  <td valign="top" align="left">Copyright (c) JNode.org 2013</td>
+  <td valign="top" align="right">This page is optimized for Mozilla Firefox</td>
+</tr>
+</table>
+</div>
+            <br/>
+          </div><!-- /footer -->
+  <div style="clear:both"></div>
+    </div> <!-- /page -->
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 09:20:39 Feb 22, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:15:11 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 93.231
+  exclusion.robots: 0.121
+  exclusion.robots.policy: 0.11
+  cdx.remote: 0.074
+  esindex: 0.011
+  LoadShardBlock: 63.143 (3)
+  PetaboxLoader3.datanode: 103.265 (4)
+  load_resource: 530.484
+  PetaboxLoader3.resolve: 466.599
+-->

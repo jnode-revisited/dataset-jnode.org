@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head profile="http://www.w3.org/1999/xhtml/vocab"><script type="text/javascript" src="/_static/js/bundle-playback.js?v=4R5OHjEN" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://opensource.org/elections","20210915052630","https://web.archive.org/","web","/_static/",
+	      "1631683590");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)"/>
+<link rel="canonical" href="/web/20210915052630/https://opensource.org/elections"/>
+<link rel="shortlink" href="/web/20210915052630/https://opensource.org/node/691"/>
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="shortcut icon" href="https://web.archive.org/web/20210915052630im_/https://opensource.org/files/osi_favicon.png" type="image/png"/>
+  <title>Board Elections | Open Source Initiative</title>
+  <link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210915052630cs_/https://opensource.org/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210915052630cs_/https://opensource.org/files/css/css_gh8wMJiOGewsPCJRDYXmqv3eEGGGSn0O_fqsi_9a-LY.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210915052630cs_/https://opensource.org/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="//web.archive.org/web/20210915052630cs_/https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210915052630cs_/https://opensource.org/files/css/css_KGZcOm3i1wmtbgZsjo-3V9FM4wZ-5UDcpJ7Vfzmt45E.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210915052630cs_/https://opensource.org/files/css/css_ulIzRpfhtuifCQvQJ8NpvGx_J9mvqUlZZLik4d4ZG-s.css" media="all"/>
+
+<!--[if (lt IE 9)]>
+<link type="text/css" rel="stylesheet" href="https://opensource.org/sites/all/themes/bootstrap-business/css/ie8.css?qyvib8" media="all" />
+<![endif]-->
+
+    
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//web.archive.org/web/20210915052630js_/https://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20210915052630js_/https://opensource.org/files/js/js_38VWQ3jjQx0wRFj7gkntZr077GgJoGn5nv3v05IeLLo.js"></script>
+<script type="text/javascript" src="//web.archive.org/web/20210915052630js_/https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+		$(window).scroll(function() {
+			if($(this).scrollTop() != 0) {
+				$("#toTop").fadeIn();	
+			} else {
+				$("#toTop").fadeOut();
+			}
+		});
+		
+		$("#toTop").click(function() {
+			$("body,html").animate({scrollTop:0},800);
+		});	
+		
+		});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20210915052630js_/https://opensource.org/files/js/js_ruOYJN6FkJU2O5L1dAKVnDloSn5R6LjnLW88zFxS1Uw.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20210915052630js_/https://opensource.org/files/js/js_JQHTvV_SkyFlN3f2BnQwnusF-eI6tkX8wrKAk2siiZU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap_business","theme_token":"hmnPi2FF9NkyxpkIJBB8XCN8y4LyaKKKqP4Y2ct4aDg","js":{"\/\/web.archive.org\/web\/20210915052630\/https:\/\/code.jquery.com\/jquery-1.10.2.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/web.archive.org\/web\/20210915052630\/https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/js\/bootstrap.min.js":1,"1":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/bootstrap-business\/js\/jquery.browser.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/web.archive.org\/web\/20210915052630\/https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/css\/bootstrap.min.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/bootstrap-business\/css\/style.css":1,"sites\/all\/themes\/bootstrap-business\/color\/colors.css":1,"sites\/all\/themes\/bootstrap-business\/css\/local.css":1,"sites\/all\/themes\/bootstrap-business\/css\/ie8.css":1}},"urlIsAjaxTrusted":{"\/elections":true},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":true,"disableHI":false},"plugins":{"touchscreen":{"mode":"window_width"},"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Navigation"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-691 node-type-page">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="toTop"><span class="glyphicon glyphicon-chevron-up"></span></div>
+
+
+
+<!-- #header-top -->
+<div id="header-top" class="clearfix">
+    <div class="container">
+
+        <!-- #header-top-inside -->
+        <div id="header-top-inside" class="clearfix">
+            <div class="row">
+            
+                        <div class="col-md-8">
+                <!-- #header-top-left -->
+                <div id="header-top-left" class="clearfix">
+                      <div class="region region-header-top-left">
+    <div id="block-menu-secondary-menu" class="block block-menu clearfix">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/web/20210915052630/https://opensource.org/" title="">Home</a></li>
+<li class="leaf"><a href="/web/20210915052630/https://opensource.org/blog" title="">From the Board</a></li>
+<li class="leaf"><a href="/web/20210915052630/https://opensource.org/contact" title="">Contact</a></li>
+<li class="leaf"><a href="/web/20210915052630/https://opensource.org/civicrm/contribute/transact?reset=1&amp;id=2" title="">Donate</a></li>
+<li class="last leaf"><a href="/web/20210915052630/https://opensource.org/user/login" title="">Login</a></li>
+</ul>  </div>
+</div>
+  </div>
+                </div>
+                <!-- EOF:#header-top-left -->
+            </div>
+                        
+                        <div class="col-md-4">
+                <!-- #header-top-right -->
+                <div id="header-top-right" class="clearfix">
+                      <div class="region region-header-top-right">
+    <div id="block-search-form" class="block block-search clearfix">
+
+    
+  <div class="content">
+    <form action="/web/20210915052630/https://opensource.org/elections" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == '') {this.value = 'Search this website...';}" onfocus="if (this.value == 'Search this website...') {this.value = '';}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search this website..." size="15" maxlength="128" class="form-text"/>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input value="" type="submit" id="edit-submit" name="op" class="form-submit"/></div><input type="hidden" name="form_build_id" value="form-iOIgdzNgWtvmmTLrxmplF06sprAjZAM_3QqR8MocuWc"/>
+<input type="hidden" name="form_id" value="search_block_form"/>
+</div>
+</div></form>  </div>
+</div>
+  </div>
+                </div>
+                <!-- EOF:#header-top-right -->
+            </div>
+                        
+            </div>
+        </div>
+        <!-- EOF: #header-top-inside -->
+
+    </div>
+</div>
+<!-- EOF: #header-top -->    
+
+<!-- header -->
+<header id="header" role="banner" class="clearfix">
+    <div class="container">
+
+        <!-- #header-inside -->
+        <div id="header-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-8">
+
+                                <div id="logo">
+                <a href="/web/20210915052630/https://opensource.org/" title="Home" rel="home"> <img src="https://web.archive.org/web/20210915052630im_/https://opensource.org/files/osi_keyhole_300X300_90ppi_0.png" alt="Home"/> </a>
+                </div>
+                
+                                <div id="site-name">
+                <a href="/web/20210915052630/https://opensource.org/" title="Home">Open Source Initiative</a>
+                </div>
+                                
+                                <div id="site-slogan">
+                Guaranteeing the 'our' in source...                </div>
+                                
+                </div>
+                
+                <div class="col-md-4">
+                
+                
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #header-inside -->
+
+    </div>
+</header>
+<!-- EOF: #header --> 
+
+<!-- #main-navigation --> 
+<div id="main-navigation" class="clearfix">
+    <div class="container">
+
+        <!-- #main-navigation-inside -->
+        <div id="main-navigation-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav role="navigation">
+                                                  <div class="region region-navigation">
+    <div id="block-superfish-1" class="block block-superfish clearfix">
+
+    
+  <div class="content">
+    <ul id="superfish-1" class="menu sf-menu sf-navigation sf-horizontal sf-style-none sf-total-items-6 sf-parent-items-6 sf-single-items-0"><li id="menu-37-1" class="active-trail first odd sf-item-1 sf-depth-1 sf-total-children-4 sf-parent-children-2 sf-single-children-2 menuparent"><a href="/web/20210915052630/https://opensource.org/about" title="About the Open Source Initiative" class="sf-depth-1 menuparent">About</a><ul><li id="menu-75-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210915052630/https://opensource.org/history" title="History of the OSI" class="sf-depth-2">History</a></li><li id="menu-82-1" class="active-trail middle even sf-item-2 sf-depth-2 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><a href="/web/20210915052630/https://opensource.org/board" title="Board of Directors" class="sf-depth-2 menuparent">Board</a><ul><li id="menu-83-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/docs/board-annotated" title="OSI Board -- With Annotations" class="sf-depth-3">Board - Annotated</a></li><li id="menu-96-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/minutes" title="Public Minutes of Board Meetings" class="sf-depth-3">Minutes</a></li><li id="menu-185-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/organization" title="These portfolios represent the activities of the current OSI board." class="sf-depth-3">Organization &amp; Operations</a></li><li id="menu-95-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/articles-of-incorporation" title="OSI incorporation record" class="sf-depth-3">Articles of Incorporation</a></li><li id="menu-1475-1" class="active-trail middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/elections" class="sf-depth-3 active">Board Elections</a></li><li id="menu-84-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/bylaws" title="Bylaws of the Open Source Initiative" class="sf-depth-3">Bylaws</a></li><li id="menu-1317-1" class="last odd sf-item-7 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/conflict_of_interest_policy" class="sf-depth-3">Conflict of Interest</a></li></ul></li><li id="menu-1843-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210915052630/https://opensource.org/trademark" title="" class="sf-depth-2 menuparent">Trademark &amp; Logo</a><ul><li id="menu-184-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/trademark-guidelines" title="OSI's Trademark Policy" class="sf-depth-3">Trademark Guidelines</a></li><li id="menu-183-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/logo-usage-guidelines" title="Guidelines for appearance and usage of OSI Logo" class="sf-depth-3">Logo Guidelines</a></li></ul></li><li id="menu-126-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210915052630/https://opensource.org/ToS" title="Rules for posting content on this site" class="sf-depth-2">Terms of Service</a></li></ul></li><li id="menu-65-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-5 sf-parent-children-2 sf-single-children-3 menuparent"><a href="/web/20210915052630/https://opensource.org/licenses" class="sf-depth-1 menuparent">Licenses</a><ul><li id="menu-61-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210915052630/https://opensource.org/osd" title="The actual OSD defining what constitutes an Open Source licence" class="sf-depth-2">Open Source Definition</a></li><li id="menu-77-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210915052630/https://opensource.org/licenses/category" title="Licenses by Category" class="sf-depth-2">Licenses by Category</a></li><li id="menu-72-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210915052630/https://opensource.org/licenses/alphabetical" title="Licenses that are approved by the OSI as conforming to the OSD" class="sf-depth-2">Licenses by Name</a></li><li id="menu-66-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210915052630/https://opensource.org/approval" title="Certifying licences as OSD-compliant" class="sf-depth-2 menuparent">License Review Process</a><ul><li id="menu-67-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/proliferation" title="Supporting choice while maintaining sanity" class="sf-depth-3">Licence Proliferation</a></li><li id="menu-69-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/proliferation-report" title="License Proliferation Committee's report to the OSI Board" class="sf-depth-3">LP report to the Board</a></li></ul></li><li id="menu-99-1" class="last odd sf-item-5 sf-depth-2 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/web/20210915052630/https://opensource.org/osr-intro" title="Open Standards Requirement for Software" class="sf-depth-2 menuparent">Open Standards</a><ul><li id="menu-101-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/osr" title="An &quot;open standard&quot; must not prohibit conforming implementations in open source software." class="sf-depth-3">The Open Standards Requirement</a></li><li id="menu-102-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/osr-compliance" class="sf-depth-3">Open Standards Requirement Compliance</a></li><li id="menu-100-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/osr-rationale" class="sf-depth-3">Open Standards Requirement Rationale</a></li><li id="menu-103-1" class="last even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/osr-faq" title="Frequently asked questions about the Open Standards Requirement" class="sf-depth-3">OSR Frequently Asked Questions</a></li></ul></li></ul></li><li id="menu-1842-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-3 sf-parent-children-2 sf-single-children-1 menuparent"><a href="/web/20210915052630/https://opensource.org/membership" title="Page for our various membership programs" class="sf-depth-1 menuparent">Membership</a><ul><li id="menu-914-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210915052630/https://opensource.org/members" class="sf-depth-2 menuparent">Individuals</a><ul><li id="menu-897-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/civicrm/contribute/transact?reset=1&amp;id=1" title="" class="sf-depth-3">Join</a></li><li id="menu-2265-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/benefits" class="sf-depth-3">Benefits</a></li></ul></li><li id="menu-675-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210915052630/https://opensource.org/osi-affiliate-membership" title="Home page for OSI's membership scheme for non-profits and not-for-profits" class="sf-depth-2 menuparent">Affiliates</a><ul><li id="menu-676-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/affiliates/about" class="sf-depth-3">Become an Affiliate</a></li><li id="menu-2071-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/AffiliateRequirements" class="sf-depth-3">Affiliate  Criteria</a></li></ul></li><li id="menu-1436-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210915052630/https://opensource.org/corporate-sponsors-support" title="" class="sf-depth-2">Sponsors &amp; Support</a></li></ul></li><li id="menu-1841-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-5 sf-parent-children-1 sf-single-children-4 menuparent"><a href="/web/20210915052630/https://opensource.org/community" title="Page for our various community members." class="sf-depth-1 menuparent">Community</a><ul><li id="menu-2271-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210915052630/https://opensource.org/associations" class="sf-depth-2">Associations</a></li><li id="menu-63-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/web/20210915052630/https://opensource.org/lists" title="The virtual committees where the OSI's work gets done" class="sf-depth-2 menuparent">Mailing lists</a><ul><li id="menu-1072-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/codeofconduct/licensing" class="sf-depth-3">Licensing Code of Conduct</a></li><li id="menu-78-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/codeofconduct" title="Guidelines for OSI Mailing Lists" class="sf-depth-3">General Code of Conduct</a></li><li id="menu-2272-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/node/960" title="Monthly reports summarizing the OSI's License-Discuss and License-Review mailing lists." class="sf-depth-3">Discussion List Reports</a></li><li id="menu-2111-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/public_forums_disclaimer" class="sf-depth-3">Disclaimer for OSI Public Forums</a></li><li id="menu-2110-1" class="last odd sf-item-5 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/public_archives_policy" class="sf-depth-3">Policy on Public Communications and Archives</a></li></ul></li><li id="menu-2032-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210915052630/https://opensource.org/volunteersandstaff" class="sf-depth-2">Volunteers &amp; Staff</a></li><li id="menu-2192-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210915052630/https://opensource.org/AdvocateCircle" class="sf-depth-2">Advocate Circle</a></li><li id="menu-1846-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="https://web.archive.org/web/20210915052630/http://wiki.opensource.org/" title="" class="sf-depth-2">Wiki</a></li></ul></li><li id="menu-1840-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-6 sf-parent-children-1 sf-single-children-5 menuparent"><a href="/web/20210915052630/https://opensource.org/resources" title="Page offering resources to OSI personas" class="sf-depth-1 menuparent">Resources</a><ul><li id="menu-342-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210915052630/https://opensource.org/faq" title="Frequently Asked Questions about open source and about the OSI." class="sf-depth-2">FAQ</a></li><li id="menu-45-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210915052630/https://opensource.org/help" title="Resources for questions and further exploration" class="sf-depth-2 menuparent">Getting Help</a><ul><li id="menu-76-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/links" title="Links and References to Open Source" class="sf-depth-3">Bibliography</a></li><li id="menu-125-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210915052630/https://opensource.org/advocacy/case_for_business.php" title="How to advocate Open Source to businesses" class="sf-depth-3">Open Source Case for Business</a></li></ul></li><li id="menu-1514-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210915052630/https://opensource.org/working_groups" class="sf-depth-2">Working Groups &amp; Incubator Projects</a></li><li id="menu-12-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210915052630/https://opensource.org/osi-open-source-education" title="OSI's Open Source Education Initiative and Activities" class="sf-depth-2">Open Source Education</a></li><li id="menu-3046-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/web/20210915052630/https://opensource.org/node/1012" class="sf-depth-2">Articles &amp; Books</a></li><li id="menu-2193-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/web/20210915052630/https://opensource.org/authority" class="sf-depth-2">International Authority &amp; Recognition</a></li></ul></li><li id="menu-1844-1" class="last even sf-item-6 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/web/20210915052630/https://opensource.org/news" title="Page dedicated to the latest news and events." class="sf-depth-1 menuparent">News &amp; Events</a><ul><li id="menu-1845-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210915052630/https://opensource.org/news" title="Index of newsletters" class="sf-depth-2">News</a></li><li id="menu-1999-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210915052630/https://opensource.org/events" class="sf-depth-2">Events</a></li><li id="menu-4709-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210915052630/https://opensource.org/newsletter/signup" title="" class="sf-depth-2">Newsletter Signup</a></li></ul></li></ul>  </div>
+</div>
+  </div>
+                                            </nav>
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #main-navigation-inside -->
+
+    </div>
+</div>
+<!-- EOF: #main-navigation -->
+
+<!-- #banner -->
+<div id="banner" class="clearfix">
+    <div class="container">
+        
+        <!-- #banner-inside -->
+        <div id="banner-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                  <div class="region region-banner">
+    <div id="block-block-23" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <div class="rtecenter" style="font-size:16px; font-weight: bold;"><a href="https://web.archive.org/web/20210915052630/https://eventyay.com/e/e7dfbfc4/" target="_blank">Practical Open Source Information</a> :: Online Event :: September 16 - 11:00 AM to 4:00 PM EDT</div>
+  </div>
+</div>
+  </div>
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #banner-inside -->        
+
+    </div>
+</div>
+<!-- EOF:#banner -->
+
+<!-- #page -->
+<div id="page" class="clearfix">
+    
+    
+    <!-- #main-content -->
+    <div id="main-content">
+        <div class="container">
+        
+            <!-- #messages-console -->
+                        <!-- EOF: #messages-console -->
+            
+            <div class="row">
+
+                
+
+                <section class="col-md-12">
+
+                    <!-- #main -->
+                    <div id="main" class="clearfix">
+                    
+                        
+                        
+                        <!-- EOF:#content-wrapper -->
+                        <div id="content-wrapper">
+
+                                                                                    <h1 class="page-title">Board Elections</h1>
+                                                        
+                                                  
+                            <!-- #tabs -->
+                                                            <div class="tabs">
+                                                                </div>
+                                                        <!-- EOF: #tabs -->
+
+                            <!-- #action links -->
+                                                        <!-- EOF: #action links -->
+
+                              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <article id="node-691" class="node node-page clearfix">
+
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h1>OSI Board Directors</h1>
+
+<p>The Open Source Initiative (OSI) is managed by a member-elected Board of Directors that is the ultimate authority responsible for the organization as a California public benefit corporation, with 501(c)3 tax-exempt status. The Board's responsibilities include oversight of the organization, including its operations, staff and budget; setting strategic direction and defining goals in line with the mission, and; serving the community through committees and working groups. The ten person OSI Board is composed of directors elected by OSI Individual Members (4) and OSI Affiliate Members (4). Two seats on the OSI Board are appointed for two-year terms by the board directors. The results of elections for both individual and affiliate member board seats are advisory with the OSI Board making the formal appointments to open seats based on the community's votes.</p>
+
+<p>As a true corporate board, board members must agree to, and comply with, the <a href="https://web.archive.org/web/20210915052630/http://opensource.org/conflict_of_interest_policy">OSI Conflict of Interest Policy</a>, and all directors are expected to <a href="https://web.archive.org/web/20210915052630/http://opensource.org/board#responsibilities">participate regularly</a> in monthly Board meetings, any special meetings that may arise and the ongoing discussions related to the OSI specifically and open source generally. Board directors are also expected to attend at least one open source conference or event on behalf of the OSI, as well as contribute to the OSI's communications efforts (e.g. blogging, press releases, policy statements, etc.).</p>
+
+<h1>2021 Election Re-run Schedule</h1>
+
+<ul><li>July 26, 2021 (11:00 am PDT): Elections open</li>
+	<li>August 6, 2021 (4:59 pm PDT): Elections close</li>
+	<li>August 9, 2021 (11:00 am PDT): : Run-off elections open (if needed)</li>
+	<li>August 13, 2021 (5:00 pm  PDT): Run-off elections close</li>
+	<li>August 23, 2021: New Board Directors seated</li>
+	<li>First meeting August 24 and 25, 2021</li>
+</ul><p><strong>Update and investigation summary on our 2021 Board Election <a href="https://web.archive.org/web/20210915052630/https://opensource.org/election-update2">here</a>. </strong></p>
+
+<p><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">We thank you for your patience and understanding. </span></p>
+
+<p> </p>
+
+<h1>Open Seats (2021)</h1>
+
+<ul><li>Two individual member seats</li>
+	<li>Two affiliate member seats</li>
+</ul><h1>Terms of Offices</h1>
+
+<p>No board director who has served for six consecutive years is eligible for re-election until a year has elapsed. As an example, someone elected to an individual member seat three consecutive times, and thus serving 6 consecutive years, or someone elected to an affiliate member seat twice consecutively, and thus serving 6 consecutive years, will be term-limited and unable to be elected for a further consecutive term for either an individual or affiliate seat until a year has passed.</p>
+
+<p>The representation of the board is as follows:</p>
+
+<ul><li>Four directors of the board are appointed based on individual members' votes (2-year term, maximum 3 consecutive terms)</li>
+	<li>Four directors of the board are appointed based on affiliate members' votes (3-year term, maximum 2 consecutive terms)</li>
+	<li>Two directors of the board are appointed by the OSI Board (2-year term, maximum 3 consecutive terms)</li>
+	<li>One director of the board seat is dedicated to the General Manager, ex officio (term to last the length of employment)</li>
+</ul><p><b>Participating in OSI Board Elections</b><br/>
+in 2013, the OSI transitioned from an organization governed by a self-selected board to a member-driven community. If you support this effort to make the OSI more community-oriented and to better represent your interests, please join the OSI <a href="https://web.archive.org/web/20210915052630/http://opensource.org/members">as an Individual Member now</a>, or help your organization <a href="https://web.archive.org/web/20210915052630/https://opensource.org/affiliates/about">join as an Affiliate Member</a>, and participate in our greatest of member benefits, to vote--or run!</p>
+
+<h1>Election Process</h1>
+
+<h2>Nominations</h2>
+
+<p><b>Individual Seat Nominations</b><br/>
+Only <a href="https://web.archive.org/web/20210915052630/http://opensource.org/members">OSI Individual Members</a> <span>may r</span>un for an individual member seat on the Board (learn more about <a href="https://web.archive.org/web/20210915052630/https://opensource.org/members">joining the OSI as an Individual Member</a>). <span>Those running for an individual member seat on the board must have joined the OSI at least one week prior to nominations opening (February 4th). </span>Current individual members who would like to run for an individual member seat, can simply send a contact request, with the category “Candidate Nomination” via the <a href="https://web.archive.org/web/20210915052630/http://opensource.org/contact">OSI contact form</a> (<a href="https://web.archive.org/web/20210915052630/http://opensource.org/contact">http//opensource.org/contact</a>). Once we receive your request, we will promptly send you back information to create your election profile. Current election eligibility policy can be found here in the <a href="https://web.archive.org/web/20210915052630/http://opensource.org/bylaws">OSI Bylaws, Article V, Sections 3 - 5</a>.</p>
+
+<p><b>Affiliate Seat Nominations</b><br/>
+Only those nominated by an OSI Affiliate Member may run for an affiliate member seat on the board (learn more about <a href="https://web.archive.org/web/20210915052630/https://opensource.org/affiliates">joining the OSI as an Affiliate Member</a>). Those running for an affiliate member seat on the board need not be OSI Individual Members. Those interested in running for an affiliate member board seat must be nominated by a <a href="https://web.archive.org/web/20210915052630/http://opensource.org/affiliates">current OSI Affiliate Member organization</a>. OSI Affiliate Members may nominate one candidate annually. Current affiliate members who would like to nominate a candidate for an affiliate member seat, can simply send a contact request, with the category “Candidate Nomination” via the <a href="https://web.archive.org/web/20210915052630/http://opensource.org/contact">OSI contact form</a> (<a href="https://web.archive.org/web/20210915052630/http://opensource.org/contact">http//opensource.org/contact</a>). Once we receive your request, we will promptly send your nominee information to create their election profile. Current election eligibility policy can be found here in the <a href="https://web.archive.org/web/20210915052630/http://opensource.org/bylaws">OSI Bylaws, Article V, Sections 3 - 5</a>.</p>
+
+<p><strong><span>Filling Vacant Seats</span></strong><br/><span>Should a board seat become vacant, the vacancies will be filled at the next indicative election, by electing a person for a full new term, not by serving out the vacant term.</span></p>
+
+<h2>Voting</h2>
+
+<p><strong>Individual Voting</strong><br/>
+Only individuals who are members before the opening of the election may vote. Only OSI Individual Members may vote in the election of individual member seats.</p>
+
+<p><strong>Affiliate Voting</strong><br/>
+Only OSI Affiliates Members who are members before the opening of the election may vote. Only affiliate member representatives may vote in the election of affiliate member seats. Only one vote per affiliate member, as submitted by the affiliate representative, will be counted in the election of an affiliate member seat.</p>
+
+<p><strong>Process</strong><br/>
+Elections for OSI Directors are held according to <a href="https://web.archive.org/web/20210915052630/http://en.wikipedia.org/wiki/Plurality-at-large_voting">Bloc voting</a>, or plurality-at-large, where each eligible voter votes for as many candidates as they feel are qualified to hold a Board seat. The candidates supported by the greatest number of voters will be elected to the open seats. Should a tie occur, a run-off will be held between the tied candidates.*</p>
+
+<p>Voting for all elections is done online using <a href="https://web.archive.org/web/20210915052630/https://vote.heliosvoting.org/">Helios Voting</a>. When elections are held, OSI current and lifelong Individual Members and the Affiliate Members' Representatives receive email notifications with instructions on how to access the online voting systems, instructions on how to complete their vote, and a list of the candidates with further information about them and their interests/qualifications.</p>
+
+<h1>OSI Election FAQ</h1>
+
+<h2>Nominations</h2>
+
+<p><b>Can I run for an individual or affiliate member seat?</b><br/>
+Yes, you can run for either seat, but not both during the same election. In addition, to run for an individual member seat, you must be an <a href="https://web.archive.org/web/20210915052630/http://opensource.org/members">OSI Individual Member</a> at least one week before nominations open (February 4th). However, you do not need to be an individual member to run for an affiliate seat on the OSI Board. Also, as the affiliate member seats are nominated by the OSI Affiliate Member's representative, each affiliate may have their own requirements to earn their nomination (e.g. membership in their organization).</p>
+
+<p><b>Can I run for both an individual member seat and an affiliate member seat in the same election?</b><br/>
+No. Candidates may only stand for one seat during each election.</p>
+
+<p><b>What if I'm not an OSI member and want to run?</b><br/>
+Nominees for individual member seats, must be an OSI Individual Member at least one week before nominations open (February 4th). Joining the OSI as an individual member is easy, and you can <a href="https://web.archive.org/web/20210915052630/http://opensource.org/members/join">become a member right now</a>. You may also <a href="https://web.archive.org/web/20210915052630/http://opensource.org/affiliates/list">contact an OSI Affiliate</a> to ask about a nomination from them.</p>
+
+<p><b>Can I nominate someone else for an individual member Board seat?</b><br/>
+No. The OSI Board needs to have the commitment of the candidate that they are really willing to serve on the board. But, you can contact your desired candidate and suggest that they self-nominate. Importantly, in order to become a nominee, the individual must have been an OSI Individual Member at least one week prior to nominations opening (February 4th). If you contact a non-member after nominations have already opened, they will not be permitted to run. All that is required for current individual members to announce their candidacy is that they <a href="https://web.archive.org/web/20210915052630/http://opensource.org/contact">send an email</a>!</p>
+
+<ul><li><b>Won't that leave out important candidates from this election?</b><br/>
+	If candidates don't have time or are not interested in completing a simple form to self-nominate themselves, they probably don't have time, nor interest, to serve on the OSI Board, so they would not really be qualified candidates anyway.</li>
+</ul><p><b>What if my organization is not an OSI Affiliate Member, but wants to nominate a candidate?</b><br/>
+Only organizations that are approved as affiliates members may nominate a candidate. Your organization can <a href="https://web.archive.org/web/20210915052630/https://opensource.org/affiliates">apply for affiliate membership now</a>.</p>
+
+<p><b>How many candidates may an OSI Affiliate Member nominate?</b><br/>
+One.</p>
+
+<p><b>Can I nominate someone else for an Affiliate Member Board seat?</b><br/>
+No. Only an OSI Affiliate Member may nominate candidates for affiliate board seats. If you would like to suggest a nominee, please contact an OSI Affiliate Member.</p>
+
+<h2>Voting</h2>
+
+<p><strong>What if I'm not an OSI Individual Member and want to vote?</strong><br/>
+You must be an OSI Individual Member to vote. <span>Only individuals who are members at the time voting opens may vote.</span> Joining the OSI as an Individual Member is easy, and you can <a href="https://web.archive.org/web/20210915052630/http://opensource.org/members/join">become a member right now</a>.</p>
+
+<p><b>What if my organization is not an OSI Affiliate Member, but wants to vote?</b><br/>
+Your organization must be an OSI Affiliate Member to vote.  <span>Only organizations who are OSI Affiliate Members at the time voting opens may vote.</span> Your organization can <a href="https://web.archive.org/web/20210915052630/https://opensource.org/affiliates">apply for affiliate membership now</a>. Please note the affiliate membership process can take several weeks to complete. We suggest organizations apply well before elections begin to ensure they can fully participate.</p>
+
+<ul></ul><p><b>As an OSI Individual Member, can I vote for individual and affiliate member candidates?</b><br/>
+No, as an OSI Individual Member you may vote only for candidates running for individual member seats on the OSI Board. Affiliate member representatives vote for candidates running for affiliate seats on the Board. If you are both an OSI Individual Member and a representative of an OSI Affiliate Member, you may vote in both elections for individual and affiliate member seats.</p>
+
+<h2>Other</h2>
+
+<p><strong>What if an affiliate of individual member seat becomes vacant?</strong><br/>
+Vacancies to either an individual or an affiliate seat will be filled by the OSI Board to serve until the next OSI election. The winning candidate in that election will serve for a new full term, not by only serving out the remainder of the vacant term.</p>
+
+<h1>Elections</h1>
+
+<p><a href="https://web.archive.org/web/20210915052630/https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/2021+Individual+and+Affiliate+Elections/">2021 Elections: Candidates and Seats (Individual 2, Affiliate 2)</a><br/><a href="https://web.archive.org/web/20210915052630/https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/2020+Individual+and+Affiliate+Elections/">2020 Elections: Candidates and Seats (Individual 2, Affiliate 1)</a><br/><a href="https://web.archive.org/web/20210915052630/https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/2019_election">2019 Elections: Candidates and Seats (Individual 4, Affiliate 2)</a><br/><a href="https://web.archive.org/web/20210915052630/https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/2018_election">2018 Elections: Candidates and Seats (Individual 2, Affiliate 2)</a><br/><a href="https://web.archive.org/web/20210915052630/https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/2017_election">2017 Elections: Candidates and Seats (Individual 3, Affiliate 1)</a><br/><a href="https://web.archive.org/web/20210915052630/http://wiki.opensource.org/bin/OSI+Board+of+Directors/2016_election">2016 Elections: Candidates and Seats (Individual 1, Affiliate 2)</a><br/><a href="https://web.archive.org/web/20210915052630/http://wiki.opensource.org/bin/OSI+Board+of+Directors/2015_election">2015 Elections: Candidates and Seats (Individual 3, Affiliate 2)</a><br/><a href="https://web.archive.org/web/20210915052630/http://wiki.opensource.org/bin/OSI+Board+of+Directors/2014_election">2014 Elections: Candidates and Seats (Individual 3, Affiliate 1)</a><br/><a href="https://web.archive.org/web/20210915052630/http://wiki.opensource.org/bin/OSI+Operations/2013+Individual+Membership+Candidates">2013 Elections: Candidates and Seats (Individual 1, Affiliate 0)</a></p>
+
+<p> </p>
+
+<p><b>*NOTE:</b> This sentence was updated during the Spring 2017 election to add clarity based on comments from OSI Individual members. It originally read, "Elections for OSI Directors are held according to <a href="https://web.archive.org/web/20210915052630/http://en.wikipedia.org/wiki/Plurality-at-large_voting">Bloc voting</a>, or plurality-at-large, where each eligible voter votes for N candidates and with the top N recognized as the winners. In the case of a tie between the top N winners, a run off will be held between the tied candidates."</p>
+
+<p> </p>
+</div></div></div>  </div>
+    
+     
+
+  
+</article>  </div>
+</div>
+  </div>
+                            
+                        </div>
+                        <!-- EOF:#content-wrapper -->
+
+                    </div>
+                    <!-- EOF:#main -->
+
+                </section>
+
+                        
+            </div>
+
+        </div>
+    </div>
+    <!-- EOF:#main-content -->
+
+    
+</div>
+<!-- EOF:#page -->
+
+
+<footer id="subfooter" class="clearfix">
+    <div class="container">
+        
+        <!-- #subfooter-inside -->
+        <div id="subfooter-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- #subfooter-left -->
+                    <div class="subfooter-area">
+                                            
+
+                                          <div class="region region-footer">
+    <div id="block-block-11" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <div class="filler" style="vertical-align: middle; display: inline-block;">
+<p style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><a href="https://web.archive.org/web/20210915052630/https://twitter.com/OpenSourceOrg" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210915052630im_/https://opensource.org/files/twitterlogo.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210915052630/https://www.linkedin.com/company/open-source-initiative-osi-" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210915052630im_/https://opensource.org/files/linkedin.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210915052630/http://wiki.opensource.org/" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210915052630im_/https://opensource.org/files/xwikilogo.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210915052630/http://creativecommons.org/licenses/by/4.0/" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210915052630im_/https://opensource.org/files/ccby.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a></p>
+</div>
+
+<p> </p>
+
+<div class="license" style="vertical-align: middle; display: inline-block;">
+<p>Sign-up for our <a href="newsletter/signup">newsletter</a>!</p>
+
+<p>The content on this website, of which Opensource.org is the author, is licensed under a <a href="https://web.archive.org/web/20210915052630/http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.<br/>
+Opensource.org is not the author of any of the licenses reproduced on this site. Questions about the copyright in a license should be directed to the license steward.</p>
+
+<p>Hosting for Opensource.org is generously provided by <a href="https://web.archive.org/web/20210915052630/https://www.digitalocean.com/">DigitalOcean</a>. Please see <a href="/web/20210915052630/https://opensource.org/ToS">Terms of Service</a>.<br/><span style="font-size:10px;">For questions regarding the OSI website and contents pleasee <a href="https://web.archive.org/web/20210915052630/mailto:webmaster@lists.opensource.org?subject=OSI%20website%20comment">email our webmaster</a>.</span></p>
+</div>
+
+<p> </p>
+  </div>
+</div>
+<div id="block-block-7" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <script src="https://web.archive.org/web/20210915052630js_/https://www.google-analytics.com/urchin.js" type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+
+//--><!]]>
+</script><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+_uacct = "UA-3916956-1";
+urchinTracker();
+
+//--><!]]>
+</script>  </div>
+</div>
+  </div>
+                    
+                    </div>
+                    <!-- EOF: #subfooter-left -->
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #subfooter-inside -->
+    
+    </div>
+</footer>
+<!-- EOF:#subfooter -->
+  </body>
+</html><!--
+     FILE ARCHIVED ON 05:26:30 Sep 15, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:26:32 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 80.55
+  exclusion.robots: 0.077
+  exclusion.robots.policy: 0.067
+  RedisCDXSource: 0.573
+  esindex: 0.007
+  LoadShardBlock: 62.273 (3)
+  PetaboxLoader3.datanode: 50.332 (4)
+  load_resource: 146.319
+  PetaboxLoader3.resolve: 114.289
+-->

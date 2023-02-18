@@ -1,0 +1,51 @@
+/* $Id: book.css,v 1.2.2.1 2007/01/29 18:54:29 dries Exp $ */
+
+.book-navigation .menu {
+  border-top: 1px solid #888;
+  padding: 1em 0 0 3em;
+}
+.book-navigation .page-links {
+  border-top: 1px solid #888;
+  border-bottom: 1px solid #888;
+  text-align: center;
+  padding: 0.5em;
+}
+.book-navigation .page-previous {
+  text-align: left;
+  width: 42%;
+  display: block;
+  float: left;
+}
+.book-navigation .page-up {
+  margin: 0 5%;
+  width: 4%;
+  display: block;
+  float: left;
+}
+.book-navigation .page-next {
+  text-align: right;
+  width: 42%;
+  display: block;
+  float: right;
+}
+
+/*
+     FILE ARCHIVED ON 01:09:02 Nov 03, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:14:22 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 236.927
+  exclusion.robots: 0.097
+  exclusion.robots.policy: 0.085
+  cdx.remote: 0.071
+  esindex: 0.011
+  LoadShardBlock: 170.402 (3)
+  PetaboxLoader3.datanode: 148.973 (5)
+  load_resource: 123.349 (2)
+  PetaboxLoader3.resolve: 68.412 (2)
+*/

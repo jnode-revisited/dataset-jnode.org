@@ -1,0 +1,74 @@
+/* $Id: defaults.css,v 1.2 2006/08/25 09:01:12 drumm Exp $ */
+
+/*
+** HTML elements
+*/
+fieldset {
+  margin-bottom: 1em;
+  padding: .5em;
+}
+form {
+  margin: 0;
+  padding: 0;
+}
+hr {
+  height: 1px;
+  border: 1px solid gray;
+}
+img {
+  border: 0;
+}
+table {
+  border-collapse: collapse;
+}
+th {
+  text-align: left;
+  padding-right: 1em;
+  border-bottom: 3px solid #ccc;
+}
+
+/*
+** Markup free clearing
+** Details: http://www.positioniseverything.net/easyclearing.html
+*/
+.clear-block:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+.clear-block {
+  display: inline-block;
+}
+
+/* Hides from IE-mac \*/
+* html .clear-block {
+  height: 1%;
+}
+.clear-block {
+  display: block;
+}
+/* End hide from IE-mac */
+
+/*
+     FILE ARCHIVED ON 03:08:26 Nov 05, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:14:25 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 106.799
+  exclusion.robots: 0.072
+  exclusion.robots.policy: 0.062
+  cdx.remote: 0.056
+  esindex: 0.008
+  LoadShardBlock: 82.39 (3)
+  PetaboxLoader3.datanode: 82.396 (5)
+  load_resource: 150.717 (2)
+  PetaboxLoader3.resolve: 101.393 (2)
+*/

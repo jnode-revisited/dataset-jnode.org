@@ -1,0 +1,68 @@
+/* $Id: project.css,v 1.35 2007/01/05 00:21:08 dww Exp $ */
+/* $Name: DRUPAL-5--1-2 $ */
+
+.project table {
+  width: auto;
+}
+.project tbody, .project tr {
+  border: 0;
+}
+.project td {
+  vertical-align: top;
+  padding: 0.4em 0.1em;
+}
+.project .links {
+  font-size: 0.8em;
+}
+.project .author {
+  color: #999;
+  font-size: 0.8em;
+}
+
+.project .downloads td {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 1em;
+}
+.project .downloads ul {
+  margin: 0px;
+}
+.project .downloads li {
+  list-style-type: none;
+  margin: 0px;
+}
+
+#edit-project-goto {
+  width: 150px;
+}
+
+.project .node-form fieldset {
+  display: block;
+}
+.project .node-form .project-taxonomy-element {
+  float: left;
+  padding-right: 2em;
+}
+ul.project-terms {
+  padding-left: 1.5em;
+}
+
+/*
+     FILE ARCHIVED ON 01:09:16 Nov 03, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:22:59 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 340.247
+  exclusion.robots: 0.131
+  exclusion.robots.policy: 0.116
+  cdx.remote: 0.101
+  esindex: 0.015
+  LoadShardBlock: 299.86 (3)
+  PetaboxLoader3.datanode: 73.103 (5)
+  load_resource: 260.714 (2)
+  PetaboxLoader3.resolve: 126.324 (2)
+*/

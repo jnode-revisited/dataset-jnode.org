@@ -1,0 +1,275 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script type="text/javascript" src="/_static/js/bundle-playback.js?v=4R5OHjEN" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.jnode.org/node/1499","20211106231554","https://web.archive.org/","web","/_static/",
+	      "1636240554");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <title>The GRUB Boot Menu | JNode.org</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="prev" href="/web/20211106231554/http://www.jnode.org/node/26"/>
+
+<link rel="up" href="/node/25"/>
+
+<link rel="next" href="/web/20211106231554/http://www.jnode.org/node/91"/>
+
+<link rel="shortcut icon" href="/web/20211106231554im_/http://www.jnode.org/misc/favicon.ico" type="image/x-icon"/>
+  <style type="text/css" media="all">@import "/web/20211106231554cs_/http://www.jnode.org/modules/book/book.css";</style>
+<style type="text/css" media="all">@import "/web/20211106231554cs_/http://www.jnode.org/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "/web/20211106231554cs_/http://www.jnode.org/modules/poll/poll.css";</style>
+<style type="text/css" media="all">@import "/web/20211106231554cs_/http://www.jnode.org/modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "/web/20211106231554cs_/http://www.jnode.org/modules/system/system.css";</style>
+<style type="text/css" media="all">@import "/web/20211106231554cs_/http://www.jnode.org/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/web/20211106231554cs_/http://www.jnode.org/modules/project/project.css";</style>
+<style type="text/css" media="all">@import "/web/20211106231554cs_/http://www.jnode.org/modules/project_issue/project_issue.css";</style>
+<style type="text/css" media="all">@import "/web/20211106231554cs_/http://www.jnode.org/modules/devel/devel.css";</style>
+<style type="text/css" media="all">@import "/web/20211106231554cs_/http://www.jnode.org/themes/newsflash/style.css";</style>
+<style type="text/css" media="all">@import "/web/20211106231554cs_/http://www.jnode.org/themes/newsflash/css/jnode.css";</style>
+  <script type="text/javascript" src="/web/20211106231554js_/http://www.jnode.org/misc/jquery.js"></script>
+<script type="text/javascript" src="/web/20211106231554js_/http://www.jnode.org/misc/drupal.js"></script>
+<script type="text/javascript" src="/web/20211106231554js_/http://www.jnode.org/modules/devel/devel.js"></script>
+  <script type="text/javascript"> </script>
+      <style type="text/css">
+    #page {
+      width : 100%px;
+    }
+    </style>
+        <style type="text/css">
+    body.sidebar-left #main {
+      margin-left: -210px;
+    }
+    body.sidebars #main {
+      margin-left: -210px;
+    }
+    body.sidebar-left #squeeze {
+      margin-left: 210px;
+    }
+    body.sidebars #squeeze {
+      margin-left: 210px;
+    }
+    #sidebar-left {
+      width: 210px;
+    }
+    </style>
+        <style type="text/css">
+    body.sidebar-right #main {
+      margin-right: -210px;
+    }
+    body.sidebars #main {
+      margin-right: -210px;
+    }
+    body.sidebar-right #squeeze {
+      margin-right: 210px;
+    }
+    body.sidebars #squeeze {
+      margin-right: 210px;
+    }
+    #sidebar-right {
+      width: 210px;
+    }
+    </style>
+        <style type="text/css">
+    body {
+      font-family : Arial, Verdana, sans-serif;
+    }
+    </style>
+        <!--[if IE]>
+<style type="text/css" media="all">@import "/themes/newsflash/css/ie.css";</style>
+<![endif]-->
+    <script type="text/javascript" src="https://web.archive.org/web/20211106231554js_/http://www.jnode.org/themes/newsflash/js/pickstyle.js"></script>
+</head>
+<body class="sidebars">
+  <div id="page">
+    <div id="header" class="clear-block">
+      <div id="logo-title">
+                              <a href="/web/20211106231554/http://www.jnode.org/" title="Home"> <img src="/web/20211106231554im_/http://www.jnode.org/themes/newsflash/logo.png" alt="Home" id="logo"/> </a>
+                        </div><!-- /logo-title -->
+      <div id="name-and-slogan">
+              </div><!-- /name-and-slogan -->
+                	<div id="primarymenu">
+                  <ul class="links primary-links"><li class="first menu-1-1-99"><a href="/web/20211106231554/http://www.jnode.org/node/view/25" class="menu-1-1-99">Start here!</a></li>
+<li class="menu-1-2-99"><a href="/web/20211106231554/http://www.jnode.org/docs" class="menu-1-2-99">Documentation</a></li>
+<li class="menu-1-3-99"><a href="/web/20211106231554/http://www.jnode.org/download_latest" class="menu-1-3-99">Download</a></li>
+<li class="menu-1-4-99"><a href="/web/20211106231554/http://www.jnode.org/node/view/455" class="menu-1-4-99">Contribute</a></li>
+<li class="menu-1-5-99"><a href="/web/20211106231554/http://www.jnode.org/status" class="menu-1-5-99">Status</a></li>
+<li class="menu-1-6-99"><a href="/web/20211106231554/http://www.jnode.org/node/view/132" class="menu-1-6-99">Screenshots</a></li>
+<li class="menu-1-7-99"><a href="/web/20211106231554/http://www.jnode.org/forum" class="menu-1-7-99">Forums</a></li>
+<li class="last menu-1-8-99"><a href="/web/20211106231554/http://www.jnode.org/contact" class="menu-1-8-99">Contact</a></li>
+</ul>                           
+                </div>
+                    <div class="site-slogan"> :: ~  JNode.free(yourMind); ~ :: </div>
+            <form action="/web/20211106231554/http://www.jnode.org/search/node" accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline"><div class="form-item">
+ <input type="text" maxlength="128" name="search_theme_form_keys" id="edit-search-theme-form-keys" size="15" value="" title="Enter the terms you wish to search for." class="form-text"/>
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search" class="form-submit"/>
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"/>
+</div>
+</div></form>
+          </div><!-- /header -->
+            <div id="middlecontainer">
+              <div id="sidebar-left"><div class="block block-book" id="block-book-0">
+  <h2 class="title">JNode handbook</h2>  <div class="content"><ul class="menu"><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/5">Goals</a></li><li class="expanded"><a href="/web/20211106231554/http://www.jnode.org/node/42">User guide</a><ul class="menu"><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/174">History</a></li><li class="collapsed"><a href="/web/20211106231554/http://www.jnode.org/node/2365">Application testing list</a></li><li class="expanded"><a href="/web/20211106231554/http://www.jnode.org/node/25">Getting Started</a><ul class="menu"><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/798">The 20 minute guided tour.</a></li><li class="collapsed"><a href="/web/20211106231554/http://www.jnode.org/node/68">Booting from the network</a></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/13790">Booting from USB memory stick</a></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/614">Eclipse Howto</a></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/27">Running in Bochs</a></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/2750">Running in KVM</a></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/753">Running in parallels</a></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/2753">Running in VBox</a></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/684">Running in Virtual PC</a></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/28">Running in VMWare</a></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/26">Running on a PC</a></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/1499" class="active">The GRUB Boot Menu</a></li></ul></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/91">Hardware Compatibility List</a></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/573">Hardware requirements</a></li><li class="collapsed"><a href="/web/20211106231554/http://www.jnode.org/node/2053">JNode Commands</a></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/936">JNode GUI</a></li><li class="collapsed"><a href="/web/20211106231554/http://www.jnode.org/node/88">JNode Shell</a></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/51">Performance</a></li><li class="collapsed"><a href="/web/20211106231554/http://www.jnode.org/status">Status</a></li></ul></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/13800">Classlib developers guide</a></li><li class="collapsed"><a href="/web/20211106231554/http://www.jnode.org/node/3">Developer guide</a></li><li class="collapsed"><a href="/web/20211106231554/http://www.jnode.org/node/567">Tester guide</a></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/512">Porting guide</a></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/2680">Blogs</a></li><li class="collapsed"><a href="/web/20211106231554/http://www.jnode.org/node/125">Project development</a></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/2936">Glossary</a></li><li class="collapsed"><a href="/web/20211106231554/http://www.jnode.org/node/163">Proposals</a></li><li class="collapsed"><a href="/web/20211106231554/http://www.jnode.org/node/43">FAQ</a></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/681">Papers &amp; presentations</a></li><li class="collapsed"><a href="/web/20211106231554/http://www.jnode.org/node/92">References</a></li><li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/node/682">Research</a></li></ul></div></div>
+<div class="block block-forum" id="block-forum-0">
+  <h2 class="title">Active forum topics</h2>  <div class="content"><div class="item-list"><ul><li><a href="/web/20211106231554/http://www.jnode.org/node/13797" title="1 comment">Observations on a first time build</a></li><li><a href="/web/20211106231554/http://www.jnode.org/node/13796">Creation of a Device I/O API in OpenJDK</a></li><li><a href="/web/20211106231554/http://www.jnode.org/node/13795" title="1 comment">How to convert a real mode address to a protected mode address in JNode ?</a></li></ul></div><div class="more-link"><a href="/web/20211106231554/http://www.jnode.org/forum" title="Read the latest forum topics.">more</a></div></div></div>
+<div class="block block-blog" id="block-blog-0">
+  <h2 class="title">Recent blog posts</h2>  <div class="content"><div class="item-list"><ul><li><a href="/web/20211106231554/http://www.jnode.org/node/13799">OSGi</a></li><li><a href="/web/20211106231554/http://www.jnode.org/node/13798">Thoughts on Documentation</a></li><li><a href="/web/20211106231554/http://www.jnode.org/node/13788">Hyper-V</a></li><li><a href="/web/20211106231554/http://www.jnode.org/node/5656">A new, natural, simple way to perceive files. (With JNode planned as foundation)</a></li><li><a href="/web/20211106231554/http://www.jnode.org/node/3985">Contribution</a></li><li><a href="/web/20211106231554/http://www.jnode.org/node/3872">My goals for 2012 with JNode</a></li><li><a href="/web/20211106231554/http://www.jnode.org/node/3369">About Email Response</a></li><li><a href="/web/20211106231554/http://www.jnode.org/node/3316">Nice to have found this!</a></li><li><a href="/web/20211106231554/http://www.jnode.org/node/3294">Me 3</a></li><li><a href="/web/20211106231554/http://www.jnode.org/node/3293">Me again</a></li></ul></div><div class="more-link"><a href="/web/20211106231554/http://www.jnode.org/blog" title="Read the latest blog entries.">more</a></div></div></div>
+<div class="block block-block" id="block-block-11">
+    <div class="content"><p><a class="twitter-timeline" href="https://web.archive.org/web/20211106231554/https://twitter.com/search?q=%23jnode" data-widget-id="405250609260920832">Tweets about "#jnode"</a></p>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//web.archive.org/web/20211106231554/http://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46091383-1', 'jnode.org');
+  ga('send', 'pageview');
+
+</script></div></div>
+ </div>
+            <div id="main">
+        <div id="squeeze">
+                              <div id="squeeze-content">
+            <div id="inner-content">
+                           <h1 class="title">The GRUB Boot Menu</h1>
+              <div class="tabs"></div>
+                                          <div class="node">
+  
+  
+  
+  <div class="node-content"><p>The first JNode related information you will see after booting from a JNode CDROM image is the GRUB bootloader page.  The GNU GRUB bootloader is responsible for selecting a JNode configuration from a menu, loading the corresponding kernel image and parameters into RAM and causing the JNode kernel to start executing.</p>
+<p>When GRUB starts, it displays the bootloader page and pauses for a few seconds.  If you do nothing, GRUB will automatically load and start the default configuration.  Pressing any key at this point will interrupt the automatic boot sequence and allow you to select a specific configuration.  You can use the <b>UP-ARROW</b> and <b>DOWN-ARROW</b> to choose a JNode configuration, then hit <b>ENTER</b> to boot it up.</p>
+<p>There are a number of JNode configurations in the menu:</p>
+<ul>
+<li>The configurations that include "MP" in the description enable JNode's multiprocessor support on a capable machine.  Since JNode's multiprocessor support is not fully functional, you should probably avoid these configurations for now.
+<li>The configurations the include "GUI" in the description will start up the JNode GUI.  Configurations without this tag will start up the JNode command shell on a text console.
+<li>The other difference between the configurations is in the sets of plugins that they load.  In general, loading more plugins will cause JNode to use more RAM.
+</ul>
+<p>It is currently not a good idea to boot JNode straight to the GUI.  If want to run the GUI, it is best to boot the one of the non-GUI configurations; typically "JNode (all plugins)".  Then from the text console, run the following commands:</p>
+<p><i>JNode /&gt;</i> <b>gc</b></p>
+<p><i>JNode /&gt;</i> <b>startawt</b></p>
+<div class="book-navigation"><div class="page-links clear-block"><a href="/web/20211106231554/http://www.jnode.org/node/26" class="page-previous" title="Go to previous page">‹ Running on a PC</a><a href="/web/20211106231554/http://www.jnode.org/node/25" class="page-up" title="Go to parent page">up</a><a href="/web/20211106231554/http://www.jnode.org/node/91" class="page-next" title="Go to next page">Hardware Compatibility List ›</a></div></div></div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="first last book_printer"><a href="/web/20211106231554/http://www.jnode.org/book/export/html/1499" title="Show a printer-friendly version of this book page and its sub-pages." class="book_printer">Printer-friendly version</a></li>
+</ul></div>
+  
+</div>
+ 
+                                        </div><!-- /inner-content -->
+          </div><!-- /squeeze-content -->
+        </div><!-- /squeeze -->
+      </div><!-- /main -->
+              <div id="sidebar-right"><div class="block block-user" id="block-user-1">
+  <h2 class="title">Navigation</h2>  <div class="content">
+<ul class="menu">
+<li class="expanded"><a href="https://web.archive.org/web/20211106231554/https://github.com/jnode/jnode/issues" title="Bugs, features requests and other enhancement suggestions">Issues</a>
+<ul class="menu">
+<li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/bugs" title="JNode issue tracker (bugs, features, tasks)">bugs &amp; feature requests (old)</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="/web/20211106231554/http://www.jnode.org/node/add">Create content</a></li>
+<li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/reports" title="Nightly generated reports">Reports</a></li>
+<li class="leaf"><a href="/web/20211106231554/http://www.jnode.org/tracker">Recent posts</a></li>
+
+</ul>
+</div></div>
+<div class="block block-block" id="block-block-9">
+  <h2 class="title">JNode uses</h2>  <div class="content"><center>
+<a href="https://web.archive.org/web/20211106231554/http://www.openjdk.org/" target="_blank"> 
+   <img src="/web/20211106231554im_/http://www.jnode.org/images/openjdk.png" width="140" hight="50" alt="OpenJDK" title="Learn more about OpenJDK"/>
+</a>
+<br/>
+<br/>
+<a href="https://web.archive.org/web/20211106231554/https://www.gnu.org/software/classpath/" target="_blank"> 
+   <img src="/web/20211106231554im_/http://www.jnode.org/images/GNU_Classpath_132x46.png" alt="GNU Classpath" title="Learn more about GNU Classpath"/>
+</a>
+<br/>
+<br/>
+</center></div></div>
+<div class="block block-block" id="block-block-5">
+    <div class="content"><center>
+<a href="/web/20211106231554/http://www.jnode.org/node/831">
+<img src="/web/20211106231554im_/http://www.jnode.org/buttons/jnode_link_3.png" alt="I like JNode!" title="I like JNode!">
+</a>
+<!-- inactive site
+<br/><br/>
+<a href="http://www.java.net" target="_blank" >
+  <img border="0" src="http://today.java.net/images/javanet_button_90.gif">
+</a>
+-->
+<br/><br/>
+<a href="https://web.archive.org/web/20211106231554/https://github.com/jnode/" target="_blank">
+  <img border="0" src="https://web.archive.org/web/20211106231554im_/https://raw.github.com/github/media/master/octocats/blacktocat-32.png">
+</a>
+<br/><br/>
+<a href="https://web.archive.org/web/20211106231554/https://sourceforge.net/projects/jnode/" target="_blank">
+  <img border="0" src="https://web.archive.org/web/20211106231554im_/https://sourceforge.net/sflogo.php?group_id=80882">
+</a>
+<br/><br/>
+<a href="https://web.archive.org/web/20211106231554/https://www.ohloh.net/projects/4111?ref=sample" target="_blank">
+  <img width="100" height="16" src="https://web.archive.org/web/20211106231554im_/http://www.jnode.org/images/ohloh-project-report.gif" alt="Ohloh project report for JNode"/></a>
+<br/><br/>
+<center>
+<a href="/web/20211106231554/http://www.jnode.org/node/691">Donations</a>
+</center>
+<br/></div></div>
+<div class="block block-user" id="block-user-0">
+  <h2 class="title">User login</h2>  <div class="content"><form action="/web/20211106231554/http://www.jnode.org/node/1499?destination=node%2F1499" accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required"/>
+</div>
+<div class="form-item">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass" maxlength="60" size="15" class="form-text required"/>
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in" class="form-submit"/>
+<div class="item-list"><ul><li><a href="/web/20211106231554/http://www.jnode.org/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"/>
+
+</div></form>
+</div></div>
+ </div>
+          </div><!-- /middle-container -->
+    <div style="clear:both"></div>
+            <div id="footer">
+                    <div id="footer-message"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+  <td valign="top" align="left">Copyright (c) JNode.org 2013</td>
+  <td valign="top" align="right">This page is optimized for Mozilla Firefox</td>
+</tr>
+</table>
+</div>
+            <br/>
+          </div><!-- /footer -->
+  <div style="clear:both"></div>
+    </div> <!-- /page -->
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 23:15:54 Nov 06, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:15:07 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 110.942
+  exclusion.robots: 0.168
+  exclusion.robots.policy: 0.152
+  cdx.remote: 0.173
+  esindex: 0.015
+  LoadShardBlock: 73.421 (3)
+  PetaboxLoader3.datanode: 95.427 (5)
+  load_resource: 263.743 (2)
+  PetaboxLoader3.resolve: 165.576 (2)
+-->

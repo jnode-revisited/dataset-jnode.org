@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head profile="http://www.w3.org/1999/xhtml/vocab"><script type="text/javascript" src="/_static/js/bundle-playback.js?v=4R5OHjEN" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://opensource.org/board","20210920050743","https://web.archive.org/","web","/_static/",
+	      "1632114463");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)"/>
+<link rel="canonical" href="/web/20210920050743/https://opensource.org/board"/>
+<link rel="shortlink" href="/web/20210920050743/https://opensource.org/node/17"/>
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="shortcut icon" href="https://web.archive.org/web/20210920050743im_/https://opensource.org/files/osi_favicon.png" type="image/png"/>
+  <title>OSI Board of Directors | Open Source Initiative</title>
+  <link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210920050743cs_/https://opensource.org/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210920050743cs_/https://opensource.org/files/css/css_gh8wMJiOGewsPCJRDYXmqv3eEGGGSn0O_fqsi_9a-LY.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210920050743cs_/https://opensource.org/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="//web.archive.org/web/20210920050743cs_/https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210920050743cs_/https://opensource.org/files/css/css_KGZcOm3i1wmtbgZsjo-3V9FM4wZ-5UDcpJ7Vfzmt45E.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210920050743cs_/https://opensource.org/files/css/css_ulIzRpfhtuifCQvQJ8NpvGx_J9mvqUlZZLik4d4ZG-s.css" media="all"/>
+
+<!--[if (lt IE 9)]>
+<link type="text/css" rel="stylesheet" href="https://opensource.org/sites/all/themes/bootstrap-business/css/ie8.css?qyvib8" media="all" />
+<![endif]-->
+
+    
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//web.archive.org/web/20210920050743js_/https://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20210920050743js_/https://opensource.org/files/js/js_38VWQ3jjQx0wRFj7gkntZr077GgJoGn5nv3v05IeLLo.js"></script>
+<script type="text/javascript" src="//web.archive.org/web/20210920050743js_/https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+		$(window).scroll(function() {
+			if($(this).scrollTop() != 0) {
+				$("#toTop").fadeIn();	
+			} else {
+				$("#toTop").fadeOut();
+			}
+		});
+		
+		$("#toTop").click(function() {
+			$("body,html").animate({scrollTop:0},800);
+		});	
+		
+		});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20210920050743js_/https://opensource.org/files/js/js_ruOYJN6FkJU2O5L1dAKVnDloSn5R6LjnLW88zFxS1Uw.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20210920050743js_/https://opensource.org/files/js/js_JQHTvV_SkyFlN3f2BnQwnusF-eI6tkX8wrKAk2siiZU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap_business","theme_token":"mL86yNvkYtc2RcbbSyG-z_ZIiMG1BGt3iiyxq18Pg8A","js":{"\/\/web.archive.org\/web\/20210920050743\/https:\/\/code.jquery.com\/jquery-1.10.2.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/web.archive.org\/web\/20210920050743\/https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/js\/bootstrap.min.js":1,"1":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/bootstrap-business\/js\/jquery.browser.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/web.archive.org\/web\/20210920050743\/https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/css\/bootstrap.min.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/bootstrap-business\/css\/style.css":1,"sites\/all\/themes\/bootstrap-business\/color\/colors.css":1,"sites\/all\/themes\/bootstrap-business\/css\/local.css":1,"sites\/all\/themes\/bootstrap-business\/css\/ie8.css":1}},"urlIsAjaxTrusted":{"\/board":true},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":true,"disableHI":false},"plugins":{"touchscreen":{"mode":"window_width"},"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Navigation"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-17 node-type-page">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="toTop"><span class="glyphicon glyphicon-chevron-up"></span></div>
+
+
+
+<!-- #header-top -->
+<div id="header-top" class="clearfix">
+    <div class="container">
+
+        <!-- #header-top-inside -->
+        <div id="header-top-inside" class="clearfix">
+            <div class="row">
+            
+                        <div class="col-md-8">
+                <!-- #header-top-left -->
+                <div id="header-top-left" class="clearfix">
+                      <div class="region region-header-top-left">
+    <div id="block-menu-secondary-menu" class="block block-menu clearfix">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/web/20210920050743/https://opensource.org/" title="">Home</a></li>
+<li class="leaf"><a href="/web/20210920050743/https://opensource.org/blog" title="">From the Board</a></li>
+<li class="leaf"><a href="/web/20210920050743/https://opensource.org/contact" title="">Contact</a></li>
+<li class="leaf"><a href="/web/20210920050743/https://opensource.org/civicrm/contribute/transact?reset=1&amp;id=2" title="">Donate</a></li>
+<li class="last leaf"><a href="/web/20210920050743/https://opensource.org/user/login" title="">Login</a></li>
+</ul>  </div>
+</div>
+  </div>
+                </div>
+                <!-- EOF:#header-top-left -->
+            </div>
+                        
+                        <div class="col-md-4">
+                <!-- #header-top-right -->
+                <div id="header-top-right" class="clearfix">
+                      <div class="region region-header-top-right">
+    <div id="block-search-form" class="block block-search clearfix">
+
+    
+  <div class="content">
+    <form action="/web/20210920050743/https://opensource.org/board" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == '') {this.value = 'Search this website...';}" onfocus="if (this.value == 'Search this website...') {this.value = '';}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search this website..." size="15" maxlength="128" class="form-text"/>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input value="" type="submit" id="edit-submit" name="op" class="form-submit"/></div><input type="hidden" name="form_build_id" value="form-t4ag6UPRO83ErsDBNEodUytu04KZ3Y-QP87_W9_GjgE"/>
+<input type="hidden" name="form_id" value="search_block_form"/>
+</div>
+</div></form>  </div>
+</div>
+  </div>
+                </div>
+                <!-- EOF:#header-top-right -->
+            </div>
+                        
+            </div>
+        </div>
+        <!-- EOF: #header-top-inside -->
+
+    </div>
+</div>
+<!-- EOF: #header-top -->    
+
+<!-- header -->
+<header id="header" role="banner" class="clearfix">
+    <div class="container">
+
+        <!-- #header-inside -->
+        <div id="header-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-8">
+
+                                <div id="logo">
+                <a href="/web/20210920050743/https://opensource.org/" title="Home" rel="home"> <img src="https://web.archive.org/web/20210920050743im_/https://opensource.org/files/osi_keyhole_300X300_90ppi_0.png" alt="Home"/> </a>
+                </div>
+                
+                                <div id="site-name">
+                <a href="/web/20210920050743/https://opensource.org/" title="Home">Open Source Initiative</a>
+                </div>
+                                
+                                <div id="site-slogan">
+                Guaranteeing the 'our' in source...                </div>
+                                
+                </div>
+                
+                <div class="col-md-4">
+                
+                
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #header-inside -->
+
+    </div>
+</header>
+<!-- EOF: #header --> 
+
+<!-- #main-navigation --> 
+<div id="main-navigation" class="clearfix">
+    <div class="container">
+
+        <!-- #main-navigation-inside -->
+        <div id="main-navigation-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav role="navigation">
+                                                  <div class="region region-navigation">
+    <div id="block-superfish-1" class="block block-superfish clearfix">
+
+    
+  <div class="content">
+    <ul id="superfish-1" class="menu sf-menu sf-navigation sf-horizontal sf-style-none sf-total-items-6 sf-parent-items-6 sf-single-items-0"><li id="menu-37-1" class="active-trail first odd sf-item-1 sf-depth-1 sf-total-children-4 sf-parent-children-2 sf-single-children-2 menuparent"><a href="/web/20210920050743/https://opensource.org/about" title="About the Open Source Initiative" class="sf-depth-1 menuparent">About</a><ul><li id="menu-75-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210920050743/https://opensource.org/history" title="History of the OSI" class="sf-depth-2">History</a></li><li id="menu-82-1" class="active-trail middle even sf-item-2 sf-depth-2 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><a href="/web/20210920050743/https://opensource.org/board" title="Board of Directors" class="sf-depth-2 menuparent active">Board</a><ul><li id="menu-83-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/docs/board-annotated" title="OSI Board -- With Annotations" class="sf-depth-3">Board - Annotated</a></li><li id="menu-96-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/minutes" title="Public Minutes of Board Meetings" class="sf-depth-3">Minutes</a></li><li id="menu-185-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/organization" title="These portfolios represent the activities of the current OSI board." class="sf-depth-3">Organization &amp; Operations</a></li><li id="menu-95-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/articles-of-incorporation" title="OSI incorporation record" class="sf-depth-3">Articles of Incorporation</a></li><li id="menu-1475-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/elections" class="sf-depth-3">Board Elections</a></li><li id="menu-84-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/bylaws" title="Bylaws of the Open Source Initiative" class="sf-depth-3">Bylaws</a></li><li id="menu-1317-1" class="last odd sf-item-7 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/conflict_of_interest_policy" class="sf-depth-3">Conflict of Interest</a></li></ul></li><li id="menu-1843-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210920050743/https://opensource.org/trademark" title="" class="sf-depth-2 menuparent">Trademark &amp; Logo</a><ul><li id="menu-184-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/trademark-guidelines" title="OSI's Trademark Policy" class="sf-depth-3">Trademark Guidelines</a></li><li id="menu-183-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/logo-usage-guidelines" title="Guidelines for appearance and usage of OSI Logo" class="sf-depth-3">Logo Guidelines</a></li></ul></li><li id="menu-126-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210920050743/https://opensource.org/ToS" title="Rules for posting content on this site" class="sf-depth-2">Terms of Service</a></li></ul></li><li id="menu-65-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-5 sf-parent-children-2 sf-single-children-3 menuparent"><a href="/web/20210920050743/https://opensource.org/licenses" class="sf-depth-1 menuparent">Licenses</a><ul><li id="menu-61-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210920050743/https://opensource.org/osd" title="The actual OSD defining what constitutes an Open Source licence" class="sf-depth-2">Open Source Definition</a></li><li id="menu-77-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210920050743/https://opensource.org/licenses/category" title="Licenses by Category" class="sf-depth-2">Licenses by Category</a></li><li id="menu-72-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210920050743/https://opensource.org/licenses/alphabetical" title="Licenses that are approved by the OSI as conforming to the OSD" class="sf-depth-2">Licenses by Name</a></li><li id="menu-66-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210920050743/https://opensource.org/approval" title="Certifying licences as OSD-compliant" class="sf-depth-2 menuparent">License Review Process</a><ul><li id="menu-67-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/proliferation" title="Supporting choice while maintaining sanity" class="sf-depth-3">Licence Proliferation</a></li><li id="menu-69-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/proliferation-report" title="License Proliferation Committee's report to the OSI Board" class="sf-depth-3">LP report to the Board</a></li></ul></li><li id="menu-99-1" class="last odd sf-item-5 sf-depth-2 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/web/20210920050743/https://opensource.org/osr-intro" title="Open Standards Requirement for Software" class="sf-depth-2 menuparent">Open Standards</a><ul><li id="menu-101-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/osr" title="An &quot;open standard&quot; must not prohibit conforming implementations in open source software." class="sf-depth-3">The Open Standards Requirement</a></li><li id="menu-102-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/osr-compliance" class="sf-depth-3">Open Standards Requirement Compliance</a></li><li id="menu-100-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/osr-rationale" class="sf-depth-3">Open Standards Requirement Rationale</a></li><li id="menu-103-1" class="last even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/osr-faq" title="Frequently asked questions about the Open Standards Requirement" class="sf-depth-3">OSR Frequently Asked Questions</a></li></ul></li></ul></li><li id="menu-1842-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-3 sf-parent-children-2 sf-single-children-1 menuparent"><a href="/web/20210920050743/https://opensource.org/membership" title="Page for our various membership programs" class="sf-depth-1 menuparent">Membership</a><ul><li id="menu-914-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210920050743/https://opensource.org/members" class="sf-depth-2 menuparent">Individuals</a><ul><li id="menu-897-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/civicrm/contribute/transact?reset=1&amp;id=1" title="" class="sf-depth-3">Join</a></li><li id="menu-2265-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/benefits" class="sf-depth-3">Benefits</a></li></ul></li><li id="menu-675-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210920050743/https://opensource.org/osi-affiliate-membership" title="Home page for OSI's membership scheme for non-profits and not-for-profits" class="sf-depth-2 menuparent">Affiliates</a><ul><li id="menu-676-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/affiliates/about" class="sf-depth-3">Become an Affiliate</a></li><li id="menu-2071-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/AffiliateRequirements" class="sf-depth-3">Affiliate  Criteria</a></li></ul></li><li id="menu-1436-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210920050743/https://opensource.org/corporate-sponsors-support" title="" class="sf-depth-2">Sponsors &amp; Support</a></li></ul></li><li id="menu-1841-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-5 sf-parent-children-1 sf-single-children-4 menuparent"><a href="/web/20210920050743/https://opensource.org/community" title="Page for our various community members." class="sf-depth-1 menuparent">Community</a><ul><li id="menu-2271-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210920050743/https://opensource.org/associations" class="sf-depth-2">Associations</a></li><li id="menu-63-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/web/20210920050743/https://opensource.org/lists" title="The virtual committees where the OSI's work gets done" class="sf-depth-2 menuparent">Mailing lists</a><ul><li id="menu-1072-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/codeofconduct/licensing" class="sf-depth-3">Licensing Code of Conduct</a></li><li id="menu-78-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/codeofconduct" title="Guidelines for OSI Mailing Lists" class="sf-depth-3">General Code of Conduct</a></li><li id="menu-2272-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/node/960" title="Monthly reports summarizing the OSI's License-Discuss and License-Review mailing lists." class="sf-depth-3">Discussion List Reports</a></li><li id="menu-2111-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/public_forums_disclaimer" class="sf-depth-3">Disclaimer for OSI Public Forums</a></li><li id="menu-2110-1" class="last odd sf-item-5 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/public_archives_policy" class="sf-depth-3">Policy on Public Communications and Archives</a></li></ul></li><li id="menu-2032-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210920050743/https://opensource.org/volunteersandstaff" class="sf-depth-2">Volunteers &amp; Staff</a></li><li id="menu-2192-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210920050743/https://opensource.org/AdvocateCircle" class="sf-depth-2">Advocate Circle</a></li><li id="menu-1846-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="https://web.archive.org/web/20210920050743/http://wiki.opensource.org/" title="" class="sf-depth-2">Wiki</a></li></ul></li><li id="menu-1840-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-6 sf-parent-children-1 sf-single-children-5 menuparent"><a href="/web/20210920050743/https://opensource.org/resources" title="Page offering resources to OSI personas" class="sf-depth-1 menuparent">Resources</a><ul><li id="menu-342-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210920050743/https://opensource.org/faq" title="Frequently Asked Questions about open source and about the OSI." class="sf-depth-2">FAQ</a></li><li id="menu-45-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210920050743/https://opensource.org/help" title="Resources for questions and further exploration" class="sf-depth-2 menuparent">Getting Help</a><ul><li id="menu-76-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/links" title="Links and References to Open Source" class="sf-depth-3">Bibliography</a></li><li id="menu-125-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210920050743/https://opensource.org/advocacy/case_for_business.php" title="How to advocate Open Source to businesses" class="sf-depth-3">Open Source Case for Business</a></li></ul></li><li id="menu-1514-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210920050743/https://opensource.org/working_groups" class="sf-depth-2">Working Groups &amp; Incubator Projects</a></li><li id="menu-12-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210920050743/https://opensource.org/osi-open-source-education" title="OSI's Open Source Education Initiative and Activities" class="sf-depth-2">Open Source Education</a></li><li id="menu-3046-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/web/20210920050743/https://opensource.org/node/1012" class="sf-depth-2">Articles &amp; Books</a></li><li id="menu-2193-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/web/20210920050743/https://opensource.org/authority" class="sf-depth-2">International Authority &amp; Recognition</a></li></ul></li><li id="menu-1844-1" class="last even sf-item-6 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/web/20210920050743/https://opensource.org/news" title="Page dedicated to the latest news and events." class="sf-depth-1 menuparent">News &amp; Events</a><ul><li id="menu-1845-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210920050743/https://opensource.org/news" title="Index of newsletters" class="sf-depth-2">News</a></li><li id="menu-1999-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210920050743/https://opensource.org/events" class="sf-depth-2">Events</a></li><li id="menu-4709-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210920050743/https://opensource.org/newsletter/signup" title="" class="sf-depth-2">Newsletter Signup</a></li></ul></li></ul>  </div>
+</div>
+  </div>
+                                            </nav>
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #main-navigation-inside -->
+
+    </div>
+</div>
+<!-- EOF: #main-navigation -->
+
+<!-- #banner -->
+<div id="banner" class="clearfix">
+    <div class="container">
+        
+        <!-- #banner-inside -->
+        <div id="banner-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                  <div class="region region-banner">
+    <div id="block-block-23" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <div class="rtecenter" style="font-size:16px; font-weight: bold;"><a href="https://web.archive.org/web/20210920050743/https://eventyay.com/e/e7dfbfc4/" target="_blank">Practical Open Source Information</a> :: Online Event :: September 16 - 11:00 AM to 4:00 PM EDT</div>
+  </div>
+</div>
+  </div>
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #banner-inside -->        
+
+    </div>
+</div>
+<!-- EOF:#banner -->
+
+<!-- #page -->
+<div id="page" class="clearfix">
+    
+    
+    <!-- #main-content -->
+    <div id="main-content">
+        <div class="container">
+        
+            <!-- #messages-console -->
+                        <!-- EOF: #messages-console -->
+            
+            <div class="row">
+
+                
+
+                <section class="col-md-12">
+
+                    <!-- #main -->
+                    <div id="main" class="clearfix">
+                    
+                        
+                        
+                        <!-- EOF:#content-wrapper -->
+                        <div id="content-wrapper">
+
+                                                                                    <h1 class="page-title">OSI Board of Directors</h1>
+                                                        
+                                                  
+                            <!-- #tabs -->
+                                                            <div class="tabs">
+                                                                </div>
+                                                        <!-- EOF: #tabs -->
+
+                            <!-- #action links -->
+                                                        <!-- EOF: #action links -->
+
+                              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <article id="node-17" class="node node-page clearfix">
+
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The Open Source Initiative is overseen and managed by an eleven-person Board of Directors. The current Board comprises the following individuals (in alphabetical order):</p>
+
+<table border="1" summary="The OSI Board of Directors"><tbody><tr><th>Name</th>
+			<th>Role</th>
+			<th>First Elected</th>
+			<th>Current Term Start Date</th>
+			<th>Current Term End Date</th>
+			<th>Seated by</th>
+		</tr><tr><td><a href="/web/20210920050743/https://opensource.org/docs/board-annotated#JoshSimmons">Simmons, Josh</a></td>
+			<td>President</td>
+			<td>April 1, 2016</td>
+			<td>April 1, 2020</td>
+			<td>March 31, 2022</td>
+			<td>Individuals</td>
+		</tr><tr><td><a href="/web/20210920050743/https://opensource.org/docs/board-annotated#MeganByrd-Sanicki">Byrd-Sanicki, Megan</a></td>
+			<td>Director</td>
+			<td>April 1, 2020</td>
+			<td>April 1, 2020</td>
+			<td>March 31, 2022</td>
+			<td>Individuals</td>
+		</tr><tr><td><a href="/web/20210920050743/https://opensource.org/docs/board-annotated#DebBryant">Bryant, Deb</a></td>
+			<td>Secretary</td>
+			<td>October 11, 2019</td>
+			<td>October 11, 2019</td>
+			<td>October 31, 2021</td>
+			<td>OSI Board</td>
+		</tr><tr><td><a href="/web/20210920050743/https://opensource.org/docs/board-annotated#PamelaChestek">Chestek, Pamela</a></td>
+			<td>Director</td>
+			<td>April 1, 2019</td>
+			<td>April 1, 2019</td>
+			<td>March 31, 2022</td>
+			<td>Affiliates</td>
+		</tr><tr><td><a href="/web/20210920050743/https://opensource.org/docs/board-annotated#HongPhucDang">Dang, Hong Phuc</a></td>
+			<td>Vice President</td>
+			<td>April 1, 2019</td>
+			<td>August 23, 2021</td>
+			<td>March 31, 2024</td>
+			<td>Affiliates</td>
+		</tr><tr><td>Aeva Black</td>
+			<td>Director</td>
+			<td>August 23, 2021</td>
+			<td>August 23, 2021</td>
+			<td>March 31, 2023</td>
+			<td>Individuals</td>
+		</tr><tr><td><a href="/web/20210920050743/https://opensource.org/docs/board-annotated#TracyHinds">Hinds, Tracy</a></td>
+			<td>Treasurer / CFO</td>
+			<td>October 11, 2019</td>
+			<td>October 11, 2019</td>
+			<td>October 31, 2021</td>
+			<td>OSI Board</td>
+		</tr><tr><td>Thierry Carrez</td>
+			<td>Director</td>
+			<td>August 23, 2021</td>
+			<td>August 23, 2021</td>
+			<td>March 31, 2024</td>
+			<td>Affiliates</td>
+		</tr><tr><td>Catharina Maracke</td>
+			<td>Director</td>
+			<td>August 23, 2021</td>
+			<td>August 23, 2021</td>
+			<td>March 31, 2023</td>
+			<td>Individuals</td>
+		</tr><tr><td><a href="https://web.archive.org/web/20210920050743/https://opensource.org/docs/board-annotated#ItaloVignoli">Vignoli, Italo</a></td>
+			<td>Director</td>
+			<td>April 1, 2020</td>
+			<td>April 1, 2020</td>
+			<td>March 31, 2023</td>
+			<td>Affiliates</td>
+		</tr></tbody></table><h1><a id="responsibilities">Responsibilities of OSI Board Directors</a></h1>
+
+<p><b>Preamble</b></p>
+
+<p>OSI Directors are expected to work actively and pro-actively as a member of the Board, OSI and open source community. It is understood Directors are volunteers, and each will be engaged in professional and personal responsibilities outside OSI. For different reasons, related to work, college/university, family, etc. there will be periods of time where a Director will be busy and/or can not commit to the demands of the Board or community, either as much as one would like or as much as is needed. However, this should be the exception, not the rule.</p>
+
+<p dir="ltr" id="docs-internal-guid-eda7894e-7fff-f3d2-7303-e11403c2a616" style="line-height:1.38;margin-top:0pt;margin-bottom:3pt;"><span style="font-size:26pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Board Member Agreement</span></p>
+
+<p dir="ltr" id="docs-internal-guid-f9555ac1-7fff-cc85-cc89-b3cfd874adda" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">As a member of the Board of Directors of the Open Source Initiative (OSI), I agree to meet the following expectations regarding my duties and responsibilities. (<a href="https://web.archive.org/web/20210920050743/https://opensource.org/files/Board%20Member%20Agreement.pdf">Pdf here.</a>)</span></p>
+
+<h3 dir="ltr" style="line-height:1.38;margin-top:16pt;margin-bottom:4pt;"><span style="font-size:13.999999999999998pt;font-family:Arial;color:#434343;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Our Commitments to each other:</span></h3>
+
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">This Board agreement is intended to establish clear and specific shared expectations so that each member and the Board collectively can recognize and respond to issues and concerns predictably and consistently, foster a culture of honesty, transparency and mutual accountability, and promote fair and accurate disclosure and financial reporting and deter wrongdoing. This agreement is not intended to override any applicable laws or any obligations pursuant to OSI’s Bylaws, Conflicts of Interest Policy, Code of Conduct, and Governance Guidelines or any other applicable policies.</span></p>
+
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> </span></p>
+
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The goal is to ensure that Board Members strive to foster OSI’s Mission, Core Values and Commitments in an ethical and consistent manner. While the commitments in this agreement focus primarily on the spaces where we participate in official work (OSI Wiki, OSI list groups, IRC, meetings, conferences), it is important to recognize that the public behavior of members, including outside OSI-organized spaces, also reflects on the OSI.</span></p>
+
+<h3 dir="ltr" style="line-height:1.38;margin-top:16pt;margin-bottom:4pt;"><span style="font-size:13.999999999999998pt;font-family:Arial;color:#434343;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">What’s expected of each Board member</span></h3>
+
+<ul dir="ltr"><li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Attend and </span><a href="https://web.archive.org/web/20210920050743/http://opensource.org/board#responsibilities" style="text-decoration:none;"><span style="font-size:11pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">participate</span></a><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> in Board meetings and other forms of communication for ongoing discussions related to the OSI </span></li>
+	<li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Provide financial oversight for planning, budgeting, and reporting to regularly review fiscal health of OSI</span></li>
+	<li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Support the Executive Director by managing expectations consistent with OSI’s strategic priorities as well as ensuring adequate resources are available for staff to implement strategy and goals</span></li>
+	<li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Own vision and mission by working with the Executive Director to drive strategic direction and define goals in line with the mission.  Approve and review a budget that helps ensure that OSI has the financial and other resources to support the vision and mission. </span></li>
+	<li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Be ambassadors for OSI -  Representation includes attending open source events on behalf of the OSI, as well as contributing to the OSI's communications efforts through </span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">online presence, or participating in community open source discussions while upholding the model of director behavior in this Board Member Agreement</span></li>
+	<li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Be aware of and comply with the US laws and regulations that apply to OSI as a 501(c)(3) and not act outside of the scope of the OSI’s legal requirements</span></li>
+</ul><h3 dir="ltr" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;line-height:1.38;margin-top:16pt;margin-bottom:4pt;"><span style="font-size:13.999999999999998pt;font-family:Arial;color:#434343;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">What Board Members Can Expect From Each Other</span></h3>
+
+<ul dir="ltr"><li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Foster collaborative discussion and listen to understand. Critique ideas rather than people, discuss concerns about individuals with them directly first whenever possible</span></li>
+	<li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Disagree during Board deliberation but support publicly all Board decisions, especially  those that do not have unanimous consent</span></li>
+	<li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Participate in board discussion by exploring issues in the context of the goals and mission of the organization. </span></li>
+	<li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Expect and encourage Board directors and staff to respond in a straightforward and thorough fashion to questions they need answered so that directors can carry out their fiscal, legal, and other responsibilities to the organization.</span></li>
+	<li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Aim to remediate quickly, honestly and thoroughly when you realize you made a mistake. Members are human, and they will make mistakes. However they should act swiftly and fully to acknowledge mistakes and correct them</span></li>
+	<li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Information provided by deadlines in order for Board directors to make timely decisions in the best interest of OSI</span></li>
+	<li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Training, presentations, and scripts provided to support ambassador work</span></li>
+	<li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Well communicated and organized board meetings including calendar invites, agendas, and board packets. </span></li>
+	<li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The organization will maintain Directors and Officers insurance for legal liability, and the Executive Director will maintain financial, personnel, and other management systems and procedures expected of U.S.-based non-profit organizations. </span></li>
+</ul><p dir="ltr" role="presentation" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;line-height:1.38;margin-top:0pt;margin-bottom:0pt;"> </p>
+
+<p dir="ltr" role="presentation" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:Arial;color:#434343;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">What the Board can Expect from OSI Staff</span></p>
+
+<ul dir="ltr"><li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Be aware of and comply with the <a href="https://web.archive.org/web/20210920050743/https://opensource.org/conflict_of_interest_policy">OSI Conflict of Interest Policy</a> and </span><a href="https://web.archive.org/web/20210920050743/https://opensource.org/codeofconduct" style="text-decoration:none;"><span style="font-size:11pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Code of Conduct</span></a></li>
+	<li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Be aware of and comply with privacy and disclosure rules and guidelines for OSI</span></li>
+	<li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Agree to operate in the best interest of the nonprofit, including disclosure of potential or actual conflicts of interest and not using this position to further personal interest</span></li>
+	<li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Contribute to promotional and fundraising activities to empower the executive director and staff</span></li>
+	<li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Contribute to the annual performance review for the Executive Director</span></li>
+	<li role="presentation" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Communication with staff and volunteers goes through the Executive Director or with their active consent. </span></li>
+</ul><p> </p>
+
+<p><b>On Disclosures</b></p>
+
+<ul><li><span class="il">Board</span> members must sign, comply, with <span class="il">the Board</span> <span class="il">Agreement (above.)</span></li>
+	<li>Board members must not disclose any information discussed on a private mailing list unless there is a consensus that it will not cause problems or controversy for the OSI and that it can be disclosed.</li>
+	<li>Private mailing lists are private in order to allow people to express freely and to receive and share information which under different circumstances would not be given. The Board members must guarantee the privacy of issues discussed there.</li>
+	<li>The disclosure of private communications is not acceptable unless there is agreement from all people and institutions involved.</li>
+</ul><p><strong>On Endorsements</strong></p>
+
+<ul><li>Any Director may endorse any public position statement or open letter that does not commit OSI to expenditure after discerning in good faith that members of the Board do not oppose such endorsement and validating that belief with two other Directors, having given all Directors equal opportunity to respond and having received no objections (see <a href="https://web.archive.org/web/20210920050743/http://opensource.org/minutes20130508">Board Meeting Minutes of May 8, 2013</a>).</li>
+</ul><p>[<a href="https://web.archive.org/web/20210920050743/http://wiki.opensource.org/bin/OSI+Board+of+Directors/Responsibilities+of+the+Board">Comment/Improve</a>]</p>
+</div></div></div>  </div>
+    
+     
+
+  
+</article>  </div>
+</div>
+  </div>
+                            
+                        </div>
+                        <!-- EOF:#content-wrapper -->
+
+                    </div>
+                    <!-- EOF:#main -->
+
+                </section>
+
+                        
+            </div>
+
+        </div>
+    </div>
+    <!-- EOF:#main-content -->
+
+    
+</div>
+<!-- EOF:#page -->
+
+
+<footer id="subfooter" class="clearfix">
+    <div class="container">
+        
+        <!-- #subfooter-inside -->
+        <div id="subfooter-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- #subfooter-left -->
+                    <div class="subfooter-area">
+                                            
+
+                                          <div class="region region-footer">
+    <div id="block-block-11" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <div class="filler" style="vertical-align: middle; display: inline-block;">
+<p style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><a href="https://web.archive.org/web/20210920050743/https://twitter.com/OpenSourceOrg" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210920050743im_/https://opensource.org/files/twitterlogo.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210920050743/https://www.linkedin.com/company/open-source-initiative-osi-" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210920050743im_/https://opensource.org/files/linkedin.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210920050743/http://wiki.opensource.org/" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210920050743im_/https://opensource.org/files/xwikilogo.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210920050743/http://creativecommons.org/licenses/by/4.0/" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210920050743im_/https://opensource.org/files/ccby.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a></p>
+</div>
+
+<p> </p>
+
+<div class="license" style="vertical-align: middle; display: inline-block;">
+<p>Sign-up for our <a href="newsletter/signup">newsletter</a>!</p>
+
+<p>The content on this website, of which Opensource.org is the author, is licensed under a <a href="https://web.archive.org/web/20210920050743/http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.<br/>
+Opensource.org is not the author of any of the licenses reproduced on this site. Questions about the copyright in a license should be directed to the license steward.</p>
+
+<p>Hosting for Opensource.org is generously provided by <a href="https://web.archive.org/web/20210920050743/https://www.digitalocean.com/">DigitalOcean</a>. Please see <a href="/web/20210920050743/https://opensource.org/ToS">Terms of Service</a>.<br/><span style="font-size:10px;">For questions regarding the OSI website and contents pleasee <a href="https://web.archive.org/web/20210920050743/mailto:webmaster@lists.opensource.org?subject=OSI%20website%20comment">email our webmaster</a>.</span></p>
+</div>
+
+<p> </p>
+  </div>
+</div>
+<div id="block-block-7" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <script src="https://web.archive.org/web/20210920050743js_/https://www.google-analytics.com/urchin.js" type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+
+//--><!]]>
+</script><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+_uacct = "UA-3916956-1";
+urchinTracker();
+
+//--><!]]>
+</script>  </div>
+</div>
+  </div>
+                    
+                    </div>
+                    <!-- EOF: #subfooter-left -->
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #subfooter-inside -->
+    
+    </div>
+</footer>
+<!-- EOF:#subfooter -->
+  </body>
+</html><!--
+     FILE ARCHIVED ON 05:07:43 Sep 20, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:26:27 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 138.793
+  exclusion.robots: 0.174
+  exclusion.robots.policy: 0.156
+  cdx.remote: 0.102
+  esindex: 0.012
+  LoadShardBlock: 87.389 (3)
+  PetaboxLoader3.datanode: 88.221 (4)
+  load_resource: 246.796
+  PetaboxLoader3.resolve: 71.87
+-->

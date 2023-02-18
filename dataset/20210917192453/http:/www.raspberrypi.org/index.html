@@ -1,0 +1,954 @@
+<!DOCTYPE html>
+<html class="no-js">
+  <head><script type="text/javascript" src="/_static/js/bundle-playback.js?v=4R5OHjEN" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://www.raspberrypi.org/","20210917180236","https://web.archive.org/","web","/_static/",
+	      "1631901756");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <meta charset="utf-8">
+    <script>document.documentElement.classList.replace('no-js', 'js')</script>
+
+      <link href="https://web.archive.org/web/20210917180236/https://fonts.gstatic.com/" crossorigin="true" rel="preconnect">
+  <link href="https://web.archive.org/web/20210917180236/https://static.raspberrypi.org/" rel="preconnect">
+  <link href="https://web.archive.org/web/20210917180236/https://www.google-analytics.com/" rel="dns-prefetch">
+  <link href="https://web.archive.org/web/20210917180236/https://www.googletagmanager.com/" rel="dns-prefetch">
+
+<link rel="preload" href="/web/20210917180236/https://www.raspberrypi.org/pagekit-assets/js/javascripts/application-c5bce6f389f58b78b056.js" as="script" type="text/javascript">
+<link rel="preload" href="/web/20210917180236/https://www.raspberrypi.org/pagekit-assets/js/javascripts/home-afd8a82311e8b7f83620.js" as="script" type="text/javascript">
+<link rel="preload" href="/web/20210917180236/https://www.raspberrypi.org/pagekit-assets/css/stylesheets/application-7fdb1f1a.css" as="style" type="text/css">
+<link rel="preload" href="/web/20210917180236/https://www.raspberrypi.org/pagekit-assets/css/stylesheets/home-918498ca.css" as="style" type="text/css">
+
+<script>/*! For license information please see application_critical-47c3fa8f9fb34e38e545.js.LICENSE.txt */
+(self.webpackChunkpage_kit=self.webpackChunkpage_kit||[]).push([[575],{9886:function(e,t,n){"use strict";e.exports=n.p+"media/images/32cf8c634f1b5f398cfd.svg"},6038:function(e,t,n){var i={"./favicon.svg":9886};function r(e){var t=s(e);return n(t)}function s(e){if(!n.o(i,e)){var t=new Error("Cannot find module '"+e+"'");throw t.code="MODULE_NOT_FOUND",t}return i[e]}r.keys=function(){return Object.keys(i)},r.resolve=s,e.exports=r,r.id=6038},4463:function(e,t,n){"use strict";n(2933),n(7229);var i=function(){function e(e){this.COOKIE="cookiebanner_accepted=1",this.banner=document.querySelector(e.bannerSelector),this.button=document.querySelector(e.buttonSelector),this.isCookiesAccepted()||(this.showBanner(),this.bindAcceptCookiesEvent())}var t=e.prototype;return t.isCookiesAccepted=function(){var e=this;return!!document.cookie.split("; ").find((function(t){return t.startsWith(e.COOKIE)}))},t.bindAcceptCookiesEvent=function(){var e=this;this.button.addEventListener("click",(function(){document.cookie=e.COOKIE,e.hideBanner()}))},t.showBanner=function(){this.banner.style.display="block"},t.hideBanner=function(){this.banner.style.display="none"},e}(),r=n(2855),s=function(){function e(e){this.elements={},this.rootSelector=e.rootSelector,this.selectors=e.selectors||{},this.root=this.getRootElement(),this.getElements(),this.activePanel="",this.navOpen=!1,this.debounceTimeout=200,this.addEvents()}var t=e.prototype;return t.addEvents=function(){var e=this;this.elements.nav.addEventListener("focusout",(function(t){var n=t.currentTarget,i=t.relatedTarget;n.contains(i)||e.navPanelClose()})),this.elements.navItems.forEach((function(t){t.addEventListener("mouseenter",e.debounce(e.navPanelOpen.bind(e))),t.addEventListener("mouseleave",e.debounce(e.navPanelClose.bind(e)))})),this.elements.navLinks.forEach((function(t){t.addEventListener("focus",(function(t){return e.navPanelOpen(t)}))})),this.elements.toggle.addEventListener("click",(function(){return e.toggleHandler()}))},t.debounce=function(e){var t=this;return this.timeout=null,function(){for(var n=arguments.length,i=new Array(n),r=0;r<n;r++)i[r]=arguments[r];var s=function(){return e.apply(void 0,i)};clearTimeout(t.timeout),t.timeout=setTimeout(s,t.debounceTimeout)}},t.getElements=function(){var e=this;Object.entries(this.selectors).map((function(t){var n=t[0],i=t[1],r=document.querySelectorAll('[data-js="'+i+'"]');1!==r.length?e.elements[n]=r:e.elements[n]=r[0]}))},t.getRootElement=function(){return document.querySelector(this.rootSelector)},t.navPanelClose=function(){this.activePanel="",this.updateNavAttributes()},t.navPanelOpen=function(e){this.activePanel=e.target.dataset.section,this.updateNavAttributes()},t.toggleHandler=function(){this.navOpen=!this.navOpen,this.elements.header.dataset.navOpen=this.navOpen,this.elements.toggle.setAttribute("aria-pressed",this.navOpen)},t.updateNavAttributes=function(){var e=this;this.elements.nav.dataset.activePanel=this.activePanel,this.elements.navPanels.forEach((function(t){var n=!1,i=!0;t.dataset.section===e.activePanel&&(n=!0,i=!1),t.setAttribute("aria-expanded",n),t.setAttribute("aria-hidden",i)}))},e}();window.Flavors=r.Z;n(6038);document.createElement("picture"),window.addEventListener("DOMContentLoaded",(function(){new i({bannerSelector:".c-cookie-banner",buttonSelector:".c-cookie-banner__button"}),new s({rootSelector:".site-header",selectors:{header:"header",nav:"nav",navItems:"nav-item",navLinks:"nav-link",navPanels:"nav-panel",toggle:"toggle"}})}))},2855:function(e,t,n){"use strict";function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}n.d(t,{Z:function(){return u}});var r=function(){function e(e){var t=e.element,n=e.stateKey;this.element=t,this.stateKey=n}var t,n,r,s=e.prototype;return s.setState=function(e){this.data[this.stateKey]=e},s.unsetState=function(){delete this.data[this.stateKey]},t=e,(n=[{key:"data",get:function(){return this.element.dataset}}])&&i(t.prototype,n),r&&i(t,r),e}();function s(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}var a=function(){function e(e){var t=e.controller,n=e.element,i=e.index;this.controller=t,this.element=n,this.index=i,this.query=null,this.addEvent()}var t,n,i,r=e.prototype;return r.addEvent=function(){var e=this;this.query=window.matchMedia(this.media),this.query.addEventListener("change",(function(t){return e.applyState(t,e)})),this.cascadeEvent=new Event("change",{target:this.query})},r.applyState=function(e){void 0===e&&(e=this.query),e.target.matches?this.controller.setState(this.value):this.controller.cascadeState(this.index)},r.cascadeState=function(){this.query.dispatchEvent(this.cascadeEvent)},t=e,(n=[{key:"media",get:function(){return this.element.getAttribute("media")}},{key:"value",get:function(){return this.element.getAttribute("value")||""}}])&&s(t.prototype,n),i&&s(t,i),e}();function o(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}var c=function(){function e(e){var t=e.controller,n=e.stateKey;this.components=[],this.controller=t,this.initialized=!1,this.stateKey=n||"flavor",this.states=[],this.initComponents(),this.initStates(),this.setInitialState()}var t,n,i,s=e.prototype;return s.initComponents=function(){var e=this;this.components=this.componentElements.map((function(t){return new r({element:t,stateKey:e.stateKey})}))},s.initStates=function(){var e=this;this.states=this.stateElements.map((function(t,n){return new a({controller:e,element:t,index:n})}))},s.cascadeState=function(e){this.initialized&&(this.unsetState(),this.invokeCallbackForState(e-1))},s.invokeCallbackForState=function(e){e<0||this.states[e].cascadeState()},s.setInitialState=function(){var e=this;Array.from(this.states).reverse().forEach((function(t){e.initialized||(e.initialized=!0,t.cascadeState())}))},s.setState=function(e){this.initialized&&this.components.forEach((function(t){return t.setState(e)}))},s.unsetState=function(){this.components.forEach((function(e){return e.unsetState()}))},t=e,(n=[{key:"componentElements",get:function(){return"FLAVOR-CONTROLLER"===this.controller.tagName?Array.from(this.controller.parentNode.querySelectorAll(":scope ."+this.controller.getAttribute("for"))):[this.controller]}},{key:"stateElements",get:function(){return Array.from(this.controller.querySelectorAll(":scope > flavor-switch"))}}])&&o(t.prototype,n),i&&o(t,i),e}(),u=function(e){e.forEach((function(e){var t=e.selector,n=e.stateKey;document.querySelectorAll(t).forEach((function(e){new c({controller:e,stateKey:n})}))}))}},2933:function(){document.documentElement.addEventListener("load",(function(e){var t=e.target.dataset;"in-progress"===(null==t?void 0:t.imageLoading)&&window.setTimeout((function(){t.imageLoading="false"}),500)}),!0),window.addEventListener("DOMContentLoaded",(function(){var e=document.querySelectorAll("img[data-image-loading]");Array.from(e).filter((function(e){return e.complete})).forEach((function(e){return e.dataset.imageLoading="complete"}))}))},7229:function(e,t,n){var i;!function(e){var t,n,i,r,s,a,o,c=navigator.userAgent;e.HTMLPictureElement&&/ecko/.test(c)&&c.match(/rv\:(\d+)/)&&RegExp.$1<45&&addEventListener("resize",(n=document.createElement("source"),i=function(e){var t,i,r=e.parentNode;"PICTURE"===r.nodeName.toUpperCase()?(t=n.cloneNode(),r.insertBefore(t,r.firstElementChild),setTimeout((function(){r.removeChild(t)}))):(!e._pfLastSize||e.offsetWidth>e._pfLastSize)&&(e._pfLastSize=e.offsetWidth,i=e.sizes,e.sizes+=",100vw",setTimeout((function(){e.sizes=i})))},r=function(){var e,t=document.querySelectorAll("picture > img, img[srcset][sizes]");for(e=0;e<t.length;e++)i(t[e])},s=function(){clearTimeout(t),t=setTimeout(r,99)},a=e.matchMedia&&matchMedia("(orientation: landscape)"),o=function(){s(),a&&a.addListener&&a.addListener(s)},n.srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",/^[c|i]|d$/.test(document.readyState||"")?o():document.addEventListener("DOMContentLoaded",o),s))}(window),function(r,s,a){"use strict";var o,c,u;s.createElement("picture");var l={},d=!1,f=function(){},h=s.createElement("img"),p=h.getAttribute,m=h.setAttribute,v=h.removeAttribute,g=s.documentElement,A={},y={algorithm:""},b="data-pfsrc",S=b+"set",E=navigator.userAgent,w=/rident/.test(E)||/ecko/.test(E)&&E.match(/rv\:(\d+)/)&&RegExp.$1>35,k="currentSrc",x=/\s+\+?\d+(e\d+)?w/,C=/(\([^)]+\))?\s*(.+)/,L=r.picturefillCFG,z="font-size:100%!important;",T=!0,P={},O={},R=r.devicePixelRatio,M={px:1,in:96},I=s.createElement("a"),D=!1,B=/^[ \t\n\r\u000c]+/,q=/^[, \t\n\r\u000c]+/,U=/^[^ \t\n\r\u000c]+/,K=/[,]+$/,$=/^\d+$/,N=/^-?(?:[0-9]+|[0-9]*\.[0-9]+)(?:[eE][+-]?[0-9]+)?$/,W=function(e,t,n,i){e.addEventListener?e.addEventListener(t,n,i||!1):e.attachEvent&&e.attachEvent("on"+t,n)},F=function(e){var t={};return function(n){return n in t||(t[n]=e(n)),t[n]}};function H(e){return" "===e||"\t"===e||"\n"===e||"\f"===e||"\r"===e}var Q,_,j,G,V,J,Z,X,Y,ee,te,ne,ie,re,se,ae,oe=(Q=/^([\d\.]+)(em|vw|px)$/,_=F((function(e){return"return "+function(){for(var e=arguments,t=0,n=e[0];++t in e;)n=n.replace(e[t],e[++t]);return n}((e||"").toLowerCase(),/\band\b/g,"&&",/,/g,"||",/min-([a-z-\s]+):/g,"e.$1>=",/max-([a-z-\s]+):/g,"e.$1<=",/calc([^)]+)/g,"($1)",/(\d+[\.]*[\d]*)([a-z]+)/g,"($1 * e.$2)",/^(?!(e.[a-z]|[0-9\.&=|><\+\-\*\(\)\/])).*/gi,"")+";"})),function(e,t){var n;if(!(e in P))if(P[e]=!1,t&&(n=e.match(Q)))P[e]=n[1]*M[n[2]];else try{P[e]=new Function("e",_(e))(M)}catch(i){}return P[e]}),ce=function(e,t){return e.w?(e.cWidth=l.calcListLength(t||"100vw"),e.res=e.w/e.cWidth):e.res=e.d,e},ue=function(e){if(d){var t,n,i,r=e||{};if(r.elements&&1===r.elements.nodeType&&("IMG"===r.elements.nodeName.toUpperCase()?r.elements=[r.elements]:(r.context=r.elements,r.elements=null)),i=(t=r.elements||l.qsa(r.context||s,r.reevaluate||r.reselect?l.sel:l.selShort)).length){for(l.setupRun(r),D=!0,n=0;n<i;n++)l.fillImg(t[n],r);l.teardownRun(r)}}};function le(e,t){return e.res-t.res}function de(e,t){var n,i,r;if(e&&t)for(r=l.parseSet(t),e=l.makeUrl(e),n=0;n<r.length;n++)if(e===l.makeUrl(r[n].url)){i=r[n];break}return i}r.console&&console.warn,k in h||(k="src"),A["image/jpeg"]=!0,A["image/gif"]=!0,A["image/png"]=!0,A["image/svg+xml"]=s.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1"),l.ns=("pf"+(new Date).getTime()).substr(0,9),l.supSrcset="srcset"in h,l.supSizes="sizes"in h,l.supPicture=!!r.HTMLPictureElement,l.supSrcset&&l.supPicture&&!l.supSizes&&(j=s.createElement("img"),h.srcset="data:,a",j.src="data:,a",l.supSrcset=h.complete===j.complete,l.supPicture=l.supSrcset&&l.supPicture),l.supSrcset&&!l.supSizes?(G="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",V=s.createElement("img"),J=function(){2===V.width&&(l.supSizes=!0),c=l.supSrcset&&!l.supSizes,d=!0,setTimeout(ue)},V.onload=J,V.onerror=J,V.setAttribute("sizes","9px"),V.srcset=G+" 1w,data:image/gif;base64,R0lGODlhAgABAPAAAP///wAAACH5BAAAAAAALAAAAAACAAEAAAICBAoAOw== 9w",V.src=G):d=!0,l.selShort="picture>img,img[srcset]",l.sel=l.selShort,l.cfg=y,l.DPR=R||1,l.u=M,l.types=A,l.setSize=f,l.makeUrl=F((function(e){return I.href=e,I.href})),l.qsa=function(e,t){return"querySelector"in e?e.querySelectorAll(t):[]},l.matchesMedia=function(){return r.matchMedia&&(matchMedia("(min-width: 0.1em)")||{}).matches?l.matchesMedia=function(e){return!e||matchMedia(e).matches}:l.matchesMedia=l.mMQ,l.matchesMedia.apply(this,arguments)},l.mMQ=function(e){return!e||oe(e)},l.calcLength=function(e){var t=oe(e,!0)||!1;return t<0&&(t=!1),t},l.supportsType=function(e){return!e||A[e]},l.parseSize=F((function(e){var t=(e||"").match(C);return{media:t&&t[1],length:t&&t[2]}})),l.parseSet=function(e){return e.cands||(e.cands=function(e,t){function n(t){var n,i=t.exec(e.substring(u));if(i)return n=i[0],u+=n.length,n}var i,r,s,a,o,c=e.length,u=0,l=[];function d(){var e,n,s,a,o,c,u,d,f,h=!1,p={};for(a=0;a<r.length;a++)c=(o=r[a])[o.length-1],u=o.substring(0,o.length-1),d=parseInt(u,10),f=parseFloat(u),$.test(u)&&"w"===c?((e||n)&&(h=!0),0===d?h=!0:e=d):N.test(u)&&"x"===c?((e||n||s)&&(h=!0),f<0?h=!0:n=f):$.test(u)&&"h"===c?((s||n)&&(h=!0),0===d?h=!0:s=d):h=!0;h||(p.url=i,e&&(p.w=e),n&&(p.d=n),s&&(p.h=s),s||n||e||(p.d=1),1===p.d&&(t.has1x=!0),p.set=t,l.push(p))}function f(){for(n(B),s="",a="in descriptor";;){if(o=e.charAt(u),"in descriptor"===a)if(H(o))s&&(r.push(s),s="",a="after descriptor");else{if(","===o)return u+=1,s&&r.push(s),void d();if("("===o)s+=o,a="in parens";else{if(""===o)return s&&r.push(s),void d();s+=o}}else if("in parens"===a)if(")"===o)s+=o,a="in descriptor";else{if(""===o)return r.push(s),void d();s+=o}else if("after descriptor"===a)if(H(o));else{if(""===o)return void d();a="in descriptor",u-=1}u+=1}}for(;;){if(n(q),u>=c)return l;i=n(U),r=[],","===i.slice(-1)?(i=i.replace(K,""),d()):f()}}(e.srcset,e)),e.cands},l.getEmValue=function(){var e;if(!o&&(e=s.body)){var t=s.createElement("div"),n=g.style.cssText,i=e.style.cssText;t.style.cssText="position:absolute;left:0;visibility:hidden;display:block;padding:0;border:none;font-size:1em;width:1em;overflow:hidden;clip:rect(0px, 0px, 0px, 0px)",g.style.cssText=z,e.style.cssText=z,e.appendChild(t),o=t.offsetWidth,e.removeChild(t),o=parseFloat(o,10),g.style.cssText=n,e.style.cssText=i}return o||16},l.calcListLength=function(e){if(!(e in O)||y.uT){var t=l.calcLength(function(e){var t,n,i,r,s,a,o,c=/^(?:[+-]?[0-9]+|[0-9]*\.[0-9]+)(?:[eE][+-]?[0-9]+)?(?:ch|cm|em|ex|in|mm|pc|pt|px|rem|vh|vmin|vmax|vw)$/i,u=/^calc\((?:[0-9a-z \.\+\-\*\/\(\)]+)\)$/i;for(i=(n=function(e){var t,n="",i=[],r=[],s=0,a=0,o=!1;function c(){n&&(i.push(n),n="")}function u(){i[0]&&(r.push(i),i=[])}for(;;){if(""===(t=e.charAt(a)))return c(),u(),r;if(o){if("*"===t&&"/"===e[a+1]){o=!1,a+=2,c();continue}a+=1}else{if(H(t)){if(e.charAt(a-1)&&H(e.charAt(a-1))||!n){a+=1;continue}if(0===s){c(),a+=1;continue}t=" "}else if("("===t)s+=1;else if(")"===t)s-=1;else{if(","===t){c(),u(),a+=1;continue}if("/"===t&&"*"===e.charAt(a+1)){o=!0,a+=2;continue}}n+=t,a+=1}}}(e)).length,t=0;t<i;t++)if(s=(r=n[t])[r.length-1],o=s,c.test(o)&&parseFloat(o)>=0||u.test(o)||"0"===o||"-0"===o||"+0"===o){if(a=s,r.pop(),0===r.length)return a;if(r=r.join(" "),l.matchesMedia(r))return a}return"100vw"}(e));O[e]=t||M.width}return O[e]},l.setRes=function(e){var t;if(e)for(var n=0,i=(t=l.parseSet(e)).length;n<i;n++)ce(t[n],e.sizes);return t},l.setRes.res=ce,l.applySetCandidate=function(e,t){if(e.length){var n,i,r,s,a,o,c,u,d,f,h,p,m,v,g,A,b=t[l.ns],S=l.DPR;if(o=b.curSrc||t[k],(c=b.curCan||function(e,t,n){var i;return!n&&t&&(n=(n=e[l.ns].sets)&&n[n.length-1]),(i=de(t,n))&&(t=l.makeUrl(t),e[l.ns].curSrc=t,e[l.ns].curCan=i,i.res||ce(i,i.set.sizes)),i}(t,o,e[0].set))&&c.set===e[0].set&&((d=w&&!t.complete&&c.res-.1>S)||(c.cached=!0,c.res>=S&&(a=c))),!a)for(e.sort(le),a=e[(s=e.length)-1],i=0;i<s;i++)if((n=e[i]).res>=S){a=e[r=i-1]&&(d||o!==l.makeUrl(n.url))&&(f=e[r].res,h=n.res,p=S,m=e[r].cached,v=void 0,g=void 0,A=void 0,"saveData"===y.algorithm?f>2.7?A=p+1:(g=(h-p)*(v=Math.pow(f-.6,1.5)),m&&(g+=.1*v),A=f+g):A=p>1?Math.sqrt(f*h):f,A>p)?e[r]:n;break}a&&(u=l.makeUrl(a.url),b.curSrc=u,b.curCan=a,u!==o&&l.setSrc(t,a),l.setSize(t))}},l.setSrc=function(e,t){var n;e.src=t.url,"image/svg+xml"===t.set.type&&(n=e.style.width,e.style.width=e.offsetWidth+1+"px",e.offsetWidth+1&&(e.style.width=n))},l.getSet=function(e){var t,n,i,r=!1,s=e[l.ns].sets;for(t=0;t<s.length&&!r;t++)if((n=s[t]).srcset&&l.matchesMedia(n.media)&&(i=l.supportsType(n.type))){"pending"===i&&(n=i),r=n;break}return r},l.parseSets=function(e,t,n){var i,r,s,o,u=t&&"PICTURE"===t.nodeName.toUpperCase(),d=e[l.ns];(d.src===a||n.src)&&(d.src=p.call(e,"src"),d.src?m.call(e,b,d.src):v.call(e,b)),(d.srcset===a||n.srcset||!l.supSrcset||e.srcset)&&(i=p.call(e,"srcset"),d.srcset=i,o=!0),d.sets=[],u&&(d.pic=!0,function(e,t){var n,i,r,s,a=e.getElementsByTagName("source");for(n=0,i=a.length;n<i;n++)(r=a[n])[l.ns]=!0,(s=r.getAttribute("srcset"))&&t.push({srcset:s,media:r.getAttribute("media"),type:r.getAttribute("type"),sizes:r.getAttribute("sizes")})}(t,d.sets)),d.srcset?(r={srcset:d.srcset,sizes:p.call(e,"sizes")},d.sets.push(r),(s=(c||d.src)&&x.test(d.srcset||""))||!d.src||de(d.src,r)||r.has1x||(r.srcset+=", "+d.src,r.cands.push({url:d.src,d:1,set:r}))):d.src&&d.sets.push({srcset:d.src,sizes:null}),d.curCan=null,d.curSrc=a,d.supported=!(u||r&&!l.supSrcset||s&&!l.supSizes),o&&l.supSrcset&&!d.supported&&(i?(m.call(e,S,i),e.srcset=""):v.call(e,S)),d.supported&&!d.srcset&&(!d.src&&e.src||e.src!==l.makeUrl(d.src))&&(null===d.src?e.removeAttribute("src"):e.src=d.src),d.parsed=!0},l.fillImg=function(e,t){var n,i=t.reselect||t.reevaluate;e[l.ns]||(e[l.ns]={}),n=e[l.ns],(i||n.evaled!==u)&&(n.parsed&&!t.reevaluate||l.parseSets(e,e.parentNode,t),n.supported?n.evaled=u:function(e){var t,n=l.getSet(e),i=!1;"pending"!==n&&(i=u,n&&(t=l.setRes(n),l.applySetCandidate(t,e))),e[l.ns].evaled=i}(e))},l.setupRun=function(){D&&!T&&R===r.devicePixelRatio||(T=!1,R=r.devicePixelRatio,P={},O={},l.DPR=R||1,M.width=Math.max(r.innerWidth||0,g.clientWidth),M.height=Math.max(r.innerHeight||0,g.clientHeight),M.vw=M.width/100,M.vh=M.height/100,u=[M.height,M.width,R].join("-"),M.em=l.getEmValue(),M.rem=M.em)},l.supPicture?(ue=f,l.fillImg=f):(ie=r.attachEvent?/d$|^c/:/d$|^c|^i/,re=function(){var e=s.readyState||"";se=setTimeout(re,"loading"===e?200:999),s.body&&(l.fillImgs(),(Z=Z||ie.test(e))&&clearTimeout(se))},se=setTimeout(re,s.body?9:99),ae=g.clientHeight,W(r,"resize",(X=function(){T=Math.max(r.innerWidth||0,g.clientWidth)!==M.width||g.clientHeight!==ae,ae=g.clientHeight,T&&l.fillImgs()},Y=99,ne=function(){var e=new Date-te;e<Y?ee=setTimeout(ne,Y-e):(ee=null,X())},function(){te=new Date,ee||(ee=setTimeout(ne,Y))})),W(s,"readystatechange",re)),l.picturefill=ue,l.fillImgs=ue,l.teardownRun=f,ue._=l,r.picturefillCFG={pf:l,push:function(e){var t=e.shift();"function"===typeof l[t]?l[t].apply(l,e):(y[t]=e[0],D&&l.fillImgs({reselect:!0}))}};for(;L&&L.length;)r.picturefillCFG.push(L.shift());r.picturefill=ue,"object"===typeof e.exports?e.exports=ue:(i=function(){return ue}.call(t,n,t,e))===a||(e.exports=i),l.supPicture||(A["image/webp"]=function(e,t){var n=new r.Image;return n.onerror=function(){A[e]=!1,ue()},n.onload=function(){A[e]=1===n.width,ue()},n.src=t,"pending"}("image/webp","data:image/webp;base64,UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAABBxAR/Q9ERP8DAABWUDggGAAAADABAJ0BKgEAAQADADQlpAADcAD++/1QAA=="))}(window,document)}},function(e){"use strict";var t;t=4463,e(e.s=t)}]);
+//# sourceMappingURL=application_critical-47c3fa8f9fb34e38e545.js.map</script>
+<style>*,:after,:before{box-sizing:border-box}blockquote,body,dd,dl,figure,h1,h2,h3,h4,p{margin:0}ol[role=list],ul[role=list]{list-style:none}html{scroll-behavior:smooth}body{text-rendering:optimizeSpeed;min-height:100vh}a:not([class]){text-decoration-skip-ink:auto}img,picture{display:block;max-width:100%}button,input,select,textarea{font:inherit}@media(prefers-reduced-motion:reduce){*,:after,:before{animation-duration:.01ms!important;animation-iteration-count:1!important;scroll-behavior:auto!important;transition-duration:.01ms!important}}.u-visually-hidden{clip:rect(0 0 0 0)!important;clip-path:inset(100%)!important;height:1px!important;overflow:hidden!important;position:absolute!important;white-space:nowrap!important;width:1px!important}[id]{scroll-margin-top:2ex}html{font-size:62.5%}body,html{background-color:#fff}body{text-rendering:optimizeLegibility;text-size-adjust:100%;color:#222;font-display:swap;font-family:Rubik,sans-serif;font-size:1.6rem;font-variant-ligatures:none;font-weight:400;padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);position:relative}@media only screen and (min-width:800px){body{font-size:2rem}}h1{font-size:1.92rem;font-weight:700;margin-block-end:2.4rem;margin-bottom:2.4rem;margin-top:0}@media only screen and (min-width:800px){h1{font-size:2.4rem;margin-block-end:3rem;margin-bottom:3rem}}@media only screen and (min-width:1200px){h1{margin-block-end:3.6rem;margin-bottom:3.6rem}}h2{font-size:1.92rem;font-weight:700;margin-block-end:2.4rem;margin-bottom:2.4rem;margin-top:0}@media only screen and (min-width:800px){h2{font-size:2.4rem;margin-block-end:3rem;margin-bottom:3rem}}@media only screen and (min-width:1200px){h2{margin-block-end:3.6rem;margin-bottom:3.6rem}}h3{font-size:1.92rem;font-weight:700;margin-block-end:2.4rem;margin-bottom:2.4rem;margin-top:0}@media only screen and (min-width:800px){h3{font-size:2.4rem;margin-block-end:3rem;margin-bottom:3rem}}@media only screen and (min-width:1200px){h3{margin-block-end:3.6rem;margin-bottom:3.6rem}}h4{font-size:1.92rem;font-weight:700;margin-block-end:2.4rem;margin-bottom:2.4rem;margin-top:0}@media only screen and (min-width:800px){h4{font-size:2.4rem;margin-block-end:3rem;margin-bottom:3rem}}@media only screen and (min-width:1200px){h4{margin-block-end:3.6rem;margin-bottom:3.6rem}}h5{font-size:1.92rem;font-weight:700;margin-block-end:2.4rem;margin-bottom:2.4rem;margin-top:0}@media only screen and (min-width:800px){h5{font-size:2.4rem;margin-block-end:3rem;margin-bottom:3rem}}@media only screen and (min-width:1200px){h5{margin-block-end:3.6rem;margin-bottom:3.6rem}}h6{font-size:1.92rem;font-weight:700;margin-block-end:2.4rem;margin-bottom:2.4rem;margin-top:0}@media only screen and (min-width:800px){h6{font-size:2.4rem;margin-block-end:3rem;margin-bottom:3rem}}@media only screen and (min-width:1200px){h6{margin-block-end:3.6rem;margin-bottom:3.6rem}}li ol,li ul{margin-bottom:0}ol{font-size:1.6rem;margin-block-end:1.6rem;margin-bottom:1.6rem;padding-left:1.6rem;padding-inline-start:1.6rem}@media only screen and (min-width:800px){ol{font-size:2rem;margin-block-end:2rem;margin-bottom:2rem}}@media only screen and (min-width:1200px){ol{margin-block-end:2.4rem;margin-bottom:2.4rem}}@media only screen and (min-width:800px){ol{padding-left:2rem;padding-inline-start:2rem}}@media only screen and (min-width:1200px){ol{padding-left:2.4rem;padding-inline-start:2.4rem}}p{font-size:1.6rem;margin-block-end:1.6rem;margin-bottom:1.6rem;max-width:50ch}@media only screen and (min-width:800px){p{margin-block-end:2rem;margin-bottom:2rem}}@media only screen and (min-width:1200px){p{margin-block-end:2.4rem;margin-bottom:2.4rem}}@media only screen and (min-width:800px){p{font-size:2rem}}pre{font-family:Lucida Console,Monaco,monospace}ul{font-size:1.6rem;margin-block-end:1.6rem;margin-bottom:1.6rem;padding-left:1.6rem;padding-inline-start:1.6rem}@media only screen and (min-width:800px){ul{font-size:2rem;margin-block-end:2rem;margin-bottom:2rem}}@media only screen and (min-width:1200px){ul{margin-block-end:2.4rem;margin-bottom:2.4rem}}@media only screen and (min-width:800px){ul{padding-left:2rem;padding-inline-start:2rem}}@media only screen and (min-width:1200px){ul{padding-left:2.4rem;padding-inline-start:2.4rem}}a{text-decoration:underline;text-decoration-skip-ink:auto;transition-duration:.1s;transition-property:color;transition-timing-function:ease-in-out}abbr{text-decoration:underline dotted}b{font-weight:700}cite{font-style:italic}code{font-family:Lucida Console,Monaco,monospace}em,i{font-style:italic}kbd{font-family:Lucida Console,Monaco,monospace}s{text-decoration:line-through}samp{font-family:Lucida Console,Monaco,monospace}strong{font-weight:700}u{text-decoration:underline}var{font-style:italic;font-weight:700}del{text-decoration:line-through}ins{font-weight:700}*{box-sizing:border-box}[data-sauce-inverted-text]{color:#fff!important}[data-sauce-screen-reader-only]{clip:rect(0 0 0 0)!important;clip-path:inset(100%)!important;height:1px!important;overflow:hidden!important;position:absolute!important;white-space:nowrap!important;width:1px!important}flavor-controller,flavor-switch{display:none}body{font-family:Roboto,sans-serif!important;font-size:clamp(1.6rem,2vw,2rem);line-height:1.4}h1,h2,h3,h4,h5,h6{font-weight:700}h1,h2,h3,h4,h5,h6,p{max-width:60ch}:root{--color-background-button-primary-base:#0045ad;--color-background-button-primary-active:#0052cc;--color-background-button-primary-disabled:#eee;--color-text-button-primary-base:#fff;--color-text-button-primary-active:#fff;--color-text-button-primary-disabled:#444}.sauce-button{--color-background-base:var(--color-background-button-primary-base);--color-background-active:var(--color-background-button-primary-active);--color-background-disabled:var(--color-background-button-primary-disabled);--color-text-base:var(--color-text-button-primary-base);--color-text-active:var(--color-text-button-primary-active);--color-text-disabled:var(--color-text-button-primary-disabled);--color-background:var(--color-background-base);--color-text:var(--color-text-base);--width:100%;background-color:var(--color-background);border-radius:.5rem;border-width:0;color:var(--color-text);display:inline-block;font-weight:500;line-height:1.2;padding:.8rem 3.2rem;padding-block:.8rem;padding-inline:3.2rem;text-align:center;width:var(--width)}@media only screen and (min-width:800px){.sauce-button{padding-block:1rem;padding-bottom:1rem;padding-top:1rem}}@media only screen and (min-width:1200px){.sauce-button{padding-block:1.2rem;padding-bottom:1.2rem;padding-top:1.2rem}}@media only screen and (min-width:800px){.sauce-button{padding-inline:4rem;padding-left:4rem;padding-right:4rem}}@media only screen and (min-width:1200px){.sauce-button{padding-inline:4.8rem;padding-left:4.8rem;padding-right:4.8rem}}.sauce-button:any-link{--color-background:var(--color-background-base);--color-text:var(--color-text-base);text-decoration:none}.sauce-button:active,.sauce-button:focus,.sauce-button:hover{--color-background:var(--color-background-active);--color-text:var(--color-text-active)}@media only screen and (min-width:500px){.sauce-button{--width:auto}}.sauce-button:disabled,.sauce-button[disabled]{--color-background:var(--color-background-disabled);--color-text:var(--color-text-disabled);pointer-events:none}.sauce-button[data-breakout]:after,[data-breakout] .sauce-button:after{bottom:0;content:" ";display:block;left:0;position:absolute;right:0;top:0;z-index:1}:is(button,input[type=submit],input[type=reset],input[type=button]):not([class]){--color-background-base:var(--color-background-button-primary-base);--color-background-active:var(--color-background-button-primary-active);--color-background-disabled:var(--color-background-button-primary-disabled);--color-text-base:var(--color-text-button-primary-base);--color-text-active:var(--color-text-button-primary-active);--color-text-disabled:var(--color-text-button-primary-disabled);--color-background:var(--color-background-base);--color-text:var(--color-text-base);--width:100%;background-color:var(--color-background);border-radius:.5rem;border-width:0;color:var(--color-text);display:inline-block;font-weight:500;line-height:1.2;padding:.8rem 3.2rem;padding-block:.8rem;padding-inline:3.2rem;text-align:center;width:var(--width)}@media only screen and (min-width:800px){:is(button,input[type=submit],input[type=reset],input[type=button]):not([class]){padding-block:1rem;padding-bottom:1rem;padding-top:1rem}}@media only screen and (min-width:1200px){:is(button,input[type=submit],input[type=reset],input[type=button]):not([class]){padding-block:1.2rem;padding-bottom:1.2rem;padding-top:1.2rem}}@media only screen and (min-width:800px){:is(button,input[type=submit],input[type=reset],input[type=button]):not([class]){padding-inline:4rem;padding-left:4rem;padding-right:4rem}}@media only screen and (min-width:1200px){:is(button,input[type=submit],input[type=reset],input[type=button]):not([class]){padding-inline:4.8rem;padding-left:4.8rem;padding-right:4.8rem}}:is(button,input[type=submit],input[type=reset],input[type=button]):not([class]):any-link{--color-background:var(--color-background-base);--color-text:var(--color-text-base);text-decoration:none}:is(button,input[type=submit],input[type=reset],input[type=button]):not([class]):active,:is(button,input[type=submit],input[type=reset],input[type=button]):not([class]):focus,:is(button,input[type=submit],input[type=reset],input[type=button]):not([class]):hover{--color-background:var(--color-background-active);--color-text:var(--color-text-active)}@media only screen and (min-width:500px){:is(button,input[type=submit],input[type=reset],input[type=button]):not([class]){--width:auto}}:is(button,input[type=submit],input[type=reset],input[type=button]):not([class]):disabled,:is(button,input[type=submit],input[type=reset],input[type=button]):not([class])[disabled]{--color-background:var(--color-background-disabled);--color-text:var(--color-text-disabled);pointer-events:none}:is(button,input[type=submit],input[type=reset],input[type=button]):not([class])[data-breakout]:after,[data-breakout] :is(button,input[type=submit],input[type=reset],input[type=button]):not([class]):after{bottom:0;content:" ";display:block;left:0;position:absolute;right:0;top:0;z-index:1}:root{--color-text-link-primary-base:#0044ab;--color-text-link-primary-active:#c51d4a;--color-text-link-primary-visited:#a76fba;--color-text-link-inverse-base:#fff;--color-text-link-inverse-active:#eee;--color-text-link-inverse-visited:#eee}.sauce-link,a:not([class]){--color-text-base:var(--color-text-link-primary-base);--color-text-active:var(--color-text-link-primary-active);--color-text-visited:var(--color-text-link-primary-visited);--color-text:var(--color-text-base);color:var(--color-text);text-decoration:none;text-decoration-skip-ink:auto;transition:none}.sauce-link:visited,a:not([class]):visited{--color-text:var(--color-text-visited)}.sauce-link:active,.sauce-link:focus,.sauce-link:hover,a:not([class]):active,a:not([class]):focus,a:not([class]):hover{--color-text:var(--color-text-active)}.sauce-link[data-breakout]:after,[data-breakout] .sauce-link:after,[data-breakout] a:not([class]):after,a:not([class])[data-breakout]:after{bottom:0;content:" ";display:block;left:0;position:absolute;right:0;top:0;z-index:1}.sauce-link[data-inverted],[data-inverted] .sauce-link,[data-inverted] a:not([class]),a:not([class])[data-inverted]{--color-text-base:var(--color-text-link-inverse-base);--color-text-active:var(--color-text-link-inverse-active);--color-text-visited:var(--color-text-link-inverse-visited)}.sauce-link:visited[data-no-visited-state],[data-no-visited-state] .sauce-link:visited,[data-no-visited-state] a:not([class]):visited,a:not([class]):visited[data-no-visited-state]{--color-text-visited:var(--color-text-base)}.site-header-home-link{align-items:center;display:flex;height:75px;transform:rotate(0deg) scale(1);transition-duration:.3s;transition-property:transform;transition-timing-function:cubic-bezier(.68,-.55,.265,1.55);width:35px}.site-header-home-link:focus,.site-header-home-link:hover{transform:rotate(-5deg) scale(1.1)}.site-header-home-link__logo{display:block;height:auto;width:35px}.site-header{text-rendering:optimizeLegibility;text-size-adjust:100%;background-color:#fff;color:#222;font-family:Roboto,sans-serif;font-variant-ligatures:none;font-weight:400;line-height:1.4;position:relative;z-index:1000}.site-header__container{align-items:center;display:flex;height:75px;justify-content:space-between;margin:0 auto;max-width:1300px;padding:0 16px}@media only screen and (min-width:800px){.site-header__container{padding:0 70px}}@media only screen and (min-width:1200px){.site-header__container{padding:0 84px}}.site-header__home-link{position:relative}.site-header__skipper:not(:focus-within){clip:rect(0 0 0 0)!important;clip-path:inset(100%)!important;height:1px!important;overflow:hidden!important;position:absolute!important;white-space:nowrap!important;width:1px!important}.site-header__toggle{order:100}@media only screen and (min-width:1000px){.site-header__toggle{display:none}}.site-header__nav{opacity:0;position:absolute;right:0;top:75px;transform:translateX(-100%);transition-delay:0s,.3s;transition-duration:.3s,0s;transition-property:opacity,transform;transition-timing-function:ease-in-out;width:100%;z-index:10000}[data-nav-open=true] .site-header__nav{opacity:1;transform:translateX(0);transition-delay:0s}@media only screen and (min-width:1000px){.site-header__nav{flex-grow:1;height:75px;margin:0 auto;max-width:800px;opacity:1;padding-right:35px;position:static;transform:unset;transition-property:none;width:auto}}.site-header-nav{background-color:#fff;margin:0;min-height:calc(100vh - 75px)}@media only screen and (min-width:1000px){.site-header-nav{height:75px;min-height:auto}}.site-header-nav__list{margin:0;padding:clamp($min,$target,$max) 0 0;padding-block-start:40px;padding-block-start:clamp($min,$target,$max)}@media only screen and (min-width:1000px){.site-header-nav__list{display:flex;padding:0}}@media only screen and (min-width:1000px)and (min-width:1000px){.site-header-nav__list{justify-content:center}}.site-header-nav__item{flex-grow:1;list-style:none;opacity:0;transform:translateY(15%);transition-duration:.15s;transition-property:opacity,transform;transition-timing-function:ease-in-out;width:100%}.site-header-nav__item[data-section=hardware]{transition-delay:.49s}.site-header-nav__item[data-section=software]{transition-delay:.45s}.site-header-nav__item[data-section=publications]{transition-delay:.41s}.site-header-nav__item[data-section=learn]{transition-delay:.37s}.site-header-nav__item[data-section=teach]{transition-delay:.33s}.site-header-nav__item[data-section=forums]{transition-delay:.29s}.site-header-nav__item[data-section=about]{transition-delay:.25s}[data-nav-open=true] .site-header-nav__item{opacity:1;transform:translateY(0)}@media only screen and (min-width:1000px){[data-nav-open=true] .site-header-nav__item{transform:unset}.site-header-nav__item{opacity:1;transform:unset;transition-property:none;width:auto}.site-header-nav__item.site-header-nav__item--mobile-only{display:none}}.site-header-nav-link,.site-header-nav-link:visited{align-items:center;color:#000;display:flex;font-size:20px;font-weight:500;height:50px;overflow:hidden;padding:0 16px;position:relative;text-decoration:none;transition-duration:.3s;transition-property:text-indent;transition-timing-function:cubic-bezier(.68,-.55,.265,1.55)}.site-header-nav-link:focus,.site-header-nav-link:hover,.site-header-nav-link:visited:focus,.site-header-nav-link:visited:hover{text-decoration:none}@media only screen and (min-width:800px){.site-header-nav-link,.site-header-nav-link:visited{padding:0 70px}}.site-header-nav-link:after,.site-header-nav-link:visited:after{content:" ";display:block;height:100%;left:0;opacity:0;position:absolute;transform:translateX(-200%);transition-duration:.3s;transition-property:opacity,transform;transition-timing-function:cubic-bezier(.68,-.55,.265,1.55);width:10px}@media only screen and (min-width:1000px){.site-header-nav-link,.site-header-nav-link:visited{height:75px;justify-content:center;padding:0 15px;transition-property:none}.site-header-nav-link:after,.site-header-nav-link:visited:after{bottom:0;height:10px;left:15px;transform:translateY(200%);width:calc(100% - 30px)}}.site-header-nav-link--hardware:after{background-color:#c7134b}.site-header-nav-link--software:after{background-color:#f69986}.site-header-nav-link--publications:after{background-color:#ffdf6e}.site-header-nav-link--learn:after{background-color:#9deead}.site-header-nav-link--teach:after{background-color:#87d9ba}.site-header-nav-link--about:after,.site-header-nav-link--forums:after{background-color:#afdbeb}.site-header-nav-link--current,.site-header-nav-link:focus,.site-header-nav-link:hover{text-indent:10px}.site-header-nav-link--current:after,.site-header-nav-link:focus:after,.site-header-nav-link:hover:after{opacity:1;transform:translateX(-50%)}@media only screen and (min-width:1000px){.site-header-nav-link--current,.site-header-nav-link:focus,.site-header-nav-link:hover{text-indent:0}.site-header-nav-link--current:after,.site-header-nav-link:focus:after,.site-header-nav-link:hover:after{transform:translateY(50%)}}@media only screen and (min-width:1000px){.site-header-nav__item:focus-within .site-header-nav-link,.site-header-nav__item:hover .site-header-nav-link{text-indent:10px}.site-header-nav__item:focus-within .site-header-nav-link:after,.site-header-nav__item:hover .site-header-nav-link:after{opacity:1;transform:translateX(-50%)}}@media only screen and (min-width:1000px)and (min-width:1000px){.site-header-nav__item:focus-within .site-header-nav-link,.site-header-nav__item:hover .site-header-nav-link{text-indent:0}.site-header-nav__item:focus-within .site-header-nav-link:after,.site-header-nav__item:hover .site-header-nav-link:after{transform:translateY(50%)}}.site-header-nav-panel{background-color:#fff;box-shadow:0 100vh 0 100vh rgba(34,34,34,.25);display:none;left:0;position:absolute;top:75px;width:100vw;z-index:500}@media only screen and (min-width:1000px){.site-header-nav__panel[aria-expanded=true] .site-header-nav-panel{display:block}}.site-header-nav-panel__container{margin:0 auto;max-width:1300px;padding:0 16px}@media only screen and (min-width:800px){.site-header-nav-panel__container{padding:0 70px}}@media only screen and (min-width:1200px){.site-header-nav-panel__container{padding:0 84px}}.site-header-nav-panel__inner{align-items:flex-start;display:flex;justify-content:space-between;margin:0 auto;max-width:800px;padding-block-end:40px;padding-block-end:clamp($min,$target,$max);padding-block-start:40px;padding-block-start:clamp($min,$target,$max);padding-bottom:clamp($min,$target,$max);padding-top:clamp($min,$target,$max);transform:translateX(35px)}.site-header-nav-panel__primary-cta{padding-inline-end:20px;padding-right:clamp($min,$target,$max);padding-inline-end:clamp($min,$target,$max);width:60%}.site-header-nav-panel__summary{color:#000;font-size:24px;font-weight:700;margin:0 0 clamp($min,$target,$max);margin-block-end:30px;margin-block-end:clamp($min,$target,$max)}.site-header-nav-panel__buttons{display:flex}.site-header-nav-panel__button,.site-header-nav-panel__button:visited{font-size:16px;margin-inline-end:10px;margin-inline-end:clamp($min,$target,$max);margin-right:clamp($min,$target,$max);padding-inline:20px;padding-inline:clamp($min,$target,$max);padding-left:clamp($min,$target,$max);padding-right:clamp($min,$target,$max)}.site-header-nav-panel__button:last-child,.site-header-nav-panel__button:visited:last-child{margin:0}.site-header-nav-panel__list{width:40%}.site-header-nav-panel__item{font-size:20px;list-style:none;margin-block-end:10px;margin-block-end:clamp($min,$target,$max);margin-bottom:clamp($min,$target,$max)}.site-header-nav-panel__item:last-child{margin:0}.site-header-nav-panel__link,.site-header-nav-panel__link:visited{align-items:center;color:#004881;display:flex;text-decoration:none}.site-header-nav-panel__link:active,.site-header-nav-panel__link:focus,.site-header-nav-panel__link:hover,.site-header-nav-panel__link:visited:active,.site-header-nav-panel__link:visited:focus,.site-header-nav-panel__link:visited:hover{color:#c51d4a}.site-header-nav-panel__icon{margin-right:5px}.site-header-nav-panel__icon path{transition-duration:.1s;transition-property:stroke;transition-timing-function:ease-in-out}.site-header-nav-panel__link:focus .site-header-nav-panel__icon path,.site-header-nav-panel__link:hover .site-header-nav-panel__icon path{stroke:#c51d4a}.site-header-nav-panel__label{text-decoration:underline}.site-header-skipper{margin:0;position:relative}.site-header-skipper__item{list-style:none}.site-header-skipper__item:not(:focus-within){clip:rect(0 0 0 0)!important;clip-path:inset(100%)!important;height:1px!important;overflow:hidden!important;position:absolute!important;white-space:nowrap!important;width:1px!important}.site-header-skipper__link{background:#fff;border:2px solid #0062c8;border-radius:5px;color:#004881;left:45px;padding:clamp($min,$target,$max);position:absolute;top:37.5px;transform:translateY(-50%);width:250px;z-index:2000}@media only screen and (min-width:1000px){.site-header-skipper__link{left:0;top:85px;transform:translateY(0)}}.site-header-skipper__link:hover{color:#c51d4a}.site-header-toggle{appearance:none;background:none;block-size:26px;border:none;height:26px;inline-size:26px;padding:0;width:26px}.site-header-toggle .site-header-toggle__line{background-color:#000;block-size:4px;border-radius:4px;content:" ";display:block;height:4px;inline-size:100%;transform-origin:left center;transition-duration:.15s;transition-property:background-color,opacity,transform;transition-timing-function:cubic-bezier(.68,-.55,.265,1.55);width:100%;will-change:background-color,opacity,transform}.site-header-toggle .site-header-toggle__line:nth-child(2){margin:7px 0}.site-header-toggle:focus .site-header-toggle__line,.site-header-toggle:hover .site-header-toggle__line{background-color:#f3524f}.site-header-toggle[aria-pressed=true] .site-header-toggle__line{opacity:0}.site-header-toggle[aria-pressed=true] .site-header-toggle__line:first-child,.site-header-toggle[aria-pressed=true] .site-header-toggle__line:last-child{opacity:1;width:119%}.site-header-toggle[aria-pressed=true] .site-header-toggle__line:last-child{transform:rotate(-45deg)}.site-header-toggle[aria-pressed=true] .site-header-toggle__line:first-child{transform:rotate(45deg) translateX(1%)}.c-image{background-image:url(data:image/png;base64,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pdDaAOwO42fGpkTh2eBvpLZWcmv78u7jG3PXJPVskejbGCwwAZ0dRWs0wPbX9XPgzEv/D4it1cDDIfJHAHP0tve6gxpz7W4nvk0wvTs49iaQ2oChmvRCRMA2y/ozKSnm2D3OsNveq8MF9t6nUGzFsbuIFrA/u13r4bvJNAZgJcpR/iNbzTy5u7t7pqyk4sy3iegYffmb+eOZbhrVXB94z/qU4fflhw46kFXzH9gjj2xCAITWobt3Z+fTMBuwwIe98PNpOa5Zbh3Y59D2vnBVfYzQQ2M0wMr1hLXavwvJaICy3dbGDsTYCA9eGAWwYI+UBPj7mHEAK/5ISYC/jxkHsI9kwqF7XJ4J4MEByMZ4aMBYgEKfm4GbmdXnApgParfycZzgWICdmcytnMMIs8hogKJbY2wp/ao+H0DZrREOwaA+J8DMdCr5aAIcC7DaGka7HWWWGxOw84UhjB9uzwywNYslUPhFfW6Aqbbj1utcnR3gQdtFNqKGxwMEfen4aD5mVMBEziZvR3nC1fiAhUgB370eKVIdHdD5SKmzAkwfeUT12QCWIz7C7JMA6m7K8/o8ActPIMBRAWXC46o+V8CqczE/j88WsK4+vnn+3ah8IwN+gosACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACZAACfAsrv8Ct1AHByh+7/IAAAAASUVORK5CYII=);background-position:50%;background-repeat:no-repeat;background-size:cover}.c-image img{--opacity:1;opacity:var(--opacity)}.js .c-image img{transition-duration:.1s;transition-property:opacity;transition-timing-function:ease-in-out}.js .c-image img[data-image-loading=complete]{--opacity:1}.js .c-image img[data-image-loading=in-progress]{--opacity:0}
+/*# sourceMappingURL=application_critical-5482df8e.css.map*/</style>
+
+<link as="style" href="https://web.archive.org/web/20210917180236/https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500&amp;family=Roboto+Slab:wght@400;700&amp;family=Space+Mono&amp;display=swap" rel="preload">
+<link href="https://web.archive.org/web/20210917180236cs_/https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500&amp;family=Roboto+Slab:wght@400;700&amp;family=Space+Mono&amp;display=swap" media="print" onload="this.media=&quot;all&quot;" rel="stylesheet">
+<noscript>
+  <link href="https://web.archive.org/web/20210917180236cs_/https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500&amp;family=Roboto+Slab:wght@400;700&amp;family=Space+Mono&amp;display=swap" rel="stylesheet">
+</noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://web.archive.org/web/20210917180236/https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-PRNJZ4J');</script>
+
+<link rel="stylesheet" media="all" href="/web/20210917180236cs_/https://www.raspberrypi.org/pagekit-assets/css/stylesheets/application-7fdb1f1a.css" data-turbolinks-track="reload"/>
+<link rel="stylesheet" media="all" href="/web/20210917180236cs_/https://www.raspberrypi.org/pagekit-assets/css/stylesheets/home-918498ca.css" data-turbolinks-track="reload"/>
+
+
+    <meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="9p--K5vQQ18CFyddZsmoPZmJxmkccSKQLnXIcVnvnT5HA5DTGM3J5lew9XJbo06YGcdE1HO94Fz5xHc9dxIqJQ"/>
+    <meta name="csp-nonce"/>
+
+      <meta name="author" content="Raspberry Pi"><meta name="description" content="The Raspberry Pi is a tiny and affordable computer that you can use to learn programming through fun, practical projects. Join the global Raspberry Pi community."><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta property="og:description" content="The Raspberry Pi is a tiny and affordable computer that you can use to learn programming through fun, practical projects. Join the global Raspberry Pi community."><meta property="og:image" content="https://web.archive.org/web/20210917180236im_/https://www.raspberrypi.org/pagekit-assets/media/images/7bd734d6285cc84615aa.png"><meta property="og:image:alt" content="Raspberry Pi mascot Babbage lying on a bed of Raspberry Pi boards"><meta property="og:image:src" content="https://www.raspberrypi.org/pagekit-assets/media/images/7bd734d6285cc84615aa.png"><meta property="og:site_name" content="Raspberry Pi"><meta property="og:title" content="Teach, Learn, and Make with Raspberry Pi"><meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image"><meta name="twitter:creator" content="@Raspberry_Pi"><meta name="twitter:site" content="@Raspberry_Pi">
+<title>Teach, Learn, and Make with Raspberry Pi</title>
+<link rel="icon" type="image/svg" href="/web/20210917180236im_/https://www.raspberrypi.org/pagekit-assets/media/images/32cf8c634f1b5f398cfd.svg"/>
+
+</head>
+  <body data-current-page="home">
+    <div class="c-cookie-banner">
+  <div class="c-cookie-banner__container" style="bottom: 0px;">
+    <div class="c-cookie-banner__content">
+      We use cookies to ensure that we give you the best experience on our websites. By continuing to visit this site you agree to our use of cookies.
+
+      <a href="https://web.archive.org/web/20210917180236/https://www.raspberrypi.org/cookies">Read our cookie policy</a>.
+    </div>
+
+    <div>
+      <button class="c-cookie-banner__button" id="rcc-confirm-button" aria-label="Accept cookies">
+        Got it!
+      </button>
+    </div>
+  </div>
+</div>
+
+    <header class="site-header" data-js="header" data-nav-open id="rp-app-landmark-header">
+  <div class="site-header__container">
+    <div class="site-header__home-link">
+      <div class="site-header__skipper">
+        <ul class="site-header-skipper">
+    <li class="site-header-skipper__item">
+      <a class="site-header-skipper__link" data-event-action="click" data-event-category="Header: Skip links" data-event-label="Skip to main content" href="#rp-app-landmark-main">Skip to main content</a>
+    </li>
+    <li class="site-header-skipper__item">
+      <a class="site-header-skipper__link" data-event-action="click" data-event-category="Header: Skip links" data-event-label="Skip to footer" href="#rp-app-landmark-footer">Skip to footer</a>
+    </li>
+    <li class="site-header-skipper__item">
+      <a class="site-header-skipper__link" data-event-action="click" data-event-category="Header: Skip links" data-event-label="Accessbility statement and help" href="/web/20210917180236/https://www.raspberrypi.org/accessibility/">Accessbility statement and help</a>
+    </li>
+</ul>
+
+      </div>
+
+      <a class="site-header-home-link" aria-label="Raspberry Pi Home page" data-event-action="click" data-event-category="Header" data-event-label="Home link" href="/web/20210917180236/https://www.raspberrypi.org/">
+  <svg class="site-header-home-link__logo" height="75" viewbox="0 0 492.4 619.5" width="35" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#020203" d="M133.3,0c-3.2,0.1-6.6,1.5-10.5,4.5c-9.5-3.6-18.7-4.9-27,2.5c-12.7-1.6-16.9,1.7-20,5.7
+      C73,12.6,54.9,9.8,46.6,22c-20.9-2.4-27.5,12.1-20,25.7c-4.3,6.5-8.7,12.9,1.3,25.3c-3.5,6.9-1.3,14.4,7,23.5
+      c-2.2,9.7,2.1,16.6,9.9,21.9c-1.4,13.3,12.4,21,16.5,23.8c1.6,7.7,4.9,15,20.7,19.1c2.6,11.5,12.1,13.5,21.3,16
+      c-30.4,17.4-56.4,40.3-56.2,96.4l-4.4,7.8c-34.8,20.9-66.1,87.9-17.2,142.4c3.2,17.1,8.6,29.3,13.3,42.9
+      c7.1,54.6,53.8,80.2,66.1,83.2c18,13.5,37.2,26.4,63.2,35.3c24.5,24.9,51,34.4,77.7,34.3c0.4,0,0.8,0,1.2,0
+      c26.7,0,53.2-9.5,77.7-34.3c26-9,45.2-21.8,63.2-35.3c12.3-3,58.9-28.6,66.1-83.2c4.8-13.6,10.1-25.8,13.3-42.9
+      c49-54.5,17.7-121.5-17.2-142.4l-4.5-7.8c0.2-56.1-25.9-79-56.2-96.4c9.2-2.4,18.7-4.4,21.3-16c15.8-4,19.1-11.3,20.7-19.1
+      c4.1-2.8,17.9-10.5,16.5-23.8c7.7-5.3,12-12.2,9.9-21.9c8.3-9.1,10.5-16.6,7-23.5c10-12.4,5.6-18.8,1.3-25.3
+      c7.5-13.6,0.9-28.1-20-25.7c-8.3-12.2-26.4-9.4-29.2-9.4c-3.1-3.9-7.3-7.3-20-5.7c-8.2-7.4-17.5-6.1-27-2.5
+      c-11.3-8.8-18.8-1.7-27.3,0.9C328.6,1,325.4,7,318.7,9.5c-14.9-3.1-19.5,3.7-26.6,10.8l-0.5-0.2c-2.5-1.2-5.3-1.1-7.8,0.1v0
+      c-22.5,13.1-33.7,39.7-37.6,53.3c-4-13.7-15.1-40.3-37.6-53.3l-0.4-0.2c-2.5-1.1-5.4-1-7.8,0.3l-0.1,0.1
+      c-7.2-7.1-11.7-13.9-26.6-10.8c-6.7-2.5-9.8-8.5-23.5-4.1c-5.6-1.7-8.9-5.6-15-5.4L133.3,0z"/>
+    <g fill="#6ABF4B">
+      <path d="M88.9,57.7c59.7,30.3,94.4,54.8,113.4,75.7c-9.7,38.4-60.5,40.2-79.1,39.1c3.8-1.7,7-3.8,8.1-7
+        c-4.7-3.3-21.2-0.3-32.7-6.7c4.4-0.9,6.5-1.8,8.6-5c-10.9-3.4-22.6-6.4-29.5-12c3.7,0,7.2,0.8,12.1-2.5C80,134,69.6,129.9,61.5,122
+        c5-0.1,10.5,0,12.1-1.9c-8.9-5.5-16.5-11.5-22.7-18.1c7.1,0.8,10,0.1,11.8-1.1c-6.8-6.8-15.3-12.6-19.4-21c5.2,1.8,10,2.5,13.5-0.2
+        c-2.3-5.1-12.1-8.1-17.8-20c5.5,0.5,11.4,1.2,12.5,0c-2.6-10.3-7-16.1-11.3-22.1c11.8-0.2,29.7,0,28.9-0.9l-7.3-7.4
+        c11.5-3.1,23.3,0.5,31.9,3.1c3.8-3-0.1-6.8-4.8-10.6c9.8,1.3,18.7,3.5,26.7,6.6c4.3-3.8-2.8-7.6-6.2-11.4
+        c15.2,2.8,21.6,6.8,28,10.8c4.6-4.4,0.3-8.1-2.9-11.9c11.4,4.2,17.3,9.5,23.5,14.9c2.1-2.8,5.3-4.8,1.4-11.6
+        c8.1,4.6,14.2,10,18.7,16.1c5-3.1,3-7.5,3-11.4c8.4,6.8,13.8,13.9,20.3,21c1.3-0.9,2.5-4.2,3.5-9.2c20.1,19.2,48.5,67.6,7.3,86.8
+        C177.3,93.9,135.4,73.2,88.9,57.7L88.9,57.7z"/>
+      <path d="M405.1,57.7c-59.7,30.3-94.4,54.8-113.4,75.7c9.7,38.4,60.5,40.2,79.1,39.1c-3.8-1.7-7-3.8-8.1-7
+        c4.7-3.3,21.2-0.3,32.7-6.7c-4.4-0.9-6.5-1.8-8.6-5c10.9-3.4,22.6-6.4,29.5-12c-3.7,0-7.2,0.8-12.1-2.5c9.8-5.2,20.2-9.3,28.3-17.2
+        c-5-0.1-10.5,0-12.1-1.9c8.9-5.5,16.5-11.5,22.7-18.1c-7.1,0.8-10,0.1-11.8-1.1c6.8-6.8,15.3-12.6,19.4-21
+        c-5.2,1.8-10,2.5-13.5-0.2c2.3-5.1,12.1-8.1,17.8-20c-5.5,0.5-11.4,1.2-12.5,0c2.6-10.3,7-16.1,11.3-22.1
+        c-11.8-0.2-29.7,0-28.9-0.9l7.3-7.4c-11.5-3.1-23.4,0.5-31.9,3.1c-3.8-3,0.1-6.8,4.8-10.6c-9.8,1.3-18.7,3.5-26.7,6.6
+        c-4.3-3.8,2.8-7.6,6.2-11.4c-15.2,2.8-21.6,6.8-28,10.8c-4.6-4.4-0.3-8.1,2.9-11.9c-11.4,4.2-17.3,9.5-23.5,14.9
+        c-2.1-2.8-5.3-4.8-1.4-11.6c-8.1,4.6-14.2,10-18.7,16.1c-5-3.1-3-7.5-3-11.4c-8.4,6.8-13.8,13.9-20.3,21c-1.3-0.9-2.5-4.2-3.5-9.2
+        c-20.1,19.2-48.5,67.6-7.3,86.8C316.8,93.9,358.7,73.2,405.1,57.7L405.1,57.7z"/>
+    </g>
+    <g fill="#C31C4A">
+      <path d="M319.2,449.1c0.2,35.9-31.6,65.1-71.1,65.3c-39.5,0.2-71.7-28.7-71.9-64.6c0-0.2,0-0.5,0-0.7 c-0.2-35.9,31.6-65.1,71.1-65.3c39.5-0.2,71.7,28.7,71.9,64.6C319.2,448.6,319.2,448.8,319.2,449.1z"/>
+      <path d="M207.7,263.5c29.6,19.1,35,62.5,11.9,96.8c-23,34.3-65.7,46.7-95.4,27.6l0,0c-29.6-19.1-35-62.5-11.9-96.8 C135.4,256.8,178.1,244.4,207.7,263.5L207.7,263.5z"/>
+      <path d="M287.7,260.1c-29.6,19.1-35,62.5-11.9,96.8c23,34.3,65.7,46.7,95.4,27.6l0,0c29.6-19.1,35-62.5,11.9-96.8 C360,253.3,317.3,241,287.7,260.1L287.7,260.1z"/>
+      <path d="M61.5,295c32-8.4,10.8,130.3-15.2,119C17.6,391.3,8.4,324.8,61.5,295z"/>
+      <path d="M431.1,293.3c-32-8.4-10.8,130.3,15.2,119C475,389.5,484.2,323.1,431.1,293.3L431.1,293.3z"/>
+      <path d="M323.8,189.7c55.2-9.2,101.1,23.1,99.3,82.1C421.3,294.4,303.5,193.1,323.8,189.7z"/>
+      <path d="M171.3,188c-55.2-9.2-101.1,23.1-99.3,82.1C73.9,292.7,191.7,191.3,171.3,188z"/>
+      <path d="M247.4,174.2c-32.9-0.8-64.6,24.1-64.6,38.5c-0.1,17.6,26,35.6,64.9,36c39.6,0.3,64.9-14.4,65.1-32.5 C312.8,195.7,276.6,173.9,247.4,174.2L247.4,174.2z"/>
+      <path d="M249.9,534.5c28.7-1.2,67.3,9.1,67.3,22.8c0.5,13.3-35,43.4-69.2,42.9c-35.5,1.5-70.3-28.7-69.9-39.1 C177.6,545.8,221.4,533.8,249.9,534.5L249.9,534.5z"/>
+      <path d="M143.6,453.2c20.4,24.3,29.8,66.9,12.7,79.5c-16.1,9.6-55.4,5.6-83.2-33.8c-18.8-33.1-16.4-66.8-3.2-76.7 C89.7,410.3,120.1,426.3,143.6,453.2L143.6,453.2z"/>
+      <path d="M349.5,445.5c-22.1,25.5-34.4,72.1-18.3,87.1c15.4,11.6,56.9,10,87.5-31.8c22.2-28.1,14.8-75,2.1-87.5 C401.9,398.9,374.8,417.3,349.5,445.5L349.5,445.5z"/>
+    </g>
+  </svg>
+</a>
+    </div>
+
+    <div class="site-header__toggle">
+      <button aria-label="Open Navigation" aria-pressed="false" class="site-header-toggle" data-js="toggle" type="button">
+  <span class="site-header-toggle__line"></span>
+  <span class="site-header-toggle__line"></span>
+  <span class="site-header-toggle__line"></span>
+</button>
+
+    </div>
+
+    <div class="site-header__nav">
+      <nav aria-label="Navigation" class="site-header-nav" data-js="nav" data-active-panel>
+  <ul class="site-header-nav__list">
+      <li class="site-header-nav__item" data-js="nav-item" data-section="hardware">
+        <a class="site-header-nav-link site-header-nav-link--hardware" data-js="nav-link" data-event-action="click" data-event-category="Header: Navigation" data-event-label="Hardware" data-section="hardware" href="/web/20210917180236/https://www.raspberrypi.org/products/">Hardware</a>
+
+
+          <div aria-expanded="false" aria-hidden="true" class="site-header-nav__panel" data-js="nav-panel" data-section="hardware" role="navigation">
+            <div class="site-header-nav-panel">
+  <div class="site-header-nav-panel__container site-header-nav-panel__container--hardware">
+    <div class="site-header-nav-panel__inner">
+      <div class="site-header-nav-panel__primary-cta">
+        <p class="site-header-nav-panel__summary">
+          Low-cost, high-performance Raspberry&nbsp;Pi computers and accessories
+        </p>
+
+        <div class="site-header-nav-panel__buttons">
+            <a class="sauce-button site-header-nav-panel__button" data-event-action="click" data-event-category="Header: Hardware panel - button" data-event-label="Buy Raspberry Pi 4" href="/web/20210917180236/https://www.raspberrypi.org/products/raspberry-pi-4-model-b/">Buy Raspberry&nbsp;Pi 4</a>
+            <a class="sauce-button site-header-nav-panel__button" data-event-action="click" data-event-category="Header: Hardware panel - button" data-event-label="Buy Raspberry Pi 400" href="/web/20210917180236/https://www.raspberrypi.org/products/raspberry-pi-400/">Buy Raspberry&nbsp;Pi 400</a>
+        </div>
+      </div>
+
+      <ul class="site-header-nav-panel__list">
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: Hardware panel - link" data-event-label="All products" href="/web/20210917180236/https://www.raspberrypi.org/products/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                All products
+              </span>
+</a>          </li>
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: Hardware panel - link" data-event-label="For industry" href="/web/20210917180236/https://www.raspberrypi.org/for-industry/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                For industry
+              </span>
+</a>          </li>
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: Hardware panel - link" data-event-label="Documentation" href="/web/20210917180236/https://www.raspberrypi.org/documentation/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                Documentation
+              </span>
+</a>          </li>
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: Hardware panel - link" data-event-label="Forums" href="/web/20210917180236/https://www.raspberrypi.org/forums/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                Forums
+              </span>
+</a>          </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+          </div>
+      </li>
+      <li class="site-header-nav__item" data-js="nav-item" data-section="software">
+        <a class="site-header-nav-link site-header-nav-link--software" data-js="nav-link" data-event-action="click" data-event-category="Header: Navigation" data-event-label="Software" data-section="software" href="/web/20210917180236/https://www.raspberrypi.org/software/">Software</a>
+
+
+          <div aria-expanded="false" aria-hidden="true" class="site-header-nav__panel" data-js="nav-panel" data-section="software" role="navigation">
+            <div class="site-header-nav-panel">
+  <div class="site-header-nav-panel__container site-header-nav-panel__container--software">
+    <div class="site-header-nav-panel__inner">
+      <div class="site-header-nav-panel__primary-cta">
+        <p class="site-header-nav-panel__summary">
+          Everything you need to get started with your Raspberry&nbsp;Pi computer
+        </p>
+
+        <div class="site-header-nav-panel__buttons">
+            <a class="sauce-button site-header-nav-panel__button" data-event-action="click" data-event-category="Header: Software panel - button" data-event-label="Our software" href="/web/20210917180236/https://www.raspberrypi.org/software/">Our software</a>
+        </div>
+      </div>
+
+      <ul class="site-header-nav-panel__list">
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: Software panel - link" data-event-label="Raspberry Pi OS" href="/web/20210917180236/https://www.raspberrypi.org/software/operating-systems/#raspberry-pi-os-32-bit">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                Raspberry&nbsp;Pi OS
+              </span>
+</a>          </li>
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: Software panel - link" data-event-label="Raspberry Pi Desktop" href="/web/20210917180236/https://www.raspberrypi.org/downloads/raspberry-pi-desktop/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                Raspberry&nbsp;Pi Desktop
+              </span>
+</a>          </li>
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: Software panel - link" data-event-label="Help" href="/web/20210917180236/https://www.raspberrypi.org/help/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                Help
+              </span>
+</a>          </li>
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: Software panel - link" data-event-label="Forums" href="/web/20210917180236/https://www.raspberrypi.org/forums/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                Forums
+              </span>
+</a>          </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+          </div>
+      </li>
+      <li class="site-header-nav__item" data-js="nav-item" data-section="publications">
+        <a class="site-header-nav-link site-header-nav-link--publications" data-js="nav-link" data-event-action="click" data-event-category="Header: Navigation" data-event-label="Books &amp; magazines" data-section="publications" href="/web/20210917180236/https://www.raspberrypi.org/books-magazines/">Books &amp; magazines</a>
+
+
+          <div aria-expanded="false" aria-hidden="true" class="site-header-nav__panel" data-js="nav-panel" data-section="publications" role="navigation">
+            <div class="site-header-nav-panel">
+  <div class="site-header-nav-panel__container site-header-nav-panel__container--publications">
+    <div class="site-header-nav-panel__inner">
+      <div class="site-header-nav-panel__primary-cta">
+        <p class="site-header-nav-panel__summary">
+          Books and magazines from Raspberry&nbsp;Pi Press
+        </p>
+
+        <div class="site-header-nav-panel__buttons">
+            <a class="sauce-button site-header-nav-panel__button" data-event-action="click" data-event-category="Header: Books &amp; magazines panel - button" data-event-label="Explore our titles" href="/web/20210917180236/https://www.raspberrypi.org/books-magazines/">Explore our titles</a>
+        </div>
+      </div>
+
+      <ul class="site-header-nav-panel__list">
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: Books &amp; magazines panel - link" data-event-label="The MagPi" href="https://web.archive.org/web/20210917180236/https://magpi.raspberrypi.org/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                The MagPi
+              </span>
+</a>          </li>
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: Books &amp; magazines panel - link" data-event-label="HackSpace" href="https://web.archive.org/web/20210917180236/https://hackspace.raspberrypi.org/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                HackSpace
+              </span>
+</a>          </li>
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: Books &amp; magazines panel - link" data-event-label="Wireframe" href="https://web.archive.org/web/20210917180236/https://wireframe.raspberrypi.org/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                Wireframe
+              </span>
+</a>          </li>
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: Books &amp; magazines panel - link" data-event-label="Custom PC" href="https://web.archive.org/web/20210917180236/https://custompc.raspberrypi.org/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                Custom PC
+              </span>
+</a>          </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+          </div>
+      </li>
+      <li class="site-header-nav__item" data-js="nav-item" data-section="learn">
+        <a class="site-header-nav-link site-header-nav-link--learn" data-js="nav-link" data-event-action="click" data-event-category="Header: Navigation" data-event-label="Learn" data-section="learn" href="/web/20210917180236/https://www.raspberrypi.org/learn/">Learn</a>
+
+
+          <div aria-expanded="false" aria-hidden="true" class="site-header-nav__panel" data-js="nav-panel" data-section="learn" role="navigation">
+            <div class="site-header-nav-panel">
+  <div class="site-header-nav-panel__container site-header-nav-panel__container--learn">
+    <div class="site-header-nav-panel__inner">
+      <div class="site-header-nav-panel__primary-cta">
+        <p class="site-header-nav-panel__summary">
+          Free resources for young people to learn to code and become digital makers
+        </p>
+
+        <div class="site-header-nav-panel__buttons">
+            <a class="sauce-button site-header-nav-panel__button" data-event-action="click" data-event-category="Header: Learn panel - button" data-event-label="Learn at home" href="/web/20210917180236/https://www.raspberrypi.org/learn/">Learn at home</a>
+        </div>
+      </div>
+
+      <ul class="site-header-nav-panel__list">
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: Learn panel - link" data-event-label="Guided coding projects" href="https://web.archive.org/web/20210917180236/https://projects.raspberrypi.org/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                Guided coding projects
+              </span>
+</a>          </li>
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: Learn panel - link" data-event-label="Learn at a Code Club" href="https://web.archive.org/web/20210917180236/https://codeclub.org/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                Learn at a Code Club
+              </span>
+</a>          </li>
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: Learn panel - link" data-event-label="Learn at a CoderDojo" href="https://web.archive.org/web/20210917180236/https://coderdojo.com/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                Learn at a CoderDojo
+              </span>
+</a>          </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+          </div>
+      </li>
+      <li class="site-header-nav__item" data-js="nav-item" data-section="teach">
+        <a class="site-header-nav-link site-header-nav-link--teach" data-js="nav-link" data-event-action="click" data-event-category="Header: Navigation" data-event-label="Teach" data-section="teach" href="/web/20210917180236/https://www.raspberrypi.org/teach/">Teach</a>
+
+
+          <div aria-expanded="false" aria-hidden="true" class="site-header-nav__panel" data-js="nav-panel" data-section="teach" role="navigation">
+            <div class="site-header-nav-panel">
+  <div class="site-header-nav-panel__container site-header-nav-panel__container--teach">
+    <div class="site-header-nav-panel__inner">
+      <div class="site-header-nav-panel__primary-cta">
+        <p class="site-header-nav-panel__summary">
+          Free training, resources, and guidance to help you teach computing with confidence
+        </p>
+
+        <div class="site-header-nav-panel__buttons">
+            <a class="sauce-button site-header-nav-panel__button" data-event-action="click" data-event-category="Header: Teach panel - button" data-event-label="Support for teachers" href="/web/20210917180236/https://www.raspberrypi.org/teach/">Support for teachers</a>
+        </div>
+      </div>
+
+      <ul class="site-header-nav-panel__list">
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: Teach panel - link" data-event-label="Teach Computing" href="https://web.archive.org/web/20210917180236/https://teachcomputing.org/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                Teach Computing
+              </span>
+</a>          </li>
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: Teach panel - link" data-event-label="Start a Code Club" href="https://web.archive.org/web/20210917180236/https://codeclub.org/en/start-a-code-club/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                Start a Code Club
+              </span>
+</a>          </li>
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: Teach panel - link" data-event-label="Online training courses" href="/web/20210917180236/https://www.raspberrypi.org/training/online/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                Online training courses
+              </span>
+</a>          </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+          </div>
+      </li>
+      <li class="site-header-nav__item site-header-nav__item--mobile-only" data-js="nav-item" data-section="forums">
+        <a class="site-header-nav-link site-header-nav-link--forums" data-js="nav-link" data-event-action="click" data-event-category="Header: Navigation" data-event-label="Forums" data-section="forums" href="/web/20210917180236/https://www.raspberrypi.org/forums/">Forums</a>
+
+
+      </li>
+      <li class="site-header-nav__item" data-js="nav-item" data-section="about">
+        <a class="site-header-nav-link site-header-nav-link--about" data-js="nav-link" data-event-action="click" data-event-category="Header: Navigation" data-event-label="About us" data-section="about" href="/web/20210917180236/https://www.raspberrypi.org/about/">About us</a>
+
+
+          <div aria-expanded="false" aria-hidden="true" class="site-header-nav__panel" data-js="nav-panel" data-section="about" role="navigation">
+            <div class="site-header-nav-panel">
+  <div class="site-header-nav-panel__container site-header-nav-panel__container--about">
+    <div class="site-header-nav-panel__inner">
+      <div class="site-header-nav-panel__primary-cta">
+        <p class="site-header-nav-panel__summary">
+          We work to put the power of computing and digital making into the hands of people all over the world
+        </p>
+
+        <div class="site-header-nav-panel__buttons">
+            <a class="sauce-button site-header-nav-panel__button" data-event-action="click" data-event-category="Header: About us panel - button" data-event-label="About us" href="/web/20210917180236/https://www.raspberrypi.org/about/">About us</a>
+        </div>
+      </div>
+
+      <ul class="site-header-nav-panel__list">
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: About us panel - link" data-event-label="Donate" href="/web/20210917180236/https://www.raspberrypi.org/donate/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                Donate
+              </span>
+</a>          </li>
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: About us panel - link" data-event-label="Support us" href="/web/20210917180236/https://www.raspberrypi.org/support-us/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                Support us
+              </span>
+</a>          </li>
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: About us panel - link" data-event-label="Research" href="/web/20210917180236/https://www.raspberrypi.org/research/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                Research
+              </span>
+</a>          </li>
+          <li class="site-header-nav-panel__item">
+            <a class="sc-rp-link site-header-nav-panel__link" data-event-action="click" data-event-category="Header: About us panel - link" data-event-label="Blog" href="/web/20210917180236/https://www.raspberrypi.org/blog/">
+              <svg class="site-header-nav-panel__icon" fill="none" height="18" viewbox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2 2.5L8.5 9L2 15.5" stroke="#004881" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+
+              <span class="site-header-nav-panel__label">
+                Blog
+              </span>
+</a>          </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+          </div>
+      </li>
+  </ul>
+</nav>
+
+    </div>
+  </div>
+</header>
+
+
+    <main class="site-main" id="rp-app-landmark-main">
+      <div class="c-pi-four-hundred" data-flavor="lg">
+  <div class="c-pi-four-hundred__container">
+    <div class="c-pi-four-hundred__product">
+      <h2>
+        <img alt="Raspberry Pi 400" height="45" width="320" src="/web/20210917180236im_/https://www.raspberrypi.org/pagekit-assets/media/images/ffd870602ddcfc19a8a0.svg"/>
+      </h2>
+
+      <p>Your complete personal computer, built into a <b>compact keyboard</b></p>
+
+      <a class="sauce-button" data-event-action="click" data-event-category="Homepage: Feature CTA" data-event-label="Raspberry Pi 400" href="/web/20210917180236/https://www.raspberrypi.org/products/raspberry-pi-400/">Find out more</a>
+</div>
+    <div class="c-pi-four-hundred__feature-buttons">
+      <flavor-controller class="pi-400-link-button-controller" for="c-link-button">
+        <flavor-switch media="(min-width: 500px)" value="no-image"></flavor-switch>
+        <flavor-switch media="(min-width: 1024px)"></flavor-switch>
+      </flavor-controller>
+
+        <div class="c-link-button">
+  <figure><img src="/web/20210917180236im_/https://www.raspberrypi.org/resized-images/https://www.raspberrypi.org/app/uploads/2020/10/Raspberry-Pi-400-back-.jpg?variant=link_button" width="300" height="214"></figure>
+  <a data-event-action="click" data-event-category="Homepage: Raspberry Pi 400 Feature Link" data-event-label="Raspberry Pi 400: the $70 desktop PC" data-breakout="true" data-no-visited-state="true" href="https://web.archive.org/web/20210917180236/https://www.raspberrypi.org/blog/raspberry-pi-400-the-70-desktop-pc/">Raspberry Pi 400: the $70 desktop PC</a>
+</div>
+
+        <div class="c-link-button">
+  <figure><img src="/web/20210917180236im_/https://www.raspberrypi.org/resized-images/https://www.raspberrypi.org/app/uploads/2020/10/Getting-Started-4th-edition.jpg?variant=link_button" width="300" height="225"></figure>
+  <a data-event-action="click" data-event-category="Homepage: Raspberry Pi 400 Feature Link" data-event-label="Get started with your Raspberry Pi 400" data-breakout="true" data-no-visited-state="true" href="https://web.archive.org/web/20210917180236/https://store.rpipress.cc/collections/latest-bookazines/products/the-official-raspberry-pi-beginners-guide-4th-edition">Get started with your Raspberry Pi 400</a>
+</div>
+
+        <div class="c-link-button">
+  <figure><img src="/web/20210917180236im_/https://www.raspberrypi.org/resized-images/https://www.raspberrypi.org/app/uploads/2020/10/Raspberry-Pi-400-desk-2.jpg?variant=link_button" width="250" height="250"></figure>
+  <a data-event-action="click" data-event-category="Homepage: Raspberry Pi 400 Feature Link" data-event-label="Raspberry Pi 400 for working and learning at home" data-breakout="true" data-no-visited-state="true" href="https://web.archive.org/web/20210917180236/https://www.raspberrypi.org/blog/raspberry-pi-400-for-working-and-learning-at-home/">Raspberry Pi 400 for working and learning at home</a>
+</div>
+
+</div></div></div><section class="ui-grid" data-modifier="impact-stories">
+  <flavor-switch media="(min-width: 700px)" value="sm"></flavor-switch><flavor-switch media="(min-width: 1024px)" value="md"></flavor-switch>
+
+  <flavor-controller class="ui-blog-post-controller" for="ui-blog-post">
+    <flavor-switch media="(min-width: 500px)" value="horizontal"></flavor-switch><flavor-switch media="(min-width: 1024px)" value="vertical"></flavor-switch>
+  </flavor-controller>
+
+    <div class="ui-grid__tile">
+      <div class="ui-blog-post">
+  <div class="ui-blog-post__summary">
+      <span class="ui-blog-post__badge">
+        Trading
+      </span>
+
+    <h2><a data-breakout="true" data-no-visited-state="true" data-event-action="click" data-event-category="Home Page: Blog post" data-event-label="Position 1" href="https://web.archive.org/web/20210917180236/https://www.raspberrypi.org/blog/sir-clive-sinclair-1940-2021/">Sir Clive Sinclair, 1940-2021</a></h2>
+
+    <footer class="ui-blog-post__footer">
+      <time datetime="2021-09-17 09:44:14">
+        17th Sep 2021
+      </time>
+
+      <span data-sauce-screen-reader-only>
+        This post has
+      </span>
+
+      <span class="ui-blog-post__comments">
+        <a class="ui-blog-post__comments-link" aria-hidden="true" data-post-id="74630" data-event-action="click" data-event-category="Home Page: Blog post" data-event-label="Position 1" href="https://web.archive.org/web/20210917180236/https://www.raspberrypi.org/blog/sir-clive-sinclair-1940-2021/#comments">
+          <span class="ui-blog-post__comments-count">
+            <span class="ui-blog-post__comments-loading"></span>
+          </span>
+          <span data-sauce-screen-reader-only></span>
+</a>      </span>
+    </footer>
+  </div>
+
+    <figure>
+      <picture class="c-image" height="678" width="1240"><!--[if IE 9]><video style='display: none;'><![endif]-->
+    <source media="(min-width: 1024px)" srcset="/web/20210917180236im_/https://www.raspberrypi.org/resized-images/https://www.raspberrypi.org/app/uploads/2021/09/Screenshot-2021-09-17-at-09.23.29.png?variant=blog_post_landscape, /resized-images/https://www.raspberrypi.org/app/uploads/2021/09/Screenshot-2021-09-17-at-09.23.29.png?variant=blog_post_landscape%402x"/>
+    <source media="(min-width: 500px)" srcset="/web/20210917180236im_/https://www.raspberrypi.org/resized-images/https://www.raspberrypi.org/app/uploads/2021/09/Screenshot-2021-09-17-at-09.23.29.png?variant=blog_post_square, /resized-images/https://www.raspberrypi.org/app/uploads/2021/09/Screenshot-2021-09-17-at-09.23.29.png?variant=blog_post_square%402x"/>
+    <source srcset="/web/20210917180236im_/https://www.raspberrypi.org/resized-images/https://www.raspberrypi.org/app/uploads/2021/09/Screenshot-2021-09-17-at-09.23.29.png?variant=blog_post_landscape, /resized-images/https://www.raspberrypi.org/app/uploads/2021/09/Screenshot-2021-09-17-at-09.23.29.png?variant=blog_post_landscape%402x"/>
+<!--[if IE 9]></video><![endif]--><img alt="sir clive sinclair" data-image-loading="in-progress" loading="lazy" srcset="https://web.archive.org/web/20210917180236im_/https://www.raspberrypi.org/app/uploads/2021/09/Screenshot-2021-09-17-at-09.23.29.png"/></picture>
+    </figure>
+</div>
+</div>    <div data-hidden-in-flavor="sm" data-highlight="true" class="ui-grid__tile">
+      <div class="c-highlight c-highlight--impact-stories">
+  <h2>Community stories</h2>
+
+  <p class="c-highlight__blurb">
+    Meet some of the inspirational community members who are creating with technology and changing the world around them.
+  </p>
+
+  <a class="sauce-button" data-event-action="click" data-event-category="Homepage: Highlight CTA" data-event-label="Impact stories" href="https://web.archive.org/web/20210917180236/https://www.raspberrypi.org/community-stories">Meet the community</a>
+</div>
+
+</div>    <div class="ui-grid__tile">
+      <div class="ui-blog-post">
+  <div class="ui-blog-post__summary">
+      <span class="ui-blog-post__badge">
+        Publication
+      </span>
+
+    <h2><a data-breakout="true" data-no-visited-state="true" data-event-action="click" data-event-category="Home Page: Blog post" data-event-label="Position 2" href="https://web.archive.org/web/20210917180236/https://www.raspberrypi.org/blog/who-remembers-e-t-for-the-atari-2600/">Who remembers E.T. for the Atari 2600?</a></h2>
+
+    <footer class="ui-blog-post__footer">
+      <time datetime="2021-09-16 08:16:00">
+        16th Sep 2021
+      </time>
+
+      <span data-sauce-screen-reader-only>
+        This post has
+      </span>
+
+      <span class="ui-blog-post__comments">
+        <a class="ui-blog-post__comments-link" aria-hidden="true" data-post-id="74545" data-event-action="click" data-event-category="Home Page: Blog post" data-event-label="Position 2" href="https://web.archive.org/web/20210917180236/https://www.raspberrypi.org/blog/who-remembers-e-t-for-the-atari-2600/#comments">
+          <span class="ui-blog-post__comments-count">
+            <span class="ui-blog-post__comments-loading"></span>
+          </span>
+          <span data-sauce-screen-reader-only></span>
+</a>      </span>
+    </footer>
+  </div>
+
+    <figure>
+      <picture class="c-image" height="1784" width="1920"><!--[if IE 9]><video style='display: none;'><![endif]-->
+    <source media="(min-width: 1024px)" srcset="/web/20210917180236im_/https://www.raspberrypi.org/resized-images/https://www.raspberrypi.org/app/uploads/2021/09/et-4.png?variant=blog_post_landscape, /resized-images/https://www.raspberrypi.org/app/uploads/2021/09/et-4.png?variant=blog_post_landscape%402x"/>
+    <source media="(min-width: 500px)" srcset="/web/20210917180236im_/https://www.raspberrypi.org/resized-images/https://www.raspberrypi.org/app/uploads/2021/09/et-4.png?variant=blog_post_square, /resized-images/https://www.raspberrypi.org/app/uploads/2021/09/et-4.png?variant=blog_post_square%402x"/>
+    <source srcset="/web/20210917180236im_/https://www.raspberrypi.org/resized-images/https://www.raspberrypi.org/app/uploads/2021/09/et-4.png?variant=blog_post_landscape, /resized-images/https://www.raspberrypi.org/app/uploads/2021/09/et-4.png?variant=blog_post_landscape%402x"/>
+<!--[if IE 9]></video><![endif]--><img alt="ET for Atari" data-image-loading="in-progress" loading="lazy" srcset="https://web.archive.org/web/20210917180236im_/https://www.raspberrypi.org/app/uploads/2021/09/et-4.png"/></picture>
+    </figure>
+</div>
+</div>    <div data-shown-in-flavor="sm" data-highlight="true" class="ui-grid__tile">
+      <div class="c-highlight c-highlight--impact-stories">
+  <h2>Community stories</h2>
+
+  <p class="c-highlight__blurb">
+    Meet some of the inspirational community members who are creating with technology and changing the world around them.
+  </p>
+
+  <a class="sauce-button" data-event-action="click" data-event-category="Homepage: Highlight CTA" data-event-label="Impact stories" href="https://web.archive.org/web/20210917180236/https://www.raspberrypi.org/community-stories">Meet the community</a>
+</div>
+
+</div>    <div class="ui-grid__tile">
+      <div class="ui-blog-post">
+  <div class="ui-blog-post__summary">
+      <span class="ui-blog-post__badge">
+        Project
+      </span>
+
+    <h2><a data-breakout="true" data-no-visited-state="true" data-event-action="click" data-event-category="Home Page: Blog post" data-event-label="Position 3" href="https://web.archive.org/web/20210917180236/https://www.raspberrypi.org/blog/foot-pressure-sensors-detect-parkinsons-disease/">Foot pressure sensors detect Parkinson&#39;s disease</a></h2>
+
+    <footer class="ui-blog-post__footer">
+      <time datetime="2021-09-15 08:25:42">
+        15th Sep 2021
+      </time>
+
+      <span data-sauce-screen-reader-only>
+        This post has
+      </span>
+
+      <span class="ui-blog-post__comments">
+        <a class="ui-blog-post__comments-link" aria-hidden="true" data-post-id="74415" data-event-action="click" data-event-category="Home Page: Blog post" data-event-label="Position 3" href="https://web.archive.org/web/20210917180236/https://www.raspberrypi.org/blog/foot-pressure-sensors-detect-parkinsons-disease/#comments">
+          <span class="ui-blog-post__comments-count">
+            <span class="ui-blog-post__comments-loading"></span>
+          </span>
+          <span data-sauce-screen-reader-only></span>
+</a>      </span>
+    </footer>
+  </div>
+
+    <figure>
+      <picture class="c-image" height="1550" width="2204"><!--[if IE 9]><video style='display: none;'><![endif]-->
+    <source media="(min-width: 1024px)" srcset="/web/20210917180236im_/https://www.raspberrypi.org/resized-images/https://www.raspberrypi.org/app/uploads/2021/09/Screenshot-2021-09-09-at-14.47.18.png?variant=blog_post_landscape, /resized-images/https://www.raspberrypi.org/app/uploads/2021/09/Screenshot-2021-09-09-at-14.47.18.png?variant=blog_post_landscape%402x"/>
+    <source media="(min-width: 500px)" srcset="/web/20210917180236im_/https://www.raspberrypi.org/resized-images/https://www.raspberrypi.org/app/uploads/2021/09/Screenshot-2021-09-09-at-14.47.18.png?variant=blog_post_square, /resized-images/https://www.raspberrypi.org/app/uploads/2021/09/Screenshot-2021-09-09-at-14.47.18.png?variant=blog_post_square%402x"/>
+    <source srcset="/web/20210917180236im_/https://www.raspberrypi.org/resized-images/https://www.raspberrypi.org/app/uploads/2021/09/Screenshot-2021-09-09-at-14.47.18.png?variant=blog_post_landscape, /resized-images/https://www.raspberrypi.org/app/uploads/2021/09/Screenshot-2021-09-09-at-14.47.18.png?variant=blog_post_landscape%402x"/>
+<!--[if IE 9]></video><![endif]--><img alt="raspberry pi strapped to user's knee to detect Parkinson's Disease" data-image-loading="in-progress" loading="lazy" srcset="https://web.archive.org/web/20210917180236im_/https://www.raspberrypi.org/app/uploads/2021/09/Screenshot-2021-09-09-at-14.47.18.png"/></picture>
+    </figure>
+</div>
+</div>    <div class="ui-grid__tile">
+      <div class="ui-blog-post">
+  <div class="ui-blog-post__summary">
+      <span class="ui-blog-post__badge">
+        Education
+      </span>
+
+    <h2><a data-breakout="true" data-no-visited-state="true" data-event-action="click" data-event-category="Home Page: Blog post" data-event-label="Position 4" href="https://web.archive.org/web/20210917180236/https://www.raspberrypi.org/blog/free-computer-science-courseware-hardware-for-american-educators/">Free computer science courseware and hardware for American educators</a></h2>
+
+    <footer class="ui-blog-post__footer">
+      <time datetime="2021-09-14 13:58:30">
+        14th Sep 2021
+      </time>
+
+      <span data-sauce-screen-reader-only>
+        This post has
+      </span>
+
+      <span class="ui-blog-post__comments">
+        <a class="ui-blog-post__comments-link" aria-hidden="true" data-post-id="74512" data-event-action="click" data-event-category="Home Page: Blog post" data-event-label="Position 4" href="https://web.archive.org/web/20210917180236/https://www.raspberrypi.org/blog/free-computer-science-courseware-hardware-for-american-educators/#comments">
+          <span class="ui-blog-post__comments-count">
+            <span class="ui-blog-post__comments-loading"></span>
+          </span>
+          <span data-sauce-screen-reader-only></span>
+</a>      </span>
+    </footer>
+  </div>
+
+    <figure>
+      <picture class="c-image" height="1707" width="2560"><!--[if IE 9]><video style='display: none;'><![endif]-->
+    <source media="(min-width: 1024px)" srcset="/web/20210917180236im_/https://www.raspberrypi.org/resized-images/https://www.raspberrypi.org/app/uploads/2021/09/IMG_7454-scaled.jpg?variant=blog_post_landscape, /resized-images/https://www.raspberrypi.org/app/uploads/2021/09/IMG_7454-scaled.jpg?variant=blog_post_landscape%402x"/>
+    <source media="(min-width: 500px)" srcset="/web/20210917180236im_/https://www.raspberrypi.org/resized-images/https://www.raspberrypi.org/app/uploads/2021/09/IMG_7454-scaled.jpg?variant=blog_post_square, /resized-images/https://www.raspberrypi.org/app/uploads/2021/09/IMG_7454-scaled.jpg?variant=blog_post_square%402x"/>
+    <source srcset="/web/20210917180236im_/https://www.raspberrypi.org/resized-images/https://www.raspberrypi.org/app/uploads/2021/09/IMG_7454-scaled.jpg?variant=blog_post_landscape, /resized-images/https://www.raspberrypi.org/app/uploads/2021/09/IMG_7454-scaled.jpg?variant=blog_post_landscape%402x"/>
+<!--[if IE 9]></video><![endif]--><img alt="In a classroom, a teacher and a student look at a computer screen while the student types on the keyboard." data-image-loading="in-progress" loading="lazy" srcset="https://web.archive.org/web/20210917180236im_/https://www.raspberrypi.org/app/uploads/2021/09/IMG_7454-scaled.jpg"/></picture>
+    </figure>
+</div>
+</div></section><section class="ui-grid" data-modifier="pico">
+  <flavor-switch media="(min-width: 700px)" value="sm"></flavor-switch><flavor-switch media="(min-width: 1024px)" value="md"></flavor-switch>
+
+  <flavor-controller class="ui-blog-post-controller" for="ui-blog-post">
+    <flavor-switch media="(min-width: 500px)" value="horizontal"></flavor-switch><flavor-switch media="(min-width: 1024px)" value="vertical"></flavor-switch>
+  </flavor-controller>
+
+    <div data-highlight="true" class="ui-grid__tile">
+      <div class="c-pico">
+  <h2><img alt="Raspberry Pi Pico" height="35" width="254" src="/web/20210917180236im_/https://www.raspberrypi.org/pagekit-assets/media/images/3c969c608de66c5cd829.svg"/></h2>
+
+  <p>The new flexible $4 microcontroller board from Raspberry Pi</p>
+
+  <a class="sauce-button" data-event-action="click" data-event-category="Homepage: Highlight CTA" data-event-label="Raspberry Pi Pico" href="https://web.archive.org/web/20210917180236/https://www.raspberrypi.org/products/raspberry-pi-pico/">Find out more</a>
+</div>
+
+</div>    <div class="ui-grid__tile">
+      <div class="c-research-centre">
+  <flavor-switch media="(min-width: 500px)" value="horizontal"></flavor-switch><flavor-switch media="(min-width: 1024px)" value="vertical"></flavor-switch>
+  <h2><a data-event-action="click" data-event-category="Home Page: Research Centre Card" data-event-label="Introducing the Raspberry Pi Computing Education Research Centre" data-breakout="true" data-no-visited-state="true" href="https://web.archive.org/web/20210917180236/https://www.raspberrypi.org/blog/raspberry-pi-computing-education-research-centre-university-of-cambridge/">Introducing the Raspberry Pi Computing Education Research Centre</a></h2>
+
+  <figure>
+    <img alt="Participants talking at a research seminar" height="216" srcset="/web/20210917180236im_/https://www.raspberrypi.org/pagekit-assets/media/images/0cda98ab07de27f73a9b.png 2x" width="290" src="/web/20210917180236im_/https://www.raspberrypi.org/pagekit-assets/media/images/41633fd514b61afcb421.png"/>
+  </figure>
+</div>
+</div>    <div class="ui-grid__tile">
+      <div class="c-annual-review">
+  <flavor-switch media="(min-width: 500px)" value="horizontal"></flavor-switch><flavor-switch media="(min-width: 1024px)" value="vertical"></flavor-switch>
+
+  <figure>
+    <img alt="Coolest Projects participants" height="300" srcset="/web/20210917180236im_/https://www.raspberrypi.org/pagekit-assets/media/images/32ee43af454753c626c2.jpg 2x" width="400" src="/web/20210917180236im_/https://www.raspberrypi.org/pagekit-assets/media/images/fcb7b4703e7e2fa3c7a3.jpg"/>
+  </figure>
+
+  <div class="c-annual-review__content">
+    <a data-event-action="click" data-event-category="Home Page: Annual Review Card" data-event-label="Read our latest Annual Review" data-breakout="true" data-no-visited-state="true" href="/web/20210917180236/https://www.raspberrypi.org/annual-review-2020">Read our latest Annual Review</a>
+
+    <p>See the impact we've made in 2020</p>
+  </div>
+</div>
+</div>    <div data-highlight="true" class="ui-grid__tile">
+      <div class="c-highlight c-highlight--donate">
+  <h2>Support the Raspberry Pi Foundation</h2>
+
+  <p class="c-highlight__blurb">
+    You can empower young people worldwide to learn computing and become confident, creative digital makers.
+  </p>
+
+  <a class="sauce-button" data-event-action="click" data-event-category="Homepage: Highlight CTA" data-event-label="Donate" href="https://web.archive.org/web/20210917180236/https://www.raspberrypi.org/donate/">Donate</a>
+</div>
+
+</div></section>
+</main>
+    <footer class="o-footer" id="rp-app-landmark-footer">
+  <div class="o-footer__container">
+      <div class="o-footer__nav">
+        <div class="c-footer-nav">
+  <span class="c-footer-nav__title">
+    About Us
+  </span>
+
+  <ul class="c-footer-nav__list">
+      <li class="c-footer-nav__item">
+        <a class="c-footer-nav__link" href="/web/20210917180236/https://www.raspberrypi.org/about">About us</a>
+      </li>
+      <li class="c-footer-nav__item">
+        <a class="c-footer-nav__link" href="/web/20210917180236/https://www.raspberrypi.org/about/meet-the-team">Our team</a>
+      </li>
+      <li class="c-footer-nav__item">
+        <a class="c-footer-nav__link" href="/web/20210917180236/https://www.raspberrypi.org/about/governance">Governance</a>
+      </li>
+      <li class="c-footer-nav__item">
+        <a class="c-footer-nav__link" href="/web/20210917180236/https://www.raspberrypi.org/safeguarding">Safeguarding</a>
+      </li>
+      <li class="c-footer-nav__item">
+        <a class="c-footer-nav__link" href="/web/20210917180236/https://www.raspberrypi.org/research">Research</a>
+      </li>
+      <li class="c-footer-nav__item">
+        <a class="c-footer-nav__link" href="https://web.archive.org/web/20210917180236/https://raspberrypi.workable.com/">Jobs</a>
+      </li>
+      <li class="c-footer-nav__item">
+        <a class="c-footer-nav__link" href="/web/20210917180236/https://www.raspberrypi.org/contact">Contact us</a>
+      </li>
+  </ul>
+</div>
+
+      </div>
+      <div class="o-footer__nav">
+        <div class="c-footer-nav">
+  <span class="c-footer-nav__title">
+    Support
+  </span>
+
+  <ul class="c-footer-nav__list">
+      <li class="c-footer-nav__item">
+        <a class="c-footer-nav__link" href="/web/20210917180236/https://www.raspberrypi.org/help">Help</a>
+      </li>
+      <li class="c-footer-nav__item">
+        <a class="c-footer-nav__link" href="/web/20210917180236/https://www.raspberrypi.org/documentation">Documentation</a>
+      </li>
+      <li class="c-footer-nav__item">
+        <a class="c-footer-nav__link" href="https://web.archive.org/web/20210917180236/https://projects.raspberrypi.org/?ref=footer">Projects</a>
+      </li>
+      <li class="c-footer-nav__item">
+        <a class="c-footer-nav__link" href="/web/20210917180236/https://www.raspberrypi.org/training">Training</a>
+      </li>
+      <li class="c-footer-nav__item">
+        <a class="c-footer-nav__link" href="/web/20210917180236/https://www.raspberrypi.org/software">Software</a>
+      </li>
+      <li class="c-footer-nav__item">
+        <a class="c-footer-nav__link" href="/web/20210917180236/https://www.raspberrypi.org/forums">Forums</a>
+      </li>
+  </ul>
+</div>
+
+      </div>
+
+    <div class="o-footer__newsletter">
+  <form class="c-footer-newsletter" action="https://web.archive.org/web/20210917180236/https://raspberrypi.hosted.phplist.com/lists/?p=subscribe&amp;amp;id=1" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="StGev7bwwhaDFBPDoDzDsuEaPWytMcSUiQcHY7uHQnViP8Arq9B4whdLOuwayAbsySl7jnEbke8Xq4RxZOOlvQ"/>
+    <span class="c-footer-newsletter__legend">Sign up to our newsletter</span>
+
+      <input value="1" readonly="readonly" type="hidden" name="htmlemail" id="htmlemail"/>
+      <input value="signup" readonly="readonly" type="hidden" name="list[3]" id="list[3]"/>
+      <input value="Raspberry Pi Weekly" readonly="readonly" type="hidden" name="listname[3]" id="listname[3]"/>
+
+    <input class="c-footer-newsletter__input" placeholder="Your email here" required="required" type="email" name="email" id="email"/>
+
+    <input class="c-footer-newsletter__input--verification-code" name="VerificationCodeX" size="20" value="" type="text" id="VerificationCodeX"/>
+
+    <button name="button" type="submit" class="c-footer-newsletter__button">Subscribe</button>
+</form></div>
+
+    <div class="o-footer__info">
+      <ul class="c-footer-social">
+    <li class="c-footer-social__item">
+        <a class="c-footer-social__link c-footer-social__link--facebook" href="https://web.archive.org/web/20210917180236/https://www.facebook.com/raspberrypi">
+        <span class="u-visually-hidden">Like Raspberry Pi on Facebook</span>
+</a>    </li>
+    <li class="c-footer-social__item">
+        <a class="c-footer-social__link c-footer-social__link--twitter" href="https://web.archive.org/web/20210917180236/https://twitter.com/Raspberry_Pi">
+        <span class="u-visually-hidden">Follow Raspberry Pi on Twitter</span>
+</a>    </li>
+    <li class="c-footer-social__item">
+        <a class="c-footer-social__link c-footer-social__link--instagram" href="https://web.archive.org/web/20210917180236/https://www.instagram.com/raspberrypi/">
+        <span class="u-visually-hidden">Join us on Instagram</span>
+</a>    </li>
+    <li class="c-footer-social__item">
+        <a class="c-footer-social__link c-footer-social__link--youtube" href="https://web.archive.org/web/20210917180236/https://youtube.com/raspberrypi">
+        <span class="u-visually-hidden">Subscribe to the Raspberry Pi YouTube channel</span>
+</a>    </li>
+</ul>
+
+
+      <div class="o-footer__charity">
+        <p class="c-footer-charity">
+  Raspberry Pi Foundation<br/>
+  UK Registered Charity 1129409
+</p>
+
+      </div>
+
+      <div class="o-footer__additional">
+        <p class="c-footer-additional">
+    <a class="c-footer-additional__link" href="/web/20210917180236/https://www.raspberrypi.org/accessibility">
+      Accessibility
+</a>    <a class="c-footer-additional__link" href="/web/20210917180236/https://www.raspberrypi.org/privacy">
+      Privacy
+</a>    <a class="c-footer-additional__link" href="/web/20210917180236/https://www.raspberrypi.org/cookies">
+      Cookies
+</a>    <a class="c-footer-additional__link" href="/web/20210917180236/https://www.raspberrypi.org/trademark-rules">
+      Trademark rules and brand guidelines
+</a></p>
+
+      </div>
+    </div>
+  </div>
+</footer>
+
+    <script src="/web/20210917180236js_/https://www.raspberrypi.org/pagekit-assets/js/runtime-49c2752170d37c94ee70.js" data-turbolinks-track="reload"></script>
+<script src="/web/20210917180236js_/https://www.raspberrypi.org/pagekit-assets/js/javascripts/application-c5bce6f389f58b78b056.js" data-turbolinks-track="reload"></script>
+<script src="/web/20210917180236js_/https://www.raspberrypi.org/pagekit-assets/js/runtime-49c2752170d37c94ee70.js" data-turbolinks-track="reload"></script>
+<script src="/web/20210917180236js_/https://www.raspberrypi.org/pagekit-assets/js/757-87bac85ac6d6c5450666.js" data-turbolinks-track="reload"></script>
+<script src="/web/20210917180236js_/https://www.raspberrypi.org/pagekit-assets/js/javascripts/home-afd8a82311e8b7f83620.js" data-turbolinks-track="reload"></script>
+
+<script defer src="https://web.archive.org/web/20210917180236js_/https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;rayId&quot;:&quot;69043f1c4b03ed0f&quot;,&quot;token&quot;:&quot;8994bf9bd4594416aabbb2ed99462604&quot;,&quot;version&quot;:&quot;2021.8.1&quot;,&quot;si&quot;:10}"></script>
+</body></html><!--
+     FILE ARCHIVED ON 18:02:36 Sep 17, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:11:33 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 471.437
+  exclusion.robots: 0.105
+  exclusion.robots.policy: 0.091
+  cdx.remote: 0.078
+  esindex: 0.01
+  LoadShardBlock: 207.5 (3)
+  PetaboxLoader3.datanode: 273.434 (4)
+  load_resource: 503.011
+  PetaboxLoader3.resolve: 368.327
+-->

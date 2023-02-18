@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head profile="http://www.w3.org/1999/xhtml/vocab"><script type="text/javascript" src="/_static/js/bundle-playback.js?v=4R5OHjEN" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://opensource.org/trademark-guidelines","20210916105525","https://web.archive.org/","web","/_static/",
+	      "1631789725");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)"/>
+<link rel="canonical" href="/web/20210916105525/https://opensource.org/trademark-guidelines"/>
+<link rel="shortlink" href="/web/20210916105525/https://opensource.org/node/457"/>
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="shortcut icon" href="https://web.archive.org/web/20210916105525im_/https://opensource.org/files/osi_favicon.png" type="image/png"/>
+  <title>OSI Trademark Guidelines | Open Source Initiative</title>
+  <link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210916105525cs_/https://opensource.org/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210916105525cs_/https://opensource.org/files/css/css_gh8wMJiOGewsPCJRDYXmqv3eEGGGSn0O_fqsi_9a-LY.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210916105525cs_/https://opensource.org/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="//web.archive.org/web/20210916105525cs_/https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210916105525cs_/https://opensource.org/files/css/css_KGZcOm3i1wmtbgZsjo-3V9FM4wZ-5UDcpJ7Vfzmt45E.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210916105525cs_/https://opensource.org/files/css/css_ulIzRpfhtuifCQvQJ8NpvGx_J9mvqUlZZLik4d4ZG-s.css" media="all"/>
+
+<!--[if (lt IE 9)]>
+<link type="text/css" rel="stylesheet" href="https://opensource.org/sites/all/themes/bootstrap-business/css/ie8.css?qyvib8" media="all" />
+<![endif]-->
+
+    
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//web.archive.org/web/20210916105525js_/https://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20210916105525js_/https://opensource.org/files/js/js_38VWQ3jjQx0wRFj7gkntZr077GgJoGn5nv3v05IeLLo.js"></script>
+<script type="text/javascript" src="//web.archive.org/web/20210916105525js_/https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+		$(window).scroll(function() {
+			if($(this).scrollTop() != 0) {
+				$("#toTop").fadeIn();	
+			} else {
+				$("#toTop").fadeOut();
+			}
+		});
+		
+		$("#toTop").click(function() {
+			$("body,html").animate({scrollTop:0},800);
+		});	
+		
+		});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20210916105525js_/https://opensource.org/files/js/js_ruOYJN6FkJU2O5L1dAKVnDloSn5R6LjnLW88zFxS1Uw.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20210916105525js_/https://opensource.org/files/js/js_JQHTvV_SkyFlN3f2BnQwnusF-eI6tkX8wrKAk2siiZU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap_business","theme_token":"zJapIz-LoQIVuIRIJoK2yt46lbWLfAxFjDtvLrZlVgo","js":{"\/\/web.archive.org\/web\/20210916105525\/https:\/\/code.jquery.com\/jquery-1.10.2.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/web.archive.org\/web\/20210916105525\/https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/js\/bootstrap.min.js":1,"1":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/bootstrap-business\/js\/jquery.browser.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/web.archive.org\/web\/20210916105525\/https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/css\/bootstrap.min.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/bootstrap-business\/css\/style.css":1,"sites\/all\/themes\/bootstrap-business\/color\/colors.css":1,"sites\/all\/themes\/bootstrap-business\/css\/local.css":1,"sites\/all\/themes\/bootstrap-business\/css\/ie8.css":1}},"urlIsAjaxTrusted":{"\/trademark-guidelines":true},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":true,"disableHI":false},"plugins":{"touchscreen":{"mode":"window_width"},"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Navigation"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-457 node-type-page">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="toTop"><span class="glyphicon glyphicon-chevron-up"></span></div>
+
+
+
+<!-- #header-top -->
+<div id="header-top" class="clearfix">
+    <div class="container">
+
+        <!-- #header-top-inside -->
+        <div id="header-top-inside" class="clearfix">
+            <div class="row">
+            
+                        <div class="col-md-8">
+                <!-- #header-top-left -->
+                <div id="header-top-left" class="clearfix">
+                      <div class="region region-header-top-left">
+    <div id="block-menu-secondary-menu" class="block block-menu clearfix">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/web/20210916105525/https://opensource.org/" title="">Home</a></li>
+<li class="leaf"><a href="/web/20210916105525/https://opensource.org/blog" title="">From the Board</a></li>
+<li class="leaf"><a href="/web/20210916105525/https://opensource.org/contact" title="">Contact</a></li>
+<li class="leaf"><a href="/web/20210916105525/https://opensource.org/civicrm/contribute/transact?reset=1&amp;id=2" title="">Donate</a></li>
+<li class="last leaf"><a href="/web/20210916105525/https://opensource.org/user/login" title="">Login</a></li>
+</ul>  </div>
+</div>
+  </div>
+                </div>
+                <!-- EOF:#header-top-left -->
+            </div>
+                        
+                        <div class="col-md-4">
+                <!-- #header-top-right -->
+                <div id="header-top-right" class="clearfix">
+                      <div class="region region-header-top-right">
+    <div id="block-search-form" class="block block-search clearfix">
+
+    
+  <div class="content">
+    <form action="/web/20210916105525/https://opensource.org/trademark-guidelines" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == '') {this.value = 'Search this website...';}" onfocus="if (this.value == 'Search this website...') {this.value = '';}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search this website..." size="15" maxlength="128" class="form-text"/>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input value="" type="submit" id="edit-submit" name="op" class="form-submit"/></div><input type="hidden" name="form_build_id" value="form-RXHE3xS4dmMPMYZhSYi9GZuwgV1B_dBz7p40XTx_MBI"/>
+<input type="hidden" name="form_id" value="search_block_form"/>
+</div>
+</div></form>  </div>
+</div>
+  </div>
+                </div>
+                <!-- EOF:#header-top-right -->
+            </div>
+                        
+            </div>
+        </div>
+        <!-- EOF: #header-top-inside -->
+
+    </div>
+</div>
+<!-- EOF: #header-top -->    
+
+<!-- header -->
+<header id="header" role="banner" class="clearfix">
+    <div class="container">
+
+        <!-- #header-inside -->
+        <div id="header-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-8">
+
+                                <div id="logo">
+                <a href="/web/20210916105525/https://opensource.org/" title="Home" rel="home"> <img src="https://web.archive.org/web/20210916105525im_/https://opensource.org/files/osi_keyhole_300X300_90ppi_0.png" alt="Home"/> </a>
+                </div>
+                
+                                <div id="site-name">
+                <a href="/web/20210916105525/https://opensource.org/" title="Home">Open Source Initiative</a>
+                </div>
+                                
+                                <div id="site-slogan">
+                Guaranteeing the 'our' in source...                </div>
+                                
+                </div>
+                
+                <div class="col-md-4">
+                
+                
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #header-inside -->
+
+    </div>
+</header>
+<!-- EOF: #header --> 
+
+<!-- #main-navigation --> 
+<div id="main-navigation" class="clearfix">
+    <div class="container">
+
+        <!-- #main-navigation-inside -->
+        <div id="main-navigation-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav role="navigation">
+                                                  <div class="region region-navigation">
+    <div id="block-superfish-1" class="block block-superfish clearfix">
+
+    
+  <div class="content">
+    <ul id="superfish-1" class="menu sf-menu sf-navigation sf-horizontal sf-style-none sf-total-items-6 sf-parent-items-6 sf-single-items-0"><li id="menu-37-1" class="active-trail first odd sf-item-1 sf-depth-1 sf-total-children-4 sf-parent-children-2 sf-single-children-2 menuparent"><a href="/web/20210916105525/https://opensource.org/about" title="About the Open Source Initiative" class="sf-depth-1 menuparent">About</a><ul><li id="menu-75-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210916105525/https://opensource.org/history" title="History of the OSI" class="sf-depth-2">History</a></li><li id="menu-82-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><a href="/web/20210916105525/https://opensource.org/board" title="Board of Directors" class="sf-depth-2 menuparent">Board</a><ul><li id="menu-83-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/docs/board-annotated" title="OSI Board -- With Annotations" class="sf-depth-3">Board - Annotated</a></li><li id="menu-96-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/minutes" title="Public Minutes of Board Meetings" class="sf-depth-3">Minutes</a></li><li id="menu-185-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/organization" title="These portfolios represent the activities of the current OSI board." class="sf-depth-3">Organization &amp; Operations</a></li><li id="menu-95-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/articles-of-incorporation" title="OSI incorporation record" class="sf-depth-3">Articles of Incorporation</a></li><li id="menu-1475-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/elections" class="sf-depth-3">Board Elections</a></li><li id="menu-84-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/bylaws" title="Bylaws of the Open Source Initiative" class="sf-depth-3">Bylaws</a></li><li id="menu-1317-1" class="last odd sf-item-7 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/conflict_of_interest_policy" class="sf-depth-3">Conflict of Interest</a></li></ul></li><li id="menu-1843-1" class="active-trail middle odd sf-item-3 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210916105525/https://opensource.org/trademark" title="" class="sf-depth-2 menuparent">Trademark &amp; Logo</a><ul><li id="menu-184-1" class="active-trail first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/trademark-guidelines" title="OSI's Trademark Policy" class="sf-depth-3 active">Trademark Guidelines</a></li><li id="menu-183-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/logo-usage-guidelines" title="Guidelines for appearance and usage of OSI Logo" class="sf-depth-3">Logo Guidelines</a></li></ul></li><li id="menu-126-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210916105525/https://opensource.org/ToS" title="Rules for posting content on this site" class="sf-depth-2">Terms of Service</a></li></ul></li><li id="menu-65-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-5 sf-parent-children-2 sf-single-children-3 menuparent"><a href="/web/20210916105525/https://opensource.org/licenses" class="sf-depth-1 menuparent">Licenses</a><ul><li id="menu-61-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210916105525/https://opensource.org/osd" title="The actual OSD defining what constitutes an Open Source licence" class="sf-depth-2">Open Source Definition</a></li><li id="menu-77-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210916105525/https://opensource.org/licenses/category" title="Licenses by Category" class="sf-depth-2">Licenses by Category</a></li><li id="menu-72-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210916105525/https://opensource.org/licenses/alphabetical" title="Licenses that are approved by the OSI as conforming to the OSD" class="sf-depth-2">Licenses by Name</a></li><li id="menu-66-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210916105525/https://opensource.org/approval" title="Certifying licences as OSD-compliant" class="sf-depth-2 menuparent">License Review Process</a><ul><li id="menu-67-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/proliferation" title="Supporting choice while maintaining sanity" class="sf-depth-3">Licence Proliferation</a></li><li id="menu-69-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/proliferation-report" title="License Proliferation Committee's report to the OSI Board" class="sf-depth-3">LP report to the Board</a></li></ul></li><li id="menu-99-1" class="last odd sf-item-5 sf-depth-2 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/web/20210916105525/https://opensource.org/osr-intro" title="Open Standards Requirement for Software" class="sf-depth-2 menuparent">Open Standards</a><ul><li id="menu-101-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/osr" title="An &quot;open standard&quot; must not prohibit conforming implementations in open source software." class="sf-depth-3">The Open Standards Requirement</a></li><li id="menu-102-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/osr-compliance" class="sf-depth-3">Open Standards Requirement Compliance</a></li><li id="menu-100-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/osr-rationale" class="sf-depth-3">Open Standards Requirement Rationale</a></li><li id="menu-103-1" class="last even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/osr-faq" title="Frequently asked questions about the Open Standards Requirement" class="sf-depth-3">OSR Frequently Asked Questions</a></li></ul></li></ul></li><li id="menu-1842-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-3 sf-parent-children-2 sf-single-children-1 menuparent"><a href="/web/20210916105525/https://opensource.org/membership" title="Page for our various membership programs" class="sf-depth-1 menuparent">Membership</a><ul><li id="menu-914-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210916105525/https://opensource.org/members" class="sf-depth-2 menuparent">Individuals</a><ul><li id="menu-897-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/civicrm/contribute/transact?reset=1&amp;id=1" title="" class="sf-depth-3">Join</a></li><li id="menu-2265-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/benefits" class="sf-depth-3">Benefits</a></li></ul></li><li id="menu-675-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210916105525/https://opensource.org/osi-affiliate-membership" title="Home page for OSI's membership scheme for non-profits and not-for-profits" class="sf-depth-2 menuparent">Affiliates</a><ul><li id="menu-676-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/affiliates/about" class="sf-depth-3">Become an Affiliate</a></li><li id="menu-2071-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/AffiliateRequirements" class="sf-depth-3">Affiliate  Criteria</a></li></ul></li><li id="menu-1436-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210916105525/https://opensource.org/corporate-sponsors-support" title="" class="sf-depth-2">Sponsors &amp; Support</a></li></ul></li><li id="menu-1841-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-5 sf-parent-children-1 sf-single-children-4 menuparent"><a href="/web/20210916105525/https://opensource.org/community" title="Page for our various community members." class="sf-depth-1 menuparent">Community</a><ul><li id="menu-2271-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210916105525/https://opensource.org/associations" class="sf-depth-2">Associations</a></li><li id="menu-63-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/web/20210916105525/https://opensource.org/lists" title="The virtual committees where the OSI's work gets done" class="sf-depth-2 menuparent">Mailing lists</a><ul><li id="menu-1072-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/codeofconduct/licensing" class="sf-depth-3">Licensing Code of Conduct</a></li><li id="menu-78-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/codeofconduct" title="Guidelines for OSI Mailing Lists" class="sf-depth-3">General Code of Conduct</a></li><li id="menu-2272-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/node/960" title="Monthly reports summarizing the OSI's License-Discuss and License-Review mailing lists." class="sf-depth-3">Discussion List Reports</a></li><li id="menu-2111-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/public_forums_disclaimer" class="sf-depth-3">Disclaimer for OSI Public Forums</a></li><li id="menu-2110-1" class="last odd sf-item-5 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/public_archives_policy" class="sf-depth-3">Policy on Public Communications and Archives</a></li></ul></li><li id="menu-2032-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210916105525/https://opensource.org/volunteersandstaff" class="sf-depth-2">Volunteers &amp; Staff</a></li><li id="menu-2192-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210916105525/https://opensource.org/AdvocateCircle" class="sf-depth-2">Advocate Circle</a></li><li id="menu-1846-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="https://web.archive.org/web/20210916105525/http://wiki.opensource.org/" title="" class="sf-depth-2">Wiki</a></li></ul></li><li id="menu-1840-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-6 sf-parent-children-1 sf-single-children-5 menuparent"><a href="/web/20210916105525/https://opensource.org/resources" title="Page offering resources to OSI personas" class="sf-depth-1 menuparent">Resources</a><ul><li id="menu-342-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210916105525/https://opensource.org/faq" title="Frequently Asked Questions about open source and about the OSI." class="sf-depth-2">FAQ</a></li><li id="menu-45-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210916105525/https://opensource.org/help" title="Resources for questions and further exploration" class="sf-depth-2 menuparent">Getting Help</a><ul><li id="menu-76-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/links" title="Links and References to Open Source" class="sf-depth-3">Bibliography</a></li><li id="menu-125-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210916105525/https://opensource.org/advocacy/case_for_business.php" title="How to advocate Open Source to businesses" class="sf-depth-3">Open Source Case for Business</a></li></ul></li><li id="menu-1514-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210916105525/https://opensource.org/working_groups" class="sf-depth-2">Working Groups &amp; Incubator Projects</a></li><li id="menu-12-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210916105525/https://opensource.org/osi-open-source-education" title="OSI's Open Source Education Initiative and Activities" class="sf-depth-2">Open Source Education</a></li><li id="menu-3046-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/web/20210916105525/https://opensource.org/node/1012" class="sf-depth-2">Articles &amp; Books</a></li><li id="menu-2193-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/web/20210916105525/https://opensource.org/authority" class="sf-depth-2">International Authority &amp; Recognition</a></li></ul></li><li id="menu-1844-1" class="last even sf-item-6 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/web/20210916105525/https://opensource.org/news" title="Page dedicated to the latest news and events." class="sf-depth-1 menuparent">News &amp; Events</a><ul><li id="menu-1845-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210916105525/https://opensource.org/news" title="Index of newsletters" class="sf-depth-2">News</a></li><li id="menu-1999-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210916105525/https://opensource.org/events" class="sf-depth-2">Events</a></li><li id="menu-4709-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210916105525/https://opensource.org/newsletter/signup" title="" class="sf-depth-2">Newsletter Signup</a></li></ul></li></ul>  </div>
+</div>
+  </div>
+                                            </nav>
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #main-navigation-inside -->
+
+    </div>
+</div>
+<!-- EOF: #main-navigation -->
+
+<!-- #banner -->
+<div id="banner" class="clearfix">
+    <div class="container">
+        
+        <!-- #banner-inside -->
+        <div id="banner-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                  <div class="region region-banner">
+    <div id="block-block-23" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <div class="rtecenter" style="font-size:16px; font-weight: bold;"><a href="https://web.archive.org/web/20210916105525/https://eventyay.com/e/e7dfbfc4/" target="_blank">Practical Open Source Information</a> :: Online Event :: September 16 - 11:00 AM to 4:00 PM EDT</div>
+  </div>
+</div>
+  </div>
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #banner-inside -->        
+
+    </div>
+</div>
+<!-- EOF:#banner -->
+
+<!-- #page -->
+<div id="page" class="clearfix">
+    
+    
+    <!-- #main-content -->
+    <div id="main-content">
+        <div class="container">
+        
+            <!-- #messages-console -->
+                        <!-- EOF: #messages-console -->
+            
+            <div class="row">
+
+                
+
+                <section class="col-md-12">
+
+                    <!-- #main -->
+                    <div id="main" class="clearfix">
+                    
+                        
+                        
+                        <!-- EOF:#content-wrapper -->
+                        <div id="content-wrapper">
+
+                                                                                    <h1 class="page-title">OSI Trademark Guidelines</h1>
+                                                        
+                                                  
+                            <!-- #tabs -->
+                                                            <div class="tabs">
+                                                                </div>
+                                                        <!-- EOF: #tabs -->
+
+                            <!-- #action links -->
+                                                        <!-- EOF: #action links -->
+
+                              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <article id="node-457" class="node node-page clearfix">
+
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h3>Table of Contents</h3>
+
+<ol><li><a href="#Open_Source_Initiative_Trademark_Policy">Open Source Initiative Trademark Policy</a></li>
+	<li><a href="#Usage_That_Does_Not_Require_Permission">Usage That Does Not Require Written Permission</a>
+	<ol><li><a href="#Noncommercial_and_community_web_sites">Noncommercial and community web sites</a></li>
+		<li><a href="#Business_web_sites">Business web sites</a></li>
+		<li><a href="#Promotional_events">Promotional events</a></li>
+		<li><a href="#Publications">Publications</a></li>
+	</ol></li>
+	<li><a href="#Usage_that_Require_Prior_Written_Approval">Usage that Require Prior Written Approval</a>
+	<ol><li><a href="#Distributing_software_under_a_license_approved_by_OSI">Distributing software under a license approved by OSI ("OSI Approved License")</a>
+		<ol><li><a href="#Software_distributed_solely_under_OSI_Approved_Licenses">Software distributed solely under OSI Approved Licenses</a></li>
+			<li><a href="#Software_distributed_under_OSI_Approved_Licenses_and_software_not_licensed_OSI_Approved_Licenses_separately_on_same_physical_medium">Software distributed under OSI Approved Licenses and software not licensed under OSI Approved Licenses separately on same physical medium</a></li>
+			<li><a href="#Software_distributed_under_OSI_Approved_Licenses_and_software_not_licensed_OSI_Approved_Licenses_separately_on_same_website">Software distributed under OSI Approved Licenses and software not licensed under OSI Approved Licenses separately on same website</a></li>
+		</ol></li>
+		<li><a href="#Domain_names">Domain names</a></li>
+		<li><a href="#Non_software_goods">Non-software goods</a></li>
+	</ol></li>
+	<li><a href="#Unapproved_Use">Unapproved Use</a></li>
+	<li><a href="#Proper_Trademark_Use">Proper Trademark Use</a>
+	<ol><li><a href="#Trademark_Usage_Guidelines">Trademark Usage Guidelines</a></li>
+		<li><a href="#Logo_Usage_Guidelines">Logo Usage Guidelines</a></li>
+	</ol></li>
+	<li><a href="https://web.archive.org/web/20210916105525/https://opensource.org/node/442">Download OSI logos and marks</a> (different sizes and formats)</li>
+</ol><hr/><p>You can also download this document as <a href="/web/20210916105525/https://opensource.org/files/TrademarkGuidelines.pdf">PDF</a> and <a href="/web/20210916105525/https://opensource.org/files/TrademarkGuidelines.odt">ODT</a>.</p>
+
+<p><a name="Open_Source_Initiative_Trademark_Policy" id="Open_Source_Initiative_Trademark_Policy"></a></p>
+
+<h3 class="c1">1. Open Source Initiative Trademark Policy</h3>
+
+<p>OSI, Open Source Initiative, and OSI logo ("OSI Logo"), either separately or in combination, are hereinafter referred to as "OSI Trademarks" and are trademarks of the Open Source Initiative. Except as provided in these guidelines, you may not use the OSI Trademarks or any confusingly similar mark as a trademark for your product, or use the OSI Trademarks in any other manner that might cause confusion in the marketplace, including but not limited to in advertising, on websites, or on software. OSI protects the OSI Trademarks on behalf of the entire open source community. In fact, the law obligates trademark owners to police their marks and prevent the use of confusingly similar names by third parties. If you have questions about this policy, please contact the Trademark Supervisor by enquiring at <a href="https://web.archive.org/web/20210916105525/http://opensource.org/contact">http://opensource.org/contact</a>.</p>
+
+<p><a name="Usage_That_Does_Not_Require_Permission" id="Usage_That_Does_Not_Require_Permission"></a></p>
+
+<h3>2. Usage That Does Not Require Written Permission</h3>
+
+<p>Below are the guidelines for use of the OSI Trademarks where, as long as you are in compliance with the guidelines, no advance written permission is necessary. In all cases, use is permitted only provided that:</p>
+
+<ul><li>the use is only in connection with promoting the use of software licenses approved by OSI which are definitively determined by the current list of licenses on the website of OSI (<a href="https://web.archive.org/web/20210916105525/http://www.opensource.org/"><u>http://www.opensource.org/</u></a>). Such licenses are defined as "OSI Approved Licenses".</li>
+	<li>the use of the term "Open Source" is used solely in reference to software distributed under <a href="https://web.archive.org/web/20210916105525/http://opensource.org/licenses/">OSI Approved Licenses</a>.</li>
+	<li>the use is not disparaging to OSI, OSI Approved Licenses or software distributed under OSI Approved Licenses</li>
+	<li>the use does not imply sponsorship or endorsement by OSI.</li>
+	<li>proper trademark symbols are used in connection with the OSI Trademarks and the trademark attribution statement must appear as explained in <a href="#Proper_Trademark_Use">Proper Trademark Use</a></li>
+	<li>the <a href="#Logo_Usage_Guidelines">Logo Usage Guidelines</a> are strictly observed</li>
+</ul><h4><a name="Noncommercial_and_community_web_sites" id="Noncommercial_and_community_web_sites"></a>2.1. Noncommercial and community web sites</h4>
+
+<p>In the past, community members have inquired whether it is permissible to show support for OSI by:</p>
+
+<ul><li>placing the OSI Trademarks on a personal web site or blog to support open source software</li>
+	<li>making a page on a social networking web service to support open source software</li>
+	<li>linking to the OSI website to provide information or show support for open source software</li>
+</ul><p>The guidelines relating to such usage are set forth in this section.</p>
+
+<p>It is permissible to use the OSI Trademarks on websites to show your support for the open source software, provided that:</p>
+
+<ul><li>where possible, the design logo hyperlinks to the OSI website, <a href="https://web.archive.org/web/20210916105525/http://opensource.org/">http://opensource.org/</a>, or if that is not possible, the site includes a prominent link to the OSI website at <a href="https://web.archive.org/web/20210916105525/http://opensource.org/">http://opensource.org/</a>.</li>
+	<li>proper trademark symbols are used in connection with the OSI Trademarks and the trademark attribution statement must appear as explained in <a href="#Proper_Trademark_Use">Proper Trademark Use</a></li>
+	<li>the <a href="#Logo_Usage_Guidelines">Logo Usage Guidelines</a> are strictly observed</li>
+	<li>the site indicates clearly that it is not affiliated with or endorsed by OSI; in addition, where possible:
+	<ul><li>the site must include the text "This site is not affiliated with or endorsed by the Open Source Initiative" prominently on any page that includes the OSI Trademarks, and</li>
+		<li>if the OSI Trademarks appear in a page header or any area that is designed to be presented on more than one page, the notice must also be designed to be presented on all of those pages as well. (i.e., if the OSI Trademarks appear in a site-wide header, the informational text must appear in that header or an identically site-wide footer.)</li>
+	</ul></li>
+	<li>the site does not use visual styling that could be confusing to viewers or visitors as to whether the site is hosted by or on behalf of OSI.</li>
+	<li>A copy of the use of the OSI Trademarks is provided to the Trademark Supervisor within seven (7) days of its initial use, for example by sending a URL or other copy of such use.</li>
+</ul><h4><a name="Business_web_sites" id="Business_web_sites"></a>2.2. Business web sites</h4>
+
+<p>In the past, community members have inquired whether it is permissible to show support for OSI by:</p>
+
+<ul><li>displaying a link to the OSI website using the OSI Trademarks from a business web site</li>
+	<li>displaying the OSI Trademarks as part of a business that provides software licensed under OSI Approved Licenses</li>
+</ul><p>The guidelines relating to such usage are set forth in this section.</p>
+
+<p>It is permissible to use the OSI Trademarks on business web sites, provided that:</p>
+
+<ol><li>the web site has non-OSI primary branding</li>
+	<li>the design logo hyperlinks to the OSI website, <a href="https://web.archive.org/web/20210916105525/http://opensource.org/">http://opensource.org/</a></li>
+	<li>the use does not imply sponsorship or endorsement by OSI</li>
+	<li>the use of the OSI Trademarks does not imply an association with nor any form of endorsement by OSI nor does it apply to any software which is not licensed under the OSI Approved Licenses</li>
+	<li>proper trademark symbols are used in connection with the OSI Trademarks and the trademark attribution statement must appear as explained in <a href="#Proper_Trademark_Use">Proper Trademark Use</a></li>
+	<li>the <a href="#Logo_Usage_Guidelines">Logo Usage Guidelines</a> are strictly observed</li>
+	<li>the site does not use visual styling that could be confusing to viewers or visitors as to whether the site is hosted by or on behalf of OSI</li>
+	<li>A copy of the use of the OSI Trademarks is provided to the Trademark Supervisor within seven (7) days of its initial use, for example by sending a URL or other copy of such use</li>
+</ol><h4><a name="Promotional_events" id="Promotional_events"></a>2.3. Promotional events</h4>
+
+<p>In the past, community members have inquired whether it is permissible to use the OSI Trademarks to promote free and open source software events such as OSCON or community free software trade show. The guidelines relating to such usage are set forth in this section.</p>
+
+<p>It is permissible to use the OSI Trademarks in such promotional events, provided that:</p>
+
+<ul><li>the use does not imply sponsorship or endorsement by OSI</li>
+	<li>the use of the OSI Trademarks does not imply an association with or endorsement of the event of the goods distributed at such event</li>
+	<li>proper trademark symbols are used in connection with the OSI Trademarks and the trademark attribution statement must appear as explained in <a href="#Proper_Trademark_Use">Proper Trademark Use</a></li>
+	<li>the <a href="#Logo_Usage_Guidelines">Logo Usage Guidelines</a> are strictly observed</li>
+	<li>A copy of the use of the OSI Trademarks is provided to the Trademark Supervisor within seven (7) days of its initial use, for example by sending a URL or other copy of such use</li>
+</ul><p>If you would like to make some non-software goods to give away or sell at the event and don't already have a license to do so, see <a href="#Non_software_goods">Non-software goods</a>.</p>
+
+<h4><a name="Publications" id="Publications"></a>2.4. Publications</h4>
+
+<p>It is permissible to use the OSI Trademarks in the title and content of a publication, provided that:</p>
+
+<ul><li>the use is clearly in reference to the OSI or software licensed under a OSI Approved Licenses</li>
+	<li>the use does not imply sponsorship or endorsement of the publication by OSI</li>
+	<li>proper trademark symbols are used in connection with the OSI Trademarks and the trademark attribution statement must appear as explained in <a href="#Proper_Trademark_Use">Proper Trademark Use</a></li>
+	<li>the <a href="#Logo_Usage_Guidelines">Logo Usage Guidelines</a> are strictly observed</li>
+	<li>A copy of the use of the OSI Trademarks is provided to the Trademark Supervisor within seven (7) days of its initial use, for example by sending a URL or other copy of such use</li>
+</ul><h3><a name="Usage_that_Require_Prior_Written_Approval" id="Usage_that_Require_Prior_Written_Approval"></a> 3. Usage that Require Prior Written Approval</h3>
+
+<h4><a name="Distributing_software_under_a_license_approved_by_OSI" id="Distributing_software_under_a_license_approved_by_OSI"></a> 3.1. Distributing software under a license approved by OSI ("OSI Approved License")</h4>
+
+<p><a name="Software_distributed_solely_under_OSI_Approved_Licenses" id="Software_distributed_solely_under_OSI_Approved_Licenses"></a><b>3.1.1. Software distributed solely under OSI Approved Licenses</b></p>
+
+<p>In the past, community members have inquired whether it is permissible to use OSI Trademarks to identify software. The guidelines relating to such usage are set forth in this section.</p>
+
+<p>It is permissible to use OSI Trademarks on and in conjunction with media or a website that includes <i>only</i> software which is licensed under OSI Approved Licenses, provided that:</p>
+
+<ul><li>proper trademark symbols are used in connection with the OSI Trademarks, and</li>
+	<li>the trademark attribution statement appears as explained in <a href="#Proper_Trademark_Use">Proper Trademark Use</a></li>
+</ul><p><a name="Software_distributed_under_OSI_Approved_Licenses_and_software_not_licensed_OSI_Approved_Licenses_separately_on_same_physical_medium" id="Software_distributed_under_OSI_Approved_Licenses_and_software_not_licensed_OSI_Approved_Licenses_separately_on_same_physical_medium"></a> <b>3.1.2. Software distributed under OSI Approved Licenses and software not licensed OSI Approved Licenses separately on same physical medium</b></p>
+
+<p>In the past, community members have inquired whether it is permissible to use the OSI Trademarks to identify media that contains software licensed under OSI Approved Licenses as well as includes other software that is not licensed under OSI Approved Licenses ("Other Software") in a separate area of the media for use by the recipient. The guidelines relating to such usage are set forth in this section.</p>
+
+<p>Community members may use OSI Trademarks on and in conjunction with media that contains software licensed under OSI Approved Licenses and Other Software, provided that:</p>
+
+<ul><li>the Other Software is labeled and distributed in a way that clearly indicates it is not part of the software licensed under the OSI Approved Licenses provided on the media or is endorsed by OSI,</li>
+	<li>it is clear who is responsible for the Other Software</li>
+	<li>proper trademark symbols are used in connection with OSI Trademarks as explained in <a href="#Proper_Trademark_Use">Proper Trademark Use</a></li>
+	<li>the <a href="#Logo_Usage_Guidelines">Logo Usage Guidelines</a> are strictly observed</li>
+	<li>a copy of the use of the OSI Trademarks is provided to the Trademark Supervisor within seven (7) days of its initial use, for example by sending a URL or other copy of such use</li>
+</ul><p><a name="Software_distributed_under_OSI_Approved_Licenses_and_software_not_licensed_OSI_Approved_Licenses_separately_on_same_website" id="Software_distributed_under_OSI_Approved_Licenses_and_software_not_licensed_OSI_Approved_Licenses_separately_on_same_website"></a> <b>3.1.3. Software distributed under OSI Approved Licenses and software not licensed OSI Approved Licenses separately on same website</b></p>
+
+<p>In the past, community members have inquired whether it is permissible to use the OSI Trademarks to identify websites that contains software licensed under OSI Approved Licenses as well as other software that is not licensed under OSI Approved Licenses ("Other Software") in a separate area of the website for use by the recipient. The guidelines relating to such usage are set forth in this section.</p>
+
+<p>Community members may use OSI Trademarks on and in conjunction with such a website that contains software licensed under OSI Approved Licenses and Other Software, provided that:</p>
+
+<ul><li>the software licensed under the OSI Approved Licenses must be provided on a separate section of the website and Other Software is not distributed from such part of the website</li>
+	<li>the part of the website through which the Other Software is distributed and is labeled and distributed in a way that clearly indicates it is not part of the software licensed under the OSI Approved Licenses provided on the website or is endorsed by OSI,</li>
+	<li>it is clear who is responsible for the Other Software</li>
+	<li>proper trademark symbols are used in connection with OSI Trademarks as explained in <a href="#Proper_Trademark_Use">Proper Trademark Use</a>, and</li>
+	<li>the <a href="#Logo_Usage_Guidelines">Logo Usage Guidelines</a> are strictly observed</li>
+	<li>a copy of the use of the OSI Trademarks is provided to the Trademark Supervisor within seven (7) days of its initial use, for example by sending a URL or other copy of such use</li>
+</ul><h4><a name="Domain_names" id="Domain_names"></a>3.2. Domain names</h4>
+
+<p>In the past, community members have inquired whether it is permissible to use the OSI Trademarks, including the terms "OSI" or "Open Source Initiative," in an Internet domain name. It is not permissible without written permission of OSI.</p>
+
+<h4><a name="Non_software_goods" id="Non_software_goods"></a>3.3. Non-software goods</h4>
+
+<p>In the past, community members have inquired whether it is permissible to use OSI Trademarks on non-software goods such as T-shirts, stickers, and pens.</p>
+
+<p>Community members may request from the Trademark Supervisor designated by the Board of Directors of OSI a license to use the OSI Trademarks on non-software related goods or services, by enquiring at <a href="https://web.archive.org/web/20210916105525/http://opensource.org/contact">http://opensource.org/contact</a>. The Trademark Supervisor will be responsible for reviewing samples of the goods and services and managing the relationship.</p>
+
+<h3><a name="Unapproved_Use" id="Unapproved_Use"></a>4. Unapproved Use</h3>
+
+<p>The following uses of the OSI Trademarks are not approved under any foreseeable circumstances.</p>
+
+<ul><li>Violations of the Logo Usage Guidelines or Trademark Usage Guidelines</li>
+	<li>Any use outside these guidelines not by explicit written permission</li>
+</ul><p>Except as set forth herein, OSI retains and reserves all rights to the OSI Trademarks and their use, including the right to modify these guidelines.</p>
+
+<p>These guidelines (except for trademark licenses executed for non software goods) may be amended from time to time at the discretion of OSI and such changes will be effective ten (10) days after the changes are posted. OSI may provide you with notice of such changes, but need not do so. You are responsible for checking this site for any changes.</p>
+
+<h3><a name="Proper_Trademark_Use" id="Proper_Trademark_Use"></a>5. Proper Trademark Use</h3>
+
+<p>One of the purposes of OSI is to encourage the use of OSI Approved Licenses for software to enable the public to come to trust the use of OSI Trademarks. To achieve this purpose it is important that software licensed under OSI Approved Licenses can quickly be identified. OSI has chosen the OSI Logo to identify such software and is granting usage rights in the OSI Logo (and the other OSI Trademarks) as previously described in this document in order to assure widespread availability.</p>
+
+<h4><a name="Trademark_Usage_Guidelines" id="Trademark_Usage_Guidelines"></a>5.1. Trademark Usage Guidelines</h4>
+
+<table border="1" bordercolor="#000000" cellpadding="2" cellspacing="0" summary="Trademark Usage Guidelines" width="100%"><colgroup><col width="60%"/><col width="40%"/></colgroup><tbody><tr><th bgcolor="#dddddd" width="60%">
+			<p>Guideline</p>
+			</th>
+			<th bgcolor="#dddddd" width="40%">
+			<p>Use examples</p>
+			</th>
+		</tr><tr><td bgcolor="#ffffff" rowspan="2" width="60%">
+			<p>When using the OSI Trademarks you must provide the proper trademark symbols and a trademark attribution statement.</p>
+			</td>
+			<td bgcolor="#ffffff" width="40%">
+			<p><b>Acceptable:</b> Use for the first instance of the OSI Logo include the ® mark, and include the statement "The OSI logo trademark is the trademark of Open Source Initiative."</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" width="40%">
+			<p><b>Unacceptable:</b> Never using the ® mark for OSI Logo, nor a trademark statement per the guidelines.</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" rowspan="2" width="60%">
+			<p>Always distinguish trademarks from surrounding text with at least initial capital letters or in all capital letters.</p>
+			</td>
+			<td bgcolor="#ffffff" width="40%">
+			<p><b>Acceptable:</b> Open Source Initiative</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" width="40%">
+			<p><b>Unacceptable:</b> open source initiative</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" rowspan="2" width="60%">
+			<p>Never pluralize a trademark. Never use "a" or "the" to refer to an instance of the trademark. Always use a trademark as an adjective modifying a noun, or as a singular noun.</p>
+			</td>
+			<td bgcolor="#ffffff" width="40%">
+			<p><b>Acceptable:</b> This software is licensed under an Open Source Initiative approved license.</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" width="40%">
+			<p><b>Unacceptable:</b> I put Open Source Initiative software on AcmeCo's server.</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" rowspan="2" width="60%">
+			<p>Never use a trademark as a possessive. Instead, the following noun should be used in possessive form or the sentence reworded so there is no possessive.</p>
+			</td>
+			<td bgcolor="#ffffff" width="40%">
+			<p><b>Acceptable:</b> Many software programs licensed under OSI's approved licenses are easy to use.</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" width="40%">
+			<p><b>Unacceptable:</b> OSI's software is easy to use.</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" rowspan="2" width="60%">
+			<p>Never translate a trademark into another language.</p>
+			</td>
+			<td bgcolor="#ffffff" width="40%">
+			<p><b>Acceptable:</b> N/A</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" width="40%">
+			<p><b>Unacceptable:</b> [Iniciativa De Código Aberto]</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" rowspan="2" width="60%">
+			<p>Never alter a trademark in any way including through unapproved fonts or visual identifiers.</p>
+			</td>
+			<td bgcolor="#ffffff" width="40%">
+			<p><b>Acceptable:</b> Proper use of the OSI Logo</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" width="40%">
+			<p><b>Unacceptable:</b> Putting a green hat on top of the OSI Logo</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" rowspan="2" width="60%">
+			<p>Never use or register any trademarks that are confusingly similar to, or a play on, the OSI or OSI Logo.</p>
+			</td>
+			<td bgcolor="#ffffff" width="40%">
+			<p><b>Acceptable:</b> <i>N/A</i></p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" width="40%">
+			<p><b>Unacceptable:</b> Open Source Project</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" rowspan="2" width="60%">
+			<p>Never combine your company name with the OSI name or use the OSI name in a way that it could be perceived that OSI and your company have an organizational link such as a joint venture.</p>
+			</td>
+			<td bgcolor="#ffffff" width="40%">
+			<p><b>Acceptable:</b> AcmeCo uses software licensed under OSI's approved licenses on all its servers.</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" width="40%">
+			<p><b>Unacceptable:</b> Bix Max servers use OSI software.</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" rowspan="2" width="60%">
+			<p>Never use the OSI Trademarks in a disparaging manner or that violates any federal, state, or international law.</p>
+			</td>
+			<td bgcolor="#ffffff" width="40%">
+			<p><b>Acceptable:</b> <i>N/A</i></p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" width="40%">
+			<p><b>Unacceptable:</b> Cartoon character micturating on the OSI Logo, applying OSI Logo outside permitted uses</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" rowspan="2" width="60%">
+			<p>Never use terminology that states or implies that OSI assumes any responsibility for the performance of your products and services.</p>
+			</td>
+			<td bgcolor="#ffffff" width="40%">
+			<p><b>Acceptable:</b> AcmeCo uses software licensed under OSI approved licenses on all its servers.</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" width="40%">
+			<p><b>Unacceptable:</b> OSI software runs AcmeCo's servers.</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" rowspan="2" width="60%">
+			<p>The OSI Logo must be hyperlinked to <a href="https://web.archive.org/web/20210916105525/http://opensource.org/">http://opensource.org/</a>, in contexts where such a hyperlink is technically feasible.</p>
+			</td>
+			<td bgcolor="#ffffff" width="40%">
+			<p><b>Acceptable:</b> Hyperlinking the OSI Logo where feasible</p>
+			</td>
+		</tr><tr><td bgcolor="#ffffff" width="40%">
+			<p><b>Unacceptable:</b> Not hyperlinking the OSI Logo where feasible</p>
+			</td>
+		</tr></tbody></table><p>Except as prohibited by law, the person or entity who is using the OSI Trademark under the terms of these Guidelines ("User") acknowledges that OSI is the sole and exclusive owner of the OSI Trademarks and agrees that it will do nothing inconsistent with such ownership either during the term of such use or afterwards. Specifically, User will take no action that will interfere with or diminish OSI's right in the OSI Trademarks. The User acknowledges that the OSI Trademarks are valid under the applicable law and that User's utilization of the OSI Trademarks will not create any right, title or interest in the OSI Trademarks. The User agrees not to apply or assist any third party to register the OSI Trademarks or a confusingly similar designation anywhere in the world. If any application for registration is or has been filed by or on behalf of User in any country and relates to any mark which, in the reasonable opinion of OSI, is confusingly similar, deceptive or misleading with respect to, or dilutes or any way damages the OSI Trademark, User shall, at OSI's request, abandon all use of such mark, and any registration or application for registration thereof and shall reimburse OSI for all costs and expenses of any opposition or related legal proceeding, including attorneys' fees, instigation by OSI or its authorized representative. Upon the written statement that the User is not using the OSI Trademarks in accordance with the Guidelines, within ten (10) days, User shall modify its use to comply with the Guidelines or cease using the OSI Trademarks.</p>
+
+<h4><a name="Logo_Usage_Guidelines" id="Logo_Usage_Guidelines"></a>5.2. Logo Usage Guidelines</h4>
+
+<p>For more information about the requirements for logo size, appearance, placement, and other considerations, refer to the <a href="https://web.archive.org/web/20210916105525/http://opensource.org/logo-usage-guidelines">Logo Usage Guidelines</a> for the OSI Trademarks.</p>
+
+<center>To join the discussion about OSI Trademark policies, and participate in shaping future policy <a href="https://web.archive.org/web/20210916105525/http://osi.xwiki.com/xwiki/bin/view/OSI+Operations/Trademarks">visit the OSI wiki</a>.</center>
+</div></div></div>  </div>
+    
+     
+
+  
+</article>  </div>
+</div>
+  </div>
+                            
+                        </div>
+                        <!-- EOF:#content-wrapper -->
+
+                    </div>
+                    <!-- EOF:#main -->
+
+                </section>
+
+                        
+            </div>
+
+        </div>
+    </div>
+    <!-- EOF:#main-content -->
+
+    
+</div>
+<!-- EOF:#page -->
+
+
+<footer id="subfooter" class="clearfix">
+    <div class="container">
+        
+        <!-- #subfooter-inside -->
+        <div id="subfooter-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- #subfooter-left -->
+                    <div class="subfooter-area">
+                                            
+
+                                          <div class="region region-footer">
+    <div id="block-block-11" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <div class="filler" style="vertical-align: middle; display: inline-block;">
+<p style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><a href="https://web.archive.org/web/20210916105525/https://twitter.com/OpenSourceOrg" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210916105525im_/https://opensource.org/files/twitterlogo.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210916105525/https://www.linkedin.com/company/open-source-initiative-osi-" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210916105525im_/https://opensource.org/files/linkedin.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210916105525/http://wiki.opensource.org/" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210916105525im_/https://opensource.org/files/xwikilogo.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210916105525/http://creativecommons.org/licenses/by/4.0/" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210916105525im_/https://opensource.org/files/ccby.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a></p>
+</div>
+
+<p> </p>
+
+<div class="license" style="vertical-align: middle; display: inline-block;">
+<p>Sign-up for our <a href="newsletter/signup">newsletter</a>!</p>
+
+<p>The content on this website, of which Opensource.org is the author, is licensed under a <a href="https://web.archive.org/web/20210916105525/http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.<br/>
+Opensource.org is not the author of any of the licenses reproduced on this site. Questions about the copyright in a license should be directed to the license steward.</p>
+
+<p>Hosting for Opensource.org is generously provided by <a href="https://web.archive.org/web/20210916105525/https://www.digitalocean.com/">DigitalOcean</a>. Please see <a href="/web/20210916105525/https://opensource.org/ToS">Terms of Service</a>.<br/><span style="font-size:10px;">For questions regarding the OSI website and contents pleasee <a href="https://web.archive.org/web/20210916105525/mailto:webmaster@lists.opensource.org?subject=OSI%20website%20comment">email our webmaster</a>.</span></p>
+</div>
+
+<p> </p>
+  </div>
+</div>
+<div id="block-block-7" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <script src="https://web.archive.org/web/20210916105525js_/https://www.google-analytics.com/urchin.js" type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+
+//--><!]]>
+</script><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+_uacct = "UA-3916956-1";
+urchinTracker();
+
+//--><!]]>
+</script>  </div>
+</div>
+  </div>
+                    
+                    </div>
+                    <!-- EOF: #subfooter-left -->
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #subfooter-inside -->
+    
+    </div>
+</footer>
+<!-- EOF:#subfooter -->
+  </body>
+</html><!--
+     FILE ARCHIVED ON 10:55:25 Sep 16, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:26:37 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 145.324
+  exclusion.robots: 0.078
+  exclusion.robots.policy: 0.07
+  cdx.remote: 0.056
+  esindex: 0.007
+  LoadShardBlock: 101.903 (3)
+  PetaboxLoader3.datanode: 128.33 (4)
+  load_resource: 381.735
+  PetaboxLoader3.resolve: 340.181
+-->

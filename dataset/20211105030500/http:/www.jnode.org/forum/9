@@ -1,0 +1,292 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script type="text/javascript" src="/_static/js/bundle-playback.js?v=4R5OHjEN" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://jnode.org/forum/9","20210513034133","https://web.archive.org/","web","/_static/",
+	      "1620877293");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <title>JNode-GUI | JNode.org</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="alternate" type="application/rss+xml" title="RSS - JNode-GUI" href="/web/20210513034133/http://jnode.org/taxonomy/term/9/0/feed"/>
+
+<link rel="shortcut icon" href="/web/20210513034133im_/http://jnode.org/misc/favicon.ico" type="image/x-icon"/>
+  <style type="text/css" media="all">@import "/web/20210513034133cs_/http://jnode.org/modules/book/book.css";</style>
+<style type="text/css" media="all">@import "/web/20210513034133cs_/http://jnode.org/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "/web/20210513034133cs_/http://jnode.org/modules/poll/poll.css";</style>
+<style type="text/css" media="all">@import "/web/20210513034133cs_/http://jnode.org/modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "/web/20210513034133cs_/http://jnode.org/modules/system/system.css";</style>
+<style type="text/css" media="all">@import "/web/20210513034133cs_/http://jnode.org/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/web/20210513034133cs_/http://jnode.org/modules/project/project.css";</style>
+<style type="text/css" media="all">@import "/web/20210513034133cs_/http://jnode.org/modules/project_issue/project_issue.css";</style>
+<style type="text/css" media="all">@import "/web/20210513034133cs_/http://jnode.org/modules/devel/devel.css";</style>
+<style type="text/css" media="all">@import "/web/20210513034133cs_/http://jnode.org/modules/forum/forum.css";</style>
+<style type="text/css" media="all">@import "/web/20210513034133cs_/http://jnode.org/themes/newsflash/style.css";</style>
+<style type="text/css" media="all">@import "/web/20210513034133cs_/http://jnode.org/themes/newsflash/css/jnode.css";</style>
+  <script type="text/javascript" src="/web/20210513034133js_/http://jnode.org/misc/jquery.js"></script>
+<script type="text/javascript" src="/web/20210513034133js_/http://jnode.org/misc/drupal.js"></script>
+<script type="text/javascript" src="/web/20210513034133js_/http://jnode.org/modules/devel/devel.js"></script>
+  <script type="text/javascript"> </script>
+      <style type="text/css">
+    #page {
+      width : 100%px;
+    }
+    </style>
+        <style type="text/css">
+    body.sidebar-left #main {
+      margin-left: -210px;
+    }
+    body.sidebars #main {
+      margin-left: -210px;
+    }
+    body.sidebar-left #squeeze {
+      margin-left: 210px;
+    }
+    body.sidebars #squeeze {
+      margin-left: 210px;
+    }
+    #sidebar-left {
+      width: 210px;
+    }
+    </style>
+        <style type="text/css">
+    body.sidebar-right #main {
+      margin-right: -210px;
+    }
+    body.sidebars #main {
+      margin-right: -210px;
+    }
+    body.sidebar-right #squeeze {
+      margin-right: 210px;
+    }
+    body.sidebars #squeeze {
+      margin-right: 210px;
+    }
+    #sidebar-right {
+      width: 210px;
+    }
+    </style>
+        <style type="text/css">
+    body {
+      font-family : Arial, Verdana, sans-serif;
+    }
+    </style>
+        <!--[if IE]>
+<style type="text/css" media="all">@import "/themes/newsflash/css/ie.css";</style>
+<![endif]-->
+    <script type="text/javascript" src="https://web.archive.org/web/20210513034133js_/http://www.jnode.org/themes/newsflash/js/pickstyle.js"></script>
+</head>
+<body class="sidebars">
+  <div id="page">
+    <div id="header" class="clear-block">
+      <div id="logo-title">
+                              <a href="/web/20210513034133/http://jnode.org/" title="Home"> <img src="/web/20210513034133im_/http://jnode.org/themes/newsflash/logo.png" alt="Home" id="logo"/> </a>
+                        </div><!-- /logo-title -->
+      <div id="name-and-slogan">
+              </div><!-- /name-and-slogan -->
+                	<div id="primarymenu">
+                  <ul class="links primary-links"><li class="first menu-1-1-99"><a href="/web/20210513034133/http://jnode.org/node/view/25" class="menu-1-1-99">Start here!</a></li>
+<li class="menu-1-2-99"><a href="/web/20210513034133/http://jnode.org/docs" class="menu-1-2-99">Documentation</a></li>
+<li class="menu-1-3-99"><a href="/web/20210513034133/http://jnode.org/download_latest" class="menu-1-3-99">Download</a></li>
+<li class="menu-1-4-99"><a href="/web/20210513034133/http://jnode.org/node/view/455" class="menu-1-4-99">Contribute</a></li>
+<li class="menu-1-5-99"><a href="/web/20210513034133/http://jnode.org/status" class="menu-1-5-99">Status</a></li>
+<li class="menu-1-6-99"><a href="/web/20210513034133/http://jnode.org/node/view/132" class="menu-1-6-99">Screenshots</a></li>
+<li class="menu-1-7-99"><a href="/web/20210513034133/http://jnode.org/forum" class="menu-1-7-99">Forums</a></li>
+<li class="last menu-1-8-99"><a href="/web/20210513034133/http://jnode.org/contact" class="menu-1-8-99">Contact</a></li>
+</ul>                           
+                </div>
+                    <div class="site-slogan"> :: ~  JNode.free(yourMind); ~ :: </div>
+            <form action="/web/20210513034133/http://jnode.org/search/node" accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline"><div class="form-item">
+ <input type="text" maxlength="128" name="search_theme_form_keys" id="edit-search-theme-form-keys" size="15" value="" title="Enter the terms you wish to search for." class="form-text"/>
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search" class="form-submit"/>
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"/>
+</div>
+</div></form>
+          </div><!-- /header -->
+            <div id="middlecontainer">
+              <div id="sidebar-left"><div class="block block-forum" id="block-forum-0">
+  <h2 class="title">Active forum topics</h2>  <div class="content"><div class="item-list"><ul><li><a href="/web/20210513034133/http://jnode.org/node/13797" title="1 comment">Observations on a first time build</a></li><li><a href="/web/20210513034133/http://jnode.org/node/13796">Creation of a Device I/O API in OpenJDK</a></li><li><a href="/web/20210513034133/http://jnode.org/node/13795" title="1 comment">How to convert a real mode address to a protected mode address in JNode ?</a></li></ul></div><div class="more-link"><a href="/web/20210513034133/http://jnode.org/forum" title="Read the latest forum topics.">more</a></div></div></div>
+<div class="block block-blog" id="block-blog-0">
+  <h2 class="title">Recent blog posts</h2>  <div class="content"><div class="item-list"><ul><li><a href="/web/20210513034133/http://jnode.org/node/13799">OSGi</a></li><li><a href="/web/20210513034133/http://jnode.org/node/13798">Thoughts on Documentation</a></li><li><a href="/web/20210513034133/http://jnode.org/node/13788">Hyper-V</a></li><li><a href="/web/20210513034133/http://jnode.org/node/5656">A new, natural, simple way to perceive files. (With JNode planned as foundation)</a></li><li><a href="/web/20210513034133/http://jnode.org/node/3985">Contribution</a></li><li><a href="/web/20210513034133/http://jnode.org/node/3872">My goals for 2012 with JNode</a></li><li><a href="/web/20210513034133/http://jnode.org/node/3369">About Email Response</a></li><li><a href="/web/20210513034133/http://jnode.org/node/3316">Nice to have found this!</a></li><li><a href="/web/20210513034133/http://jnode.org/node/3294">Me 3</a></li><li><a href="/web/20210513034133/http://jnode.org/node/3293">Me again</a></li></ul></div><div class="more-link"><a href="/web/20210513034133/http://jnode.org/blog" title="Read the latest blog entries.">more</a></div></div></div>
+<div class="block block-block" id="block-block-11">
+    <div class="content"><p><a class="twitter-timeline" href="https://web.archive.org/web/20210513034133/https://twitter.com/search?q=%23jnode" data-widget-id="405250609260920832">Tweets about "#jnode"</a></p>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//web.archive.org/web/20210513034133/http://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46091383-1', 'jnode.org');
+  ga('send', 'pageview');
+
+</script></div></div>
+ </div>
+            <div id="main">
+        <div id="squeeze">
+                              <div id="squeeze-content">
+            <div id="inner-content">
+                           <h1 class="title">JNode-GUI</h1>
+              <div class="tabs"></div>
+                                          <div id="forum"><ul><li><a href="/web/20210513034133/http://jnode.org/user/login?destination=forum%2F9">Login</a> to post a new forum topic.</li></ul><table>
+ <thead><tr><th field="">&nbsp;</th><th><a href="/web/20210513034133/http://jnode.org/forum/9?sort=asc&amp;order=Topic" title="sort by Topic" class="active">Topic</a></th><th><a href="/web/20210513034133/http://jnode.org/forum/9?sort=asc&amp;order=Replies" title="sort by Replies" class="active">Replies</a></th><th><a href="/web/20210513034133/http://jnode.org/forum/9?sort=asc&amp;order=Created" title="sort by Created" class="active">Created</a></th><th class="active"><a href="/web/20210513034133/http://jnode.org/forum/9?sort=asc&amp;order=Last+reply" title="sort by Last reply" class="active">Last reply<img src="/web/20210513034133im_/http://jnode.org/misc/arrow-asc.png" alt="sort icon" title="sort ascending" width="13" height="13"/></a></th> </tr></thead>
+<tbody>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-hot.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/3071">Jnode GUI problem</a></td><td class="replies">7</td><td class="created">8 years 25 weeks ago<br/>by xwinus</td><td class="last-reply active">7 years 33 weeks ago<br/>by Fabien D</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-hot.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/707">Graphics trouble</a></td><td class="replies">16</td><td class="created">12 years 34 weeks ago<br/>by samreid</td><td class="last-reply active">8 years 19 weeks ago<br/>by Fabien D</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-hot.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/2899">How does the JNode gui work?</a></td><td class="replies">7</td><td class="created">9 years 2 weeks ago<br/>by Zubzub</td><td class="last-reply active">9 years 2 weeks ago<br/>by hagar</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-hot.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/2395">Jnode new user help</a></td><td class="replies">7</td><td class="created">10 years 3 weeks ago<br/>by saravanan</td><td class="last-reply active">9 years 24 weeks ago<br/>by Stephen Crawley</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/2389">the look of all gui</a></td><td class="replies">1</td><td class="created">10 years 5 weeks ago<br/>by Rahod</td><td class="last-reply active">10 years 5 weeks ago<br/>by wessan</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/2382">PROJECT DUE 01-20-2008 (manipulation of secondary memory)</a></td><td class="replies">2</td><td class="created">10 years 6 weeks ago<br/>by nicolo_kevin</td><td class="last-reply active">10 years 6 weeks ago<br/>by Exile In Paradise</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/2377">PROJECT DUE 01-20-08 (accessing drives using Java)</a></td><td class="replies">3</td><td class="created">10 years 7 weeks ago<br/>by nicolo_kevin</td><td class="last-reply active">10 years 7 weeks ago<br/>by nicolo_kevin</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/2379">Announce: New desktop background, &quot;Time To Hack JNode&quot;</a></td><td class="replies">0</td><td class="created">10 years 7 weeks ago<br/>by Exile In Paradise</td><td class="last-reply active">n/a</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/1237">Unable to start Console</a></td><td class="replies">3</td><td class="created">10 years 33 weeks ago<br/>by Exile In Paradise</td><td class="last-reply active">10 years 32 weeks ago<br/>by Exile In Paradise</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/943">Swing in JNode</a></td><td class="replies">2</td><td class="created">11 years 4 weeks ago<br/>by The Captain</td><td class="last-reply active">11 years 4 weeks ago<br/>by Peter</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/912">VBE support</a></td><td class="replies">0</td><td class="created">11 years 12 weeks ago<br/>by Peter</td><td class="last-reply active">n/a</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/395">Great GUI News!</a></td><td class="replies">4</td><td class="created">13 years 18 weeks ago<br/>by epr</td><td class="last-reply active">11 years 20 weeks ago<br/>by biojae</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-hot.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/269">wt toolkit</a></td><td class="replies">15</td><td class="created">13 years 43 weeks ago<br/>by andyb</td><td class="last-reply active">11 years 26 weeks ago<br/>by Fabien D</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/822">Some JNode desktop candidates</a></td><td class="replies">2</td><td class="created">11 years 46 weeks ago<br/>by Fabien D</td><td class="last-reply active">11 years 46 weeks ago<br/>by rb1979</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-hot.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/253">ATI Radeon driver</a></td><td class="replies">6</td><td class="created">13 years 44 weeks ago<br/>by epr</td><td class="last-reply active">11 years 46 weeks ago<br/>by admin</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/793">gui bug?</a></td><td class="replies">3</td><td class="created">12 years 15 hours ago<br/>by samreid</td><td class="last-reply active">11 years 52 weeks ago<br/>by lsantha</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/768">JNode GUI</a></td><td class="replies">1</td><td class="created">12 years 7 weeks ago<br/>by syzuhdi</td><td class="last-reply active">12 years 7 weeks ago<br/>by Fabien D</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/759">Font Implementation</a></td><td class="replies">4</td><td class="created">12 years 10 weeks ago<br/>by samreid</td><td class="last-reply active">12 years 8 weeks ago<br/>by brihaye</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/738">PJA?</a></td><td class="replies">3</td><td class="created">12 years 23 weeks ago<br/>by samreid</td><td class="last-reply active">12 years 17 weeks ago<br/>by Twiun</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/743">Tango Icon Library</a></td><td class="replies">3</td><td class="created">12 years 20 weeks ago<br/>by PhilNeumann</td><td class="last-reply active">12 years 18 weeks ago<br/>by agoubard</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-hot.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/727">Desktop Environment</a></td><td class="replies">9</td><td class="created">12 years 29 weeks ago<br/>by denisw</td><td class="last-reply active">12 years 26 weeks ago<br/>by denisw</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/710">Documentation about How to write Display Drivers for JNode</a></td><td class="replies">1</td><td class="created">12 years 33 weeks ago<br/>by manucet</td><td class="last-reply active">12 years 33 weeks ago<br/>by hagar</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/711">How to handle dualhead on single card? Any ideas?</a></td><td class="replies">5</td><td class="created">12 years 33 weeks ago<br/>by kiloboot</td><td class="last-reply active">12 years 33 weeks ago<br/>by Fabien D</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-hot.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/294">app with multi-GUI or app with one GUI ?</a></td><td class="replies">23</td><td class="created">13 years 41 weeks ago<br/>by Fabien D</td><td class="last-reply active">12 years 34 weeks ago<br/>by Fabien D</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-hot.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/180">How to write a Driver for a Video card</a></td><td class="replies">6</td><td class="created">13 years 49 weeks ago<br/>by Fabien D</td><td class="last-reply active">13 years 5 weeks ago<br/>by admin</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/502">VESA and VGA</a></td><td class="replies">1</td><td class="created">13 years 7 weeks ago<br/>by UnTouchAble</td><td class="last-reply active">13 years 7 weeks ago<br/>by admin</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/461">want hints about VGA</a></td><td class="replies">2</td><td class="created">13 years 8 weeks ago<br/>by UnTouchAble</td><td class="last-reply active">13 years 8 weeks ago<br/>by UnTouchAble</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/460">Mach64 driver started</a></td><td class="replies">0</td><td class="created">13 years 8 weeks ago<br/>by epr</td><td class="last-reply active">n/a</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/446">What video drivers?</a></td><td class="replies">3</td><td class="created">13 years 11 weeks ago<br/>by epr</td><td class="last-reply active">13 years 10 weeks ago<br/>by rsk</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/438">NVidia NV20 Arch.</a></td><td class="replies">2</td><td class="created">13 years 12 weeks ago<br/>by galatnm</td><td class="last-reply active">13 years 12 weeks ago<br/>by admin</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/434">ATI Driver Trouble</a></td><td class="replies">3</td><td class="created">13 years 13 weeks ago<br/>by samreid</td><td class="last-reply active">13 years 13 weeks ago<br/>by samreid</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/424">AWTTest Fails with UnsupportedOperationException in ColorModel.</a></td><td class="replies">5</td><td class="created">13 years 14 weeks ago<br/>by samreid</td><td class="last-reply active">13 years 14 weeks ago<br/>by hagar</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/391">GUI Improvements</a></td><td class="replies">2</td><td class="created">13 years 19 weeks ago<br/>by epr</td><td class="last-reply active">13 years 18 weeks ago<br/>by s750smc</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/379">Minimum screensize</a></td><td class="replies">3</td><td class="created">13 years 20 weeks ago<br/>by epr</td><td class="last-reply active">13 years 20 weeks ago<br/>by Trickkiste</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/367">Will the GUI use window controls of JavaOS?</a></td><td class="replies">0</td><td class="created">13 years 24 weeks ago<br/>by david</td><td class="last-reply active">n/a</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/351">Where are we up to ?</a></td><td class="replies">2</td><td class="created">13 years 30 weeks ago<br/>by mattzerah</td><td class="last-reply active">13 years 30 weeks ago<br/>by Trickkiste</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-hot.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/172">Death on charva exit.</a></td><td class="replies">6</td><td class="created">13 years 49 weeks ago<br/>by samreid</td><td class="last-reply active">13 years 42 weeks ago<br/>by samreid</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/187">Default true type font</a></td><td class="replies">3</td><td class="created">13 years 48 weeks ago<br/>by hagar</td><td class="last-reply active">13 years 47 weeks ago<br/>by markhale</td> </tr>
+ <tr class="odd"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/137">Start GUI Interface</a></td><td class="replies">3</td><td class="created">14 years 21 hours ago<br/>by ale.narancio</td><td class="last-reply active">13 years 51 weeks ago<br/>by Valentin Chira</td> </tr>
+ <tr class="even"><td class="icon"><img src="/web/20210513034133im_/http://jnode.org/misc/forum-default.png" alt="" title="" width="16" height="16"/></td><td class="topic"><a href="/web/20210513034133/http://jnode.org/node/176">New kinds of components</a></td><td class="replies">0</td><td class="created">13 years 49 weeks ago<br/>by Fabien D</td><td class="last-reply active">n/a</td> </tr>
+</tbody></table>
+</div> 
+              <a href="/web/20210513034133/http://jnode.org/taxonomy/term/9/0/feed" class="feed-icon"><img src="/web/20210513034133im_/http://jnode.org/misc/feed.png" alt="Syndicate content" title="Syndicate content" width="16" height="16"/></a>                          </div><!-- /inner-content -->
+          </div><!-- /squeeze-content -->
+        </div><!-- /squeeze -->
+      </div><!-- /main -->
+              <div id="sidebar-right"><div class="block block-user" id="block-user-1">
+  <h2 class="title">Navigation</h2>  <div class="content">
+<ul class="menu">
+<li class="expanded"><a href="https://web.archive.org/web/20210513034133/https://github.com/jnode/jnode/issues" title="Bugs, features requests and other enhancement suggestions">Issues</a>
+<ul class="menu">
+<li class="leaf"><a href="/web/20210513034133/http://jnode.org/bugs" title="JNode issue tracker (bugs, features, tasks)">bugs &amp; feature requests (old)</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="/web/20210513034133/http://jnode.org/node/add">Create content</a></li>
+<li class="leaf"><a href="/web/20210513034133/http://jnode.org/reports" title="Nightly generated reports">Reports</a></li>
+<li class="leaf"><a href="/web/20210513034133/http://jnode.org/tracker">Recent posts</a></li>
+
+</ul>
+</div></div>
+<div class="block block-block" id="block-block-9">
+  <h2 class="title">JNode uses</h2>  <div class="content"><center>
+<a href="https://web.archive.org/web/20210513034133/http://www.openjdk.org/" target="_blank"> 
+   <img src="/web/20210513034133im_/http://jnode.org/images/openjdk.png" width="140" hight="50" alt="OpenJDK" title="Learn more about OpenJDK"/>
+</a>
+<br/>
+<br/>
+<a href="https://web.archive.org/web/20210513034133/http://www.gnu.org/software/classpath/" target="_blank"> 
+   <img src="/web/20210513034133im_/http://jnode.org/images/GNU_Classpath_132x46.png" alt="GNU Classpath" title="Learn more about GNU Classpath"/>
+</a>
+<br/>
+<br/>
+</center></div></div>
+<div class="block block-block" id="block-block-5">
+    <div class="content"><center>
+<a href="/web/20210513034133/http://jnode.org/node/831">
+<img src="/web/20210513034133im_/http://jnode.org/buttons/jnode_link_3.png" alt="I like JNode!" title="I like JNode!">
+</a>
+<!-- inactive site
+<br/><br/>
+<a href="http://www.java.net" target="_blank" >
+  <img border="0" src="http://today.java.net/images/javanet_button_90.gif">
+</a>
+-->
+<br/><br/>
+<a href="https://web.archive.org/web/20210513034133/https://github.com/jnode/" target="_blank">
+  <img border="0" src="https://web.archive.org/web/20210513034133im_/https://raw.github.com/github/media/master/octocats/blacktocat-32.png">
+</a>
+<br/><br/>
+<a href="https://web.archive.org/web/20210513034133/http://sourceforge.net/projects/jnode/" target="_blank">
+  <img border="0" src="https://web.archive.org/web/20210513034133im_/http://sourceforge.net/sflogo.php?group_id=80882">
+</a>
+<br/><br/>
+<a href="https://web.archive.org/web/20210513034133/http://www.ohloh.net/projects/4111?ref=sample" target="_blank">
+  <img width="100" height="16" src="https://web.archive.org/web/20210513034133im_/http://www.jnode.org/images/ohloh-project-report.gif" alt="Ohloh project report for JNode"/></a>
+<br/><br/>
+<center>
+<a href="/web/20210513034133/http://jnode.org/node/691">Donations</a>
+</center>
+<br/></div></div>
+<div class="block block-user" id="block-user-0">
+  <h2 class="title">User login</h2>  <div class="content"><form action="/web/20210513034133/http://jnode.org/forum/9?destination=forum%2F9" accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required"/>
+</div>
+<div class="form-item">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass" maxlength="60" size="15" class="form-text required"/>
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in" class="form-submit"/>
+<div class="item-list"><ul><li><a href="/web/20210513034133/http://jnode.org/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"/>
+
+</div></form>
+</div></div>
+ </div>
+          </div><!-- /middle-container -->
+    <div style="clear:both"></div>
+            <div id="footer">
+                    <div id="footer-message"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+  <td valign="top" align="left">Copyright (c) JNode.org 2013</td>
+  <td valign="top" align="right">This page is optimized for Mozilla Firefox</td>
+</tr>
+</table>
+</div>
+            <br/>
+          </div><!-- /footer -->
+  <div style="clear:both"></div>
+    </div> <!-- /page -->
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 03:41:33 May 13, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:23:53 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 129.935
+  exclusion.robots: 0.127
+  exclusion.robots.policy: 0.117
+  cdx.remote: 0.065
+  esindex: 0.008
+  LoadShardBlock: 90.437 (3)
+  PetaboxLoader3.datanode: 86.848 (4)
+  PetaboxLoader3.resolve: 60.395 (2)
+  load_resource: 84.941
+-->

@@ -1,0 +1,409 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script type="text/javascript" src="/_static/js/bundle-playback.js?v=4R5OHjEN" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://jnode.org/node?page=6","20211019084228","https://web.archive.org/","web","/_static/",
+	      "1634632948");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <title>JNode.org | :: ~  JNode.free(yourMind); ~ ::</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="alternate" type="application/rss+xml" title="JNode.org RSS" href="https://web.archive.org/web/20211019084228/http://www.jnode.org/node/feed"/>
+
+<link rel="shortcut icon" href="/web/20211019084228im_/http://jnode.org/misc/favicon.ico" type="image/x-icon"/>
+  <style type="text/css" media="all">@import "/web/20211019084228cs_/http://jnode.org/modules/book/book.css";</style>
+<style type="text/css" media="all">@import "/web/20211019084228cs_/http://jnode.org/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "/web/20211019084228cs_/http://jnode.org/modules/poll/poll.css";</style>
+<style type="text/css" media="all">@import "/web/20211019084228cs_/http://jnode.org/modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "/web/20211019084228cs_/http://jnode.org/modules/system/system.css";</style>
+<style type="text/css" media="all">@import "/web/20211019084228cs_/http://jnode.org/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/web/20211019084228cs_/http://jnode.org/modules/project/project.css";</style>
+<style type="text/css" media="all">@import "/web/20211019084228cs_/http://jnode.org/modules/project_issue/project_issue.css";</style>
+<style type="text/css" media="all">@import "/web/20211019084228cs_/http://jnode.org/modules/devel/devel.css";</style>
+<style type="text/css" media="all">@import "/web/20211019084228cs_/http://jnode.org/modules/forum/forum.css";</style>
+<style type="text/css" media="all">@import "/web/20211019084228cs_/http://jnode.org/themes/newsflash/style.css";</style>
+<style type="text/css" media="all">@import "/web/20211019084228cs_/http://jnode.org/themes/newsflash/css/jnode.css";</style>
+  <script type="text/javascript" src="/web/20211019084228js_/http://jnode.org/misc/jquery.js"></script>
+<script type="text/javascript" src="/web/20211019084228js_/http://jnode.org/misc/drupal.js"></script>
+<script type="text/javascript" src="/web/20211019084228js_/http://jnode.org/modules/devel/devel.js"></script>
+  <script type="text/javascript"> </script>
+      <style type="text/css">
+    #page {
+      width : 100%px;
+    }
+    </style>
+        <style type="text/css">
+    body.sidebar-left #main {
+      margin-left: -210px;
+    }
+    body.sidebars #main {
+      margin-left: -210px;
+    }
+    body.sidebar-left #squeeze {
+      margin-left: 210px;
+    }
+    body.sidebars #squeeze {
+      margin-left: 210px;
+    }
+    #sidebar-left {
+      width: 210px;
+    }
+    </style>
+        <style type="text/css">
+    body.sidebar-right #main {
+      margin-right: -210px;
+    }
+    body.sidebars #main {
+      margin-right: -210px;
+    }
+    body.sidebar-right #squeeze {
+      margin-right: 210px;
+    }
+    body.sidebars #squeeze {
+      margin-right: 210px;
+    }
+    #sidebar-right {
+      width: 210px;
+    }
+    </style>
+        <style type="text/css">
+    body {
+      font-family : Arial, Verdana, sans-serif;
+    }
+    </style>
+        <!--[if IE]>
+<style type="text/css" media="all">@import "/themes/newsflash/css/ie.css";</style>
+<![endif]-->
+    <script type="text/javascript" src="https://web.archive.org/web/20211019084228js_/http://www.jnode.org/themes/newsflash/js/pickstyle.js"></script>
+</head>
+<body class="sidebars">
+  <div id="page">
+    <div id="header" class="clear-block">
+      <div id="logo-title">
+                              <a href="/web/20211019084228/http://jnode.org/" title="Home"> <img src="/web/20211019084228im_/http://jnode.org/themes/newsflash/logo.png" alt="Home" id="logo"/> </a>
+                        </div><!-- /logo-title -->
+      <div id="name-and-slogan">
+              </div><!-- /name-and-slogan -->
+                	<div id="primarymenu">
+                  <ul class="links primary-links"><li class="first menu-1-1-99"><a href="/web/20211019084228/http://jnode.org/node/view/25" class="menu-1-1-99">Start here!</a></li>
+<li class="menu-1-2-99"><a href="/web/20211019084228/http://jnode.org/docs" class="menu-1-2-99">Documentation</a></li>
+<li class="menu-1-3-99"><a href="/web/20211019084228/http://jnode.org/download_latest" class="menu-1-3-99">Download</a></li>
+<li class="menu-1-4-99"><a href="/web/20211019084228/http://jnode.org/node/view/455" class="menu-1-4-99">Contribute</a></li>
+<li class="menu-1-5-99"><a href="/web/20211019084228/http://jnode.org/status" class="menu-1-5-99">Status</a></li>
+<li class="menu-1-6-99"><a href="/web/20211019084228/http://jnode.org/node/view/132" class="menu-1-6-99">Screenshots</a></li>
+<li class="menu-1-7-99"><a href="/web/20211019084228/http://jnode.org/forum" class="menu-1-7-99">Forums</a></li>
+<li class="last menu-1-8-99"><a href="/web/20211019084228/http://jnode.org/contact" class="menu-1-8-99">Contact</a></li>
+</ul>                           
+                </div>
+                    <div class="site-slogan"> :: ~  JNode.free(yourMind); ~ :: </div>
+            <form action="/web/20211019084228/http://jnode.org/search/node" accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline"><div class="form-item">
+ <input type="text" maxlength="128" name="search_theme_form_keys" id="edit-search-theme-form-keys" size="15" value="" title="Enter the terms you wish to search for." class="form-text"/>
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search" class="form-submit"/>
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"/>
+</div>
+</div></form>
+          </div><!-- /header -->
+                    <div class="clear-block clr" id="section1">
+        <div class="sections">
+                      <div class="section width99"><div class="block block-block" id="block-block-10">
+    <div class="content"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" class="text">
+Welcome to JNode.org, the website of the <i>Java New Operating System Design Effort</i>.<br/>
+<p/>
+JNode is a simple to use &amp; install Java operating system for personal use.<br/>It runs on modern devices.<br/>
+<p/>Any java application will run on it, fast &amp; secure!<br/><br/>
+JNode is open source and uses the <a href="https://web.archive.org/web/20211019084228/http://opensource.org/licenses/lgpl-license.php">LGPL</a> license.</p>
+<p/>
+</td>
+<td valign="top">
+<table class="none" border="0">
+<tr class="title">
+<td colspan="2">Latest release:</td>
+</tr>
+<tr>
+<td class="data"><a href="/web/20211019084228/http://jnode.org/download_latest">JNode 0.2.8</a></td>
+</tr>
+<tr class="title">
+<td colspan="2">Hardware requirements:</td>
+</tr>
+<tr>
+<td class="data" colspan="2">Pentium class CPU<br/>512M RAM<br/>
+<p/>see <a href="/web/20211019084228/http://jnode.org/node/573">details</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div></div>
+</div>
+                                      </div>
+        <div style="clear:both"></div>
+      </div><!-- /section1 -->
+        <div id="middlecontainer">
+              <div id="sidebar-left"><div class="block block-forum" id="block-forum-0">
+  <h2 class="title">Active forum topics</h2>  <div class="content"><div class="item-list"><ul><li><a href="/web/20211019084228/http://jnode.org/node/13797" title="1 comment">Observations on a first time build</a></li><li><a href="/web/20211019084228/http://jnode.org/node/13796">Creation of a Device I/O API in OpenJDK</a></li><li><a href="/web/20211019084228/http://jnode.org/node/13795" title="1 comment">How to convert a real mode address to a protected mode address in JNode ?</a></li></ul></div><div class="more-link"><a href="/web/20211019084228/http://jnode.org/forum" title="Read the latest forum topics.">more</a></div></div></div>
+<div class="block block-blog" id="block-blog-0">
+  <h2 class="title">Recent blog posts</h2>  <div class="content"><div class="item-list"><ul><li><a href="/web/20211019084228/http://jnode.org/node/13799">OSGi</a></li><li><a href="/web/20211019084228/http://jnode.org/node/13798">Thoughts on Documentation</a></li><li><a href="/web/20211019084228/http://jnode.org/node/13788">Hyper-V</a></li><li><a href="/web/20211019084228/http://jnode.org/node/5656">A new, natural, simple way to perceive files. (With JNode planned as foundation)</a></li><li><a href="/web/20211019084228/http://jnode.org/node/3985">Contribution</a></li><li><a href="/web/20211019084228/http://jnode.org/node/3872">My goals for 2012 with JNode</a></li><li><a href="/web/20211019084228/http://jnode.org/node/3369">About Email Response</a></li><li><a href="/web/20211019084228/http://jnode.org/node/3316">Nice to have found this!</a></li><li><a href="/web/20211019084228/http://jnode.org/node/3294">Me 3</a></li><li><a href="/web/20211019084228/http://jnode.org/node/3293">Me again</a></li></ul></div><div class="more-link"><a href="/web/20211019084228/http://jnode.org/blog" title="Read the latest blog entries.">more</a></div></div></div>
+<div class="block block-block" id="block-block-11">
+    <div class="content"><p><a class="twitter-timeline" href="https://web.archive.org/web/20211019084228/https://twitter.com/search?q=%23jnode" data-widget-id="405250609260920832">Tweets about "#jnode"</a></p>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//web.archive.org/web/20211019084228/http://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46091383-1', 'jnode.org');
+  ga('send', 'pageview');
+
+</script></div></div>
+ </div>
+            <div id="main">
+        <div id="squeeze">
+                              <div id="squeeze-content">
+            <div id="inner-content">
+                           <h1 class="title"></h1>
+              <div class="tabs"></div>
+                                          <div class="node">
+  
+            <h2 class="title"><a href="/web/20211019084228/http://jnode.org/node/3253">Problem building JNode</a></h2>
+      
+      <span class="submitted">Submitted by d3atiq on Mon, 12/07/2009 - 16:54.</span> <span class="taxonomy"><ul class="links inline"><li class="first last taxonomy_term_16"><a href="/web/20211019084228/http://jnode.org/forum/16" rel="tag" title="" class="taxonomy_term_16">General discussions</a></li>
+</ul></span>
+  
+  <div class="node-content"><p>Hi,</p>
+<p>I am new to JNode. <img src="/web/20211019084228im_/http://jnode.org/modules/smileys/packs/example/smile.png" title="Smiling" alt="Smiling"/> With that said, I am trying to build the 0.2.8 sources in Windows XP and I am getting an error in the JNasm.java and JNasmPP.java native2ascii conversion. I don't get what is happening but it is related to 2 comments in these files, around the author name (Levente Sántha). When I open the files in an editor such as jEdit it shows correctly (i.e. I see an a acute), but in the next ant target I get the following:</p>
+<p>prepare:</p>
+<p>javacc:</p>
+<p>native2ascii:</p>
+<p>compile:<br/>
+[jnode.compile] Compiling 108 source files to D:\datique\home\lab\jnodesources-0<br/>
+.2.8\builder\build\classes<br/>
+[jnode.compile] D:\datique\home\lab\jnodesources-0.2.8\builder\build\src\org\jno<br/>
+de\jnasm\assembler\gen\JNAsm.java:12: unmappable character for encoding US-ASCII</p>
+<p>[jnode.compile]  * @author Levente S?ntha (<a href="https://web.archive.org/web/20211019084228/mailto:lsantha@users.sourceforge.net">lsantha@users.sourceforge.net</a>)<br/>
+[jnode.compile]                     ^<br/>
+[jnode.compile] D:\datique\home\lab\jnodesources-0.2.8\builder\build\src\org\jno<br/>
+de\jnasm\preprocessor\gen\JNAsmPP.java:11: unmappable character for encoding US-<br/>
+ASCII<br/>
+[jnode.compile]  * @author Levente S?ntha (<a href="https://web.archive.org/web/20211019084228/mailto:lsantha@users.sourceforge.net">lsantha@users.sourceforge.net</a>)<br/>
+[jnode.compile]                     ^<br/>
+[jnode.compile] 2 errors</p>
+</div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="first comment_comments"><a href="/web/20211019084228/http://jnode.org/node/3253#comments" title="Jump to the first comment of this posting." class="comment_comments">3 comments</a></li>
+<li class="last node_read_more"><a href="/web/20211019084228/http://jnode.org/node/3253" title="Read the rest of this posting." class="node_read_more">Read more</a></li>
+</ul></div>
+  
+</div>
+<div class="node">
+  
+            <h2 class="title"><a href="/web/20211019084228/http://jnode.org/node/3215">Informed by </a></h2>
+      
+      <span class="submitted">Submitted by hagar on Thu, 10/29/2009 - 15:17.</span> <span class="taxonomy"><ul class="links inline"><li class="first last taxonomy_term_16"><a href="/web/20211019084228/http://jnode.org/forum/16" rel="tag" title="" class="taxonomy_term_16">General discussions</a></li>
+</ul></span>
+  
+  <div class="node-content"><p>a Gooogle alert bot I found the "Project Guest VM" a open source project under Sun(<a href="https://web.archive.org/web/20211019084228/http://research.sun.com/projects/">http://research.sun.com/projects/</a>). Looking at the project page <a href="https://web.archive.org/web/20211019084228/http://kenai.com/projects/guestvm">http://kenai.com/projects/guestvm</a> and checking some of the source files, it shows up that there are JNode code in it, infact the JNodeFS sources. Is this something we should act on? They attached their own license on top of ours. I guess that's a standard procedure they use on all their source files. Their license is GPL2.0, and they say the made some changes to our code, so shouldn't they post back the changes or should we download the sources and merge the things we like?</p>
+</div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="first last comment_comments"><a href="/web/20211019084228/http://jnode.org/node/3215#comments" title="Jump to the first comment of this posting." class="comment_comments">2 comments</a></li>
+</ul></div>
+  
+</div>
+<div class="node">
+  
+            <h2 class="title"><a href="/web/20211019084228/http://jnode.org/node/3100">Student Projects</a></h2>
+      
+  
+  <div class="node-content"><p>In order to imply students in JNode, I will expose here some projects.</p>
+<p><b><u>Git repository</u></b><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;The gitorious project is located here : <a href="https://web.archive.org/web/20211019084228/http://gitorious.org/jnode" title="http://gitorious.org/jnode">http://gitorious.org/jnode</a>.<br/>
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;It's compound of:</p>
+<ul>
+<li><a href="https://web.archive.org/web/20211019084228/http://gitorious.org/jnode/svn-mirror">svn-mirror</a>, which is a mirror of the subversion repository</li>
+<li>a set a clones of <a href="https://web.archive.org/web/20211019084228/http://gitorious.org/jnode/svn-mirror">svn-mirror</a>, one for each student project</li>
+</ul>
+<p><b><u>Contact</u></b><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;If you are interested, you can contact me (<a href="https://web.archive.org/web/20211019084228/http://www.jnode.org/user/65">Fabien DUMINY</a>) :</p>
+<ul>
+<li>with my <a href="https://web.archive.org/web/20211019084228/http://www.jnode.org/user/65/contact">jnode.org contact form</a> (in english or french)</li>
+<li>with my blog contact form :
+<ul>
+<li><a href="https://web.archive.org/web/20211019084228/http://www.duminy.fr/blog/?page_id=891&amp;language=fr">en français</a></li>
+<li><a href="https://web.archive.org/web/20211019084228/http://www.duminy.fr/blog/?page_id=895&amp;language=en">in english</a></li>
+</ul>
+</li>
+</ul>
+<p>
+<b><u>Remarks</u></b></p>
+<ul>
+<li>Since it's <u>a draft</u>, that document may evolve</li>
+</div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="first comment_forbidden"><span class="comment_forbidden"><a href="/web/20211019084228/http://jnode.org/user/login?destination=comment/reply/3100%2523comment-form">Login</a> to post comments</span></li>
+<li class="last node_read_more"><a href="/web/20211019084228/http://jnode.org/node/3100" title="Read the rest of this posting." class="node_read_more">Read more</a></li>
+</ul></div>
+  
+</div>
+<div class="node">
+  
+            <h2 class="title"><a href="/web/20211019084228/http://jnode.org/node/3087">Jnode</a></h2>
+      
+      <span class="submitted">Submitted by Abdul basit on Thu, 10/15/2009 - 06:49.</span> <span class="taxonomy"><ul class="links inline"><li class="first taxonomy_term_7"><a href="/web/20211019084228/http://jnode.org/forum/7" rel="tag" title="Topics related to the JNode-Core team." class="taxonomy_term_7">JNode-Core</a></li>
+<li class="taxonomy_term_30"><a href="/web/20211019084228/http://jnode.org/taxonomy/term/30" rel="tag" title="Content is related to presentations about JNode." class="taxonomy_term_30">Presentations</a></li>
+<li class="last taxonomy_term_41"><a href="/web/20211019084228/http://jnode.org/taxonomy/term/41" rel="tag" title="A software module that implements some functionality with a known interface" class="taxonomy_term_41">service</a></li>
+</ul></span>
+  
+  <div class="node-content"><p>hi to all...<br/>
+if some 1 can help me to kno,<br/>
+1.which language is used in background coding for Jnode??<br/>
+2.whats process management in Jnode??<br/>
+3.n how to install ths Jnode operatin system</p>
+<p>help me out wth these guys<br/>
+thnks</p>
+</div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="first last comment_comments"><a href="/web/20211019084228/http://jnode.org/node/3087#comments" title="Jump to the first comment of this posting." class="comment_comments">1 comment</a></li>
+</ul></div>
+  
+</div>
+<div class="node">
+  
+            <h2 class="title"><a href="/web/20211019084228/http://jnode.org/node/3075">Rename file in JNode FS</a></h2>
+      
+      <span class="submitted">Submitted by mickjordan on Wed, 09/30/2009 - 23:25.</span> <span class="taxonomy"><ul class="links inline"><li class="first last taxonomy_term_8"><a href="/web/20211019084228/http://jnode.org/forum/8" rel="tag" title="Topics related to the JNode-FS team" class="taxonomy_term_8">JNode-FS</a></li>
+</ul></span>
+  
+  <div class="node-content"><p>So far as I can tell the JNode FS API has no concept of renaming (moving) a file or directory. It appears that UnixFileSystem.rename0 method is implemented in by VMFile.renameTo, which assumes that a file is being renamed, as opposed to a directory, and works by copy and delete. The lack of an FS level rename is surprising and I'm curious why?</p>
+<p>The context of this question is my use of JNode Ext2 in Project GuestVM (<a href="https://web.archive.org/web/20211019084228/http://research.sun.com/projects/guestvm" title="http://research.sun.com/projects/guestvm">http://research.sun.com/projects/guestvm</a>). I am currently trying to get Hadoop working and it wants to rename a directory.</p>
+</div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="first last comment_comments"><a href="/web/20211019084228/http://jnode.org/node/3075#comments" title="Jump to the first comment of this posting." class="comment_comments">1 comment</a></li>
+</ul></div>
+  
+</div>
+<div class="pager"><a href="/web/20211019084228/http://jnode.org/node" class="pager-first active" title="Go to first page">« first</a><a href="/web/20211019084228/http://jnode.org/node?page=5" class="pager-previous active" title="Go to previous page">‹ previous</a><span class="pager-list"><span class="pager-ellipsis">…</span><a href="/web/20211019084228/http://jnode.org/node?page=2" class="pager-previous active" title="Go to page 3">3</a><a href="/web/20211019084228/http://jnode.org/node?page=3" class="pager-previous active" title="Go to page 4">4</a><a href="/web/20211019084228/http://jnode.org/node?page=4" class="pager-previous active" title="Go to page 5">5</a><a href="/web/20211019084228/http://jnode.org/node?page=5" class="pager-previous active" title="Go to page 6">6</a><strong class="pager-current">7</strong><a href="/web/20211019084228/http://jnode.org/node?page=7" class="pager-next active" title="Go to page 8">8</a><a href="/web/20211019084228/http://jnode.org/node?page=8" class="pager-next active" title="Go to page 9">9</a><a href="/web/20211019084228/http://jnode.org/node?page=9" class="pager-next active" title="Go to page 10">10</a><a href="/web/20211019084228/http://jnode.org/node?page=10" class="pager-next active" title="Go to page 11">11</a><span class="pager-ellipsis">…</span></span><a href="/web/20211019084228/http://jnode.org/node?page=7" class="pager-next active" title="Go to next page">next ›</a><a href="/web/20211019084228/http://jnode.org/node?page=64" class="pager-last active" title="Go to last page">last »</a></div> 
+              <a href="https://web.archive.org/web/20211019084228/http://www.jnode.org/node/feed" class="feed-icon"><img src="/web/20211019084228im_/http://jnode.org/misc/feed.png" alt="Syndicate content" title="Syndicate content" width="16" height="16"/></a>                          </div><!-- /inner-content -->
+          </div><!-- /squeeze-content -->
+        </div><!-- /squeeze -->
+      </div><!-- /main -->
+              <div id="sidebar-right"><div class="block block-user" id="block-user-1">
+  <h2 class="title">Navigation</h2>  <div class="content">
+<ul class="menu">
+<li class="expanded"><a href="https://web.archive.org/web/20211019084228/https://github.com/jnode/jnode/issues" title="Bugs, features requests and other enhancement suggestions">Issues</a>
+<ul class="menu">
+<li class="leaf"><a href="/web/20211019084228/http://jnode.org/bugs" title="JNode issue tracker (bugs, features, tasks)">bugs &amp; feature requests (old)</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="/web/20211019084228/http://jnode.org/node/add">Create content</a></li>
+<li class="leaf"><a href="/web/20211019084228/http://jnode.org/reports" title="Nightly generated reports">Reports</a></li>
+<li class="leaf"><a href="/web/20211019084228/http://jnode.org/tracker">Recent posts</a></li>
+
+</ul>
+</div></div>
+<div class="block block-block" id="block-block-9">
+  <h2 class="title">JNode uses</h2>  <div class="content"><center>
+<a href="https://web.archive.org/web/20211019084228/http://www.openjdk.org/" target="_blank"> 
+   <img src="/web/20211019084228im_/http://jnode.org/images/openjdk.png" width="140" hight="50" alt="OpenJDK" title="Learn more about OpenJDK"/>
+</a>
+<br/>
+<br/>
+<a href="https://web.archive.org/web/20211019084228/http://www.gnu.org/software/classpath/" target="_blank"> 
+   <img src="/web/20211019084228im_/http://jnode.org/images/GNU_Classpath_132x46.png" alt="GNU Classpath" title="Learn more about GNU Classpath"/>
+</a>
+<br/>
+<br/>
+</center></div></div>
+<div class="block block-block" id="block-block-5">
+    <div class="content"><center>
+<a href="/web/20211019084228/http://jnode.org/node/831">
+<img src="/web/20211019084228im_/http://jnode.org/buttons/jnode_link_3.png" alt="I like JNode!" title="I like JNode!">
+</a>
+<!-- inactive site
+<br/><br/>
+<a href="http://www.java.net" target="_blank" >
+  <img border="0" src="http://today.java.net/images/javanet_button_90.gif">
+</a>
+-->
+<br/><br/>
+<a href="https://web.archive.org/web/20211019084228/https://github.com/jnode/" target="_blank">
+  <img border="0" src="https://web.archive.org/web/20211019084228im_/https://raw.github.com/github/media/master/octocats/blacktocat-32.png">
+</a>
+<br/><br/>
+<a href="https://web.archive.org/web/20211019084228/http://sourceforge.net/projects/jnode/" target="_blank">
+  <img border="0" src="https://web.archive.org/web/20211019084228im_/http://sourceforge.net/sflogo.php?group_id=80882">
+</a>
+<br/><br/>
+<a href="https://web.archive.org/web/20211019084228/http://www.ohloh.net/projects/4111?ref=sample" target="_blank">
+  <img width="100" height="16" src="https://web.archive.org/web/20211019084228im_/http://www.jnode.org/images/ohloh-project-report.gif" alt="Ohloh project report for JNode"/></a>
+<br/><br/>
+<center>
+<a href="/web/20211019084228/http://jnode.org/node/691">Donations</a>
+</center>
+<br/></div></div>
+<div class="block block-user" id="block-user-0">
+  <h2 class="title">User login</h2>  <div class="content"><form action="/web/20211019084228/http://jnode.org/node?destination=node%3Fpage%3D6" accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required"/>
+</div>
+<div class="form-item">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass" maxlength="60" size="15" class="form-text required"/>
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in" class="form-submit"/>
+<div class="item-list"><ul><li><a href="/web/20211019084228/http://jnode.org/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"/>
+
+</div></form>
+</div></div>
+ </div>
+          </div><!-- /middle-container -->
+    <div style="clear:both"></div>
+            <div id="footer">
+                    <div id="footer-message"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+  <td valign="top" align="left">Copyright (c) JNode.org 2013</td>
+  <td valign="top" align="right">This page is optimized for Mozilla Firefox</td>
+</tr>
+</table>
+</div>
+            <br/>
+          </div><!-- /footer -->
+  <div style="clear:both"></div>
+    </div> <!-- /page -->
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 08:42:28 Oct 19, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:11:43 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 271.932
+  exclusion.robots: 0.109
+  exclusion.robots.policy: 0.099
+  cdx.remote: 0.066
+  esindex: 0.008
+  LoadShardBlock: 234.381 (3)
+  PetaboxLoader3.datanode: 196.244 (4)
+  load_resource: 148.551
+  PetaboxLoader3.resolve: 116.598
+-->

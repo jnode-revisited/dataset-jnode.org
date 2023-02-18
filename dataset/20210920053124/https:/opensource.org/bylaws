@@ -1,0 +1,870 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head profile="http://www.w3.org/1999/xhtml/vocab"><script type="text/javascript" src="/_static/js/bundle-playback.js?v=4R5OHjEN" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://opensource.org/bylaws","20210920062419","https://web.archive.org/","web","/_static/",
+	      "1632119059");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)"/>
+<link rel="canonical" href="/web/20210920062419/https://opensource.org/bylaws"/>
+<link rel="shortlink" href="/web/20210920062419/https://opensource.org/node/19"/>
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="shortcut icon" href="https://web.archive.org/web/20210920062419im_/https://opensource.org/files/osi_favicon.png" type="image/png"/>
+  <title>Bylaws of the Open Source Initiative | Open Source Initiative</title>
+  <link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210920062419cs_/https://opensource.org/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210920062419cs_/https://opensource.org/files/css/css_gh8wMJiOGewsPCJRDYXmqv3eEGGGSn0O_fqsi_9a-LY.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210920062419cs_/https://opensource.org/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="//web.archive.org/web/20210920062419cs_/https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210920062419cs_/https://opensource.org/files/css/css_KGZcOm3i1wmtbgZsjo-3V9FM4wZ-5UDcpJ7Vfzmt45E.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20210920062419cs_/https://opensource.org/files/css/css_ulIzRpfhtuifCQvQJ8NpvGx_J9mvqUlZZLik4d4ZG-s.css" media="all"/>
+
+<!--[if (lt IE 9)]>
+<link type="text/css" rel="stylesheet" href="https://opensource.org/sites/all/themes/bootstrap-business/css/ie8.css?qyvib8" media="all" />
+<![endif]-->
+
+    
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//web.archive.org/web/20210920062419js_/https://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20210920062419js_/https://opensource.org/files/js/js_38VWQ3jjQx0wRFj7gkntZr077GgJoGn5nv3v05IeLLo.js"></script>
+<script type="text/javascript" src="//web.archive.org/web/20210920062419js_/https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+		$(window).scroll(function() {
+			if($(this).scrollTop() != 0) {
+				$("#toTop").fadeIn();	
+			} else {
+				$("#toTop").fadeOut();
+			}
+		});
+		
+		$("#toTop").click(function() {
+			$("body,html").animate({scrollTop:0},800);
+		});	
+		
+		});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20210920062419js_/https://opensource.org/files/js/js_ruOYJN6FkJU2O5L1dAKVnDloSn5R6LjnLW88zFxS1Uw.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20210920062419js_/https://opensource.org/files/js/js_JQHTvV_SkyFlN3f2BnQwnusF-eI6tkX8wrKAk2siiZU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap_business","theme_token":"EMnicrxbOuC7Vhx4knindFRhOFU8xgGkeq8cPKvQPgo","js":{"\/\/web.archive.org\/web\/20210920062419\/https:\/\/code.jquery.com\/jquery-1.10.2.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/web.archive.org\/web\/20210920062419\/https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/js\/bootstrap.min.js":1,"1":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/bootstrap-business\/js\/jquery.browser.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/web.archive.org\/web\/20210920062419\/https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/css\/bootstrap.min.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/bootstrap-business\/css\/style.css":1,"sites\/all\/themes\/bootstrap-business\/color\/colors.css":1,"sites\/all\/themes\/bootstrap-business\/css\/local.css":1,"sites\/all\/themes\/bootstrap-business\/css\/ie8.css":1}},"urlIsAjaxTrusted":{"\/bylaws":true},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":true,"disableHI":false},"plugins":{"touchscreen":{"mode":"window_width"},"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Navigation"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-19 node-type-page">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="toTop"><span class="glyphicon glyphicon-chevron-up"></span></div>
+
+
+
+<!-- #header-top -->
+<div id="header-top" class="clearfix">
+    <div class="container">
+
+        <!-- #header-top-inside -->
+        <div id="header-top-inside" class="clearfix">
+            <div class="row">
+            
+                        <div class="col-md-8">
+                <!-- #header-top-left -->
+                <div id="header-top-left" class="clearfix">
+                      <div class="region region-header-top-left">
+    <div id="block-menu-secondary-menu" class="block block-menu clearfix">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/web/20210920062419/https://opensource.org/" title="">Home</a></li>
+<li class="leaf"><a href="/web/20210920062419/https://opensource.org/blog" title="">From the Board</a></li>
+<li class="leaf"><a href="/web/20210920062419/https://opensource.org/contact" title="">Contact</a></li>
+<li class="leaf"><a href="/web/20210920062419/https://opensource.org/civicrm/contribute/transact?reset=1&amp;id=2" title="">Donate</a></li>
+<li class="last leaf"><a href="/web/20210920062419/https://opensource.org/user/login" title="">Login</a></li>
+</ul>  </div>
+</div>
+  </div>
+                </div>
+                <!-- EOF:#header-top-left -->
+            </div>
+                        
+                        <div class="col-md-4">
+                <!-- #header-top-right -->
+                <div id="header-top-right" class="clearfix">
+                      <div class="region region-header-top-right">
+    <div id="block-search-form" class="block block-search clearfix">
+
+    
+  <div class="content">
+    <form action="/web/20210920062419/https://opensource.org/bylaws" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == '') {this.value = 'Search this website...';}" onfocus="if (this.value == 'Search this website...') {this.value = '';}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search this website..." size="15" maxlength="128" class="form-text"/>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input value="" type="submit" id="edit-submit" name="op" class="form-submit"/></div><input type="hidden" name="form_build_id" value="form-4xYrNlD6vS-0e547S9mgxaWL-PWy4DofYLkDiSkxOoI"/>
+<input type="hidden" name="form_id" value="search_block_form"/>
+</div>
+</div></form>  </div>
+</div>
+  </div>
+                </div>
+                <!-- EOF:#header-top-right -->
+            </div>
+                        
+            </div>
+        </div>
+        <!-- EOF: #header-top-inside -->
+
+    </div>
+</div>
+<!-- EOF: #header-top -->    
+
+<!-- header -->
+<header id="header" role="banner" class="clearfix">
+    <div class="container">
+
+        <!-- #header-inside -->
+        <div id="header-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-8">
+
+                                <div id="logo">
+                <a href="/web/20210920062419/https://opensource.org/" title="Home" rel="home"> <img src="https://web.archive.org/web/20210920062419im_/https://opensource.org/files/osi_keyhole_300X300_90ppi_0.png" alt="Home"/> </a>
+                </div>
+                
+                                <div id="site-name">
+                <a href="/web/20210920062419/https://opensource.org/" title="Home">Open Source Initiative</a>
+                </div>
+                                
+                                <div id="site-slogan">
+                Guaranteeing the 'our' in source...                </div>
+                                
+                </div>
+                
+                <div class="col-md-4">
+                
+                
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #header-inside -->
+
+    </div>
+</header>
+<!-- EOF: #header --> 
+
+<!-- #main-navigation --> 
+<div id="main-navigation" class="clearfix">
+    <div class="container">
+
+        <!-- #main-navigation-inside -->
+        <div id="main-navigation-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav role="navigation">
+                                                  <div class="region region-navigation">
+    <div id="block-superfish-1" class="block block-superfish clearfix">
+
+    
+  <div class="content">
+    <ul id="superfish-1" class="menu sf-menu sf-navigation sf-horizontal sf-style-none sf-total-items-6 sf-parent-items-6 sf-single-items-0"><li id="menu-37-1" class="active-trail first odd sf-item-1 sf-depth-1 sf-total-children-4 sf-parent-children-2 sf-single-children-2 menuparent"><a href="/web/20210920062419/https://opensource.org/about" title="About the Open Source Initiative" class="sf-depth-1 menuparent">About</a><ul><li id="menu-75-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210920062419/https://opensource.org/history" title="History of the OSI" class="sf-depth-2">History</a></li><li id="menu-82-1" class="active-trail middle even sf-item-2 sf-depth-2 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><a href="/web/20210920062419/https://opensource.org/board" title="Board of Directors" class="sf-depth-2 menuparent">Board</a><ul><li id="menu-83-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/docs/board-annotated" title="OSI Board -- With Annotations" class="sf-depth-3">Board - Annotated</a></li><li id="menu-96-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/minutes" title="Public Minutes of Board Meetings" class="sf-depth-3">Minutes</a></li><li id="menu-185-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/organization" title="These portfolios represent the activities of the current OSI board." class="sf-depth-3">Organization &amp; Operations</a></li><li id="menu-95-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/articles-of-incorporation" title="OSI incorporation record" class="sf-depth-3">Articles of Incorporation</a></li><li id="menu-1475-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/elections" class="sf-depth-3">Board Elections</a></li><li id="menu-84-1" class="active-trail middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/bylaws" title="Bylaws of the Open Source Initiative" class="sf-depth-3 active">Bylaws</a></li><li id="menu-1317-1" class="last odd sf-item-7 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/conflict_of_interest_policy" class="sf-depth-3">Conflict of Interest</a></li></ul></li><li id="menu-1843-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210920062419/https://opensource.org/trademark" title="" class="sf-depth-2 menuparent">Trademark &amp; Logo</a><ul><li id="menu-184-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/trademark-guidelines" title="OSI's Trademark Policy" class="sf-depth-3">Trademark Guidelines</a></li><li id="menu-183-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/logo-usage-guidelines" title="Guidelines for appearance and usage of OSI Logo" class="sf-depth-3">Logo Guidelines</a></li></ul></li><li id="menu-126-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210920062419/https://opensource.org/ToS" title="Rules for posting content on this site" class="sf-depth-2">Terms of Service</a></li></ul></li><li id="menu-65-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-5 sf-parent-children-2 sf-single-children-3 menuparent"><a href="/web/20210920062419/https://opensource.org/licenses" class="sf-depth-1 menuparent">Licenses</a><ul><li id="menu-61-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210920062419/https://opensource.org/osd" title="The actual OSD defining what constitutes an Open Source licence" class="sf-depth-2">Open Source Definition</a></li><li id="menu-77-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210920062419/https://opensource.org/licenses/category" title="Licenses by Category" class="sf-depth-2">Licenses by Category</a></li><li id="menu-72-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210920062419/https://opensource.org/licenses/alphabetical" title="Licenses that are approved by the OSI as conforming to the OSD" class="sf-depth-2">Licenses by Name</a></li><li id="menu-66-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210920062419/https://opensource.org/approval" title="Certifying licences as OSD-compliant" class="sf-depth-2 menuparent">License Review Process</a><ul><li id="menu-67-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/proliferation" title="Supporting choice while maintaining sanity" class="sf-depth-3">Licence Proliferation</a></li><li id="menu-69-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/proliferation-report" title="License Proliferation Committee's report to the OSI Board" class="sf-depth-3">LP report to the Board</a></li></ul></li><li id="menu-99-1" class="last odd sf-item-5 sf-depth-2 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/web/20210920062419/https://opensource.org/osr-intro" title="Open Standards Requirement for Software" class="sf-depth-2 menuparent">Open Standards</a><ul><li id="menu-101-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/osr" title="An &quot;open standard&quot; must not prohibit conforming implementations in open source software." class="sf-depth-3">The Open Standards Requirement</a></li><li id="menu-102-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/osr-compliance" class="sf-depth-3">Open Standards Requirement Compliance</a></li><li id="menu-100-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/osr-rationale" class="sf-depth-3">Open Standards Requirement Rationale</a></li><li id="menu-103-1" class="last even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/osr-faq" title="Frequently asked questions about the Open Standards Requirement" class="sf-depth-3">OSR Frequently Asked Questions</a></li></ul></li></ul></li><li id="menu-1842-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-3 sf-parent-children-2 sf-single-children-1 menuparent"><a href="/web/20210920062419/https://opensource.org/membership" title="Page for our various membership programs" class="sf-depth-1 menuparent">Membership</a><ul><li id="menu-914-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210920062419/https://opensource.org/members" class="sf-depth-2 menuparent">Individuals</a><ul><li id="menu-897-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/civicrm/contribute/transact?reset=1&amp;id=1" title="" class="sf-depth-3">Join</a></li><li id="menu-2265-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/benefits" class="sf-depth-3">Benefits</a></li></ul></li><li id="menu-675-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210920062419/https://opensource.org/osi-affiliate-membership" title="Home page for OSI's membership scheme for non-profits and not-for-profits" class="sf-depth-2 menuparent">Affiliates</a><ul><li id="menu-676-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/affiliates/about" class="sf-depth-3">Become an Affiliate</a></li><li id="menu-2071-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/AffiliateRequirements" class="sf-depth-3">Affiliate  Criteria</a></li></ul></li><li id="menu-1436-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210920062419/https://opensource.org/corporate-sponsors-support" title="" class="sf-depth-2">Sponsors &amp; Support</a></li></ul></li><li id="menu-1841-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-5 sf-parent-children-1 sf-single-children-4 menuparent"><a href="/web/20210920062419/https://opensource.org/community" title="Page for our various community members." class="sf-depth-1 menuparent">Community</a><ul><li id="menu-2271-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210920062419/https://opensource.org/associations" class="sf-depth-2">Associations</a></li><li id="menu-63-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/web/20210920062419/https://opensource.org/lists" title="The virtual committees where the OSI's work gets done" class="sf-depth-2 menuparent">Mailing lists</a><ul><li id="menu-1072-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/codeofconduct/licensing" class="sf-depth-3">Licensing Code of Conduct</a></li><li id="menu-78-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/codeofconduct" title="Guidelines for OSI Mailing Lists" class="sf-depth-3">General Code of Conduct</a></li><li id="menu-2272-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/node/960" title="Monthly reports summarizing the OSI's License-Discuss and License-Review mailing lists." class="sf-depth-3">Discussion List Reports</a></li><li id="menu-2111-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/public_forums_disclaimer" class="sf-depth-3">Disclaimer for OSI Public Forums</a></li><li id="menu-2110-1" class="last odd sf-item-5 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/public_archives_policy" class="sf-depth-3">Policy on Public Communications and Archives</a></li></ul></li><li id="menu-2032-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210920062419/https://opensource.org/volunteersandstaff" class="sf-depth-2">Volunteers &amp; Staff</a></li><li id="menu-2192-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210920062419/https://opensource.org/AdvocateCircle" class="sf-depth-2">Advocate Circle</a></li><li id="menu-1846-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="https://web.archive.org/web/20210920062419/http://wiki.opensource.org/" title="" class="sf-depth-2">Wiki</a></li></ul></li><li id="menu-1840-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-6 sf-parent-children-1 sf-single-children-5 menuparent"><a href="/web/20210920062419/https://opensource.org/resources" title="Page offering resources to OSI personas" class="sf-depth-1 menuparent">Resources</a><ul><li id="menu-342-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210920062419/https://opensource.org/faq" title="Frequently Asked Questions about open source and about the OSI." class="sf-depth-2">FAQ</a></li><li id="menu-45-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/web/20210920062419/https://opensource.org/help" title="Resources for questions and further exploration" class="sf-depth-2 menuparent">Getting Help</a><ul><li id="menu-76-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/links" title="Links and References to Open Source" class="sf-depth-3">Bibliography</a></li><li id="menu-125-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/web/20210920062419/https://opensource.org/advocacy/case_for_business.php" title="How to advocate Open Source to businesses" class="sf-depth-3">Open Source Case for Business</a></li></ul></li><li id="menu-1514-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210920062419/https://opensource.org/working_groups" class="sf-depth-2">Working Groups &amp; Incubator Projects</a></li><li id="menu-12-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/web/20210920062419/https://opensource.org/osi-open-source-education" title="OSI's Open Source Education Initiative and Activities" class="sf-depth-2">Open Source Education</a></li><li id="menu-3046-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/web/20210920062419/https://opensource.org/node/1012" class="sf-depth-2">Articles &amp; Books</a></li><li id="menu-2193-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/web/20210920062419/https://opensource.org/authority" class="sf-depth-2">International Authority &amp; Recognition</a></li></ul></li><li id="menu-1844-1" class="last even sf-item-6 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/web/20210920062419/https://opensource.org/news" title="Page dedicated to the latest news and events." class="sf-depth-1 menuparent">News &amp; Events</a><ul><li id="menu-1845-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/web/20210920062419/https://opensource.org/news" title="Index of newsletters" class="sf-depth-2">News</a></li><li id="menu-1999-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/web/20210920062419/https://opensource.org/events" class="sf-depth-2">Events</a></li><li id="menu-4709-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/web/20210920062419/https://opensource.org/newsletter/signup" title="" class="sf-depth-2">Newsletter Signup</a></li></ul></li></ul>  </div>
+</div>
+  </div>
+                                            </nav>
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #main-navigation-inside -->
+
+    </div>
+</div>
+<!-- EOF: #main-navigation -->
+
+<!-- #banner -->
+<div id="banner" class="clearfix">
+    <div class="container">
+        
+        <!-- #banner-inside -->
+        <div id="banner-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                  <div class="region region-banner">
+    <div id="block-block-23" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <div class="rtecenter" style="font-size:16px; font-weight: bold;"><a href="https://web.archive.org/web/20210920062419/https://eventyay.com/e/e7dfbfc4/" target="_blank">Practical Open Source Information</a> :: Online Event :: September 16 - 11:00 AM to 4:00 PM EDT</div>
+  </div>
+</div>
+  </div>
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #banner-inside -->        
+
+    </div>
+</div>
+<!-- EOF:#banner -->
+
+<!-- #page -->
+<div id="page" class="clearfix">
+    
+    
+    <!-- #main-content -->
+    <div id="main-content">
+        <div class="container">
+        
+            <!-- #messages-console -->
+                        <!-- EOF: #messages-console -->
+            
+            <div class="row">
+
+                
+
+                <section class="col-md-12">
+
+                    <!-- #main -->
+                    <div id="main" class="clearfix">
+                    
+                        
+                        
+                        <!-- EOF:#content-wrapper -->
+                        <div id="content-wrapper">
+
+                                                                                    <h1 class="page-title">Bylaws of the Open Source Initiative</h1>
+                                                        
+                                                  
+                            <!-- #tabs -->
+                                                            <div class="tabs">
+                                                                </div>
+                                                        <!-- EOF: #tabs -->
+
+                            <!-- #action links -->
+                                                        <!-- EOF: #action links -->
+
+                              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <article id="node-19" class="node node-page clearfix">
+
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h1>AMENDED AND RESTATED BYLAWS OF OPEN SOURCE INITIATIVE</h1>
+
+<h2>A California Nonprofit Public Benefit Corporation</h2>
+
+<h3 id="I">ARTICLE I NAME</h3>
+
+<p id="I.1">Section 1. <strong>NAME.</strong> The name of this corporation is Open Source Initiative.</p>
+
+<h3 id="II">ARTICLE II OFFICES</h3>
+
+<p id="II.1">Section 1. <strong>PRINCIPAL OFFICE.</strong> The principal office for the transaction of the activities and affairs of the corporation (principal office) is located at 702 Marshall Street, Suite 301, Redwood City, California 94063 in San Mateo County. The board of directors may change the principal office from one location to another. Any change of location of the principal office shall be noted by the secretary on these bylaws opposite this Section, or this Section may be amended to state the new location.
+</p>
+
+<p id="II.2">Section 2. <strong>OTHER OFFICES.</strong> The board may at any time establish branch or subordinate offices at any place or places where the corporation is qualified to conduct its activities.</p>
+
+<h3 id="III">ARTICLE III PURPOSES AND LIMITATIONS</h3>
+
+<p id="III.1">Section 1. <strong>GENERAL PURPOSES.</strong> This corporation is a nonprofit public benefit corporation and is not organized for the private
+gain of any person. It is organized under the Nonprofit Public Benefit Corporation Law for public educational purposes.</p>
+
+<p id="III.2">Section 2. <strong>SPECIFIC PURPOSES.</strong> Within the context of the general purposes stated above, this corporation shall: (1) educate the
+public about the advantages of open source software; (2) encourage the software community to participate in open source software development; (3) identify how software users’ objectives are best served through open source software; (4) persuade organizations and software authors to distribute source software freely they otherwise would not distribute; (5) provide resources for sharing information about open source software and licenses; (6) assist attorneys to craft open source licenses; (7) manage a program to allow use of one or more marks in association with open source software licenses; and (8) advocate for open source principles.
+</p>
+
+<p id="III.3">Section 3. <strong>LIMITATIONS.</strong> This corporation shall not, except to an insubstantial degree, engage in any activities or exercise any
+powers that are not in furtherance of the purposes of this corporation, and the corporation shall not carry on any other activities not permitted to be carried on (a) by a corporation exempt from federal income tax under Section 501(c)(3) of the Internal Revenue Code of 1954 or the corresponding provision of any future Unites States internal revenue law, or (b) by a corporation, contributions to which are deductible under Section 170(c)(2) of the Internal Revenue Code of 1954 or the corresponding provision of any future United States internal revenue law.  </p>
+
+<p>No substantial part of the activities of this corporation shall consist of carrying on propaganda, or otherwise attempting to influence legislation, and this corporation shall not participate in or intervene in (including publishing or distributing statements) any political campaign on behalf of any candidate for public office.  </p>
+
+<p>No part of the net earnings of this corporation shall inure to the benefit of any of its directors, trustees, officers, private shareholders or members, or to individuals.  </p>
+
+<p>On the winding up and dissolution of this corporation, after paying or adequately providing for the debts, obligations, and liabilities of the corporation, the remaining assets of this corporation shall be distributed to such organization (or organizations) organized and operated exclusively for educational purposes which has established its tax-exempt status under Section 501(c)(3) of the Internal Revenue Code of 1954 (or the corresponding provision of any future Unites States internal revenue law) and which has established its tax-exempt status under Section 23701d of the California Revenue and Taxation Code (or the corresponding provision of any future California revenue and tax law).  </p>
+
+<p>The corporation will distribute its income for each tax year at such time and in such manner as not to become subject to the tax on undistributed income imposed by Section 4942 of the Internal Revenue Code of 1954 or corresponding provisions of any later federal tax laws.</p>
+
+<p>The corporation will not engage in any act of self-dealing as defined in Section 4941(d) of the Internal Revenue Code of 1954, or corresponding provisions of any later federal tax laws.  </p>
+
+<p>The corporation will not retain any excess business holdings as defined in Section 4943(c) of the Internal Revenue Code of 1954, or corresponding provisions of any later federal tax laws.  </p>
+
+<p>The corporation will not make any investments in such manner as to subject it to tax under Section 4944 of the Internal Revenue Code of 1954, or corresponding provisions of any later federal tax laws.</p>
+
+<p>The corporation will not make any taxable expenditures as defined in Section 4945(d) of the Internal Revenue Code of 1954, or corresponding provisions of any later federal tax laws.  </p>
+
+<h3 id="IV">ARTICLE IV MEMBERS</h3>
+
+<p id="IV.1">Section 1. <strong>MEMBERSHIP.</strong> This corporation shall have no members. </p>
+
+<h3 id="V">ARTICLE V DIRECTORS</h3>
+
+<p id="V.1">Section 1. <strong>GENERAL CORPORATE POWERS.</strong> Subject to the provisions and limitations of the California Nonprofit Public Benefit
+Corporation law and any other applicable laws, the corporation’s activities and affairs shall be managed, and all corporate powers shall be exercised, by or under the direction of the board.  </p>
+
+<p id="V.2">Section 2. <strong>SPECIFIC POWERS.</strong> Without prejudice to the general powers set forth in Section 1 of this Article, but subject to the same limitations, the directors shall have the power to:</p>
+
+<ol><li>Appoint and remove, at the pleasure of the board, all the corporation’s officers, agents, and employees; prescribe powers and duties for them that are consistent with law, with the articles of incorporation, and with these bylaws; and fix their compensation and require from them security for faithful performance of their duties;</li>
+
+<li>Change the principal office or the principal business office in California from one location to another; and cause the corporation to be qualified to conduct its activities in any other state, territory, dependency, or country and conduct its activities within or outside California;</li>
+
+<li>Adopt and use a corporate seal; and alter the forms of the seal and certificates;</li>
+
+<li>Borrow money and incur indebtedness on behalf of the corporation and cause to be executed and delivered for the corporation’s purposes, in the corporate name, promissory notes, bonds, debentures, deeds of trust, mortgages, pledges, hypothecations, and other evidences of debt and securities.</li>
+
+</ol><p id="V.3">Section 3. <strong>AUTHORIZED NUMBER AND QUALIFICATIONS.</strong> The board of directors shall consist of at least 5 but no more than 21 directors until changed by amendment to these bylaws. The exact number of directors shall be fixed, within those limits, by a resolution adopted by the board of directors. Any member of the board, except an employee who is serving as a member of the board, who has served six consecutive years on the board will not be eligible for election to the board until one year has passed from the last day of such member’s term.</p>
+
+<p id="V.4">Section 4. <strong>RESTRICTION ON INTERESTED PERSONS AS DIRECTORS.</strong> No more than forty-nine percent (49%) of the persons
+serving on the board may be interested persons. An interested person is (a) any person compensated by the corporation for services rendered to it within the previous 12 months, whether as a full-time or part-time employee, independent contractor, or otherwise, excluding any reasonable compensation paid to a director as a director; and (b) any brother, sister, ancestor, descendant, spouse, brother-in-law, sister-in-law, son-in-law, daughter-in-law, mother-in-law, or father-in-law of such person. However, any violation of the provisions of this paragraph shall not affect the validity or enforceability of any transaction entered into by the corporation.  </p>
+
+<p id="V.5">Section 5. <strong>ELECTION, DESIGNATION, AND TERM OF OFFICE.</strong></p>
+
+<p>(a) Commencing with the term starting April 1, 2015, each director shall be designated by a resolution of the board as serving either a three year term or a two year term.  Except as provided below, the director shall serve until a successor has been elected by the board of directors. Thereafter, each successor director shall be elected by a majority of the board of directors. Each director, including a director elected or appointed to fill a vacancy, shall hold office until expiration of the term for which elected or appointed, and until a successor has been elected and qualified.</p>
+
+<p>(b) In the event of a director’s elected term having expired and two or more meetings of the Board or ninety (90) calendar days (whichever is less) having passed since the expiry of the director’s term without a new director having been elected, the term of such director shall be terminated. </p>
+
+<p>(c) A director may be removed from the Board at any time prior to the expiry of such director’s term for any reason by a vote of two thirds of the authorized members of the Board or if less than all of the authorized members of the Board have been elected, then a quorum of the elected Board members at two meetings of the Board, the second of which shall be more than forty five (45) days after the first Board meeting and for which a vote of a majority of the authorized members of the Board if less than all of the authorized members of the Board have been elected, then a quorum of the elected Board members at such second meeting of the Board . A director may be removed from the Board at any time prior to the expiry of such director’s term for cause as defined in a resolution of the Board by a vote of two thirds of the authorized members of the Board or if less than all of the authorized members of the Board have been elected, then a quorum of the elected Board members then elected at a single meeting of the Board. </p>
+
+<p id="V.6">Section 6. <strong>EVENTS CAUSING VACANCY.</strong> A vacancy or vacancies on the board shall exist on the occurrence of the following: (a)
+the death or resignation of any director, (b) the declaration by resolution of the board of a vacancy in the office of a director who has been declared of unsound mind by an order of court or convicted of a felony, or, if the corporation holds assets in charitable trust, has been found by a final order or judgment of any court to have breached a duty arising under Section 7238 of the California Corporations Code; (c) the increase of the authorized number of directors, or (d) a removal or resignation as provided in this Article.  </p>
+
+<p id="V.7">Section 7. <strong>RESIGNATIONS.</strong> Except as provided below, any director may resign by giving written notice to the chairman of the board, if any, or to the president or the secretary of the board. The resignation shall be effective when the notice is given unless it specifies a later time for the resignation to become effective. If a director’s resignation is effective at a later time, the board may elect a successor to take office when the resignation becomes effective. </p>
+
+<p id="V.8">Section 8. <strong>FILLING VACANCIES.</strong> Vacancies on the board may be filled by a majority of the directors then in office, whether or not less than a quorum, or by a sole remaining director.  </p>
+
+<p id="V.9">Section 9. <strong>NO VACANCY ON REDUCTION OF NUMBER OF DIRECTORS.</strong> No reduction of the authorized number of directors shall have the effect of removing any director before that director’s term of office expires.  </p>
+
+<p id="V.10">Section 10. <strong>PLACE OF DIRECTORS’ MEETINGS.</strong> Meetings of the board shall be held at any place within or outside California that has been designated by resolution of the board or in the notice of the meeting or, if not so designated, at the principal office of the corporation.  </p>
+
+<p id="V.11">Section 11. <strong>DIRECTORS’ MEETINGS BY TELEPHONE OR OTHER ELECTRONIC MEANS OF COMMUNICATION.</strong> Any meeting may be held by conference telephone or by other electronic means of communication, as long as all directors participating in the meeting can hear one another or read what each other is saying. All such directors shall be deemed to be present in person at such a meeting.  </p>
+
+<p id="V.12">Section 12. <strong>INITIAL DIRECTORS’ MEETING.</strong> The board shall hold a regular meeting for purposes of organization, election of officers, and the transaction of other business. Notice of this meeting is not required.  </p>
+
+<p id="V.13">Section 13. <strong>OTHER REGULAR MEETINGS.</strong> Other regular meetings of the board may be held without notice at such time and place as the board may fix from time to time.  </p>
+
+<p id="V.14">Section 14. <strong>AUTHORITY TO CALL SPECIAL MEETINGS.</strong> Special meetings of the board for any purpose may be called at any time by the chairman of the board, if any, the president or any vice president, or the secretary or any two directors.  </p>
+
+<p id="V.15">Section 15. <strong>MANNER OF GIVING NOTICE OF SPECIAL MEETINGS.</strong> Notice of the time and place of special meetings shall be given to each director by one of the following methods: (a) by personal delivery of written notice; (b) by first-class mail, postage prepaid; (c) by telephone, either directly to the director or to a person at the director’s office who would reasonably be expected to communicate that notice promptly to the director; (d) by telegram, charges prepaid; or (e) by electronic mail. All such notices shall be given or sent to the director’s address, telephone number, or electronic mail address as shown on the records of the corporation.  </p>
+
+<p>Section 16. <strong>TIME REQUIREMENTS FOR NOTICES OF SPECIAL MEETINGS.</strong> Notices of special meetings sent by first-class mail shall be deposited in the United States mails at least four days before the time set for the meeting. Notices given by personal delivery, telephone, telegraph or electronic mail shall be delivered, telephoned, given to the telegraph company, or transmitted by electronic mail at least 48 hours before the time set for the meeting.  </p>
+
+<p id="V.17">Section 17. <strong>CONTENTS OF NOTICES OF SPECIAL MEETINGS.</strong> The notice of a special meeting shall state the time of the meeting, and the place if the place is other than the principal office of the corporation. It need not specify the purpose of the meeting.  </p>
+
+<p id="V.18">Section 18. <strong>QUORUM FOR DIRECTORS’ MEETINGS.</strong> Four directors shall constitute a quorum for the transaction of business, except to adjourn; provided however if less than all of the authorized directors have been elected, no less than one fifth of the authorized number of directors or two (2) whichever is greater. Every action taken or decision made by a majority of the directors present at a duly held meeting at which a quorum is present shall be the act of the board, subject to the more stringent provisions of the California Nonprofit Public Benefit Corporation Law, including, without limitation, those provisions relating to (a) approval of contracts or transactions between the corporation and one or more directors or between the corporation and any entity in which a director has a material financial interest, (b) creation of and appointments to committees of the board, and (c) indemnification of directors. A meeting at which a quorum is initially present may continue to transact business, despite the withdrawal of directors, if any action taken or decision made is approved by at least a majority of the required quorum for that meeting.  </p>
+
+<p id="V.19">Section 19. <strong>WAIVER OF NOTICE OF DIRECTORS’ MEETING.</strong>
+Notice of a meeting need not be given to any director who, either before or
+after the meeting, signs a waiver of notice, a written consent to the
+holding of the meeting, or an approval of the minutes of the meeting.  The
+waiver of notice or consent need not specify the purpose of the meeting.
+All such waivers, consents, and approvals shall be filed with the corporate
+records or made a part of the minutes of the meetings. Notice of a meeting
+need not be given to any director who attends the meeting and does not
+protest, before or at the commencement of the meeting, the lack of notice
+to him or her.  </p>
+
+<p id="V.20">Section 20. <strong>ADJOURNMENT OF DIRECTORS’ MEETING.</strong> A
+majority of the directors present, whether or not a quorum is present, may
+adjourn any meeting to another time and place.  </p>
+
+<p id="V.21">Section 21. <strong>NOTICE OF ADJOURNED DIRECTORS’ MEETING.</strong>
+Notice of the time and place of holding an adjourned meeting need not be
+given unless the original meeting is adjourned for more than 24 hours. If
+the original meeting is adjourned for more than 24 hours, notice of any
+adjournment to another time and place shall be given, before the time of
+the adjourned meeting, to the directors who were not present at the time of
+the adjournment.  </p>
+
+<p id="V.22">Section 22. <strong>ACTION WITHOUT A DIRECTORS’ MEETING.</strong> Any
+action that the board is required or permitted to take may be taken without
+a meeting if all members of the board consent in writing to that action.
+Such action by written consent shall have the same force and effect as any
+other validly approved action of the board. All such consents shall be
+filed with the minutes of the proceedings of the board.  </p>
+
+<p id="V.23">Section 23. <strong>COMPENSATION AND REIMBURSEMENT OF
+DIRECTORS.</strong> Directors may receive such compensation, if any, for
+their services, and such reimbursement of expenses, as may be determined by
+board resolution to be just and reasonable as to the corporation at the
+time the resolution is adopted.  </p>
+
+<p id="V.24">Section 24. <strong>COMMITTEES OF THE BOARD.</strong> The board, by
+resolution adopted by a majority of the directors then in office, provided
+a quorum is present, may create one or more committees, each consisting of
+two or more directors, and no persons who are not directors, to serve at
+the pleasure of the board which shall be the voting members of the
+committee. The committee may have one or more members who are not
+directors; such committee members shall be either be (i) “advisory members”
+who shall not have any voting rights on the committee or (ii) voting
+members in which case the actions of the committee shall be advisory and
+need to be approved by the Board to be effective. Any such committee shall
+limit its activities to the accomplishment of the tasks for which it was
+appointed and shall have no power to act except as specifically conferred
+by action of the Board. Upon completion of the tasks for which created, a
+committee shall be discharged. Appointments to committees of the board
+shall be by majority vote of the authorized number of directors. The board
+may appoint one or more directors as alternate members of any such
+committee, who may replace any absent member at any meeting. Any such
+committee, to the extent provided in the board resolution, shall have all
+the authority of the board except that no committee, regardless of board
+resolution, may: </p>
+
+<ol><li>Fill vacancies on the board or on any committee that has the
+authority of the board;</li>
+
+<li>Fix compensation of the directors for serving on the board or
+on any committee;</li>
+
+<li>Amend or repeal bylaws or adopt new bylaws;</li>
+
+<li>Amend or repeal any board resolution that by its express terms
+is not so amendable or repealable;</li>
+
+<li>Create any other committees of the board or appoint the members
+of committees of the board;</li>
+
+<li>Expend corporate funds to support a nominee for director after
+more people have been nominated for director than can be elected; or</li>
+
+<li>With respect to any assets held in charitable trust, approve
+any contract or transaction between the corporation and one or more
+of its directors or between the corporation and an entity in which
+one or more of its directors have a material financial interest,
+subject to the special approval provisions of Section 5233(d)(3)
+of the California Corporations Code.</li>
+
+</ol><p id="V.25">Section 25. <strong>MEETINGS AND ACTION OF COMMITTEES OF THE
+BOARD.</strong> Meetings and actions of committees of the board shall be
+governed by, held, and taken in accordance with, the provisions of these
+bylaws concerning meetings and other board actions except that the time for
+regular meetings of such committees and calling of special meetings of such
+committees may be determined either by board resolution, or if there is
+none, by resolution of the committee. Minutes of each meting of any
+committee shall be kept and shall be filed with the corporate records. The
+board may adopt rules for the government of any committee that are
+consistent with these bylaws or, in the absence of rules adopted by the
+board, the committee may adopt such rules.  </p>
+
+<h3 id="VI">ARTICLE VI OFFICERS</h3>
+
+<p id="VI.1">Section 1. <strong>OFFICERS OF THE CORPORATION.</strong> The officers of
+the corporation shall be a president, a secretary, and a chief financial
+officer. The corporation may also have, at the board’s discretion, a
+chairman of the board, one or more vice presidents, one or more assistant
+secretaries, one or more assistant treasurers, and such other officers as
+may be appointed in accordance with Section 3 of this Article. Any number
+of offices may be held by the same person.  </p>
+
+<p id="VI.2">Section 2. <strong>ELECTION OF OFFICERS.</strong> The officers of the
+corporation, except those appointed under Section 3 of this Article, shall
+be chosen annually by the board and shall serve at the pleasure of the
+board, subject to the rights, if any, of any officer under any contract of
+employment.  </p>
+
+<p id="VI.3">Section 3. <strong>OTHER OFFICERS.</strong> The board may appoint and
+may authorize the chairman of the board, the president, or other officer to
+appoint any other officers that the corporation may require. Each officer
+so appointed shall have the title, hold office for the period, have the
+authority, and perform the duties specified in the bylaws or determined by
+the board.  </p>
+
+<p id="VI.4">Section 4. <strong>REMOVAL OF OFFICERS.</strong> Without prejudice to
+any rights of an officer under any contract of employment, an officer may
+be removed with or without cause by the board, and also, if the board did
+not choose the officer, by any officer on whom the board may confer that
+power of removal.  </p>
+
+<p id="VI.5"> Section 5. <strong>RESIGNATION OF OFFICERS.</strong> Any officer may
+resign at any time by giving written notice to the corporation. The
+resignation shall take effect as of the date the notice is received or at
+any later time specified in the notice and, unless otherwise specified in
+the notice, the resignation need not be accepted to be effective. Any
+resignation shall be without prejudice to the rights, if any, of the
+corporation under any contract to which the officer is a party.  </p>
+
+<p id="VI.6">Section 6. <strong>VACANCIES IN OFFICE.</strong> A vacancy in any office
+because of death, resignation, removal, disqualification, or any other
+cause shall be filled in the manner prescribed in these bylaws for regular
+appointments to that office, provided, however, that vacancies need not be
+filled on an annual basis.  </p>
+
+<p id="VI.7">Section 7. <strong>RESPONSIBILITIES OF THE CHAIRMAN OF THE
+BOARD.</strong> If a chairman of the board is elected, he or she shall
+preside at board meetings and shall exercise and perform such other powers
+and duties as the board may assign from time to time. If there is no
+president, the chairman of the board shall also be the chief executive
+officer and shall have the powers and duties prescribed by these bylaws for
+the president of the corporation.  </p>
+
+<p id="VI.8"> Section 8. <strong>RESPONSIBILITIES OF THE PRESIDENT.</strong> Subject
+to such supervisory powers as the board may give to the chairman of the
+board, if any, and subject to the control of the board, the president shall
+be the general manager of the corporation and shall supervise, direct, and
+control the corporation’s activities, affairs, and officers. In the absence
+of the chairman of the board, or if there is none, the president shall
+preside at all board meetings. The president shall have such other powers
+and duties as the board or bylaws may prescribe.  </p>
+
+<p id="VI.9"> Section 9. <strong>RESPONSIBILITIES OF VICE PRESIDENTS.</strong> In the
+absence or disability of the president, the vice presidents, if any, in
+order of their rank as fixed by the board or, if not ranked, a vice
+president designated by the board, shall perform all duties of the
+president. When so acting, a vice president shall have all powers of and be
+subject to all restrictions on the president. The vice presidents shall
+have such other powers and perform such other duties as the board or the
+bylaws may prescribe.  </p>
+
+<p id="VI.10"> Section 10. <strong>RESPONSIBILITIES OF THE SECRETARY; BOOK OF
+MINUTES.</strong> The secretary shall keep or cause to be kept, at the
+corporation’s principal office or such other place as the board may direct,
+a book of minutes of all meetings, proceedings, and actions of the board
+and of committees of the board. The minutes of meetings shall include the
+time and place of holding, whether the meeting was annual, regular, or
+special and, if special, how authorized, the notice given, and the names of
+those present at board and committee meetings. The secretary shall keep or
+cause to be kept, at the principal office in California, a copy of the
+articles of incorporation and bylaws, as amended to date.  </p>
+
+<p id="VI.11">Section 11. <strong>RESPONSIBILITIES OF THE SECRETARY; NOTICES, SEAL, AND
+OTHER DUTIES.</strong> The secretary shall give, or cause to be given,
+notice of all meetings of members, of the board, and of committees of the
+board required by these bylaws to be given. The secretary shall have such
+other powers and perform such other duties as the board or the bylaws may
+prescribe.  </p>
+
+<p id="VI.12">Section 12. <strong>RESPONSIBILITIES OF THE CHIEF FINANCIAL OFFICER;
+BOOKS OF ACCOUNT.</strong> The chief financial officer shall keep and
+maintain, or cause to be kept and maintained, adequate and correct books
+and accounts of the corporation’s properties and transactions. The chief
+financial officer shall send or cause to be given to the directors such
+financial statements and reports as are required by law, by these bylaws,
+or by the board to be given. The books of account shall be open to
+inspection by any director at all reasonable times.  </p>
+
+<p id="VI.13"> Section 13. <strong>RESPONSIBILITIES OF THE CHIEF FINANCIAL OFFICE;
+DEPOSIT AND DISBURSEMENT OF MONEY AND VALUABLES.</strong> The chief
+financial officer shall deposit, or cause to be deposited, all money and
+other valuables in the name and to the credit of the corporation with such
+depositories as the board may designate, shall disburse the corporation’s
+funds as the board may order, shall render to the president, chairman of
+the board, if any, and the board, when requested, an account of all
+transactions as chief financial officer and of the financial condition of
+the corporation, and shall have such other powers and perform such other
+duties as the board or the bylaws may prescribe.  </p>
+
+<p id="VI.14"> Section 14. <strong>RESPONSIBILITIES OF THE CHIEF FINANCIAL OFFICER;
+BOND.</strong> If required by the board, the chief financial officer shall
+give the corporation a bond in the amount and with the surety or sureties
+specified by the board for faithful performance of the duties of the office
+and for restoration the corporation of all its books, papers, vouchers,
+money, and other property of any kind in the possession or under the
+control of the chief financial officer on his or her death, resignation,
+retirement, or removal from office.  </p>
+
+<p id="VI.15"> Section 15. <strong>PROJECT MANAGEMENT COMMITTEES</strong>. In addition
+to the officers of the corporation, the Board of Directors may, by
+resolution, establish one or more Project Management Committees consisting
+of at least one officer of the corporation, who shall be designated
+chairman of such committee, and may include one or more other individuals
+as the Board or the chairman of the committee deems appropriate. Unless
+elected or appointed as an officer in accordance with Section 6.3 of these
+Bylaws, a member of a Project Management Committee shall not be deemed an
+officer of the corporation. All Project Management Committees shall be
+advisory in nature.  </p>
+
+<p>Each Project Management Committee shall be responsible for the active
+management of one or more projects identified by resolution of the Board of
+Directors which may include, without limitation, activities furthering the
+purposes of the Corporation as defined in Section 3.2 of these Bylaws.
+Subject to the direction of the Board of Directors, the chairman of each
+Project Management Committee shall be primarily responsible for project(s)
+managed by such committee, and he or she shall establish rules and
+procedures for the day to day management of project(s) for which the
+committee is responsible.  </p>
+
+<p>The Board of Directors of the corporation may, by resolution, terminate
+a Project Management Committee at any time.</p>
+
+<h3 id="VII">ARTICLE VII INDEMNIFICATION</h3>
+
+<p id="VII.1">Section 1. <strong>RIGHT OF INDEMNITY.</strong> To the fullest extent
+permitted by law, this corporation shall indemnify its directors, officers,
+employees, and other persons described in Section 7237(a) of the California
+Corporations Code, including persons formerly occupying any such position,
+against all expenses, judgments, fines, settlements, and other amounts
+actually and reasonably incurred by them in connection with any
+“proceeding,” as that term is used in that Section, and including any
+action by or in the right of the corporation, by reason of the fact that
+the person is or was a person described in that Section. “Expenses,” as
+used in this bylaw, shall have the same meaning as in Section 7237(a) of
+the California Corporations Code.  </p>
+
+<p id="VII.2"> Section 2. <strong>APPROVAL OF INDEMNITY.</strong> On written request
+to the board by any person seeking indemnification under Section 7237(b) or
+Section 7237(c) of the California Corporations Code, the board shall
+promptly determine under Section 7327(e) of the California Corporations
+Code whether the applicable standard of conduct set forth in Section
+7237(b) or Section 7237(c) has been met and, if so, the board shall
+authorize indemnification.  </p>
+
+<p id="VII.3"> Section 3. <strong>ADVANCEMENT OF EXPENSES.</strong> To the fullest
+extent permitted by law and except as otherwise determined by the board in
+a specific instance, expenses incurred by a person seeking indemnification
+under Sections 17 and 18 of this Article in defending any proceeding
+covered by those Sections shall be advanced by the corporation before final
+disposition of the proceeding, on receipt by the corporation of an
+undertaking by or on behalf of that person that the advance will be repaid
+unless it is ultimately determined that the person is entitled to be
+indemnified by the corporation for those expenses.  </p>
+
+<h3 id="VIII">ARTICLE VIII INSURANCE</h3>
+
+<p id="VIII.1">Section 1. <strong>INSURANCE.</strong> The corporation shall have the
+right to purchase and maintain insurance to the full extent permitted by
+law on behalf of its officers, directors, employees, and other agents,
+against any liability asserted against or incurred by any officer,
+director, employee, or agent in such capacity or arising out of the
+officer’s, director’s, employee’s, or agent’s status as such.  </p>
+
+<h3 id="IX">ARTICLE IX RECORDS AND REPORTS</h3>
+
+<p id="IX.1"> Section 1. <strong>MAINTENANCE OF CORPORATE RECORDS.</strong> The
+corporation shall keep: (1) adequate and correct books and records of
+account; and (2) written minutes of the proceedings of its board and
+committees of the board.  </p>
+
+<p id="IX.2"> Section 2. <strong>MAINTENANCE AND INSPECTION OF ARTICLES AND
+BYLAWS.</strong> The corporation shall keep at its principal office, or if
+its principal office is not in California, at its principal business office
+in this state, the original or a copy of the articles of incorporation and
+bylaws, as amended to date, which shall be open to inspection by the
+directors at all reasonable times during office hours.  </p>
+
+<p id="IX.3"> Section 3. <strong>INSPECTION BY DIRECTORS.</strong> Every director
+shall have the absolute right at any reasonable time to inspect the
+corporation’s books, records, documents of every kind, physical properties,
+and the records of each of its subsidiaries. The inspection may be made in
+person or by the director’s agent or attorney. The right of inspection
+includes the right to copy and make extracts of documents.  </p>
+
+<p id="IX.4"> Section 4. <strong>ANNUAL REPORT.</strong> </p>
+
+<ol><li>An annual report shall be prepared within 120 days after the end of the
+corporation’s fiscal year. That report shall contain the following
+information in appropriate detail:
+
+<ol><li>A balance sheet as of the end of the fiscal year, and an income
+statement and statement of changes in financial position for the fiscal
+year, accompanied by any report on them by independent accounts, or, if
+there is no such report, by the certificate of an authorized officer of the
+corporation that they were prepared without audit from the books and
+records of the corporation.</li>
+
+<li>Any information that is required by Section 7 of this Article.</li>
+
+</ol></li>
+
+<li>This Section shall not apply if the corporation receives less than
+$10,000 in gross revenues or receipts during the fiscal year.</li> </ol><p id="IX.5">Section 5. <strong>ANNUAL STATEMENT OF CERTAIN TRANSACTIONS AND
+INDEMNIFICATIONS.</strong> As part of the annual report, or as a separate
+document if no annual report is issued, the corporation shall annually
+prepare and furnish to each director a statement of any transaction or
+indemnification of the following kind within 120 days after the end of the
+corporation’s fiscal year: </p>
+
+<ol><li>Any transaction (i) in which the corporation, its parent, or its
+subsidiary was a party, (ii) in which an “interested person” had a direct
+or indirect material financial interest, and (iii) which involved more than
+$50,000, or was one of a number of transactions with the same interested
+person involving, in the aggregate, more than $50,000. For this purpose, an
+“interested person” is either of the following:
+
+<ol><li>Any director or officer of the corporation, its parent, or subsidiary
+(but mere common directorship shall not be considered such an interest);
+or</li>
+
+<li>Any holder of more than 10 percent of the voting power of the
+corporation, its parent, or its subsidiary. The statement shall include a
+brief description of the transaction, the names of interested persons
+involved, their relationship to the corporation, the nature of their
+interest in the transaction and, if practicable, the amount of that
+interest, provided that if the transaction was with a partnership in which
+the interested person is a partner, only the interest of the partnership
+need be stated.  </li>
+
+</ol></li>
+
+<li>A brief description of the amounts and circumstances of any loans,
+guaranties, indemnifications, or advances aggregating more than $10,000
+paid during the fiscal year to any officer or director of the corporation
+under Article 8 of these bylaws, unless the loan, guaranty,
+indemnification, or advance is not subject to the provisions of subdivision
+(a) of Section 7235(a) of that Code.</li>
+
+</ol><h3 id="X">ARTICLE X CONSTRUCTION AND DEFINITIONS</h3>
+
+<p id="X.1"> Section 1. <strong>CONSTRUCTION AND DEFINITIONS.</strong> Unless the
+context requires otherwise, the general provisions, rules of construction,
+and definitions in the California Nonprofit Public Benefit Corporation Law
+shall govern the construction of these bylaws.  Without limiting the
+generality of the preceding sentence, the masculine gender includes the
+feminine and neuter, the singular includes the plural and the plural
+includes the singular, and the term “person” includes both a legal entity
+and a natural person.  </p>
+
+<h3 id="XI">ARTICLE XI AMENDMENTS</h3>
+
+<p id="XI.1"> Section 1. <strong>LIMITATION ON AMENDMENT BY BOARD.</strong> Subject
+to the limitations set forth below, the board may adopt, amend, or repeal
+bylaws. The board may not extend the term of a director beyond that for
+which the director was elected.  </p>
+
+<p id="XI.2"> Section 2. <strong>HIGH VOTE REQUIREMENT.</strong> If any provision of
+these bylaws requires the vote of a larger proportion of the board than is
+otherwise required by law, that provision may not be altered, amended, or
+repealed except by that greater vote.  </p>
+
+<h3>CERTIFICATE OF SECRETARY</h3>
+
+<p> I certify that I, Patrick Masson, am the duly elected and acting Secretary of Open Source Initiative, a California nonprofit public benefit corporation, that the above bylaws, consisting of 12 pages, are the bylaws of this corporation as adopted by the board of directors on November 6th, 2011, and that they have not been amended or modified since that date.  </p>
+
+<p>Executed on December 4th, 2013 at San Francisco, California,</p>
+
+<p><img src="https://web.archive.org/web/20210920062419im_/http://opensource.org/files/MassonSig.png" width="200"/></p>
+
+<p>Patrick Masson<br/>
+Secretary</p>
+
+</div></div></div>  </div>
+    
+     
+
+  
+</article>  </div>
+</div>
+  </div>
+                            
+                        </div>
+                        <!-- EOF:#content-wrapper -->
+
+                    </div>
+                    <!-- EOF:#main -->
+
+                </section>
+
+                        
+            </div>
+
+        </div>
+    </div>
+    <!-- EOF:#main-content -->
+
+    
+</div>
+<!-- EOF:#page -->
+
+
+<footer id="subfooter" class="clearfix">
+    <div class="container">
+        
+        <!-- #subfooter-inside -->
+        <div id="subfooter-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- #subfooter-left -->
+                    <div class="subfooter-area">
+                                            
+
+                                          <div class="region region-footer">
+    <div id="block-block-11" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <div class="filler" style="vertical-align: middle; display: inline-block;">
+<p style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><a href="https://web.archive.org/web/20210920062419/https://twitter.com/OpenSourceOrg" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210920062419im_/https://opensource.org/files/twitterlogo.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210920062419/https://www.linkedin.com/company/open-source-initiative-osi-" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210920062419im_/https://opensource.org/files/linkedin.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210920062419/http://wiki.opensource.org/" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210920062419im_/https://opensource.org/files/xwikilogo.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a> <a href="https://web.archive.org/web/20210920062419/http://creativecommons.org/licenses/by/4.0/" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;"><img alt="" src="/web/20210920062419im_/https://opensource.org/files/ccby.png" style="margin: 0pt auto; display: table-cell; text-align: center; vertical-align: middle;" width="50"/></a></p>
+</div>
+
+<p> </p>
+
+<div class="license" style="vertical-align: middle; display: inline-block;">
+<p>Sign-up for our <a href="newsletter/signup">newsletter</a>!</p>
+
+<p>The content on this website, of which Opensource.org is the author, is licensed under a <a href="https://web.archive.org/web/20210920062419/http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.<br/>
+Opensource.org is not the author of any of the licenses reproduced on this site. Questions about the copyright in a license should be directed to the license steward.</p>
+
+<p>Hosting for Opensource.org is generously provided by <a href="https://web.archive.org/web/20210920062419/https://www.digitalocean.com/">DigitalOcean</a>. Please see <a href="/web/20210920062419/https://opensource.org/ToS">Terms of Service</a>.<br/><span style="font-size:10px;">For questions regarding the OSI website and contents pleasee <a href="https://web.archive.org/web/20210920062419/mailto:webmaster@lists.opensource.org?subject=OSI%20website%20comment">email our webmaster</a>.</span></p>
+</div>
+
+<p> </p>
+  </div>
+</div>
+<div id="block-block-7" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <script src="https://web.archive.org/web/20210920062419js_/https://www.google-analytics.com/urchin.js" type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+
+//--><!]]>
+</script><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+_uacct = "UA-3916956-1";
+urchinTracker();
+
+//--><!]]>
+</script>  </div>
+</div>
+  </div>
+                    
+                    </div>
+                    <!-- EOF: #subfooter-left -->
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #subfooter-inside -->
+    
+    </div>
+</footer>
+<!-- EOF:#subfooter -->
+  </body>
+</html><!--
+     FILE ARCHIVED ON 06:24:19 Sep 20, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:26:33 Feb 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 99.127
+  exclusion.robots: 0.118
+  exclusion.robots.policy: 0.102
+  cdx.remote: 0.093
+  esindex: 0.011
+  LoadShardBlock: 56.1 (3)
+  PetaboxLoader3.datanode: 67.855 (4)
+  load_resource: 72.952
+  PetaboxLoader3.resolve: 34.915
+-->
